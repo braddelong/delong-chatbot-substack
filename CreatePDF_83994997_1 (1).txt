@@ -1,0 +1,313 @@
+Subscribe now
+
+CONDITION: In Which I Am Relatively Quiet Todaya€!
+
+A bunch of things for ya€™ all to read, most of which I have not yet fully processeda€!
+Share
+
+One Audio: Money & Crypto:
+
+Tracy Alloway, Sam Bankman-Fried, Matt Levine, & Joe Weisenthal: How to Make Money in Crypto 
+chttps://overcast.fm/+5 AWMdOFdo
+
+Transcript Excerpts:
+
+Transcript: Sam Bankman-Fried and Matt Levine on How to Make Money in Crypto
+By Tracy Alloway and Joe Weisenthal
+
+April 25,2022 at 11:24 AM PDT
+
+Matt: Can you give me an intuitive understanding of farming? I mean, like to me, farming is like 
+you sell some structured puts and collect premium, but
+perhaps there's a more sophisticated understanding than that.
+
+SBF: Let me give you sort of like a really toy model of it, which I actually think has a surprising 
+amount of legitimacy for what farming could mean. A
+
+company... builds a box.... They dress it up to look like a... world-altering protocol that's gonna 
+replace all the big banks in 38 days.... You. take
+
+Ethereum... put it in the box... and... get... an IOU.... Then this protocol issues... X token. 
+[that] promises that anything cool that happens because of this
+
+box is going to... be usable by... governance vote of holders of the X tokens.... So far we 
+haven't. given a compelling reason for why there ever would be
+
+any [thing cool]... but... maybe there will be....
+
+Each day they're gonna airdrop... 1% of the X token pro rata amongst everyone who's put money in 
+the box.... X token. gets given away to the box
+
+people.... X token has some market cap, right? It's probably not zero. Let say it's... $20 million. 
+I acknowledge that it's not totally clear that this thing
+
+should have market cap, but empirically I claim it would....
+
+So... X tokens [are] being given out each day.... Sophisticated firms are... "Huh, that's 
+interesting.... If the  money in the box is a hundred million dollars,
+
+then it's going to yield $16 million this year in X tokens.... That's pretty good. We'll put a 
+little bit more in.". Maybe that happens until there are $200
+
+million dollars in the box.... Sophisticated traders... Crypto Twitter or other [s]... put $200 
+million in the box... and... start getting... X tokens....
+
+Now... everyone's.... "This is a valuable box as demonstrated by all the money that people have 
+apparently decided should be in the box. I love boxes as
+
+much as the next guy."... People are... recalibrating.... It's been... 48 hours and it already is 
+$200 million, including from... sophisticated players. They
+
+look at these ratios... [of] total value locked in the box... to [the] market cap of the boxa€™ s 
+token.... "lOx that's insane. IX is the norm.". X token price
+
+goes way up.... Now it's $130 million market cap token because of... the bullishness of people's 
+usage of the box.... Now... the smart money's. "Wow, this
+
+thing's... yielding... 60% a year in X tokens. So they go and pour another $300 million in the 
+box." And you get a psych and then it goes to infinity. And
+
+then everyone makes money.
+
+Matt: I think of myself as like a fairly cynical person. And that was so much more cynical than how 
+I would've described farming. You're just like, well,
+I'm in the Ponzi business and it's pretty good.
+
+Joe: At no point did any of this require any sort of... economic case. Ita€™ s just. "other people 
+put money in the box, and so I'm going to too", and then
+
+it's more valuable.... t no point in the cycle, did it... describe aAy... economic purpose?...
+
+SBF: I'll stay on the cynical route.... What's the end game? This box is worth zero, obviously.... 
+But... if everyone. now thinks that this box token is
+
+worth... a billion... that's what people are pricing it at and... [it] has that market cap. You put 
+X token in a borrow-lending protocol and borrow dollars
+
+with it. If you think it's worth like less than two thirds of that, you could even just like put 
+some in there, take the dollars out. If the world never decides
+
+that we are wrong... in... a coordinated way... you're... the guy... saying, "no, this thing's 
+actually worthless", but in what sense are you right?....
+
+Tracy: Are you saying that the value has to derive from everyone agreeing that it's worth 
+something?. There have been these different arguments about
+
+how it actually gets value. Everyone's gonna start migrating stuff on blockchain, and then you're 
+gonna have a real economic use attached to these
+
+assets.... But are you saying that it depends more on everyone just agreeing that these are worth 
+something?...
+
+SBF: It could come... from either. You can... get a market cap... because of cash flow.... Or you 
+could... get market cap in the way that. Doge coin or SHIB
+
+coin have, where people are just... a€~ha haa€™ and then they buy it. And if you're. "that's dumb, 
+it has no cashflow flow, I'm gonna short sell it" you
+
+lose all your money.... AMC or Hertz or GameStop or meme stocks in general have... a very similar 
+pattern. Maybe people will pay something for it even
+
+though it doesn't seem traditionally valuablea€”[that] is not a crypto-specific concept. Although 
+it certainly has become likea€!.
+
+SBF: I was being a little facetious, although I do think it's...an important way to understand part 
+of what's going on. It's not really the case that the biggest
+
+of these claim to be a box that is nothing but a box. They claim to be a bit more than that. You 
+can query how much you believe the story that their value
+
+at its heart is coming from them being more than just a box, but people certainly perceive them to 
+be more than that  Maybe it's gonna be like the
+
+preeminent DEX... maybe it's gonna be the preeminent borrow-lending protocol on chain.... This... 
+starts out as just this. side show to the bigger story of
+
+we're gonna change the world with the protocol.... Now, sometimes that sideshow becomes the main 
+show.... Sometimes. in the end what really happens is
+
+that like the box plus yield nature of it becomes more popular than the original use case....
+
+Joe: How big is the farming industry?... How big is this... ecosystem and how sophisticated are the 
+trades... beyond just. simple crude a€~put money in
+
+the boxa€™?...
+
+SBF: Rough ballparking.... Total value locked on chain... maybe a hundred billion.... Yields are 
+certainly down a fair bit. We might be talking $5 billion a
+
+year that sort of like traders are making from farming....
+
+Joe: What's your take on the rise of either algorithmic or partially algorithmic partially backed 
+stable coins. One of the most interesting phenomenon
+happening right now is the rise of Luna and UST, and Luna has this Treasury Reserve consisting of a 
+lot of Bitcoin, which seems a little dicey, but some
+people say any idea of like an algorithmically-backed stable coin is a perpetual motion machine. 
+It's only a matter of time before it fails. Do you believe
+there can be like a truly sort of like decentralized stable coin? What do you make of these 
+projects?
+
+SBF: I think they're really cool. I do have some sympathy to the perpetual motion machine crowd 
+here.... If you do zoom out... and. say, this is a stable
+
+coin, backed by volatile assets, what's gonna happen in a big market move. The goal isn't for 
+someone to sit there and hold it for five years, the goal is for
+
+it to be used briefly for like transactions on chain and get created and redeemed on chain.... 
+Answers like that can make sense. I think there's  versions of
+
+a€~algorithmic stablecoinsa€™ that do have risk. but that also have massively enhanced yield 
+because they're taking that risk on in order to do a trade
+
+that makes money effectively....
+
+Joe: I'm... curious.... What are the different approaches... that either institutional money or 
+quasi-sort of like VC money has taken to. find the next big
+
+thing? How do like people know?...
+
+SBF: I want to... zoom out. How do VCs find the next anything that they're gonna invest in, right? 
+Like how do they find the next company they're gonna
+
+invest in?... When you break it down... you get a bizarre process... that does not look like the 
+paragon of efficient markets.... They. see what all their
+
+
+friends are chattering about, and they start FOMOing and then their LPs are like, "yo, have you 
+made us a lot of money off of this company or token
+yet?"... "No, we haven't invested in it"... is not a good answer given what question your LPs just 
+asked. So instead you're... "oh boy, you're gonna be excited
+about what we have done and/or will do." And then you find a way to get into that token and/or 
+company.  It's bizarre processes like that ultimately that
+
+are like shaping VC's investments in both traditional equities and in cryptocurrencies....
+
+Joe: Tracy, I loved that. The highlight was definitely Sam's description of yield farming that even 
+a sort of crypto cynica€!
+
+Tracy: As a magic box that you put money into and more money comes out?
+
+Joe: And even Matt Levine was like, I would've never described it this way because I thought it 
+would be too cynical.
+
+Tracy: Yeah. I don't really know what to say about that. This idea of like the value either coming 
+from actual economics and use cases versus everyone
+
+just agreeing.... Everyone just agreeing something is valuable. Sometimes it works. The fact that 
+it's been working for so long certainly has surprised
+
+many people myself included....
+
+Joe: That's the thing. This is ridiculous. This is a perpetual motion machine. And yet here we are 
+in 2022 and the industrya€™ s still going.
+
+Tracy: Yeah, the machine's still going.
+
+Joe: So the way DeFi works is: you put in a money in a box that you think more people will put 
+money into. And the way VC works is: you hear what
+
+your friends in the industry are investing in based on 2027 numbers. And then you also wanna get on 
+that. So it's really just FOMO all the way down.
+
+Tracy: The other thing I would say.... Momentum trading is not... entirely unknown in finance.  t 
+has been a very profitable strategy, arguably, since 2008
+
+and the finance crisis. I don't know how to feel about it. I feel weird
+
+Joe: We all feel weird.
+
+Share Brad DeLong's Grasping Reality
+
+Must-Read: I Confess I Did Not Expect to Learn Azt U.C. Berkeley Was Seriously Long FTX:
+
+Jake Curtis: Welcome to Cal's FTX Field, a Naming-Rights Deal Funded by Cryptocurrency: a€~Former 
+Golden Bears walk-on football player is the Chief Operating Officer of
+the company partnering with Cal on landmark 10-year deal: Cal announced on Monday that it has 
+reached agreement on the first-ever collegiate cryptocurrency naming-rights
+sponsorship, a 10-year, $17.5 million deal that will be paid in full in cryptocurrency, with the 
+result being that the Golden Bearsa€™ football field will now be known as FTX Field
+at California Memorial Stadium. So, Cal fans, welcome to FTX Field for the Bearsa€™ Sept. 4 opener 
+against Nevada, knowing the name is paid for by virtual currency. An
+interesting note to this story is that the head of FTX (Sina Nader) was a walk-on football player 
+at Cal two decades ago. The deal will also include on-field branding and branding
+on  athletics press backdrops and social integration and will initiate a community-service platform 
+that will support philanthropic causesa€!
+
+Leave a comment
+
+Very Briefly Noted:
+
+• Max Kennerly: My uncle was innocent !a€!
+
+Max Kennerly @MaxKennerly
+
+My uncle was innocent! https://t.co/9QXp883L3a
+10:38 PM^ Feb 18,2019
+
+125Likes6Retweets
+
+• Dan Primack: Sequoia Capital tells investors it did proper due diligence on FTXa€!
+
+• Ed Luce: Joe Biden is still Donald Trumpa€™ s worst nightmare read: a€~The fact that the red wave 
+became a red ripple suggests the anger of Americaa€™ s voters
+does not equate to recklessnessa€!
+
+•  Kate Clark: FTXa€™ s Bankman-Fried Quietly Invested More than $500 Million in Sequoia and Other 
+VCs: a€~Bankman-Fried was not only a tireless fundraiser
+from venture capital firms including Paradigm and Sequoia Capital, but also quietly made 
+investments in those same fundsa€! how entangled Silicon Valley VC firms
+are in Bankman-Frieda€™ s collapsing crypto empirea€l
+
+• FRBNY: Underlying Inflation Gauge (UIG)a€!
+
+• Diane Coyle: The end of growth: a€~When I ask DeLong what he thought of the pandemic, his answer 
+is: a€oeWell, it was better than the Black Death.a€D There is
+some humour among the bleakness. But the challenge of solving our economic problems is immense. My 
+conversation with DeLong, like his book, was enjoyable but
+hardly comfortinga€!
+
+• Bobby Ghost: Republicans May Not Be Able to Stop Bidena€™ s Agenda: a€~With a 
+narrower-than-expected House majority, speaker-in-waiting Kevin McCarthy
+will have to manage the GOPa€™ s far-right factiona€!
+
+•  George Steer: J.P. Morgan's "Transitory" Intransigence: a€~Opining on the data as if the past 12 
+months (and boss Jamie Dimona€™ s hawkish April letter to
+shareholders) were all just a bad dreama€!. a€oeThe October report supports the idea that we are 
+moving past the firmest period for inflation and that a decent amount
+of    the inflation we have seen over the past year will prove to be temporary or transitory in 
+naturea€Da€!E ven so, economist Brad DeLong writes that Team Transitory
+would be looking a€oepretty good right nowa€D were it not for RussiaaC™ s invasion of Ukrainea€!
+
+• Anton Howe: The Beacons are Lit!a€!
+Give a gift subscription
+
+
+AJs:
+
+Matt Levine: FTX Is Still Looking for Money: a€~The obvious questiona€! is: Is it a liquidity 
+problem, or a solvency problem?a€! A nice clean distinction in theory but very hard
+to see in practice. For one thing, if a financial firm is facing a liquidity crisis, ita€™ s 
+usually because people are worried about solvencya€L Still the distinction matters. Roughly it
+comes down to: If someone gave you enough time to sell all your assets a€” whatever that means 
+exactly a€” would you be able to sell them for enough money to cover your
+
+debts? If the answer is yes, then you have a liquidity crisis, and someone can probably fix ita€L 
+There is a long history of scams and Ponzis in crypto, so if you have a liquidity
+problem everyone is going to assume that you are running a scam or a Ponzia€!. One thing to 
+consider is that if FTX is solvent, and Binance has the opportunity to buy it for $0,
+then thata€™ s in Binancea€™ s best interestsa€i. If Binance walks away, it mostly gets contagion, 
+as crypto prices fall and customers lose confidence in the whole industry.
+
+Binance had some incentives to conclude that FTX is solvent, but it couldna€™ t get therea€!
+Get 50% off a group subscription
+
+Donate Subscriptions
+
+Read null in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Leave a comment
+Subscribe now
+

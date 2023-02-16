@@ -1,0 +1,955 @@
+<https://www.bradford-delong.com/2013/05/brad-delong-1997-the-corporation-as-a-command-economy.html>
+
+
+
+Introduction:
+
+Most of us spend more than one-third of our waking lives working for large, modern corporations: 
+organizations where we do not know personally either those at the top or the bulk of those at the 
+bottom of the organization's administrative hierarchy. This is a striking change from two centuries 
+ago, when a productive organization of more than thirty was unusual, and one of more than three 
+hundred an extreme oddity.
+
+Why do so many of us work for large modern corporations? And what impact does working for large 
+modern corporations have on our lives? The second is much too broad a question, and is moreover a 
+question that I—a narrow-minded professional economist—feel unqualified to address. So I am going 
+to focus on the economic side of the modern corporation. I am not going discuss the political or 
+sociological or ethical implications of large modern corporations.
+I am not going to discuss their historical development, or the contrasts between different 
+countries' styles of corporate life.
+
+I am going to focus on the issues of corporate control. A corporation is a hierarchical 
+organization. It has a boss—today the he (almost always a he) called the CEO, whose theoretical 
+power is autocratic throughout the scope of the corporation, and subject only to the periodic 
+continued approval of the Board of Directors and the annual meeting of the shareholders. But we 
+were all told, back when the Soviet Union collapsed, that hierarchical organizations simply
+did not work as modes of organizing economic lifea€”that you needed a market in order to achieve 
+anything better than low-productivity, bureaucracy-ridden economic stagnation.
+
+What, then, are all these large corporationsa€”ATT and IBM, General Motors and Toyota, Microsoft 
+and USXa€”doing? What methods of corporate control have saved them from turning into smaller 
+versions of the unproductive Soviet economy?
+
+That our economy is populated by large corporations shapes how we live. Our social being cannot but 
+be shaped by the one-third of our waking lives spent at work. Our politics would be very different 
+without corporations both as sources of pressure an influence on politicians and as intermediaries 
+serving the purposes of politicians. It should not be surprising that the continued existence and, 
+indeed, economic dominance of large corporations is due to a number
+of different forces. Very, very few things in this world have a single cause. The corporation 
+flourishes because it is useful to (and thus favored by) the government, because we have a set of 
+institutions to govern corporations that greatly limit the power of the forces that destroyed the 
+Soviet planned economy, because our technology requires increasingly fine coordination of different 
+aspects of the production process, and because our corporations are embedded in
+a market economy that imposes a substantial amount of competitive pressure on corporations. Even 
+small lapses relative to its competitors in a corporation's efficiency as a productive organization 
+can destroy the corporation as a profit-making organization—and corporations that are not 
+profit-making organizations do not survive, but as long as there are other competing corporations 
+their failure gives their competitors space to grow.
+
+The balance among these four factors is next to impossible to assess. But all are strong and 
+growing stronger. The past two centuries have seen the growth of the modern corporation from next 
+to nothing to its present size and strength. There are no signs that the next century will see the 
+modern corporation as an institution shrink.
+
+A Market Economy?
+
+Our economy is a market economy: on that everyone agrees. What economists call the "price 
+mechanism" controls the allocation of labor, the production of goods and services, and the 
+distribution of commodities. Wherever demand is higher lower than supply for some particular 
+product prices fall, and some of those making or supplying it head off for other lines of business; 
+whenever supply is higher lower than demand prices rise, and new producers and
+sellers enter the market. To have a market economy is by and large a good thing: the price 
+mechanism acts as a gigantic social calculating machine to organize our economy and to direct the 
+division of labor and the allocation of production: an invisible hand, as it were (Smith, 1776; P. 
+423).
+
+It is a commonplace that any society that aspires to be even a half-good society must allocate 
+labor to different branches of industry and organize production through the market system: there is 
+no other realistic option. The collapse of the Soviet Union was the result not of its moral or 
+political failures (although those were great) but of its economic failures: the inability of its 
+Communist Party-run centrally-planned and heavily-industrialized economy to deliver
+even the standard of living of Mexico or Malaysia. Levels of labor productivity east of the Iron 
+Curtain were less than a quarter and probably only a tenth those of similarly-situated neighboring 
+countries lucky enough to avoid Communist rule. Thus Communism's collapse has brought about 
+near-universal agreement that the central planning-oriented alternative to the market economy was 
+simply unworkable (for anything other than mobilization for a relatively
+short war) (Ericson, 1991).
+
+If history is—as Marx and Engels (1848) believed—about struggles over systems of economic 
+arrangements, then we have indeed reached at least a temporary end of history (Fukuyama, 1992).
+
+But do we really live in a market economy? When we look at the pattern of economic transactions in 
+our modern market economy, the striking thing is how large a proportion of transactions do not pass 
+through anything like a market. In any given year more than three out of every four workers do not 
+go on the labor market: they keep working for the same organization that they had worked for the 
+prevous year, doing much the same thing, at much the same
+wage. When they do change jobs, they are at least as likely to change jobs within the same 
+organization as to get bid away by another offering them a higher wage (or fired by the first as 
+not worth their pay). Within the production side of the economy, the overwhelming proportion of 
+movements of goods and the provision of services takes place within a single corporation: one 
+branch or division providing something of value to another branch or division, with
+no money changing hands. Microsoft's application developers do not sell their products to its 
+marketing division. Different branches do not bid for and buy the daily services of the 
+corporation's top managers. Within each of the corporations in our economy there exists not the 
+spontaneous division of labor produced in an unplanned fashion by the invisible hand of the market, 
+but a planned and organized division of labor.
+
+To get an idea of the size of the segments of economic activity not planned and coordinated by the 
+market system but guided and directed by the managerial hierarchies of modern
+
+corporations, consider General Motors. General Motors is still the largest American industrial 
+corporation. It has 710,000 employees. It has total annual sales of some $169 billion: more than 
+one half of one percent of the total world's economic product. The recorded net value of its plant 
+and equipment is some $220 billion. And its total profits in a good year (like this on) exceed $7 
+billion a year. Only nineteen nations in the world today have an gross domestic
+product larger than GM's total sales. Considered as an economic unit, the piece of the world's 
+economy strucured and coordinated by General Motors is roughly one-third the size of Canada.
+
+General Motors is one of the biggest of a large extended family of mammoth modern corporations. Go 
+down Fortune magazine's "Global 500" list. The last U.S .-headquartered corporation on the list is 
+ITT Industriesa€’’formerly International Telephone and Telegraph. It is perhaps one-twentieth the 
+size of General Motors. But its annual sales are some $9 billion, and it employs some 30,000 
+people. The total annual sales of the world's 500 largest corporations
+are some $11.4 trillion—compared to roughly $8 trillion for the annual Gross Domestic Product of 
+the United States.
+
+There is a sense in which these large modern corporations do indeed live in the market economy: the 
+prices at which they buy materials and sell goods are to a large degree those that balance supply 
+against demand. They are set to match the marginal resource cost of the last unit of any commodity 
+produced to the utilitarian benefit to its consumer. And when large corporations negotiate with one 
+another, the terms and conditions they agree on are reached in the
+context of the threat to break off negotiations and buy what is needed on the open market if the 
+trading partner does not provide a good enough deal. The transactions by which a corporation buys 
+materials and supplies from and sells products to the outside world are "market" transactions 
+(Williamson, 1981). But there is a strong sense in which we do not live completely in this market 
+economy. As consumers we do. But as producers and employees, many of us
+live in an economy that is better thought of as a corporate economy: an economy in which patterns 
+of economic activity are organized by the hands of bosses and managers, rather than a one in which 
+the pattern of activity emerges unplanned by any other than the market's invisible hand.
+
+It has long been obvious that management and the planned divisions of labor within the enterprise 
+for it to manage play an important role in what are called market economies. We can see management 
+at work even in Adam Smith's (1776) Wealth of Nations, which has for more than two centuries 
+provided intellectual foundations for the market economy. Adam Smith begins his book by extolling 
+the benefits of a finely-divided and highly-productive division of
+labor. And the example of a high-productivity division of labor that Adam Smith gives is of a 
+pin-making factory, in which:
+
+one man draws out the wire, another straightens it, a third cuts it, a fourth points it, a fifth 
+grinds it at the top for receiving the head; to make the head requires two or three distinct 
+operations; to put it on, is a peculiar business, to whiten the pins is another; it is even a trade 
+by itself to put them into the paper; and the important business of making a pin is, in this 
+manner, divided into about eighteen distinct occupations...
+
+And one boss hires the workers, sets them their tasks, designs the workflow, and watches over all. 
+The productivity benefits of the division of labor are there, but they are there because the owner 
+of the pin factory planned them. In Adam Smith's day it was a large enterprise that employed more 
+than 200 people. Today General Motors employs 700,000. The past two centuries have seen a more than 
+thousand-fold multiplication of the power of what Alfred
+Chandler (1977) called The Visible Hand of corporate management as the planner, director, and 
+organizer of the pieces of the economy.
+
+Productive Efficiency
+
+It is natural to look at the fall of the Soviet economy alongside the continuing flourishing of 
+mammoth corporations and to be puzzled. Just what is going on here?. General Motors' total sales 
+amount to forty percent of Russia's total national product: roughly all of the civilian economy in 
+the 1980s. Didn't the fall of Communism prove that central planning simply does not work as a way 
+of organizing economic activity? Yet isn't the internal division of labor
+within General Motors (or Adam Smith's pin factory) a planned division of labor? Doesn't the 
+internal economic organization of General Motors look a lot like the internal economic organization 
+of the Soviet Union? So how does General Motors survive and make $7 billion in annual profits? How 
+can the organization of large pieces of the economy through management be a success when their 
+organization through planning is such a failure? So how is it that our
+modern, large corporations are efficient production and distribution organizations? What mechanisms 
+keep them from the fate of ever-rising bureaucracy, ever-increasing inefficiency, and technological 
+stagnation that overcame the Soviet Union?
+
+This is the problem of corporate control.
+
+People have proposed four answers: they have appealed to industrial evolution; to economies of 
+coordination; to the success of the mechanisms of corporate governance; and to the government's 
+desire to support the modern corporation as an intermediary that it can use for its own purposes.
+
+Industrial Evolution
+
+Sixty years ago Ronald Coase (1960) gave an answer to those who wondered how it could be that our 
+economy with its large corporations was still relatively efficient at organizing production: he 
+appealed to economic evolutiona€”that through evolutionary processes the market economy would 
+generate efficient productive organizations, and so the large corporations that had been produced 
+by the market economy were efficient.
+
+Suppose a firm was too small to be an efficient producer in its line of business. Then, Coase 
+argued, it would go out of business: either it would be so inefficient as to keep losing money, and 
+so go bankrupt, or sooner or later some financier would scent the profits to be earned by merging 
+it into a larger firm that could realize the economies of efficient scale (see Alchian and Demsetz, 
+1972). Suppose, on the other hand, that a firm was too large to be an efficient
+producer in its line of business. It would tend to shrink: its low profits (or losses) would make 
+it difficult for it to find funds to keep its capital from depreciating. Some financier might scent 
+the profits to be earned by breaking it up into smaller, more nimble competitive pieces.
+
+Thus, Coase argued, a market economy that (like ours) contains large corporations must contain 
+efficient large corporations: otherwise they would have been eliminated by the market's competitive 
+forces long ago.
+
+From one perspective this is dangerously close to a tautology, like the mythical biologist who 
+claimed that the population of a species grew because of its evolutionary fitness, and that the 
+thing that proved that the species was evolutionarily fit was that its population grew. Coase 
+essentially tells us that those large corporations that have survived in our economy have largely 
+escaped the process of bureaucratization and ossification that doomed the Soviet
+economy. But we knew that already: we wanted to know why. From a second perspective, however, the 
+evolutionary argument does give a piece of the answer.
+
+In the Soviet Union nothing bad happened to an inefficient industry, or an unproductive factory. 
+Perhaps there were episodes of blame-pointing, plans for reform, and turnover of selected managers, 
+but the organization's deficit would be covered by the central government and people would continue 
+to go to work. By contrast, in our economy very bad things threaten to happen to large 
+corporations. In the automobile industry both Chrysler and General Motors
+approached the edge of destruction in the late 1970s and early 1980s, respectively. Apple Computer 
+is now unlikely to survive its current crisis. One in ten of Fortune's 500 largest non-financial 
+corporations lost money last year: after they had sold their products, there was not enough for 
+them to pay their suppliers and workers, and so they had to dip into their capital.
+
+The discipline that market competition exercises over corporation actions appears to be fierce and 
+severe from inside all but the luckiest corporations. Every manager is aware that a series of 
+lapses that has only a small damaging impact on a corporation considered as a productive 
+organization will nevertheless have a large damaging impact on the corporation considered as a 
+profit making organization. Shareholders and financiers have little patience with
+businesses that do not make profits: better to take their resources and turn them over to a 
+corporation and a managerial organization that can make a profit. So corporations that are unable 
+to make profits do not survive. They rarely go through formal bankruptcy and liquidation, but they 
+often go through informal bankruptcy and partial liquidation. They are almost always swallowed up 
+by other corporations, with much of their productive resources shut down and
+abandoned and the rest added onto a different organization.
+
+In any set of organizations, some will be good and some will be lousy. In the Soviet economy 
+getting rid of a lousy productive organization was a very big deal, requiring a mammoth political 
+fight and the making of many enemies for the future, so there was little tendency for the sun to 
+set on factories and industries that were not doing well. This is the core of truth in the 
+"industrial evolution" argument: a properly functioning market economy enforces "sunset"
+on unproductive corporations. Moreover, the threat that five unprofitable years mean the 
+disappearance of the corporation raises the goal of increasing productivity to a priority much 
+higher than in the Soviet Union.
+
+Economies of Coordination
+
+
+A second answer to tne question ot wnat Keeps modern American corporations under control—wnat Keeps 
+tnem trom succumbing to tne deatn spiral ot bureaucratization and metnciency seen in tne tormer 
+soviet union—is to appeal to economies ot scale and ot coordination, mere are times and places in 
+wnicn tne marKet is a better social calculating mecnamsm tor directing tne division ot labor tnan a 
+bureaucratic nierarcny; and mere are times and places wnen a
+
+planned division of labor is better. Our corporate economy allows large hierarchical organizations 
+to fill those niches in which planning is appropriate, and is thus preferable to alternatives that 
+either leave no role for the market or no role for large organizations.
+
+Economists believe that a a centrally-planned and administratively-allocated organization of 
+production is likely to be most efficient when the costs of failing to produce the exact right 
+amount of a commodity are high (Weitzman, 1974). If you have made twenty-two V-8 engines, you had 
+better have ordered twenty steering wheels from your supplier. If when you go to the market you 
+find that you can buy only twenty steering wheels, your production of the
+twenty-first and twenty-second V-8 engines was a waste of effort. Thus the large corporation has 
+its place wherever the waste from failing to exactly coordinate the quantities produced is 
+relatively large. It may not be necessary to have such exact coordination.
+
+In much of the economy substitutes for a good are common, alternatives are available, and 
+efficiency is best pursued by trying to match the value of the last unit of the product produced to 
+its cost in terms of resources. But whenever the cost of producing one too few is large, and the 
+value of the one too many that is produced is zero, then administrative coordination of production 
+is very valuable indeed.
+
+Corporate Governance
+
+The third answer is that modern corporations are efficient because they are by and large 
+well-governed: the mechanisms that are supposed to keep corporations focused on reducing costs and 
+improving quality so as to make profits by and large work. These mechanisms of corporate governance 
+are a peculiar combination of formal, legal duties and processes with less formal modes of 
+operation in the financial markets. The Legal Structure Begin with the law. In
+law, the Chief Executive Officera€”the CEO—of a corporation is not its boss. The CEO is, himself 
+(and in large corporations it is almost always a himself), simply another somewhat special employee 
+of a corporation. In law the real corporation is made up of the stockholders: they are the "body," 
+the "corpus." They have assembled, committed their money to entering this joint business together 
+(or bought stock from those who committed their money to this joint
+business), and hired employees to conduct the details of the business while the shareholders attend 
+to the reast of their affairs. Once a year at the corporation's annual meeting its members—the 
+shareholders—gather (or send in their proxies). They review the progress of the business. They 
+periodically choose through election (one share-one vote) the principal employees to manage the 
+business: the CEO andafew more. They also choose a Boardof Directors to
+meet periodically to watch over how the business is conducted, to consult with and review the 
+decisions of the CEO, and to exercise some of the shareholders' collective powers of ownership 
+until the next annual meeting.
+
+Subject to the power of the stockholders and the Board of Directors to remove him, the CEO of a 
+corporation has extremely broad discretion. The corporation has suppliers, workers, executives and 
+customers. It has informal agreements with them about how business will be conducted. It has 
+contracts with them, which are the corporation's formal promises of what it is going to do and how 
+it is going to do it. If the corporation breaks its contracts, it will have to
+settle with the aggrieved party on pain of being dragged through the courts. But the CEO is the 
+boss. He can break the corporation's contractual obligations when he feels it appropriate. And 
+where explicit contracts do not tie his hands, the short-run power of the CEO is nearly absolute. 
+Workers and managers are employed at will: except as restrained by labor-management agreements, the 
+CEO and those to whom he delegates his power can fire workers on whim,
+for no reason at all. Except as guaranteed by explicit contract, the claims of suppliers who have 
+dealt with the corporation for decades are only as strong as the CEO wishes. Long-time customers 
+have no right to the continued availability of the goods they are accustomed to buy if the CEO 
+thinks things should be otherwise.
+
+Thus the legal structure of a modern corporation grants the CEO (and those to whom he delegates 
+managerial authority) extraordinary autocratic power. This power is confined to the economic 
+sphere: they decide who has a job with the corporation and who does not, and what the corporation 
+makes and what it does not. But within the economic sphere modern tools of administration and 
+communicationmake their power lookstronger than thatof the most
+absolute monarchs.
+
+This power is checked and governed by the fact that the CEO is, ultimately, simply another employee 
+of the corporation. The owners are the shareholders (usually working through their representatives, 
+the members of the Board of Directors), who exercise their control through one-share one-vote 
+majority-rule democracy.
+
+Theory and Practice
+
+However, there is in this case a larger than usual gap between the legal theory and actual business 
+practice (see Allen, 1992). First, it is next to impossible for shareholders to spontaneously rise 
+up at the annual meeting as one and to dismiss the CEO. A typical company will have at least as 
+many shareholders as employees once you take account of the ultimate ownership interests of those 
+who have their money in mutual or pension funds that own shares of the
+corporation. This diversity of ownership helps to limit risk: widespread diversification is the way 
+to make investment portfolios safer, and thus better for the investor. But such widespread 
+diversification makes collective action by shareholders through the legal mechanisms of 
+"shareholder democracy" very difficult. Exercise of shareholders' formal powers of ownership 
+through votes at the annual meeting is overwhelmingly difficult because very few of the
+shareholders have a significant stake at risk in any one particular corporation. It is hard to 
+become an informed voter: it takes a lot of time and thought to sift and evaluate alternative 
+proposals for the future direction of the corporation. Few of us are satisfied with the turnout and 
+the level of engagement of America's voters in political elections. And in politics all of the 
+emotional resonance of patriotism is deployed on the side of becoming an informed voter,
+going to the polls, and casting one's ballot. Things are infinitely worse in corporate elections, 
+where voting is not a duty of a good citizen and where information about the costs and benefits of 
+alternative leaders and courses of action is difficult to assemble.
+
+So when you look at turnout in corporate elections, it is low. Most of those who bother to vote 
+have simply sent in their proxies authorizing whatever course of action was proposed by the CEO. 
+Thus many of the members of Boards of Directors are in practice be candidates proposed by the 
+CEO—people who know that they owe him a favor for getting them this particular well-paid part-time 
+job. Organizing a shareholder democracy campaign—a proxy fighta€”
+against the existing management is expensive and unlikely to succeed.
+
+Adolph Berle and Gardiner Means (1932) pointed out nearly two-thirds of a century ago that 
+shareholder democracy simply did not work: that political democracy is a so-so mechanism for 
+exercising political control, and that corporate shareholder democracy worked considerably less 
+well because of the absence of the emotional force of patriotism. Their Modern Corporation and 
+Private Property argued that the top managers of modern corporations had
+become "entrenched": they made up a self-reproducing oligarchy that could choose its own 
+successors, could not be dislodged from control, and administer the corporation in their own 
+interest—not in the interest of shareholder profitability or economic efficiency.
+
+In the past generation it has become more and more clear that Berle and Means overstated their 
+case. They were correct in claiming that shareholder democracy did not work in practice as the 
+formal legal doctrines envisioned. But they were wrong in claiming that the self-reproducing 
+oligarchy of top managers had become so entrenched as to have effectively turned the corporation 
+into their own property. So what are the—alternative—mechanisms that control
+corporations' CEOs practice? The first and most important such mechanism is peer pressure. It is 
+not much fun to be CEO of a money-losing corporation. A higher salary or more perquisites of office 
+does not repair the psychic injury: there is a point beyond which a higher salary is valued not 
+because of the things it can buy but because it announces that you are a winner, but no one thinks 
+that the highly-paid CEO of a money-losing corporation is a winner.
+
+Because success in the games CEOs play with and among themselves is defined by a large positive 
+bottom line, they would continue to chase economic efficiency and cost reduction even if they were 
+a completely insulated self-reproducing oligarchy.
+
+Voting-with-the-Feet and Corporate Takeovers
+
+The second such mechanism is that shareholder democracy has a small amount of life in it. Although 
+it is next to impossible to organize tens of thousands of small shareholders into a majority 
+coalition to unseat the existing managers, it is very possible for one—very large—shareholder who 
+owns a majority of shares to use the folmal procedures of corporate governance to replace the 
+managers. When will such a single majorityshareholderappear?When the price
+of the stock is cheap enough to make the profits from such a corporate takeover worth the risk. 
+Thus the votes of individual shareholders matter, but the votes that matter are not ballots cast 
+for an annual meeting but instead the votes-with-the-feet made when shareholders exit the 
+corporation: when they lose confidence, sell their shares, and push down the corporation's stock 
+price (see Hirschman, 1970).
+
+Thus when individual shareholders lose confidence in a corporation's management, they sell their 
+shares. And at some point the price drops low enough that a group of financiers who think they can 
+do a better job buy up shares, and offer to buy up more until the achieve a majority and take 
+control of the corporation. This market for corporate control works, and works well enough to 
+terrify the managers of America'scorporations. Todayyouarc more likely to
+hear—especially from CEO's who seek discretion to invest in long-term projects that they claim 
+would be good for the corporation as an on-going entity—that our system forces top managers to pay 
+more managerial attention than is healthy to shareholder views and desires.
+
+It is still not completely clear what the wave of corporate takeovers that America has seen in the 
+past two decades actually did to the economy. (I) Some argue that it was largely a device for 
+merging competitors with one another, and that the profits earned through the takeover boom were 
+either the benefits of realizing growing economies of scale or achieving greater monopoly power 
+(see Bhagat, Shleifer, and Vishny, 1990). (II) Others see it as little more than a
+wave of financial manipulation to (successfully) reduce corporations' income tax bills (see Blair, 
+1995). (Ill) Still others see the takeover boom's replacement of one group of managers by another 
+as a way to break a corporation's implicit and explicit promises on salary levels and operating 
+procedures to its workers and suppliers (see Shleifer and Summers, 1989). (IV) And others see the 
+wave of takeovers and threatened takeovers as a genuine improvement in
+
+the way in which the market system disciplines executives who take their eyes off of the bottom 
+line (see Jensen, 1989).
+
+The most judicious (and probably the most correct) view is that of Steven Kaplan and Jeremy Stein 
+(1993), who see (IV) as the most important element in the takeover battles of the early 1980s, and 
+increasing elements of the other threea€”along with simple speculative excess caused by Wall 
+Street's herd mentality leading it into deals that did not make financial sense—as the decade of 
+the 1980s drew to its close. Fifteen years ago it was fashionable to hold up
+the Japanese corporation as an example, to say that its managers regarded shareholders as only one 
+stakeholder interest among many, and to say that the Japanese corporation was a superior 
+organization and the wave of the future. Now it is fashionable to praise the American form of 
+organization, with an active market for corporate control and with strong pressure on managers to 
+do whatever they can to boost stock prices now.
+
+If there is anything certain, it is that fifteen years hence some other organizational twist on the 
+corporate form will be fashionable in its place, and discussion will focus around the flaws of 
+existing American (as well as Japanese) institutions of practical corporate governance. But in the 
+meanwhile it is important to recognize that CEOsa€”for all their near-autocratic power to fire 
+workers by the tens of thousands, close lines of business, and shift the strategic
+direction of their corporations—see themselves as tightly constrained, and with surprisingly little 
+freedom to act otherwise. What looks to us like near-absolute and near-untramelled power looks to 
+them like tight discipline enforced not just from the market for corporate controla€”the takeover 
+game—but from other markets as well.
+
+For most workers in most years (and for nearly all customers, and for most suppliers), there is 
+another corporation that they could work for, buy from, or sell to located just down the street. 
+Labor unions are weaker now than they have been at any time in the past sixty years. Nevertheless a 
+modern
+
+corporation must treat its workers at least as well as their perceived alternative employment, or 
+they will walk. A company that is contracting has some but limited power to demand that its 
+employees accept lower wages and harder working conditions. A company that is expanding must pay 
+prevailing market or above market wages, or it simply will not expand. Moreover the fact that a CEO 
+can command does not mean that other employees will obey.
+Instructions can be given, but they need to be obeyed enthusiastically by others for them to mean 
+anything.
+
+CEOs have tools to win the enthusiasm of their subordinates: the rhetoric of shared accomplishment 
+of action and vision; the carrots of promotions, salary increases, and bonuses; the sticks of 
+demotion and dismissal. But even with these tools, managing a large bureaucratic organization is a 
+difficult task. And changing its direction away from that of mere business-as-usual requires great 
+skill and luck.
+
+The Government and the Corporation
+
+Still a fourth reason for the flourishing of the modern corporation is that the government finds 
+the large corporation very valuable. Thus all kinds of benefitsa€”from the limited exposure to 
+liability of those who commit their equity capital to the corporation, to the fact that 
+corporations that pay their employees in the coin of social insurance benefits do so tax-free, to 
+the fact that corporations realize economies of scale in dealing with the government and its
+paperwork (whether the IRS or the MA)—give the modern large corporation a government-sponsored 
+competitive edge. The corporation in America is valuable to the government because it can be called 
+upon to do more than its own private purely economic tasks. From the perspective of the modern 
+government, the corporation is the government's principal tax collector. The corporation collects 
+the government's income and sales taxes for it. Withholding for
+income taxes and point-of-sale collection for sales taxes make the paying of taxes largely 
+automatic. The government would have an infinitely more difficult time collecting anything if it 
+had to deal with each individual for his or her entire tax bill either for income or for sales 
+taxes.
+
+Indeed, there is no one that the Internal Revenue Service fears more than the independent 
+contractor: the person who does not work for a corporation, and with whom the government must deal 
+directly in order to collect taxes. So the IRS tries as hard as it can to force independent 
+contractors into being someone's employees. It desperately wants collecting, withholding, and 
+monitoring compliance with the tax law can be their employers' job—and not the IRS's.
+
+The corporation provides an increasingly large share of social insurance benefitsa€’’largely at the 
+government's behest. Large majorities of Americans and their politicians believe—at least after the 
+end of political advertising campaigns—that American citizens ought to have social insurance 
+services and benefits: health insurance, dental insurance, pension benefits, and so forth. But 
+large majorities of Americans and politicians also fear—at least after the end of
+political advertising campaigns—big government: for most politicians, proposing to socialize 
+medicine or proposing large increases in social security taxes is a quick ticket out of one's 
+office in the Capitol or the White House and into a better-paying but much lower-status job, 
+arguing that oil companies are overtaxed or that Bengalis are selling an unhealthily large amount 
+of textiles to U.S. customers.
+
+So how can politicians and voters both have big government-like social insurance programs without 
+having big government? By inducing or ordering corporations to provide them. Pensions? The 
+government promises to reduce the total taxes paid by corporations and by workers by roughly 
+thirty-three cents for every dollar that corporations and workers shift out of current wages and 
+into invested funds to provide post-retirement benefits. Health? The
+government offers the same deal: if corporations and workers will shift two dollars out of current 
+wages and into purchasing health insurance for the workers' families, the government will 
+contribute a third dollar by reducing the total taxes paid. It is no surprise that corporations 
+have responded. Even the paperwork they must fill out to deal with the government is not a heavy 
+burden for a large corporation, for the paperwork is highly repetitious.
+
+So more than eight out of ten of those with health insurance who are not covered by the 
+government's Medicare and Medicaid programs receive their insurance through their employers.
+
+Thus our modern social insurance state is to a large degree a corporate social insurance state: the 
+corporation is the intermediary that delivers the benefits that the government believes citizens 
+ought to have to its employees. Such a corporate social insurance state does not work very well. 
+What good is employer-sponsored health insurance if you have no employer? What if your employer is 
+a small corporation, and does not take the bait the government has set
+because the tax subsidy the government offers insufficient to cover the administrative burden of 
+becoming the government's local social insurance agent?
+
+Conclusion
+
+In the past century and a half large corporations—business organizations in which those at the top 
+do not personally know those at the bottom of the hierarchy at all—have grown from exceptional 
+oddities into extremely visible and widespread economic institutions. How have corporations managed 
+to grow and survive in view of the obvious economic inefficiencies of bureaucratic and hierarchical 
+organizations^’’inefficiencies of which we are now very
+conscious because of the fall of the Soviet Union? People have proposed four answers: they grow 
+because those that are inefficient died and disappeared; they grow because the increasing 
+complexity of technology has created more and more places where the benefits of planned 
+coordination outweigh the inflexibilities of bureaucratic hierarchy; they grow because over the 
+past century and a half we have hit on modes of corporate organization that are actually
+quite good at providing pressures for cost reduction and efficient production; and they grow 
+because the government needs them—could not function without using them as intermediaries^’’and so 
+rewards large corporations and punishes other forms of organization in subtle ways.
+
+All four of these are surelv somewhat correct.
+
+
+wave ot tinancial manipulation to (successfully) reduce corporations' income tax bills (see Blair, 
+1995). (Ill) Still others see the takeover boom's replacement ot one group oi managers by another 
+as a way to break a corporation's implicit and explicit promises on salary levels and operating 
+procedures to its workers and suppliers (see Shleiter and Summers, 1989). (IV) And others see the 
+wave ot takeovers and threatened takeovers as a genuine improvement in
+
+the way in which the market system disciplines executives who take their eyes off of the bottom 
+line (see Jensen, 1989).
+
+The most judicious (and probably the most correct) view is that of Steven Kaplan and Jeremy Stein 
+(1993), who see (IV) as the most important element in the takeover battles of the early 1980s, and 
+increasing elements of the other threea€”along with simple speculative excess caused by Wall 
+Street's herd mentality leading it into deals that did not make financial sense—as the decade of 
+the 1980s drew to its close. Fifteen years ago it was fashionable to hold up
+the Japanese corporation as an example, to say that its managers regarded shareholders as only one 
+stakeholder interest among many, and to say that the Japanese corporation was a superior 
+organization and the wave of the future. Now it is fashionable to praise the American form of 
+organization, with an active market for corporate control and with strong pressure on managers to 
+do whatever they can to boost stock prices now.
+
+If there is anything certain, it is that fifteen years hence some other organizational twist on the 
+corporate form will be fashionable in its place, and discussion will focus around the flaws of 
+existing American (as well as Japanese) institutions of practical corporate governance. But in the 
+meanwhile it is important to recognize that CEOsa€”for all their near-autocratic power to fire 
+workers by the tens of thousands, close lines of business, and shift the strategic
+direction of their corporations—see themselves as tightly constrained, and with surprisingly little 
+freedom to act otherwise. What looks to us like near-absolute and near-untramelled power looks to 
+them like tight discipline enforced not just from the market for corporate controla€”the takeover 
+game—but from other markets as well.
+
+For most workers in most years (and for nearly all customers, and for most suppliers), there is 
+another corporation that they could work for, buy from, or sell to located just down the street. 
+Labor unions are weaker now than they have been at any time in the past sixty years. Nevertheless a 
+modern
+
+corporation must treat its workers at least as well as their perceived alternative employment, or 
+they will walk. A company that is contracting has some but limited power to demand that its 
+employees accept lower wages and harder working conditions. A company that is expanding must pay 
+prevailing market or above market wages, or it simply will not expand. Moreover the fact that a CEO 
+can command does not mean that other employees will obey.
+Instructions can be given, but they need to be obeyed enthusiastically by others for them to mean 
+anything.
+
+CEOs have tools to win the enthusiasm of their subordinates: the rhetoric of shared accomplishment 
+of action and vision; the carrots of promotions, salary increases, and bonuses; the sticks of 
+demotion and dismissal. But even with these tools, managing a large bureaucratic organization is a 
+difficult task. And changing its direction away from that of mere business-as-usual requires great 
+skill and luck.
+
+The Government and the Corporation
+
+Still a fourth reason for the flourishing of the modern corporation is that the government finds 
+the large corporation very valuable. Thus all kinds of benefitsa€”from the limited exposure to 
+liability of those who commit their equity capital to the corporation, to the fact that 
+corporations that pay their employees in the coin of social insurance benefits do so tax-free, to 
+the fact that corporations realize economies of scale in dealing with the government and its
+paperwork (whether the IRS or the MA)—give the modern large corporation a government-sponsored 
+competitive edge. The corporation in America is valuable to the government because it can be called 
+upon to do more than its own private purely economic tasks. From the perspective of the modern 
+government, the corporation is the government's principal tax collector. The corporation collects 
+the government's income and sales taxes for it. Withholding for
+income taxes and point-of-sale collection for sales taxes make the paying of taxes largely 
+automatic. The government would have an infinitely more difficult time collecting anything if it 
+had to deal with each individual for his or her entire tax bill either for income or for sales 
+taxes.
+
+Indeed, there is no one that the Internal Revenue Service fears more than the independent 
+contractor: the person who does not work for a corporation, and with whom the government must deal 
+directly in order to collect taxes. So the IRS tries as hard as it can to force independent 
+contractors into being someone's employees. It desperately wants collecting, withholding, and 
+monitoring compliance with the tax law can be their employers' job—and not the IRS's.
+
+The corporation provides an increasingly large share of social insurance benefitsa€’’largely at the 
+government's behest. Large majorities of Americans and their politicians believe—at least after the 
+end of political advertising campaigns—that American citizens ought to have social insurance 
+services and benefits: health insurance, dental insurance, pension benefits, and so forth. But 
+large majorities of Americans and politicians also fear—at least after the end of
+political advertising campaigns—big government: for most politicians, proposing to socialize 
+medicine or proposing large increases in social security taxes is a quick ticket out of one's 
+office in the Capitol or the White House and into a better-paying but much lower-status job, 
+arguing that oil companies are overtaxed or that Bengalis are selling an unhealthily large amount 
+of textiles to U.S. customers.
+
+So how can politicians and voters both have big government-like social insurance programs without 
+having big government? By inducing or ordering corporations to provide them. Pensions? The 
+government promises to reduce the total taxes paid by corporations and by workers by roughly 
+thirty-three cents for every dollar that corporations and workers shift out of current wages and 
+into invested funds to provide post-retirement benefits. Health? The
+government offers the same deal: if corporations and workers will shift two dollars out of current 
+wages and into purchasing health insurance for the workers' families, the government will 
+contribute a third dollar by reducing the total taxes paid. It is no surprise that corporations 
+have responded. Even the paperwork they must fill out to deal with the government is not a heavy 
+burden for a large corporation, for the paperwork is highly repetitious.
+
+So more than eight out of ten of those with health insurance who are not covered by the 
+government's Medicare and Medicaid programs receive their insurance through their employers.
+
+Thus our modern social insurance state is to a large degree a corporate social insurance state: the 
+corporation is the intermediary that delivers the benefits that the government believes citizens 
+ought to have to its employees. Such a corporate social insurance state does not work very well. 
+What good is employer-sponsored health insurance if you have no employer? What if your employer is 
+a small corporation, and does not take the bait the government has set
+because the tax subsidy the government offers insufficient to cover the administrative burden of 
+becoming the government's local social insurance agent?
+
+Conclusion
+
+In the past century and a half large corporations—business organizations in which those at the top 
+do not personally know those at the bottom of the hierarchy at all—have grown from exceptional 
+oddities into extremely visible and widespread economic institutions. How have corporations managed 
+to grow and survive in view of the obvious economic inefficiencies of bureaucratic and hierarchical 
+organizations^’’inefficiencies of which we are now very
+conscious because of the fall of the Soviet Union? People have proposed four answers: they grow 
+because those that are inefficient died and disappeared; they grow because the increasing 
+complexity of technology has created more and more places where the benefits of planned 
+coordination outweigh the inflexibilities of bureaucratic hierarchy; they grow because over the 
+past century and a half we have hit on modes of corporate organization that are actually
+quite good at providing pressures for cost reduction and efficient production; and they grow 
+because the government needs them—could not function without using them as intermediaries^’’and so 
+rewards large corporations and punishes other forms of organization in subtle ways.
+
+All four of these are surely somewhat correct.
+
+Deciding how important each is is next to impossible. We cannot rerun history with different forms 
+of financial and legal organization to see how much of the growth in corporations is the result of 
+improved forms of organization, or with different technologies that provide different economies of 
+coordination. We can, however, note that all of the pressures continue to be on the side of an 
+expanded role for the large corporation. The social insurance state will
+continue to need the corporation as an intermediary. The evolution of financial and commodity 
+markets is in the direction of increased market discipline and international competition. 
+Technologies grow more sophisticated and complex. Individual corporations will grow and shrink. The 
+very, very largest may turn out to have positive or negative synergies and increase or decrease 
+their own shares. But the modern corporation will be here for a long time to come.
+And the presence of the modern corporation will affect how we live along many dimensions, for the 
+corporation is not just a private economic entity. Consider the corporation as collector of taxes 
+and dispenser of benefits.
+
+It is hard to imagine our modern government without the corporation as its agent. Before the rise 
+of the corporation governments would strain their tax-collecting capacities to the breaking point 
+to lay their hands on even fifteen percent of national income through excise taxes, real estate 
+taxes, window taxes, luxury taxes, and trade taxes. Today industrial country governments collect up 
+to three times as much without producing clear and visible reductions in rates
+of economic growth. Or consider the corporation as a sociological entity: a place where you see 
+your friends, engage in your status games, and first learn and then express your culture: what it 
+is that your kind of people like to do. Your workplace is more than a third of your waking life. To 
+lose or to change one's job is an event of much more importance than deciding to go to a different 
+grocery store because you like its loss leaders.
+
+Economists want to treat the two as the same: a change of where you sell your labor analogous to a 
+change of where you buy your groceries. Sociologists point out that when you change your grocery 
+store you do not change a large part of your circle of friends (and enemies) as well. But they have 
+done little more than note a potentially unhealthy tension between an employment relationship that 
+on the individual's side becomes invested with a large share of the
+individual's identity and that on the corporation's side remains a matter of the bottom line.
+
+The modern corporation has drifted far indeed from its origins, when it was a way for the king to 
+create a collective identity for merchants and their townsa€”those who were neither lord, knight, 
+peasant, priest, or monk—so that they could be fitted into the feudal system.
+
+References
+
+Armen Alchian and Harold Demsetz (1972), "Production, Information Costs, and Economic 
+Organization," American Economic Review 62 (December): pp. 777-95.
+William Allen (1992), "Our Schizophrenic Conception of the Business Corporation," Cardozo Law 
+Review 14 (2): pp 621-81.
+
+Adolf Berle and Gardiner Means (1932), The Modern Corporation and Private Property (New York: 
+Commerce Clearing House).
+
+Sanjay Bhagat, Andrei Shleifer, and Robert Vishny (1990), "Hostile Takeovers in the 1980s," 
+Brookings Papers on Economic Activity: Microeconomics 1990: pp. 1-72.
+Margaret Blair (1995), Ownership and Control: Rethinking Corporate Governance for the Twenty-First 
+Century (Washington, D.C.: Brookings Institution).
+
+Alfred Chandler (1977), The Visible Hand (Cambridge: Harvard University Press). Ronald Coase 
+(1960), "The Problem of Social Cost," in Ronald Coase, The firm, the Market, and the Law (Chicago: 
+University of Chicago Press, 1988), pp. 95-156.
+Richard Ericson (1991), "The Classical Soviet-Type Economy", Journal of Economic Perspectives5:4 
+(Fall), pp. 11-27.
+
+Francis Fukuyama (1992), The End of History and the Last Man (New York: Free Press).
+
+Michael Jensen (1989), The Eclipse of the Public Corporation," Harvard Business Review 67 
+(October): pp. 323-9.
+
+Steven Kaplan and Jeremy Stein (1993), "The Evolution of Buyout Pricing and Financial Structure in 
+the 1990s," Quarterly Journal of Economics 108 (May): pp. 313-57.
+Karl Marx and Friedrich Engels (1848), Manifesto of the Communist Party (New York: International 
+Publishers, 1971).
+
+Mark Roe (1991), "A Political Theory of American Corporate Finance," Columbia Law Review 91 
+(January): pp. 10-67.
+Adam Smith (1776), An Inquiry into the Nature and Causes of the Wealth of Nations (New York: Modern 
+Library, 1937).
+
+Andrei Shleifer and Lawrence Summers (1988), "Breach of Trust in Hostile Takeovers," in Alan 
+Auerbach, ed., Corporate Takeovers: Causes and Consequences (Chicago: University of Chicago Press).
+Oliver Williamson (1981), "The Modern Corporation," Journal of Economic Literature 19 (December): 
+pp. 1537-68.
+
+Martin Weitzman (1974), "Prices vs. Quantities," Review of Economic Studies 41:4 (October), pp. 
+477-91.
+
+I would like to thank Marco Becht, Andrei Shleifer, Robert Waldmann, and Jeffrey Weintraub for 
+helpful discussions; I am grateful to the National Science Foundation, the Alfred P. Sloan 
+Foundation, and the University of California's Institute of Business and Economic Research for 
+financial support; most of all, though, I have learned from the writings of Alfred Chandler and 
+Oliver Williamson.
+
+7032 words
+
+
+wave ot tinancial manipulation to (successfully) reduce corporations' income tax bills (see Blair, 
+1995). (Ill) Still others see the takeover boom's replacement ot one group oi managers by another 
+as a way to break a corporation's implicit and explicit promises on salary levels and operating 
+procedures to its workers and suppliers (see Shleiter and Summers, 1989). (IV) And others see the 
+wave ot takeovers and threatened takeovers as a genuine improvement in
+
+the way in which the market system disciplines executives who take their eyes off of the bottom 
+line (see Jensen, 1989).
+
+The most judicious (and probably the most correct) view is that of Steven Kaplan and Jeremy Stein 
+(1993), who see (IV) as the most important element in the takeover battles of the early 1980s, and 
+increasing elements of the other threea€”along with simple speculative excess caused by Wall 
+Street's herd mentality leading it into deals that did not make financial sense—as the decade of 
+the 1980s drew to its close. Fifteen years ago it was fashionable to hold up
+the Japanese corporation as an example, to say that its managers regarded shareholders as only one 
+stakeholder interest among many, and to say that the Japanese corporation was a superior 
+organization and the wave of the future. Now it is fashionable to praise the American form of 
+organization, with an active market for corporate control and with strong pressure on managers to 
+do whatever they can to boost stock prices now.
+
+If there is anything certain, it is that fifteen years hence some other organizational twist on the 
+corporate form will be fashionable in its place, and discussion will focus around the flaws of 
+existing American (as well as Japanese) institutions of practical corporate governance. But in the 
+meanwhile it is important to recognize that CEOsa€”for all their near-autocratic power to fire 
+workers by the tens of thousands, close lines of business, and shift the strategic
+direction of their corporations—see themselves as tightly constrained, and with surprisingly little 
+freedom to act otherwise. What looks to us like near-absolute and near-untramelled power looks to 
+them like tight discipline enforced not just from the market for corporate controla€”the takeover 
+game—but from other markets as well.
+
+For most workers in most years (and for nearly all customers, and for most suppliers), there is 
+another corporation that they could work for, buy from, or sell to located just down the street. 
+Labor unions are weaker now than they have been at any time in the past sixty years. Nevertheless a 
+modern
+
+corporation must treat its workers at least as well as their perceived alternative employment, or 
+they will walk. A company that is contracting has some but limited power to demand that its 
+employees accept lower wages and harder working conditions. A company that is expanding must pay 
+prevailing market or above market wages, or it simply will not expand. Moreover the fact that a CEO 
+can command does not mean that other employees will obey.
+Instructions can be given, but they need to be obeyed enthusiastically by others for them to mean 
+anything.
+
+CEOs have tools to win the enthusiasm of their subordinates: the rhetoric of shared accomplishment 
+of action and vision; the carrots of promotions, salary increases, and bonuses; the sticks of 
+demotion and dismissal. But even with these tools, managing a large bureaucratic organization is a 
+difficult task. And changing its direction away from that of mere business-as-usual requires great 
+skill and luck.
+
+The Government and the Corporation
+
+Still a fourth reason for the flourishing of the modern corporation is that the government finds 
+the large corporation very valuable. Thus all kinds of benefitsa€”from the limited exposure to 
+liability of those who commit their equity capital to the corporation, to the fact that 
+corporations that pay their employees in the coin of social insurance benefits do so tax-free, to 
+the fact that corporations realize economies of scale in dealing with the government and its
+paperwork (whether the IRS or the MA)—give the modern large corporation a government-sponsored 
+competitive edge. The corporation in America is valuable to the government because it can be called 
+upon to do more than its own private purely economic tasks. From the perspective of the modern 
+government, the corporation is the government's principal tax collector. The corporation collects 
+the government's income and sales taxes for it. Withholding for
+income taxes and point-of-sale collection for sales taxes make the paying of taxes largely 
+automatic. The government would have an infinitely more difficult time collecting anything if it 
+had to deal with each individual for his or her entire tax bill either for income or for sales 
+taxes.
+
+Indeed, there is no one that the Internal Revenue Service fears more than the independent 
+contractor: the person who does not work for a corporation, and with whom the government must deal 
+directly in order to collect taxes. So the IRS tries as hard as it can to force independent 
+contractors into being someone's employees. It desperately wants collecting, withholding, and 
+monitoring compliance with the tax law can be their employers' job—and not the IRS's.
+
+The corporation provides an increasingly large share of social insurance benefitsa€’’largely at the 
+government's behest. Large majorities of Americans and their politicians believe—at least after the 
+end of political advertising campaigns—that American citizens ought to have social insurance 
+services and benefits: health insurance, dental insurance, pension benefits, and so forth. But 
+large majorities of Americans and politicians also fear—at least after the end of
+political advertising campaigns—big government: for most politicians, proposing to socialize 
+medicine or proposing large increases in social security taxes is a quick ticket out of one's 
+office in the Capitol or the White House and into a better-paying but much lower-status job, 
+arguing that oil companies are overtaxed or that Bengalis are selling an unhealthily large amount 
+of textiles to U.S. customers.
+
+So how can politicians and voters both have big government-like social insurance programs without 
+having big government? By inducing or ordering corporations to provide them. Pensions? The 
+government promises to reduce the total taxes paid by corporations and by workers by roughly 
+thirty-three cents for every dollar that corporations and workers shift out of current wages and 
+into invested funds to provide post-retirement benefits. Health? The
+government offers the same deal: if corporations and workers will shift two dollars out of current 
+wages and into purchasing health insurance for the workers' families, the government will 
+contribute a third dollar by reducing the total taxes paid. It is no surprise that corporations 
+have responded. Even the paperwork they must fill out to deal with the government is not a heavy 
+burden for a large corporation, for the paperwork is highly repetitious.
+
+So more than eight out of ten of those with health insurance who are not covered by the 
+government's Medicare and Medicaid programs receive their insurance through their employers.
+
+Thus our modern social insurance state is to a large degree a corporate social insurance state: the 
+corporation is the intermediary that delivers the benefits that the government believes citizens 
+ought to have to its employees. Such a corporate social insurance state does not work very well. 
+What good is employer-sponsored health insurance if you have no employer? What if your employer is 
+a small corporation, and does not take the bait the government has set
+because the tax subsidy the government offers insufficient to cover the administrative burden of 
+becoming the government's local social insurance agent?
+
+Conclusion
+
+In the past century and a half large corporations—business organizations in which those at the top 
+do not personally know those at the bottom of the hierarchy at all—have grown from exceptional 
+oddities into extremely visible and widespread economic institutions. How have corporations managed 
+to grow and survive in view of the obvious economic inefficiencies of bureaucratic and hierarchical 
+organizations^’’inefficiencies of which we are now very
+conscious because of the fall of the Soviet Union? People have proposed four answers: they grow 
+because those that are inefficient died and disappeared; they grow because the increasing 
+complexity of technology has created more and more places where the benefits of planned 
+coordination outweigh the inflexibilities of bureaucratic hierarchy; they grow because over the 
+past century and a half we have hit on modes of corporate organization that are actually
+quite good at providing pressures for cost reduction and efficient production; and they grow 
+because the government needs them—could not function without using them as intermediaries^’’and so 
+rewards large corporations and punishes other forms of organization in subtle ways.
+
+All four of these are surely somewhat correct.
+
+Deciding how important each is is next to impossible. We cannot rerun history with different forms 
+of financial and legal organization to see how much of the growth in corporations is the result of 
+improved forms of organization, or with different technologies that provide different economies of 
+coordination. We can, however, note that all of the pressures continue to be on the side of an 
+expanded role for the large corporation. The social insurance state will
+continue to need the corporation as an intermediary. The evolution of financial and commodity 
+markets is in the direction of increased market discipline and international competition. 
+Technologies grow more sophisticated and complex. Individual corporations will grow and shrink. The 
+very, very largest may turn out to have positive or negative synergies and increase or decrease 
+their own shares. But the modern corporation will be here for a long time to come.
+And the presence of the modern corporation will affect how we live along many dimensions, for the 
+corporation is not just a private economic entity. Consider the corporation as collector of taxes 
+and dispenser of benefits.
+
+It is hard to imagine our modern government without the corporation as its agent. Before the rise 
+of the corporation governments would strain their tax-collecting capacities to the breaking point 
+to lay their hands on even fifteen percent of national income through excise taxes, real estate 
+taxes, window taxes, luxury taxes, and trade taxes. Today industrial country governments collect up 
+to three times as much without producing clear and visible reductions in rates
+of economic growth. Or consider the corporation as a sociological entity: a place where you see 
+your friends, engage in your status games, and first learn and then express your culture: what it 
+is that your kind of people like to do. Your workplace is more than a third of your waking life. To 
+lose or to change one's job is an event of much more importance than deciding to go to a different 
+grocery store because you like its loss leaders.
+
+Economists want to treat the two as the same: a change of where you sell your labor analogous to a 
+change of where you buy your groceries. Sociologists point out that when you change your grocery 
+store you do not change a large part of your circle of friends (and enemies) as well. But they have 
+done little more than note a potentially unhealthy tension between an employment relationship that 
+on the individual's side becomes invested with a large share of the
+individual's identity and that on the corporation's side remains a matter of the bottom line.
+
+The modern corporation has drifted far indeed from its origins, when it was a way for the king to 
+create a collective identity for merchants and their townsa€”those who were neither lord, knight, 
+peasant, priest, or monk—so that they could be fitted into the feudal system.
+
+References
+
+Armen Alchian and Harold Demsetz (1972), "Production, Information Costs, and Economic 
+Organization," American Economic Review 62 (December): pp. 777-95.
+William Allen (1992), "Our Schizophrenic Conception of the Business Corporation," Cardozo Law 
+Review 14 (2): pp 621-81.
+
+Adolf Berle and Gardiner Means (1932), The Modern Corporation and Private Property (New York: 
+Commerce Clearing House).
+
+Sanjay Bhagat, Andrei Shleifer, and Robert Vishny (1990), "Hostile Takeovers in the 1980s," 
+Brookings Papers on Economic Activity: Microeconomics 1990: pp. 1-72.
+Margaret Blair (1995), Ownership and Control: Rethinking Corporate Governance for the Twenty-First 
+Century (Washington, D.C.: Brookings Institution).
+
+Alfred Chandler (1977), The Visible Hand (Cambridge: Harvard University Press). Ronald Coase 
+(1960), "The Problem of Social Cost," in Ronald Coase, The firm, the Market, and the Law (Chicago: 
+University of Chicago Press, 1988), pp. 95-156.
+Richard Ericson (1991), "The Classical Soviet-Type Economy", Journal of Economic Perspectives5:4 
+(Fall), pp. 11-27.
+
+Francis Fukuyama (1992), The End of History and the Last Man (New York: Free Press).
+
+Michael Jensen (1989), The Eclipse of the Public Corporation," Harvard Business Review 67 
+(October): pp. 323-9.
+
+Steven Kaplan and Jeremy Stein (1993), "The Evolution of Buyout Pricing and Financial Structure in 
+the 1990s," Quarterly Journal of Economics 108 (May): pp. 313-57.
+Karl Marx and Friedrich Engels (1848), Manifesto of the Communist Party (New York: International 
+Publishers, 1971).
+
+Mark Roe (1991), "A Political Theory of American Corporate Finance," Columbia Law Review 91 
+(January): pp. 10-67.
+Adam Smith (1776), An Inquiry into the Nature and Causes of the Wealth of Nations (New York: Modern 
+Library, 1937).
+
+Andrei Shleifer and Lawrence Summers (1988), "Breach of Trust in Hostile Takeovers," in Alan 
+Auerbach, ed., Corporate Takeovers: Causes and Consequences (Chicago: University of Chicago Press).
+Oliver Williamson (1981), "The Modern Corporation," Journal of Economic Literature 19 (December): 
+pp. 1537-68.
+
+Martin Weitzman (1974), "Prices vs. Quantities," Review of Economic Studies 41:4 (October), pp. 
+477-91.
+
+I would like to thank Marco Becht, Andrei Shleifer, Robert Waldmann, and Jeffrey Weintraub for 
+helpful discussions; I am grateful to the National Science Foundation, the Alfred P. Sloan 
+Foundation, and the University of California's Institute of Business and Economic Research for 
+financial support; most of all, though, I have learned from the writings of Alfred Chandler and 
+Oliver Williamson.
+
+7032 words
+
+
+Adam Smith (1776), An Inquiry into the Nature and Causes of the Wealth of Nations (New York: Modern 
+Library, 1937).
+
+Andrei Shleifer and Lawrence Summers (1988), "Breach of Trust in Hostile Takeovers," in Alan 
+Auerbach, ed., Corporate Takeovers: Causes and Consequences (Chicago: University of Chicago Press).
+Oliver Williamson (1981), "The Modern Corporation," Journal of Economic Literature 19 (December): 
+pp. 1537-68.
+
+Martin Weitzman (1974), "Prices vs. Quantities," Review of Economic Studies 41:4 (October), pp. 
+477-91.
+
+I would like to thank Marco Becht, Andrei Shleifer, Robert Waldmann, and Jeffrey Weintraub for 
+helpful discussions; I am grateful to the National Science Foundation, the Alfred P. Sloan 
+Foundation, and the University of California's Institute of Business and Economic Research for 
+financial support; most of all, though, I have learned from the writings of Alfred Chandler and 
+Oliver Williamson.
+
+7032 words
+

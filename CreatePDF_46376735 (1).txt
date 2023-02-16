@@ -1,0 +1,324 @@
+Condition: OMICRON
+
+Brad DeLong's Grasping Reality is a reader-supported publication. To receive new posts and support 
+my work, consider becoming a free or paid subscriber.
+
+Type your emaila€|       Subscribe
+
+First: South African Omicron Mortality 0.3% vs. Delta 2%
+
+Yes, the South African population had more acquired immunity vis-A -vis against Omicron than it had 
+had against Delta earlier, but so do we, and so does everybody else. And it now looks like Omicron 
+mortality was 0.3% of reported cases, compared to Delta and earlier mortality of 2% of reported 
+cases:
+
+New cases and deaths
+
+From JHU CSSE COVID-19 Data • Last updated: 2 days ago
+
+New cases ▼     £ South Africa ▼        All time ▼
+
+
+30,000
+
+Dec 31, 2021
+
+New cases: 11,754
+
+7-day avg: 9,311
+
+20,000
+
+10,000
+
+Jun 15 Sep 17 Dec 20 Mar 24 Jun 26 Sep 28 Dec 31
+
+New cases — 7-day average
+
+s' New cases and deaths
+
+From JHU CSSE COVID-19 Data Last updated: 2 days ago
+
+
+ueains ▼     ► j- souin Ainca ▼       AH nme ▼
+
+
+800
+
+600
+
+400
+
+200
+
+Dec 31, 2021
+
+Deaths: 84
+
+7-day avg: 57
+
+Influenza in the United States hits 20 million people a year, and kills 20,000a€”an 0.1% mortality 
+rate. Omicron in the United States looks now to be a measles-contagious triple flu. If it hits 
+100,000,000 people, that is still 300,000 more deaths. But it is so much better than it might have 
+been.
+On the other hand, effectively hunkering down for a month is really, really difficult for American 
+society, given how contagious it has turned out to be. California looks to have a very bad next 
+month, as far as case numbers are concerned:
+
+New confirmed cases of Covid-19 in New York, Florida, Texas and California
+
+Seven-day rolling average of new cases (per 100k)
+
+• New York
+
+280
+
+260
+
+240
+
+220
+
+200                                                                                                 
+ • Florida
+
+180
+
+160
+
+140
+
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Jan 1 Mar May Jul Sep Nov Jan Mar May Jul Sep Nov
+
+2020                                              2021
+
+Source: Financial Times analysis of data from the Johns Hopkins CSSE.
+
+Data updated January 2 2022 11.14am GMT. Interactive version: ft.com/covidl9
+
+South Africa Omicron was up-and-down in a month, but the past two years have taught us that 
+epidemic waves follow very different trajectories in different countries, for reasons that I at 
+least do not understands’’complicated by the fact that reported case numbers are garbage, and 
+hospitalizations and deaths are reported with too long a lag to be useful for assessment and 
+planning in the
+moment:
+
+New confirmed cases of Covid-19 in European Union, US, South Africa and UK
+
+Seven-day rolling average of new cases (per 100k)
+
+
+
+Share Brad DeLong's Grasping Reality
+
+One Picture:
+
+Ready to record remote lectures () for Spring 2022:
+
+
+Very Briefly Noted:
+
+•  David Lindsay Roberts: How the US census Led to the First Data Processing Company 125 Years Ago: 
+a€~The founding of the first automated data processing company, the Tabulating Machine Company, 125 
+years ago on December 3,1896a€ 1 
+<https://arstechnica.com/science/2022/01/how-the-us-census-led-to-the-first-data-processing-company-
+125-years-ago/>
+
+•  Rana Foroohar: Why We Should Expect Wobbling in Global Inflation Dynamics: a€~Modelling on data 
+of past 50 years may be hard with a a€~bullwhipa€™ economya€! 
+<https://www.ft.com/content/9444643e-9d43-4e5f-92d8-78c64c9414db>
+
+•  Wikipedia: Khoisan: a€~The populations ancestrala€! [were] the a€oelargest human 
+populationa€Da€! from their early separation before 150 kya until the recent peopling of Eurasia 
+some 70 kyaa€! dispersed throughout much of southern and southeastern Africaa€! 
+<https://en.wikipedia.org/wiki/Khoisan#Origins>
+
+•  Philippe Lemoine: Have We Been Thinking about the Pandemic Wrong?: a€~[With] quasi-homogeneous 
+mixing populations that are internally well-connected but only loosely connected to each other, the 
+effective reproduction number can undergo large fluctuations even in the absence of behavioral 
+changesa€l <https://cspicenter.org/blog/waronscience/have-we-been-thinking-
+about-the-pandemic-wrong-the-effect-of-population-structure-on-transmission/>
+
+•  Duncan Black: Eschaton: Good Boys and Good Girls: a€~Flashbacks to the Obama administration^!. 
+Righteous certainty among people who succeeded because they knew who to check all the right boxes 
+when they were 15a€!. Not a lot of self-doubt, not a lot of self-recrimination. Among other things, 
+ita€™ s a worldview which is very unsympathetic to the failure of othersa€!
+
+<https://www.eschatonblog.com/2021/12/good-boys-and-good-girls.html>
+
+•  Kristen V. Brown: Can Omicron Escape Vaccines & Boosters?: a€~The vaccines still appear to be 
+doing their most important joba€!. Omicron is very good at getting past a vaccinea€™ s first line 
+of defense, antibodiesa€!. [But] omicron is still easily defeated by a vaccinea€™ s second line of 
+defense, T cells and B cellsa€! <https://www.bloomberg.com/news/newsletters/2022-01-
+02/can-omicron-escape-vaccines-and-boosters>
+
+• Dhruve Merota: D.C. Police Tried To Fire 24 Current Officers For d€ "Criminal Offenses.a€™ A 
+Powerful Panel Blocked Nearly Every One, Documents Show a€ “ DCist: a€~D.C. Police Tried To Fire 24 
+Current Officers For a€~Criminal Offenses.a€™ A Powerful Panel Blocked Nearly Every One, Documents 
+Showa€! <https://deist.com/story/21/12/18/dc-police-panel-blocked-
+mpd-firings/>
+
+•  Arian Campo-Flores & Scott Calvert: Surfside, Fla., Condo Collapse: From Glimmering Beaches to 
+Ruin: a€~Champlain Towers Southa€™ s deterioration over decades led to one of the deadliest 
+building failures in U.S. historya€! 
+<https://www.wsi.com/articles/surfside-fla-condo-collapse-from-glimmering-beaches-to-ruin-1164077380
+4>
+
+• Ursina Schaede: a€™ Finland had a quota that reserved 40% of study slots to become a primary 
+school teacher for male applicantsa€!
+
+Ursina Schaede @urs schaede
+
+Finland had a quota that reserved 40% of study slots to become a primary school teacher for male 
+applicants. The first hurdle to pass in admissions was primarily based on test scores. Male 
+teachersa€™ scores were on average much lower than those of female teachers:
+
+Figure 2: Matriculation exam percentile rank among primary school teachers by year of last
+matriculation exam
+
+A Men • Women
+
+1975            1980            1985            1990            1995
+
+Last exam year
+
+2:30 PM a~™ Dec 31.2021
+
+• Angela Rasmussen: a€™ What is it about cryptocurrency that convinces enthusiasts they are 
+uniquely qualified to correct experts in other fields? Seriously 10/10 randos declaring that I need 
+to Google virology have laser eyes, incessantly post about ethereum or whatever, & ooze palpable 
+insecuritya€!
+
+
+Dr. Angela Rasmussen @angie rasmussen
+
+What is it about cryptocurrency that convinces enthusiasts they are uniquely qualified to correct 
+experts in other fields? Seriously 10/10 randos declaring that I need to Google virology have laser 
+eyes, incessantly post about ethereum or whatever, & ooze palpable insecurity.
+2:53 PM r™ Jan 2,2022
+
+198Likes23Retweets
+
+• Peter Hotez: a€™Not a question of being scared. Ia€™ m not frighteneda€!Ia€™ m horrified. Since 
+June 2021: 200,000 unvaccinated Americans lost their lives due to COVID despite widespread 
+availability of vaccines. 200,000 Americans needlessly died because they believed disinformation 
+from the far rightaC!
+
+Prof Peter Hotez MD PhD @PeterHotez
+
+Not a question of being scared. I'm not frightened...I'm horrified. Since June 2021: 200,000 
+unvaccinated Americans lost their lives due to COVID despite widespread availability of vaccines. 
+200,000 Americans needlessly died because they believed disinformation from the far right
+
+Cloud Benders @BendersCloud
+
+@PeterHotez The people who are closed to any debate are the perpetrators of "anti-science." If 
+these skeptics are so wrong, and so lacking in evidence and proof, why is everyone so scared of 
+them? You don't ban, deplatform and revoke licenses of people you are not scared of.
+2:57 PM a~™ Jan 2,2022
+
+479Likes 107Re tweets
+
+Paragraphs:
+
+Uri: A Recap of [Neal Postmana€™ s] a€ceAmusing Ourselves To Deatha€d a€~The real model for our 
+present is not Orwella€™ s 1984 (1949) but Aldous Huxleya€™ s Brave New World (1932). a€oeWhat 
+Orwell feared was those who would ban books; what Huxley feared was that there would be no reason 
+to ban a book, for there would be no-one who wanted to read onea€!. Orwell
+feared that the truth would be concealed from us; Huxley feared the truth would be drowned in a sea 
+of irrelevance.a€D As Huxley later wrote: aCceThe civil libertarians and rationalists who are ever 
+on the alert to oppose tyranny fail to take into account mana€™ s almost infinite appetite for 
+distractions. In 1984, people are controlled by inflicting pain; in Brave New World, by inflicting
+pleasurea€Da€!
+
+LINK: <https://www.atvbt.com/amusing-ourselves-to-death-neil-postman/>
+
+Jordana Cepelewicz: Mental Phenomena Dona€™ t Map Into the Brain as Expected'. a€~Poldrack agreed. 
+a€oel dona€™ t think any of us would want to tell people: Dona€™ t use the word a€~memorya€™ 
+anymore,a€D he said. But to understand the brain, we might need to challenge our intuitions about 
+how it worksa€!. Another important consideration is how meaningful a new
+framework might end up being. a€oeYou may gain in terms of knowledge, but you may actually stop 
+understanding y ourself ,a€D Krakauer saida€!
+
+LINK: <https://www.quantamagazine 
+.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/>
+
+W. Amos & J. I. Hoffman (2009): Evidence that Two Main Bottleneck Events Shaped Modern Human 
+Genetic Diversity. a€~Analysing a large published dataset of 783 microsatellite loci genotyped in 
+53 worldwide populationsa€!. Immediately following a sharp population decline, rare alleles are 
+lost faster than heterozygosity, creating a transient excess of heterozygosity relative to allele
+numberaC!. We find evidence of two primary events, one a€~out of AfricaaC™ and one placed around 
+the Bering Strait, where an ancient land bridge allowed passage into the Americas. These findings 
+agree well with the regions of the world where the largest founder events might have been expected, 
+but contrast with the apparently smooth gradient of variability that is revealed when current
+heterozygosity is plotted against distance from Africaa€!
+
+LINK: <https://www.ncbi .nlm.nih.gov/pmc/articles/PMC2842629/pdf/rspb20091473 .pdf>
+
+TV Tropes: Filibuster Freefall'. a€~Art tends to draw fringe personalities. Be they left-wing or 
+right-wing, sexually liberated or restrictive, bearing funny ideas on everything from drugs to 
+health care to the wearing of funny hats on Sundays, creative types usually have their ideas and 
+stick to them. Usually, however, they manage to stay separate from the work, or if theya€™re worked 
+in,
+theya€™re blended in a way that adds to the quality of the work or at least doesna€™t detract from 
+the main thrill ride. There are some cases, however, where a strange combination of the authora€™ s 
+prestige, personal life, and political bent causes things to take a strong shift. Suddenly, 
+youa€™re cracking open the latest book in a rollicking fantasy series and therea€™ s a hundred page
+section                                                                                             
+                                                                                       on how 
+people wearing funny hats on Sunday should be sentenced to death by firing squad. Where once there 
+was flirting, things have gotten overtly lewd and even hideously porny. Where once there was fun 
+military action, there are now long sections on the moral failings of the Clinton administration. 
+Something has cracked, and the author has ended up firmly in Filibuster Freefalla€!
+
+LINK: <https://tvtropes .org/pmwiki/pmwiki .php/Main/FilibusterFreefall>
+
+Adam Gurri: The Case Not Made: A Response to Anne Applebaumd€™ s a€ceThe New Puritansa€\3 a€~Many 
+of [Anne Applebauma€™ s] specific claims rest upon even weaker reeds than this. In one case she 
+tells readers that a€oeAt least two of the people I interviewed believe that they were punished 
+because a white, male boss felt he had to publicly sacrifice another white man in order to
+protect his own position,a€D as though anonymously speculating that the white mana€™ s guilt of 
+their bosses was the cause of their unspecified misfortune constitutes any kind of credible 
+evidence of the truth of those speculations. In another she quotes a different anonymous professor 
+who a€oethought that one of his colleagues resented having to work with him.a€D In a third she 
+mentions
+that Yale Law professor Amy Chua a€oebelieves that investigations into her relationships with 
+students were sparked by her personal connections to Supreme Court Justice Brett Kavanaugha€Da€!
+
+LINK: 
+<https://www.liberalcurrents.com/the-case-not-made-a-response-to-anne-applebaums-the-new-puritans/>
+Leave a comment
+
+Brad DeLong's Grasping Reality is a reader-supported publication. To receive new posts and support 
+my work, consider becoming a free or paid subscriber.
+
+Type your emaila€|       Subscribe
+
+PAID SUBSCRIBER ONLY Content Below:
+
+
+
+EARLY DRAFT: PROJECT SYNDICATE: The Lack of Vision
+
+Not satisfied with this yet, but it is the drop-dead date for this, if I am going to get it into 
+the stream. So working awaya€!
+
+Read more
+
+a year ago A- Brad DeLong
+

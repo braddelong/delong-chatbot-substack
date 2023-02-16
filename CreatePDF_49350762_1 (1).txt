@@ -1,0 +1,298 @@
+A very nice piece from Rafael Guthmann. But I do have a quibble:
+
+Rafael R. Guthmann: The Malthusian Trap Never Existed'. a€~Froma€! Buringh (2021), and Bairoch and 
+Goertz (1986), I estimated Europea€™ s urban populationa€! and dividing by the estimated population 
+of Europe over the past 3,000 years we get the foliowinga€! a much more nuanced and interesting 
+trajectory of macroeconomic performance for Europe than the Malthusian-trap modela€!. It also shows 
+that there was slow progress upwards
+from the 8th century to the 18th century, roughly at 10% of the urbanization growth rate in the 
+19th and 20th centuries. The decline and fall of the Roman Empire from the 2nd century to the 7th 
+century is also cleara€! the greatest sustained process of economic regression in human historya€L 
+The economic flourishing of Classical Greece and other parts of the European Mediterranean from the 
+9tha€! century BC appear to have constituted the
+
+fastest period of economic growth in Europe until the latea€“18th centurya€!.
+
+European urbanization rates over three millennia
+
+50.0%
+
+45.0%
+
+40.0%
+
+35.0%
+
+30.0%
+
+25.0%
+
+20.0%
+
+15.0%
+
+
+10.0%
+
+5.0%
+
+0.0%
+
+The urbanization rate suggests that over the last three millennia of the history of Europe, there 
+were long and sustained periods of economic progress and regression and that modern economic growth 
+has been a dramatic acceleration compared to the pre-modern trend, instead of a complete break from 
+ita€!
+LINK:
+
+Rafaela€™ s Commentary
+
+The Malthusian Trap Never Existed
+
+Economists often assume that there was no economic growth before the late 18th-century takeoff of 
+modern economic growth. For example, this graph is typically used as a quick description of world 
+economic history. This conceptualization is boring if one is interested in pre-modern history as it 
+suggests that nothing very interesting in economic terms haa€!
+
+Read more
+
+a year ago A- 1 like A- Rafael R. Guthmann
+
+Urbanization and GDP per capita 1200-1850 AD
+
+3,500
+
+3,000
+
+7 son
+
+
+Urbanization rate
+
+
+My quibble: I think it unwise to call these pre-1750 rA©gimes a€cenon-Malthusiana€D in any profound 
+sense.
+
+Let us build a Solow-Malthus model. Let us start by saying there is technologya€”the discovered, 
+developed, deployed, and diffused set of useful ideas about manipulating nature and organizing 
+humans to make us more productive. Let us call the level of technology H. Let's also say that there 
+is a population/labor force La€”no real reason to distinguish between them. And let us also say 
+that there is an efficiency of labor E, conceptually different from technology because
+of the impact of resource abundance or scarcity on labor efficiency. And let us use h, n, and g for 
+the proportional growth rates of H, L, and E:
+
+dHIdt = hH dLldt = nL dEldt = gE
+
+Let us then say that the level of output per worker or per capitaa€”again, no great reason to 
+distinguish sharply between thema€”y is determined by the economya€™ s capital-intensity dDoe..., 
+the salience of capital in production I*, and labor efficiency E. And let us remember that in Bob 
+Solowa€™ s standard model the equilibrium (for which we will use *) level of capital intensity 
+dDoe... is equal to the economya€™ s savings-investment rate s divided by its investment
+requirements, which are the sum of the labor-efficiency growth rate g, the labor-force growth rate 
+n, and the depreciation rate I'. (Yes, I know, I know: it makes no conceptual sense to assume that 
+peoplea€™ s gross savings is a constant share of gross production because they never take any 
+account of the changing relative wedge between gross and net production. I asked Bob Solow about 
+this once. He shrugged and said: referees. We use the consensus models we have.)
+
+y = KeE K* = s/(n + g + S)
+
+Now let us make the model Malthusian. Let us say that the growth rate of labor efficiency g is 
+equal to the growth rate of the useful-ideas stock h minus the labor-force growth rate n divided by 
+the salience E£ of ideas in labor efficiency. Why? Because a higher labor force induces resource 
+scarcity which is a drag on labor efficiency. And let us now compare the level of output per capita 
+y to some a€cesubsistencea€D level of necessities consumption yAsub times some
+allowance for a€oeluxuriesa€n It. When production per capita is such that after allowing for 
+luxuries necessities consumption is greater than subsistence, the population grows, with I2 
+capturing how much extra population growth is induced by a given wedge between necessities 
+consumption and subsistence:
+
+g = h — n/y
+
+This is a thoroughly Malthusian model. We can see immediately that it has an equilibrium balanced 
+growth path at which capital intensity and productivity are at their equilibrium values and the 
+population and labor force are growing at the rate warranted by the rate of ideas growth and the 
+salience of ideas in generating labor efficiency:
+
+dy*mal!dt = 0 when n"mal = yh
+
+
+If we crank through the algebra, we can see that this modela€™ s equilibrium is rather rich. Along 
+the equilibrium balanced-growth path, we have equilibrium income per capita:
+
+Malthisian
+equilibrium
+income        level
+
+Sensitivity o
+productivity to
+
+Rate of
+useful ideas
+creation
+
+
+Taste for      Responsiveness of
+luxuries       population growth
+
+to prosperity
+
+
+And equilibrium population:
+
+The ratio of \
+
+The salience of
+capital in determining
+productivity
+
+The extent to
+which population
+depresses
+productivity
+
+
+knowledge to \
+subsistence          \
+income              \              \
+
+Nuisance
+
+
+(\+Yhl5)e <P+Yhip)
+
+
+The Malthusian The ratio of
+
+The inverse of
+
+
+equilibrium
+
+population
+
+savings to
+depreciation
+
+the taste for
+luxury
+
+In this model, the most important determinants of the equilibrium level of income per capita are 
+the societya€™ s taste for luxuries multiplied by its level of a€oesubsistence^□ necessities 
+consumption. Both of these are profoundly socio-economic factors, potentially different for 
+different societies and potentially changing over time. How much of its productivity society 
+diverts from making commodities directly useful for boosting nutrition and reproductive fitness and,
+instead, devotes to conveniences and luxuriesa€’’including the "luxuries" of having an upper class, 
+and the a€cesuper-luxurya€D of living in cities and gaining all the conveniences and benefits of 
+urban life at the cost of making itself more vulnerable to plague and diseasea€”are not biological 
+factors fixed in stone but are instead the result of a societya€™ s sociology, economic structure, 
+and politics. What a societya€™ s level of a€cesubsistencea€D necessities
+consumption happens to be is itself as much a sociological as a biological fact. At what age do 
+women become sexually active? Is female infanticide a thing, and if so how much of a thing? Does 
+the societya€™ sa€”or do the societiesa€™ a€”social practice of war involve mass sacrifice of 
+captives to gods, or routinely carving the blood eagle, or chevauchA©^,
+
+In this model, the most important determinants of the equilibrium level of population relative to 
+resources are (a) the current level of the value of the ideas stock H divided by subsistence 
+necessities consumption, the economya€™ s savings-investment share s divided by the depreciation 
+rate I', (c) the salience Z, of capital in generating production, (d) the (inverse of the) taste 
+for a€oeluxuriesa€n It, all raised to the power E£ that is the salience of ideas vis-A -vis 
+resources
+in generating labor efficiency. As known above, the a€cetastea€D for a€celuxuriesa€O is in no wise 
+a matter of biology, and the level of a€oesubsistencea€n necessities consumption only partially so. 
+In the equilibrium-population equation, moreover, the economya€™ s savings-investment share of 
+production is also a key important variable. A functioning imperial peace, institutions supporting 
+commerce and property that make it worthwhile to create and invest heavily in
+a sophisticated and productive division of labor, habits of mind and culture that reward 
+cooperation and productivity instead of or even as well as dominationa€”all of these can and do 
+have profound influences on a societya€™ s equilibrium capital intensity. In the Malthusian 
+equilibrium of this model these factors affect population and population density, but surely there 
+is feedback from capital intensity and population density to the economya€™ s tastes for luxuries as
+well.
+
+Is this model I have set out a very powerful intuition pump? Is it merely a useful filing system? 
+Is it a pointless scholastic exercise, leading to conclusions that any thinking human could have 
+arrived at much more easily by other means? Is it a way of excluding people who do not have a 
+certain particular familiarity with some kind of math from the discourse? Yes.
+
+But I at least find it useful for making my major point: Our economic growth since 1870, and to 
+some degree over 1770 to 1870, comes from breaking the Malthusian link between prosperity and 
+population growth, first partially and now completelya€’’the demographic transition and the rise of 
+modern feminism, and the creation of a society in which durable female social power does not rely 
+near-completely upon being the mother of surviving sonsa€”and from the
+extraordinary waves of technological development. But previous a€oeefflorescencesa€D, in Jack 
+Goldstonea€™ s word, up to 1750 (and their inverse: collapses and dark ages) rely not on shifts in 
+the technology growth rate h and feminist social revolutions, but instead on sociology, economics, 
+and politics that produce durable alterations in 'a€oesubsistencea€n necessities consumption yAsub, 
+the 'a€oetastea€n for a€oeluxuriesa€n It, and the creation and maintenance of
+imperial peace and other a€ceinclusivea€D institutions that drive large shifts in s. Plus we then 
+have the dynamics of convergence to a society a€™ s Malthusian equilibrium from an initial state 
+off of the equilibrium path.
+
+I think a great deal is gained by calling such a€ceefflorescencesa€D and dark ages Malthusian, for 
+I think they are, and that some insight is lost by rejecting the label.
+Leave a comment
+
+Share
+Subscribe now
+
+
+population        depreciation luxury
+
+In this model, the most important determinants of the equilibrium level of income per capita are 
+the societya€™ s taste for luxuries multiplied by its level of a€oesubsistence^□ necessities 
+consumption. Both of these are profoundly socio-economic factors, potentially different for 
+different societies and potentially changing over time. How much of its productivity society 
+diverts from making commodities directly useful for boosting nutrition and reproductive fitness and,
+instead, devotes to conveniences and luxuriesa€’’including the "luxuries" of having an upper class, 
+and the a€cesuper-luxurya€D of living in cities and gaining all the conveniences and benefits of 
+urban life at the cost of making itself more vulnerable to plague and diseasea€”are not biological 
+factors fixed in stone but are instead the result of a societya€™ s sociology, economic structure, 
+and politics. What a societya€™ s level of a€cesubsistencea€D necessities
+consumption happens to be is itself as much a sociological as a biological fact. At what age do 
+women become sexually active? Is female infanticide a thing, and if so how much of a thing? Does 
+the societya€™ sa€”or do the societiesa€™ a€”social practice of war involve mass sacrifice of 
+captives to gods, or routinely carving the blood eagle, or chevauchA©^,
+
+In this model, the most important determinants of the equilibrium level of population relative to 
+resources are (a) the current level of the value of the ideas stock H divided by subsistence 
+necessities consumption, the economya€™ s savings-investment share s divided by the depreciation 
+rate I', (c) the salience Z, of capital in generating production, (d) the (inverse of the) taste 
+for a€oeluxuriesa€n It, all raised to the power E£ that is the salience of ideas vis-A -vis 
+resources
+in generating labor efficiency. As known above, the a€cetastea€D for a€celuxuriesa€O is in no wise 
+a matter of biology, and the level of a€oesubsistencea€n necessities consumption only partially so. 
+In the equilibrium-population equation, moreover, the economya€™ s savings-investment share of 
+production is also a key important variable. A functioning imperial peace, institutions supporting 
+commerce and property that make it worthwhile to create and invest heavily in
+a sophisticated and productive division of labor, habits of mind and culture that reward 
+cooperation and productivity instead of or even as well as dominationa€”all of these can and do 
+have profound influences on a societya€™ s equilibrium capital intensity. In the Malthusian 
+equilibrium of this model these factors affect population and population density, but surely there 
+is feedback from capital intensity and population density to the economya€™ s tastes for luxuries as
+well.
+
+Is this model I have set out a very powerful intuition pump? Is it merely a useful filing system? 
+Is it a pointless scholastic exercise, leading to conclusions that any thinking human could have 
+arrived at much more easily by other means? Is it a way of excluding people who do not have a 
+certain particular familiarity with some kind of math from the discourse? Yes.
+
+But I at least find it useful for making my major point: Our economic growth since 1870, and to 
+some degree over 1770 to 1870, comes from breaking the Malthusian link between prosperity and 
+population growth, first partially and now completelya€’’the demographic transition and the rise of 
+modern feminism, and the creation of a society in which durable female social power does not rely 
+near-completely upon being the mother of surviving sonsa€”and from the
+extraordinary waves of technological development. But previous a€oeefflorescencesa€D, in Jack 
+Goldstonea€™ s word, up to 1750 (and their inverse: collapses and dark ages) rely not on shifts in 
+the technology growth rate h and feminist social revolutions, but instead on sociology, economics, 
+and politics that produce durable alterations in 'a€oesubsistencea€n necessities consumption yAsub, 
+the 'a€oetastea€n for a€oeluxuriesa€n It, and the creation and maintenance of
+imperial peace and other a€ceinclusivea€D institutions that drive large shifts in s. Plus we then 
+have the dynamics of convergence to a society a€™ s Malthusian equilibrium from an initial state 
+off of the equilibrium path.
+
+I think a great deal is gained by calling such a€ceefflorescencesa€D and dark ages Malthusian, for 
+I think they are, and that some insight is lost by rejecting the label.
+Leave a comment
+
+Share
+Subscribe now
+

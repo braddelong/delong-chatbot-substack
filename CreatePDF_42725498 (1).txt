@@ -1,0 +1,235 @@
+Share Brad DeLong's Grasping Reality
+
+Very Briefly Noted:
+
+•  Maximilien Robespierre (1794): On Virtue & Terror. a€~The basis of popular government in time of 
+revolution is both virtue and terror. Terror without virtue is murderous, virtue without terror is 
+powerlessa€! <https ://alphahistorv.com/frenchrevolution/robespierre-virtue-terror-1794/>
+
+•  Adam Serwer: d€™ There seems to be a bit of confusion out there about certain things so Ia€™m 
+gonna to do a quick thread. These are my maternal grandparentsa€l <https://twitter. 
+com/AdamSerwer/status/935197566102327297>
+
+•  Mary Papenfuss: Ex-Newsmax Host Who Attacked d€~Lying Freakd€™ Dr. Fauci Over d€~Scamdemicd€™ 
+Has Died Of CO VID'. a€~Get vaccinated, Dick Farrel told friends before he dieda€! 
+<https://www.huffingtonpost.co.uk/entrv/dick-farrel-newsmax-right-wing-scamdemic-dies-of-covid_n_610
+f50d3e4bQ41dfbaaabac6>
+
+Paragraphs:
+
+Kevin M. Kruse: d€™ Same guy, ten days apart. Goddammit, this one might have broken me. a€oeLook, 
+ita€™ s common for normal people to spend $18k/month on their mortgages and have a live-in nanny 
+who makes $192k/year. Thata€™ s just how it is.a€U a€oeThe poors didna€™ t come out to do all this 
+backbreaking labor at $14/hour? Weirda€Da€l
+
+Mnl^nn Hart ©MnLqnn Hart • Ont 9                                                 Molson Hart
+
+
+I know a guy who lives in a 3br apartment in Manhattan with his wife and
+kid.
+
+Here’s a estimate of their monthly expenses:
+
+$18k mortgage
+
+$2k HOA
+
+$3k prop tax
+
+$0.5k parking
+
+$16k 24/7 nanny
+
+$5k food & entertainment
+
+$2k travel
+
+@Molson_Hart
+
+In rural Texas we posted a $14/hour part-time cash
+container unloading job.
+
+No one showed up.
+
+Now our team of 2 is unloading 35,000 pounds of
+Brain Flakes themselves.
+
+Wild that $14 isn’t enough these days.
+
+Pictures are old and for plush but it gives you an idea.
+
+$46,500/month
+
+$1,116,000 of pretax income per year.
+
+Q 2.2K             fl 2.8K              Q 2.7K
+
+
+Molson Hart @Molson_Hart • Oct 2
+
+So on first glance this looks totally extravagant but it’s not actually. Yeah
+sure one could move farther out and pay less but if you want to live in
+Manhattan with a kid and have two working parents you kinda need a 3br
+and   24/7 help right? Of course one could get out of NYC too
+
+12:13 PM • Oct 12, 2021 • Twitter for iPhone
+
+Q 1.1K              fl 347               O 621                              94 Retweets 2,241 Quote 
+Tweets 484 Likes
+
+LINK: <https ://twitter.com/KevinMKruse/status/1448412370137665537>
+
+Yeon-Koo Che & Olivier Tercieux: Optimal Queue Design'. a€™ We study the optimal design of a 
+queueing system when agentsa€™ arrival and servicing are governed by a general Markov process. The 
+designer chooses entry and exit rules for agents, their service prioritya€”or queueing disciplined 
+”as well as their information, while ensuring they have incentives to follow recommendations to 
+join the queue and, importantly, to stay in the queue. Under a
+
+
+_ -U
+
+1 1 :
+
+■ J.  i  *
+
+1  it. i
+
+„ •*   _  .
+
+_ .—j
+
+i: „ .c
+
+x: * —J
+
+i *1. ---------------
+
+<-• _ *1  1       i   i
+
+*1.
+
+:— c
+
+.. £
+
+„ •„!_ J      : J
+
+1 1~ £
+
+: J’ „■ 1:  :
+
+
+$1,116,000 of pretax income per year.
+
+Q 2.2K             'Ll 2.8K             Q 2.7K
+
+
+Molson Hart @Molson_Hart • Oct 2
+
+So on first glance this looks totally extravagant but it’s not actually. Yeah
+sure one could move farther out and pay less but if you want to live in
+Manhattan with a kid and have two working parents you kinda need a 3br
+and   24/7 help right? Of course one could get out of NYC too
+
+Q 1.1K             'Ll 347              Q 621
+
+12:13 PM • Oct 12, 2021 • Twitter for iPhone
+
+94 Retweets 2,241 Quote Tweets 484 Likes
+
+LINK: <https://twitter.com/KevinMKruse/status/1448412370137665537>
+
+Yeon-Koo Che & Olivier Tercieux: Optimal Queue Design'. a€™ We study the optimal design of a 
+queueing system when agentsa€™ arrival and servicing are governed by a general Markov process. The 
+designer chooses entry and exit rules for agents, their service prioritya€”or queueing 
+disciplined”as well as their information, while ensuring they have incentives to follow 
+recommendations to join the queue and, importantly, to stay in the queue. Under a
+mild condition, at the optimal mechanism, agents are induced to enter up to a certain queue length 
+and no agents are to exit the queue; agents are served according to a first-come-first-served 
+(FCFS) rule; and they are given no information throughout the process beyond the recommendations 
+they receive from the designer. FCFS is also necessary for optimality in a rich domain. We identify 
+a novel role for queueing disciplines in regulating agentsa€™ beliefs,
+and their dynamic incentives, thus uncovering a hitherto unrecognized virtue of FCFS in this 
+regarda€!
+
+LINK: 
+<https://staticl.squarespace.eom/static/5e56ell39el90014flll6cac/t/614359631ca82530Qd2cQa27/16318037
+47337/Queuing-08-ll-21.pdf>
+
+Andrei Frumusanu: The Apple Al5 SoC Performance Review: Faster & More Efficient'. a€~Todaya€™ s 
+investigation into the new A15 is just scratching the tip of the iceberg of what Apple has to offer 
+in the new generation iPhone 13 series devices. As wea€™re still working on the full device review, 
+we got a good glimpse of what the new silicon is able to achieve, and what to expect from the new 
+devices in terms of performance. On the CPU side of
+thingsa€! the new A15 improvementsa€!. Wea€™re elated to see that it wasa€! an efficiency focus 
+this year, with the new performance cores showcasing adequate performance improvements, while at 
+the same time reducing power consumption, as well as significantly improving energy efficiency. The 
+efficiency cores of the A15 have also seen massive gains, this time around with Apple mostly 
+investing them back into performance, with the new cores
+showcasing +23a€“28% absolute performance improvements, something that isna€™t easily identified by 
+popular benchmarking. This large performance increase further helps the SoC improve energy 
+efficiency, and our initial battery life figures of the new 13 series showcase that the chip has a 
+very large part into the vastly longer longevity of the new devicesa€!
+
+LINK: 
+<https://www.anandtech.eom/show/16983/the-apple-al5-soc-performance-review-faster-more-efficient/4>
+
+Rick Perlstein (2005): a€™ I Didna€™ t Like Nixon Until Watergatea€™: The Conservative Movement 
+Now. a€™I was part of the panel a€oeBarry Goldwater and the Modern Conservative Movement, a€D 
+alongside Lee Edwards and M. Stanton Evansa€!. [I said: a€oeA] thread one finds throughout the 
+annals of the Nixon presidencya€! that what they were doing was moral, the eggs that need be broken 
+in the act of redeeming a crumbling Westa€!.
+a€DJust remember youa€™re doing the right thing,a€oe the president told Bob Haldeman on Easter 
+Sunday, 1973. a€ETThata€™ s what I used to think when I killed some innocent children in Hanoi.a€oe 
+Then he briefed him on how to suborn perjury from an aide concerning the blackmailing of the 
+Watergate burglarsa€!. My subjects from the youth conservative movement of the 1960s, the ones that 
+later came to inherit the world, presented] themselvesa€!
+on  the one hand, beaming, telling me stories of principle. On the other, sometimes in the same 
+breath, winkingly defining political deviancy down, telling Hustonian tales of antinomial 
+subterfuge. Peeling off opposition bumper stickers with razor blades, jamming Rockefeller phone 
+banks, working to subvert the 1961 National Student Association convention by setting up a dummy 
+a€DMiddle of the Road Caucus .a€oea€! My thesis [is] that the Republicans are
+less the party of Goldwater, and more the party of Watergatea€!. Nixon knew that if you had a dirty 
+job to get down, you got people who answered to the descriptiona€!.a€D Postscript: The response to 
+my address was, understandably, defensive. My co-panelist Stan Evans retorted that my invocation of 
+Richard Nixon was inappropriate because Nixon had never been a genuine conservative. He added: 
+a€oel didna€™ t like Nixon until Watergate.a€D I
+responded: a€ceThanks for making my pointa€Da€!
+
+LINK: <https://www.huffpost.com/entry/i-didnt-like-nixon-until- b 11735>
+
+Ariel Rubinstein (2013): 10 Q&A: Experienced Advice for a€ceLosta€L2Graduate Students in 
+Economics'. a€~These informal comments are those of Ariel Rubinstein delivered at a Wine and Cheese 
+party at NYU, October 28,2011, and were expanded on by the author at the invitation of the editors 
+(revised January 2013). Readers who find Rubinsteina€™ s comments interesting are encouraged to go 
+to his Web site, <http://arielrubinstein .tau .ac .il>, and to
+look at his new book, Economic Fables, which raises a number of issues directly related to 
+teachinga€!
+
+LINK: <https://arielrubinstein.tau.ac .il/papers/1OQA-pdf>
+
+Julian Sanchez: a€™ Recently binged a few debates on the historicity of the Gospels between New 
+Testament scholar Bart Ehrman & various apologists, and kept thinking how much less plausible so 
+many key apologist arguments sound in the age of QAnona€!. A lot of apologetics on this front boil 
+down to the idea that ita€™ s wildly implausible that people would spread unfounded stories or 
+sheer fabrications with such speed and conviction, often at
+substantial personal cost. And yeta€! The parallels area€! eerie. A messianic figure (whose early 
+followers often wonder a€oeWho are you?a€D) prophecies a major sociopolitical upheaval that will 
+overthrow the corrupt powers that be and institute a new kingdom. The prophecy fails, but (many of) 
+the followers are undeterred. The apparent falsification of the predicted revolution is 
+reinterpreted as part of a larger plan, and the betrayal of the prophet as a
+necessary step in leading the mass public to a greater spiritual truth. Believers begin circulating 
+personal accounts of miraculous occurences consistent with the narrative. (Ivermectin healed me! I 
+received a vision of PCAPs proving election fraud! I saw the fake ballots being hauled in on a 
+truck!) Some of these are straight grifts. Many are earnest misunderstandings of real experiences. 
+These are exaggerated and stripped of ambiguity in repeated retelling,
+coming to be treated as indisputable facts that a€oeeverybody knows,a€D at least within the 
+communitya€!. Political authorities, initially disdainful of the new movement, begin to view it as 
+a force to be harnessed and convert (or purport to), accelerating the spread and lending the 
+movementa€™ s narratives credibility with a wider audiencea€!
+
+LINK: <https://twitter.com/normative/status/1449021626889261056>
+Leave a comment
+
+Subscribe now
+

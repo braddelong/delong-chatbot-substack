@@ -1,0 +1,153 @@
+Subscribe now
+
+"Reconstructing Macroeconomics" Exchange: Mervyn King, Ben Bernanke, Olivier Blanchard, Axel Weber,
+Larry Summers
+
+LSE: What should economists and policymakers learn from the financial crisis? Q&A:
+
+Share
+
+Mervyn King: There were many interesting comments that were made [during the presentations]. There 
+were fascinating views about the future roles of central banks, about which
+I am sure many of you will have questions. But before I throw it open to [audience] questions, I 
+cannot resist taking Larry [Summers's] challenge that we need to "reconstruct
+macroeconomics", and getting the views of others around the table. Ben [Bernanke], how would you 
+"reconstruct macroeconomics"?
+
+Ben Bernanke: Well I was thinking about Olivier [Blanchard's] comments. Certainly I agree that 
+bringing financial markets into macroeconomics is obviously critical. I think back
+at the work I dida€”that I was involved with academicallyA±and in some ways we had taken steps in 
+that direction. I did work thirty years ago on the role of credit in the Great
+Depression. We had done work on the financial accelerator, and how financial factors could play a 
+role in exacerbating a downturn, and so on.
+
+But the point that Olivier made was very important: the details really matter. Here is a 
+fundamental question: the decline in wealth associated with the tech bubble bursting [in 2001]
+and the decline in wealth associated with the decline in house prices as of, say, late 2008 was 
+about the samea€”maybe even more on the [2001] stock [market] bubble. From a
+standard macro model or even one elaborated with financial factors, you would not have really 
+thought that the housing bubble would have been more damaging than the stock
+bubble. Now the reason it was more damaging, of course, as we know now, is that the credit 
+intermediation system, the financial system, the institutions, the markets, were far more
+vulnerable to declines in house prices and the related effects on mortgages and so on than they 
+were to the decline in stock prices. It was essentially the destruction of the ability of
+the financial system to intermediate that was the reason the recession was so much deeper in the 
+second than in the first. To understand that, you really have to know the details of
+how banks and individual institutions are exposed to housing and to mortgages, in ways that the 
+institutions themselves did not fully understand at the time.
+
+I think this goes to something that Axel [Weber] was saying. I don't think that you can completely 
+separate central banking and financial regulation. It's important for central banks
+as a lender of last resort and to understand the transmission of monetary policy, macroeconomic 
+dynamics, and financial stability, to have that expertise and ability to understand the
+details of the financial system.
+
+Mervyn King: Olivier [Blanchard], is it just a question of getting the right details in the 
+financial models, or is there something more profound?
+
+Olivier Blanchard: It is good to go second, because while Ben Bernanke was talkinga€!
+
+Mervyn King: You were reconstructing macroeconomicsa€!
+
+Olivier Blanchard: I have the answer. Suppose you are writing two textbooks, one undergrad, one 
+grad. In the undergraduate textbook, it seems to me that when teaching the IS-
+LM, we have the same interest rate on the IS and the same interest rate on the LM. Basically, the 
+policy rate that the central bank chooses by the LM curve goes into the IS curve
+when corrected for expected inflation. I think what we have learned is that these [two interest 
+rates] can be incredibly different. So I would have an r and an rb, and have a machine
+in the middlea€”the banking system which would, depending on its health, determine the spread. It 
+seems to me that if I want to communicate one message, that message is what I
+would communicate to undergrads.
+
+At the graduate level, we now have this explosion of DSGE models which put one friction and another 
+into the model. Again, targeting pedagogy, it seems to me that there are two
+mechanisms which are central. The first is leverage, which starting with Ben [Bernanke's] work and 
+earlier work we have, I think we know how to deal with it. The second is
+liquidity. And I think there we are much less far along the way. Again, I am hoping that someday we 
+will put it together and have a simple way of thinking about leverage and a
+simple way of thinking about liquidity. These two things will come into our New Keynesian model, 
+and we will be able to tell a simple story. We are at the stage at which the DSGE
+models have much too much in them to be fully understood. This is a very engineering-based answer 
+to your question. But that is what I would try to do.
+
+Mervyn King: Thank you. Axel [Weber], with your practical experience more recently, have you 
+changed your views as to how you think about leverage and liquidity?
+
+Axel Weber: No. I think one of the things that really struck me was that, in Davos, I was invited 
+to a group of banksa€”now Deutsche Bundesbank is frequently mixed up in
+invitations with Deutsche Bank. I was the only central banker sitting on the panel. It was all 
+banks. It was about securitizations. I asked my people to prepare. I asked the typical
+macro question: who are the twenty biggest suppliers of securitization products, and who are the 
+twenty biggest buyers. I got a paper, and they were both the same set of
+institutions. When I was at this meetinga€”and I really should have been at these meetings 
+earliera€”I was talking to the banks, and I said: "It looks to me that since the buyers and
+the  sellers are the same institutions, as a system they have not diversified". That was one of the 
+things that struck me: that the industry was not aware at the time that while its
+treasury department was reporting that it bought all these products its credit department was 
+reporting that it had sold off all the risk because they had securitized them.
+
+What was missinga€”and I think that is important for the view of what could be learned in 
+economicsa€”is that finance and banking was too-much viewed as a microeconomic
+issue that could be analyzed by writing a lot of books about the details of microeconomic banking. 
+And there was too little systemic views of banking and what the system as a
+whole would develop like. The whole view of a systemic crisis was just basically locked out of the 
+discussions and textbooks. I think that that is the one big lesson we have learned:
+that                                                                                  I now when I 
+am on the board of a bank, I bring to that bank a view, don't let us try to optimize the quarterly 
+results and talk too much about our own idiosyncratic risk, let's
+
+look at the system and try to get a better understanding of where the system is going, where the 
+macroeconomy is going. In a way I take a central banker's more systemic view to the
+institution-specific deliberations. I try to bring back the systemic view. And by and large I think 
+that helps me understand where we should go in terms of how we manage risks and
+how we look at risks of the bank compared to risks of the system.
+
+Mervyn King: Thank you. Larry [Summers], how are your fellow panelists doing at "reconstructing 
+macroeconomics"?
+
+
+Larry Summers: You know I was tempted to blast off at Dynamic-Stochastic General-Equilibrium 
+models. That is, actually, my inclination. But on the other hand it occurred to
+me to ask the question: "What wouldn't be a Dynamic-Stochastic General-Equilibrium model?" That 
+would be a Static-Certain Partial-Equilibrium model. It is hard to see how that
+represent any kind of an improvement. So I can't be against DSGE on principle.
+
+Having said that, I think that, and maybe I will be proven wrong over time, there is a central 
+question: Should we think of macroeconomics as being abouta€”as it was thought
+about before Keynes, and came to be thought of again in the 1990a€’’cyclical fluctuations about a 
+trend determined somewhere else, where the goal if you were successful was to
+reduce [the fluctuations'! amplitude; or as centrally about tragic accidents where millions of more 
+people were unemployed for millions more person-years at costs of trillions of
+dollars in ways that were avoidable with more satisfactory economic arrangements.
+
+Unless and until we adopt the second view, I think we are missing what is our principal opportunity 
+to engage in human betterment. And as long as the question is conceptualized as
+"what friction should we insert into the existing DSGE model and we will have it?", I don't think 
+we will get to the kind of perspective that I am advocating.
+
+Now it is easy to say this, it is easy to say this. It is much harder to provide a constructive 
+vision of just how to do it. But there are a number of schools of work that to date I think
+have been sufficiently abstract that they have not made easy connection with practical policy 
+problemsa€’’schools that involve multiple equilibria, fragile equilibria, and so
+fortha€”that have the prospect of capturing the kind of notion that there are these periods in 
+which you have a very bad outcome that you somehow could have avoided without
+compromising the future in a very serious way. It really is true that a little bit of avoiding what 
+has happened over the past six years is worth a lot of making the amplitude of
+fluctuations around trend smaller. It seems hard to observe the past six years, which did not in 
+fact achieve that much disinflation, and not think that it should somehow have been
+possible to avoid that waste.
+
+Share Brad DeLong's Grasping Reality
+
+Mervyn King: That's the perfect point to give you [the audience] the chance to ask the panelists 
+your questionsa€!
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

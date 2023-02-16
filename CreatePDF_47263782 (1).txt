@@ -1,0 +1,442 @@
+Thanks for readinga€”and please share with someone you think would learn from this...
+Share
+
+First: Microprocessors as a Leading Sector
+
+How important a leading sector can possibly be depends on (a) what share of the economy it starts 
+out at, (b) what is its average price elasticity of demand, and (c) how fast its rate of technical 
+progress turns out to be.
+
+If you simplify and assume you have a real income elasticity of one, the boost to properly-measured 
+real income from technological progress is roughly equal to the speed of the proportional read 
+price decline of the commodity times the share of total purchases spent on that commodity. That 
+means that for a commodity with a price elasticity of demand of l/2a€”so that total revenue spent 
+on the
+commodity is proportional to the inverse of the quantity produceda€”the maximum possible gain, no 
+matter how far and fast technological progress proceeds, is simply twice the initial spending 
+share. (At the limit, when making the good is free, the real income surplus you gain is simply 
+twice of the value of your initial spending on it: all the resources used to produce that, you can 
+now redirect
+to other purposes, plus there is an equal amount from the surplus created as the quantity demanded 
+grows when the price declines.) If the price elasticity of demand is 1, then the spending share is 
+constant, so that the boost is constant over time if the rate of technological progress and thus of 
+price decline is constant.
+
+And if you have a commodity for which the price of demand is greater than one, like microprocessors 
+appear to be? Then the rate at which the surplus accumulates grows over time. And that is where we 
+seem to be right now:
+
+Pushkar: Chip Wars: a€~Even though TSMC commands an enormous manufacturing scale and market 
+valuation, it is not entirely at liberty to set the direction and cadence of Moorea€™ s Law on its 
+owna€!. Its technology roadmap is heavily influenced by the product roadmaps and requirements of 
+its largest customers and the roadmaps and capabilities of its suppliers
+like ASML and Applied Materialsa€!. Fifteen years ago, Intel annual revenues were 3X larger than 
+those of either Google or Amazon, while Intel made nearly 2X the revenue of Apple! Microsoft was 
+the only one of these 4 companies with a revenue higher than Intel. Today, these four companies 
+earn 10X more in combined revenue than the three largest chipmakers !a€!
+
+A consistent cadence of technological progress has set apart the semiconductor industry from any 
+other in human history and has underpinned nearly all aspects of technological evolution; indeed, 
+of all human progress over the last 50 years. The mobile wave of computing flattened the 
+semiconductor world order and created a multi-polar industry wherein the predictable
+pace of progress is no longer driven by a single entity alone; rather this progress will now 
+require close collaboration between multiple large and disparate corporations and governments 
+alike. It will also require massive capital outlays, beyond the reach of any single entity alone. 
+And finally, it will require collaboration across international borders while maneuvering
+around geopolitical hotspotsa€!
+
+LINK:
+
+
+
+One Picture:
+
+Oregon Major Reservoir Storage Summary as of March 1, 2022
+
+
+120
+
+60
+
+0
+
+53 -
+
+40
+
+20
+
+0 _
+
+402
+
+300
+
+150
+
+426
+
+300 ■
+
+150 ■
+
+0
+
+Detroit
+
+10%
+
+Phillips Lake
+
+50
+
+25
+
+0
+
+
+300
+
+150
+
+0
+
+279
+
+200
+
+100
+
+0
+
+315
+
+240
+
+120
+
+21% of Capacity
+
+46% of Median
+
+Lookout Point
+
+26% of Capacity
+
+56% of Median
+
+Hills Creek
+
+38% of Capacity
+
+71% of Median
+
+Lost Creek
+
+32% of Capacity
+
+46% of Median
+
+79% of Capacity
+
+90% of Median
+
+Upper
+
+49% of Capacity
+
+75% of Median
+
+47% of Capacity
+
+80% of Median
+
+1420
+
+1000
+
+500
+
+0
+
+500
+
+250
+
+0
+
+169
+
+120
+
+60
+
+3% of Capacity
+
+9% of Median
+
+Brownlee
+
+M% of Capacity
+M% of Median
+
+Owyhee
+
+23% of Capacity
+
+54% of Median
+
+Warm Springs
+
+10% of Capacity
+
+34% of Median
+
+
+Applegate     Klamath Lake
+
+62% of Capacity
+
+7% of Capacity
+
+Wickiup
+
+148
+
+100
+
+50
+
+0
+
+Prineville
+
+
+61% of Median
+
+84% of Median
+
+14% of Median
+
+52% of Median
+
+Very Briefly Noted:
+
+•  Tim Duy: Powell Sticks With the Hawkish Script: a€~I am not so confident, although I guess it 
+depends on your definition of soft-landing. I only think of 1995 and 2019 as soft landings. In any 
+event, I still think it most likely that we are past the point of no return on this issue. By the 
+end of the year, the choice between recession and inflation will be stark, putting a
+stagflationary outcome in play. On that question specifically, Powell is cautiously optimistic...
+
+• FRED: Nonfarm Business Sector: Labor Productivity (Output per Hour) for All Employed Persons: a€™ 
+6.62%a€! <https: //fred .stlouisfed .org/graph/?g=M AnB>
+
+• Lorena Hernandez Barcena & David Wessel: How Does the Fed Define a€oeMaximum Employmenta€UT 
+<https://www.brookings.edu/blog/up-front/2022/02/23/how-does-the-fed-define-maximum-emplovment/>
+
+• Jean-Baptiste JeangA’ne Vilmer: Putin Loses No Matter How This Plays Out, But We Might 
+7bo<https://warontherocks.com/2022/03/putin-loses-no-matter-how-this-plays-out-but-we-might-too/>
+
+•  Bill Browder: a€™ The elephant in the room. The U.K. and US committed in 1994 to protect the 
+territorial integrity of Ukraine in exchange for Ukraine giving up its nuclear weapons. Now that is 
+being threatened, we have a moral imperative to at least set up a no-fly zonea€! 
+<https://twitter.eom/i/timeline>
+
+•  Carole Cadwalladr: a€™ The Germans are seizing yachts. The French are seizing yachts. Meanwhile, 
+Britain is letting oligarchs quietly put their affairs in order before slipping out of the country. 
+If you were furious about the Downing Street parties, you should be sick to your stomach about 
+thisa€!
+
+Carole Cadwalladr @carolecadwalla
+
+The Germans are seizing yachts. The French are seizing yachts. Meanwhile, Britain is letting 
+oligarchs quietly put their affairs in order before slipping out of the country. If you were 
+furious about the Downing Street parties, you should be sick to your stomach about this
+
+Mike Galsworthy dYt°dYt! @mikegalsworthy
+
+The Germans have now seized oligarch Alisher Usmanova€™ s yacht. Usmanov also owns Sutton Place in 
+the UK. Is @BorisJohnson going to keep pace with the EUa€! or is he, very mysteriously, dragging 
+his feet on tackling oligarchs? https://t.co/0MALqV0bmn
+11:56 AM r™ Mar 3,2022
+
+21,51 !Likes9,092Retweets
+
+Jo Walker: Parsimony is when a wild animal virus escapes from a lab and then causes an outbreak at 
+an unconnected wild animal market: a€oejust because we pulled a dead guy covered in bite marks out 
+of shark-infested waters doesna€™t disprove the possibility that he got mauled by a lion and then 
+decided to take a swima€Da€! <
+
+Jo Walker dYETi.D^Da^i.D @VaccineJo
+
+just because we pulled a dead guy covered in bite marks out of shark-infested waters doesn't 
+disprove the possibility that he got mauled by a lion and then decided to take a swim
+10:14 PM r™ Mar 3,2022
+
+53Likes5Re tweets
+
+•  Mueller, She Wrote: a€™ THREAD: as promised, here is my breakdown of the 1/6 committee filing 
+asserting that donald trump and John Eastman violated federal criminal lawa€!
+
+
+THREAD: as promised, here is my breakdown of the 1/6 committee filing asserting that donald trump 
+and John Eastman violated federal criminal law. 1/
+10:13 PM r™ Mar 3,2022
+
+6,753Likesl ,920Retweets
+
+•  Aram Zucker-Scharff: a€™ Individualized user tracking & targeting generates negative societal 
+outcomes for no real societal value other than cheaper ads. Which is not good!a€!
+
+Aram Zucker-Scharff @ Chronotope
+
+@mchowla @pbannist @humanpropensity @SimonJHarris @KyleDozeman I'm not claiming ad tech is a net 
+negative on society. This is not an attack for working on ad tech. I work on ad tech. I'm claiming 
+individualized user tracking & targeting generates negative societal outcomes for no real societal 
+value other than cheaper ads. Which is not good!
+12:00 AM r™ Mar 4,2022
+
+• Brian Tyler Cohen: a€™ NEW: Both Georgia and Moldova apply to join the European UnionaCI
+
+Brian Tyler Cohen @briantylercohen
+
+NEW: Both Georgia and Moldova apply to join the European Union.
+4:35 PM r™ Mar 3,2022
+
+83,206Likes 10,446Retweets
+
+Paragraphs:
+
+Arjun Appadurai: The Dawn of Everything?'. a€~What is the argument of the book?a€! Our ancestors 
+werea€! self-conscious political actors, playing with different models of social life, 
+experimenting with forms of trading, kinship, farming and transportation which would best suit 
+their ecological niches and their built-in preference to live as they pleased.a€! [But] if many 
+million human
+beings from the Arctic to Amazonia, and from the Balkans to East Asia, had invented and 
+deliberately chosen, defended and sustained social designs to prevent permanent stratification, 
+exploitation and oppressiona€! how do we account for the steady drift, later a sprint, towards 
+cities, classes, taxes, exploited labour surpluses and permanent elites, in the whole of the known 
+world?a€! States,
+charisma, bureaucracy. It is not surprising that an invented question (why do free people 
+eventually get seduced into unfreedom) leads to an artificial answer (because they allowed 
+bureaucrats to get a nose inside their tents)a€!
+
+LINK: 
+<https://www.facebook.com/34603097/posts/manv-of-vou-have-heard-about-this-book-by-david-graeber-and
+-david-wengrow-here-i/10101201176454897/>
+
+Ellen loannes: Vox Sentences: a€~a€oeWea€™ ve reached a new moment in the fight against Covid-19 
+where severe cases are down to a level not seen since July of last year,a€D Biden said during 
+TuesdayaC™ s State of the Union address. However, he stressed that although the new plan is aimed 
+at making the crisis less acute, a€oewe never will just accept living with Covid-19, wea€™ 11
+continue to combat the virus, as we do other diseases.a€D The new plan will expand access to 
+Covid-19 oral antiviral treatmentsaCI along with rapid testsa€!. All the new initiatives will 
+require new funding from Congress, which will go toward increasing vaccine manufacturing 
+capability; replenishing the national stockpile of tests, masks, and antiviral pills; and 
+increasing monitoring
+capabilities to detect variantsaC!
+
+Steve Saideman: Irredentism 101: a€~Efforts by groups or countries to reunify lost territories with 
+a homelanda€!. This is a bad move for Russia and the Russian people and much worse for Ukraine. 
+Whether it pays off politically for Putin is not clear. Many irredentist efforts are gambles that 
+do not pay off very wella€!. In sum, irredentism means war, and it is not easy to deter or prevent.
+Ukraine is screwed, and there is not much we can do about it but make it costly a€!
+
+LINK: <http://saideman.blogspot.com/>
+
+Ian Millhiser: Amy Coney Barrett Is Not Being Honest About What the Supreme Court Is Up to: a€~The 
+rhetoric of judicial restraint is potent, so it is understandable why Barrett wants to tap into 
+that potencyaC!. Barrett is hardly the only justice to engage in such rhetorica€!. Gorsuch recently 
+published an entire book claiming that judges should rely almost exclusively on the text of a 
+statute or
+constitutional provisional. Thomas frequently calls for radical shifts in the lawa€! to restore the 
+a€oeoriginal understanding^□ of the Constitution^!. Alito, the Courta€™ s most partisan justice, 
+recently attributed his new, entirely atextual limits on the Voting Rights Act to having taken 
+a€oea fresh look at the statutory texta€Ua€!
+
+LINK: 
+<https://www.vox.com/2022/2/19/22934915/supreme-court-justices-not-honest-amy-coney-barrett-notre-da
+me-abortion-voting-rights>
+Leave a comment
+
+Give a gift subscription
+
+Become a subscriber to receive this a€~Stack in email; or pay, for extras-at-the-bottom and to 
+support this efforta€”I would like to collect enough from it to hire an RA....
+Share
+
+PAID SUBSCRIBER ONLY Content Below:
+
+Subject: Prospects for World Peace & Prosperity Through World Law?
+
+Until last week, I thought that the prospects for world peace and prosperity through world law were 
+on the decline. I gave a talk back in 2013 about how the European Union had fumbled ita€”had failed 
+to deal properly with the Great Recession, and so it was losing energy and credibility. And that 
+was my viewa€”up until last week. It seemed as though cosmopolitanism and democracy were on
+the retreat, and that we were not doing well at strengthening the "peace interest" that Karl 
+Polanyi first identified as a principal feature of the 1815 to 1914 version of the 19th century.
+
+I may be imagining things. But now it seems to me as though everything has changed. Brexit has 
+crystallized, even for many of those were formally its cheerleaders, as much more a demonstration 
+of what not to do then what to do, as Britain finds itself we cannot just economically but 
+politically and morally as well. And the invasion of Ukraine has made everybody keenly aware of how 
+much
+and how important it is for them to be Europeans united, in a way that has not been the case since 
+the end of the Cold War:
+
+
+
+Brad DeLong's Grasping Reality
+
+HOISTED FROM THE ARCHIVES: European Union: A Talk from 2013
+
+Become a subscriber to receive this a€~Stack in email; or pay, for extras-at-the-bottom and to 
+support this efforta€”I would like to collect enough from it to hire an RA... European Union: A 
+Talk from 2013 Brad DeLong: European Union: A Talk from 2013: My problem this morning is that I 
+have four starting points. Or maybe my problem is that I have five starting pointsa€!
+
+Read more
+
+a year ago A- 4 likes A- 1 comment A- Brad DeLong
+
+
+
+Brad DeLong's Grasping Reality
+
+READING: Karl Polanyi: The Hundred-Years' Peace
+
+Tremendously insightful, remarkably and bone-headedly wrong, massively stimulatinga€”and perhaps 
+relevant for the failure of the economic peace interest of our day to constrain Muscovite 
+adventurisma€!
+
+Read more
+
+a year ago A- Brad DeLong
+
+
+Brad DeLong's Grasping Reality
+
+The Persistent Structures of Antiliberal Thought
+
+Become a free subscriber to receive this a€~Stack in your email. Do note that this Grasping Reality 
+newsletter is a reader-supported publicationa€’T really would like to collect enough from it to 
+hire an RA. So consider becoming a paid subscriber, please, if you find this project worthwhile and 
+think it worth continuinga€!
+
+Read more
+
+a year ago A- 2 likes A- 7 comments A- Brad DeLong
+
+
+
+Brad DeLong's Grasping Reality
+Sleepwalking into History
+
+CONDITION: War in Ukraine: I want to believe that this is not stage-managed to make Putin look 
+dominant, but in fact reflects the shakiness of Putina€™ s internal position. I want to believea€! 
+Anton Troianovski: a€™ Another extraordinary televised Kremlin meetinga€!
+
+Read more
+
+a year ago A- 1 like A- 5 comments A- Brad DeLong
+

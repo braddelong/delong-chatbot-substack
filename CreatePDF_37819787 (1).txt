@@ -1,0 +1,151 @@
+Subscribe now
+
+The 2020-2022 COVID-19 plague caused by the coronavirus SARS-COVID-19 has, many today think, put 
+the world economy in an odd position. For more than a quarter century
+now the ongoing revolution in data processing and data communications technology has been 
+profoundly altering the basic underpinnings of property and exchange and valuea€”
+has been shifting us from a a€cecommoditya€D to an a€ceattentiona€D economy. We have all watched 
+this shift gradually lurch forward. But now, many say, our two plague years
+are packing, in some aspects, what would have been at least a decade of change and development into 
+two years, as requirements of quarantine and social distancing have taught
+and humans have had to learn on an emergency basis how to better use information and communications 
+technology to try to substitute for much face-to-face interaction.
+
+Share
+
+But what exactly, are we moving toward? Let me attempt to set out the ideal type of an 
+a€oeattention economya€D, more-or-less by simply reversing the polarity on a
+a€cecommodity economya€D o under the four headings: excludability, rivalry, transparency, and 
+coordination.
+
+In a commodity economy the things of valuea€”the goods that people wanta€”are concrete objects 
+useful to them that are both rival (hence you a€ceshoulda€D in some sense pay
+a price for using them) and excludible (hence you can straightforwardly be charged a price for 
+access). In an attention economy the things of valuea€”the things that you can be led
+to pay attention to, and would be willing in the abstract to pay fora€”are neither. Hence, on the 
+one hand, you a€ceshoulda€D in some sense have access to them for free. And, on a
+second hand, you should be offered great variety conforming to your taste, because it is no longer 
+make-one use-one, it is write-once run-e very where. But how is such a system of
+creators and attention-payers to be sustained when you cannot charge directly for what people find 
+valuable in terms of what they want to pay attention to? You must, somehow, sell
+something ancillary that is not itself an attention good that you can somehow bundle with the 
+attention good, and often this will take the form of a side-channel that can be
+manipulated   to get them to direct attention elsewhere, for people who think that they can profit 
+for it.
+
+In an attention economy information problems are not just a complication or a distraction, they are 
+at the essence. You cannot know what you are consuming before you do so. Once
+you have learned what it is, you have already paid attention to it, and your part of the economic 
+cycle is done. This seems likely to lead to a world in which reputation and branding
+are of overwhelming importance: since I cannot know what it is before I make my decision to pay 
+attention to it or not, a natural heuristic will be: is this channel one that I have
+found it worthwhile to pay attention to in the past, or that has a warranty of quality from 
+something I trust?
+
+This will, I think, lead repeatedly to the dominance of platforms and aggregatorsa€”of all kinds.
+
+Plus there is the problem that human attention is not human utility, not to mention not human 
+flourishing. Looking at a lot of people I know, a number of them would really be much
+happier and much more well-balanced if Facebook had never existed. The sharp Matthew Yglesias has, 
+I think, a good take:
+
+Matthew Yglesias: a€ceFuturea€ce & the Future of Media’. a€~Content distribution^! is mediated via 
+Googlea€! Facebook, anda€! lessera€! smaller
+networks like Twitter. Alla€! especially Facebooka€! deci[ded]a€! to give maximum visibility to 
+content that is maximally engaginga€!. Engagement­
+maximization mostly boosts rightwing populists pushing pessimistic negative-sum worldviews while 
+giving a secondary boost to leftwing populists
+pushing    a different set of pessimistic negative-sum worldviews. Oops!a€! https://w w 
+w.slowboring.com/p/future-media
+
+People woh are prosperousa€”even richa€”in a material sense, and who are definitely engaged, but in 
+a way that makes them extremely unhappy, and dangerous to their fellows
+who happen to look different, speak different, get labeled as different, and simply happen to be in 
+the wrong place at the wrong time.
+
+Then there is the question of the coordination problem in an attention economy. Back in the 
+commodity economy, the price mechanism was an adequate communications channel
+because the details of the specification about exactly what was demanded were rarely if ever of the 
+essence. Why not? Because since the division of labor was relatively shallow and
+simple, standard commodities could be purchased and altered to serve.
+
+For example, consider the 30-foot bronze statue of Athene Promakhosa€’’Athene 
+Fighting-in-Fronta€’’designed by Pheidias that the council and people of Athens had cast and
+installed on the Acropolis in the year -456. 63 tons of copper and seven 7 tons of tin went into 
+the statue. Where were the artisans of Athens to find 7 tons of tin? Herodotos of
+Hallicarnassos reported that nobody in Athens could tell him where the tin was coming from: all 
+anyone could say was that the ships had picked up the tin, already mined, in Sicily,
+and    that they thought it came from a€oetin islandsa€O in the ocean. But he could find nobody who 
+would claim to have actually seen these a€oetin islandsa€D. The answer was:
+from Cornwall, in Britain. The market as a mechanism a€ceknewa€D that 7 tons of tin needed to be 
+mined in Cornwall and then shipped to Athensa€”but apparently no individual
+human knew that.
+
+But as time passed, and as the division of labor advanced, coordination requires much more than 
+simply going into the marketplace somewhere, calling out your willingness-to-pay
+as a signal, and waiting for travelling merchants and the market mechanism to respond. In the 1930s 
+the Ford Motor Company can run its assembly lines at full speed and efficiency
+only in the United States, and only near Detroita€”its auto assembly plants elsewhere struggle to 
+attain half that productivity, even in places like the United Kingdom. And when
+Ford sells its dies and jigs for the Model T to the USSR when it replaces it with the Model A? In 
+Russia, worker productivity stalled out at about AU the U.S. value. During World
+War II, from iron ore to final test at which you try to drive it out the factory, a U.S. Sherman 
+tank took approximately 10000 man-hours to build. A Soviet T34-C, approximately
+30000. Tight, personal, face-to-face linkages of designers to engineers to assembly workers and 
+then on to maintenance and sales staff who have visited the factory and know what
+the machines can do and what their quirks are becomes essential. And coordinating this led to the 
+modern corporations that the French christened a€oeFordista€D.
+
+Now, of course, the coming of the attention economy has given what Richard Baldwin calls the 
+a€oesecond unbundlinga€D: that of intra-firm communication. With the coming of
+the internet it is no longer necessary that a firm's sophisticated industrial division of labor be 
+geographically concentrated. Faxes, datafiles, and hopping onto a transoceanic jet as a
+last resort: the word is that in the Before Times Apple Computer had 50 first-class seats a day 
+back and forth between San Francisco and China. Even for those cases in which the
+limits of the division of labor are not so much the communication of knowledge but the 
+face-to-face, looking-in-the-eye establishment of trust and its limits was necessary, video
+calls cemented by a final jet-flight-and-handshake worked remarkably well.
+
+And so we got the international value-chain economy and the smile curve: low in the middle, high at 
+the beginning and the end. Great value was earned at the beginning by
+providing raw materials and resources and, more important, industrial design. Little value was 
+added in the middle by increasingly routinized manufacturing and assembly. And
+great value was added at the end by marketing, branding, and distribution^’’providing information 
+(and misinformation) to consumers about what they might want from the
+enormous variety of types and qualities of goods that could be churned out from the expanding 
+capacity of factories. And it was, again, a quilt. Very good things happened in
+selected places. Other places, nearby in culture, political allegiances, and attitudes, got left 
+behinda€’’either their industries that they drew on for relatively high-value and high-
+income niches in the worlda€™ s division of good things packed up and moved away, or never arrived.
+
+So here we have the characteristics of the a€oeattention economya€n that we are moving into in a 
+nutshell: Increasingly, highly, highly sophisticated and integrated divisions of
+labor that need in no wise be geographically concentrated any more. Increasingly, information 
+problems no longer complications but of the essence, and so we have the capture of
+high-value positions in the value chains by brands and platformsa€”and the remarkable phenomenon of 
+clickbait in the small and the large: earning money by making your primary
+users more unhappy. Increasingly, the things of greatest valuea€”with the highest notional 
+willingness-to-paya€”are experiential attention-grabbers, produced in a process of write-
+once, write-often, distribute-everywhere, and take advantage of what virally grabs attention to 
+then make enough to sustain the enterprise via the sale of ancillary services.
+
+Share Brad DeLong's Grasping Reality
+
+This is the direction we are headed as we head away from the a€oecommodity economya€D. We are 
+almost surely not going to get all the way to the end of the road. But toward
+this is where we are tending. And right now it looks as though we are packing ten to twenty years 
+of this change into two.
+
+1628 words
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+21
+
+

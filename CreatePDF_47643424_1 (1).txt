@@ -1,0 +1,320 @@
+Become a free subscriber to receive this a€~Stack in your email. Do note that this Grasping Reality 
+newsletter is a reader-supported publication^”1 really would like to collect enough from it to hire 
+an RA. So consider becoming a paid subscriber, please, if you find this project worthwhile and 
+think it worth continuing:
+
+Type your emaila€|       Subscribe
+
+Building Tools for Analyzing
+
+Growth
+
+J. Bradford Delong
+
+http://bradford-delong.combrad.delong@gmail.com
+@delong
+
+#TCEH #AEH #I2M
+
+Last Edited: 2017-06-17
+
+
+Thanks for reading this. And please share it far and wide, if you think it worth reading!
+
+
+Share
+
+Growth and Decay Processes
+
+Economics gives us numbers we can count that change over time:
+prices and quantities
+
+Economics studies emergent macro outcomes that are not
+designed or intended by the micro-level actors
+
+Simplest micro-level processes
+
+• Transmission (or increase)
+
+• Decay
+
+Proportional growth—compound interest
+
+• The time over which some growth process takes place
+
+• The rate at which growth (or shrinkage) takes place
+
+• The amount that the variable grows to
+
+•   T, g, y... with little t standing in for any potential moment
+
+Don't get snowed I Accurately assess how important or
+consequential things are!
+
+
+Share Brad DeLong’s Grasping Reality
+
+Growth and Decay Processes
+
+Transmission and increase gives us proportional or
+exponential growth—compound interest
+
+• The time over which some growth process takes
+place
+
+• The rate at which growth (or shrinkage) takes
+place
+
+• The amount that the variable grows to
+
+• X g, y... with little t standing in for any
+potential moment
+
+Don't get snowed! Accurately assess how
+important or consequential things are!
+
+Decay gives us exponential convergence
+
+
+r* n
+
+The Unreasonable Effectiveness of Mathematics...
+
+•  Muhammad ibn Musa al-Khwarizmi (c.
+780-850)
+
+• By name: answer to: "OK. But which
+Muhammad ibn Musa wandering around
+Baghdad under al-Mamun are we talking
+about?"
+
+• Author of: Al-Kitab al-MukhtasarfiHisab al-
+Jabr wa'I-Mukabala—The Compendious Book
+on Calculation by Completion and Balancing
+
+•  Worked in Baghdad at the House of Wisdom
+established by the Kalif Al-Mamun
+
+
+Mathematics as a Series of What-If? Machines...
+
+A way of doing a huge number of
+calculations about what might be
+happening at once
+
+Seeing which of these calculations satisfy
+whatever the consistency and coherence
+conditions are
+
+And then summarizing the results of all of
+them in a very small space
+
+But the technique rapidly becomes
+
+
+Listen to Richard Feynman
+
+"An analogy.... The Maya Indians were interested in... Venus....
+To make calculations, the Maya had invented a system of bars
+and dots to represent numbers... and had rules by which to
+calculate and predict not only the risings and settings of [the
+War-Star] Venus, but other celestial phenomena....
+
+"Only a few Maya priests could do such elaborate
+calculations....
+
+"Suppose we were to ask one of them how to do just one
+step in the process of predicting when Venus will next rise as
+a  morning  star—subtracting  two  numbers  How  would  the
+priest explain?....
+
+
+Listen to Richard Feynman
+
+"He could either teach us the... bars and dots and the rule... or he
+could tell us what he was really doing:
+
+"'Suppose we want to subtract 236 from 584. First, count out 584
+beans and put them in a pot. Then take out 236 beans and put them
+to   one side. Finally, count the beans left in the pot. That number is the
+result.  '
+
+"You might say, 'My Quetzalcoatl! What tedium... what a job!'
+
+"To which the priest would reply, 'That's why we have the rules   The
+
+rules are tricky, but they are a much more efficient way of getting the
+answer.... We can predict the appearance of Venus by counting beans
+(which is slow, but easy to understand) or by using the tricky rules
+(which is much faster, but you must spend years in school to learn
+them)."'
+
+
+The Uses of Math: Isaac Newton
+
+• Isaac Newton (1642-1727):
+
+•  Philosophise Naturalis Principia Mathematica
+
+—Mathematical Principles of Natural
+Philosophy
+
+• Worked in Cambridge at the university there
+
+•  These people did their work to make your lives
+easier:
+
+• Arithmetic and accounting
+
+• Algebra and calculus
+
+•  What-if machines—ways of doing a huge
+number of potential calculations all at once...
+
+
+
+dy/dt = g(y - a)
+
+Exponential Growth
+
+40
+
+start at t = -500 with y = a + 0.006
+g = 0.01; a = 10
+
+• starts very near 10                       ³⁰
+
+• does nothing for a long time—stays very
+near 10—then explodes
+
+• y = 10 + exp(.01(t-10))                    20
+
+• y = a + c[exp(g(t-a))]
+
+
+- 400             - 200              o                       200              400
+
+http://wolframalpha.com :: Plot[10+EA(0.01 (-10 + t)), {L -400, 400},PlotRange -><{-400, 4OOX <Ot 
+40}}l
+
+Exponential Growth
+
+
+- 400             - 200              o                       200              400
+
+http7/wolframalpha.com :: Plot[10+EA(0.01 (-10 + t)). {t. -400, 400},PlotRange ->«-400, 400}. {0, 
+40}}]
+
+You Try It
+
+
+httpj7wolframalpha.com :: Plotf! O+E^O.O! (-1O + t)), <t, -400, 400},PlotRange ->{{-400, 40O>, {O, 
+40»]
+
+it EXP J J // E"
+
+•  It's a function: we feed it a number x, and get out exp(x) (or EAx)
+
+• We can calculate it:
+
+• exp(x) = l+x+(xA2)/2+(xA3)/6+(xA4)/24+...
+
+• exp(O)=l
+
+• exp(l)=2.71828182846...
+
+•  But we don't have to...
+
+•  Over 1618-1731, Napier, Oughtred, Bernoulli, Leibnitz, and Euler did it
+for us...
+
+
+Exponential Convergence
+
+• Convergence
+
+• dy/dt =-g(y - k)
+
+•  start at t = 0 with y = 0
+
+•  g = 0.01; k = 100
+
+•  heads rapidly for k
+
+• and then stays there
+
+•  (y - k) halves in absolute value
+in... guess what? 0.693/g
+
+•  (y - k) shrinks to a thousandth
+of its initial absolute value
+
+in (Tiiacc       £ QI /a
+
+
+Combine the Two: Logistic Growth
+
+• dy/dt = g(y-a)(k-y)/k
+
+• y = a + (k-a)[exp(gx)]/(k-a+exp(gx)-l)
+
+• a is the initial population
+
+•  k is the carrying capacity
+
+•  g is the unimpeded growth rate (you'll see this called "r")
+
+•  Pierre-Francois Verhulst in 1838, building a mathematical model of
+Thomas Malthus' Essay on the Principal of Population
+
+•  Rediscovered by McKendrick, by Pearl and Reed, and by Lotka
+
+
+Logistic Growth
+
+
+-10                         -5                           0                           5              
+            10
+
+Things to Remember
+
+• Asymptote: a (in the negative x-axis direction, for growth and logistic)
+
+• Asymptote: k (in the positive x-axis direction, for convergence and logistic)
+
+•  Rule of 72: 72 divided by the growth rate gives you the doubling (for
+growth) or halving (for convergence) time
+
+•  Rule of 720: Multiply the doubling time by 10 to get the thousand-fold time
+
+• Why 72? Why not 0.693?
+
+• 72 is easier to do in your head
+
+•  72 = 36x2 = 24x3 = 18x4 = 12x6 = 9x8
+
+• 72 can be better if things come in steps...
+
+
+Catch Our Breath...
+
+• Comments?
+
+• Questions?
+
+
+<https://www.icloud.com/keynote/
+QOavyLT 2tyuaZPUoOpVcZmng>
+
+<https://www.icloud.com/keynote/OOavyLT 2tyuaZPUoOpVcZmng>
+Leave a comment
+
+Become a free subscriber to receive this a€~Stack in your email. Do note that this Grasping Reality 
+newsletter is a reader-supported publication^”1 really would like to collect enough from it to hire 
+an RA. So consider becoming a paid subscriber, please, if you find this project worthwhile and 
+think it worth continuing:
+
+Type your emaila€|       Subscribe
+
+Give a gift subscription
+

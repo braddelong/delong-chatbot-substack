@@ -1,0 +1,139 @@
+Subscribe now
+
+The 2020-2022 COVID-19 plague caused by the coronavirus SARS-COVID-19 has, many today think, put 
+the world economy in an odd position. For more than a quarter century
+now the ongoing revolution in data processing and data communications technology has been 
+profoundly altering the basic underpinnings of property and exchange and valuea€”
+has been shifting us from a a€cecommoditya€D to an a€ceattentiona€D economy. We have all watched 
+this shift gradually lurch forward. But now, many say, our two plague years
+are packing, in some aspects, what would have been at least a decade of change and development into 
+two years, as requirements of quarantine and social distancing have taught
+and humans have had to learn on an emergency basis how to better use information and communications 
+technology to try to substitute for much face-to-face interaction.
+
+Share
+
+But what exactly, are we moving away from?
+
+Let me attempt to set out the ideal type of a commodity economya€”more-or-less as Adam Smith two 
+and a half centuries ago understood it.
+
+In a commodity economy, in my image of it at least, things of value are concrete easily assayable 
+commodities created for and then distributed via sale in competitive markets. The
+commodities are rival, excludible, transparent, and as for coordination, market prices creating 
+incentives directing small-scale producers are enough to solve coordination problems.
+In fact, the properly tuned market economy solves all the problems:
+
+Because in a commodity economy the principal sources of value are rival goods, requiring people to 
+pay prices for using them is a very good way to incentive-compatibly
+crowdsource the solution to the problem of how what is produced is going to be distributed:
+
+[willingness to pay] = [intensity of demand] x [social power (mediated through their wealth) of the 
+demander].
+
+That use of goods is also easily excludible makes it possible to implement such a price and market 
+exchange-based system. Then, in addition, it immediately drops out that you have
+solve the problem of what should be produced: whatever makes a profit should be produced. And as 
+long as you are comfortable with the distribution among people of social power
+implicit in the distribution of wealth, and as long as Pigouvian externalities are not 
+widespreada€”and you can at least argue in favor of the powerful insights of Ronald Coase (or is
+it   a dodge?) that it is possible to a€oecut property rights at the jointsa€D, so to speak, to all 
+but eliminate transaction costs and so make externalities truly de     ’’property,
+contract, and the market are what you need. What then is not to like?
+
+Well, there may be information problemsa€’’adverse selection and moral hazard. Well, there is the 
+question of whether the market and its prices are a thick enough communication
+channel to actually do the coordination of human activity required to make production efficient. 
+Well, there is the question of who is going to do the R&D, and what is the right
+amount                                                                              of R&D to do. 
+Well, there is the question of market power.
+
+Of these the last, the problem of market power, was well-known to Adam Smitha€™ s generation. It 
+was a major wellspring of his belief that only landlords should have the vote.
+The working classa€”even if a well-functioning commercial society made it prosperous and 
+comfortable, and even if the government took a hand to moderate the stultifying effects
+of the division of labor on the minds of the working class, and make no mistake: Smith thought a 
+sophisticated division of labor was both marvelously productive and appallingly
+stultifyinga€’’could not handle the required cognitive load of voting. And the mercantile and 
+manufacturing classes would, if given the vote, use it to have the government give
+them      all monopolies. But landlords, Smith thought, had an interest both in general prosperity 
+and in competitive markets.
+
+Of these the next to last, the problem of R&D, was always an embarrassment.
+
+At the start it was a minor embarrassment. Suppose that we are willing to make the brave guess that 
+the efficiency-of-labor E in a Solow growth model is equal to the value of the
+stock of useful ideas discovered, developed, and deployed in the world economy H times the 
+square-root of natural resources per worker R/L.
+
+Then in Adam Smitha€™ s age, from 1500 to 1770, worldwide, the proportional rate of growth h of the 
+value of the deployed-ideas stock H was 0.15%/year: less than 5% per
+generation; only 16% per decade. Adam Smith saw a world in which the density and sophistication of 
+your commercial network and thus the fineness of your societal division of
+labor   was much more important as a determinant of the efficiency-of-labor than was the process of 
+invention, innovation, development, and deployment. Indeed, he thought of those
+largely as immediate consequences of a fine division of labor, rather than as an independent force.
+
+It was soon thereafter clear that that judgment was wrong for the future humanity was then moving 
+into. Over 1770-1870 our h becomes 0.45%/year, worldwide. And starting in
+1870 it has been approximately 2%: 4.5 times its pace during the 1770-1870 Industrial Revolution 
+century, 14 times its pace during the 1500-1770 Imperial-Commercial Revolution
+era, (and 55 times its pace during the preceding 1-1500 Late Agrarian Age). By the 1840s Friedrich 
+Engels was dismissing classical economists as obvious paid shills for the rich
+because of their reduction of:
+
+the production costs of a commodity... [to] three elements: the rent... the capital with its 
+profit, and the wagesa€!. A factor which the economist does not
+think abouta€“I mean the mental element of invention, of thoughta€!. What has the economist to do 
+with inventiveness? Have not all inventions fallen into
+his lap without any effort on his part? Has one of them cost him anything? Why then should he 
+bother about them in the calculation of production costs?
+
+Land, capital and labour are for him the conditions of wealth, and he requires nothing else. 
+Science is no concern of his. What does it matter to him that he
+has received its gifts through Berthollet, Davy, Liebig, Watt, Cartwright, etc.a€“gifts which have 
+benefited him and his production immeasurably?a€! In a
+rational order which has gone beyond the division of interests as it is found with the economist, 
+the mental element certainly belongs among the elements
+of production and will find its place, too, in economics among the costs of production^!. A single 
+achievement of science like James Watta€™ s steam-
+engine has brought in more for the world in the first fifty years of its existence than the world 
+has spent on the promotion of science since the beginning of
+time...
+
+As I say, it was an embarrassmenta€’’subsumed under Pivouvian externalities or discussed as 
+requiring a tradeoff between static and dynamic efficiency via patent systems making
+legally excludible what was non-rival in is essence. It was a sign that Smitha€™ s mental image of 
+what was typical for a a€cecommodity economya€D was not describing reality,
+and was describing it less well as time passed.
+
+How about information problems? They do not arisea€”mucha€”in a commodity economy because you are 
+buying and selling concrete, visible, assayable things. Neither moral
+hazard nor adverse selection has much play.
+
+And problems of coordination? The image of production in a commodity economy is of a small farmer, 
+or a small craftsman, or the work of a small team. And, where necessary, the
+Coasian insighta€”or, again, is it a dodge?a€”that Darwinian processes would let firms grow in size 
+as long as their internal processes were more efficient than market coordination
+would have been, but then firm growth would stop, and to inquire into the workings of firms was 
+somebody elsea€™ s business.
+
+Share Brad DeLong's Grasping Reality
+
+That is the mental image of what is typical for a commodity economya€”the Weberian ideal-type. It 
+is, of course, only an ideal-type. It was never an actual empirical reality. But it
+was close enough in Adam Smitha€™ s day to guide a great deal of useful thought about economy and 
+economic policy.
+
+1428 words
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+
+

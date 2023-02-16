@@ -1,0 +1,265 @@
+Subscribe now
+
+Key Insights:
+
+1. Getting the rate ofprofita€”the sums that are charged businesses for renting machines and 
+renting space, and for access to the generalized social power to deploy resources that is 
+financea€” right is a very, very important thing to do. Why? Because the market economy is a 
+complicated institutional calculating machine for determining how to promote societal wellbeing. It 
+cannot do its job if it cannot see the the constraints imposed on us by nature
+and current technology. And having the market get the profit rate right is a very important part of 
+that. To say a€ceita€™ s all ideologya€dor a€ceita€™ s all powera€\3or a€ceita€™ s all 
+distributiona€dand go the full Sraffa production-of-commodities-by-means-of-commodities is to miss 
+a truly powerful, relevant, and important insight. Thata€™ s the strongest statement of what the 
+Cambridge, Massachusetts-MIT side was really getting
+ata€”or ought to have been getting at, although they phrased it badly and inaccurately.
+
+2. If we attempt to use toy mathematical models applied to macro aggregates to say anything 
+quantitative about whether business owners are getting paid a€oetoo mucha€^or a€cetoo littlea€VA we 
+will fail embarrassingly. Therefore we should never use toy models to do that.
+
+3. To say that the market-equilibrium profit rate is the optimal one from the perspective of 
+societal well-being is to commit the pseudo-pharisaical mistake of reversing the order of 
+importance. Rather, recognize: the market was made for man, not man for the market.
+
+4. The particular language in which the economists of the 1960s carried out this debate was 
+extremely poorly suited to shed light. They cared deeply, they wrote angrily, and most of what they 
+wrote was drivel. So: whenever you are having a discussion, if you want to learn or teach anything, 
+first do this: try hard to figure out what issues really are, and then try hard to figure out what 
+is the right language to talk about these issues.
+
+5. As always, the key insight is: a€ceHexapodiad€U2
+
+a€oelt was not called the a€~net of a million liesa€™ for nothinga€!a€D
+
+Crypto: 0
+
+As-Received-By: QQB shipboard ad hoc
+
+Language-Path: Arbwyth->Trade 24->Cherguelen->Triskw
+From: Twirlip of the Mists
+
+Subject: Blighter Video thread
+Keywords: Hexapodia as the key insight
+Distribution: Threat of the Blight
+Approved:    yes
+
+Date: 8.68 days since Fall of Relay
+
+I haven't had a chance to see the famous video from
+Straumli Realm, except as an evocation. (My only
+
+•             a          al                   a       •                                             
+•             k.                • a        a
+
+
+that    humans    have    six    legs?    I    wasn't    sure    from    the
+evocation.    If    these    humans    have    three    pairs    of    legs,
+then                                                                             I think there is 
+an easy explanation for
+
+—MORE—
+
+login - mail
+
+
+Share
+
+THE WORLDJF UK CAMBRIDUEIHA D WON
+
+
+2. — A pure economic theorist must wonder why emotions ran so
+high over such an esoteric issue, which, after all, does not seem much
+different  from  the  reswitching  of  activities  discovered  by  Irving
+Fisher in 1907. Many explanations come to mind, and one certainly
+cannot  dismiss  the  fact  that  Cambridge,  U.  K.,  had  caught  Cam­
+bridge, Mass., in a rare instance of a technical blunder. Also,onemust
+remember  that  Cambridge,  U. K., economists  tend to be primarily
+interested  in  questions  of  political  economy,  and  if  reswitching
+could be used to attack the concept of« capital», it is for some only a
+short (but logically treacherous) step leading to attacks on « capita­
+lism  »  and  «marginal  productivity».  Ironically,  reswitching  is
+unimportant for these issues, one fact upon which Joan Robinson,
+Samuelson, and Solow apparently can agree (9).
+
+
+1 11V 1 lUUU^llUli ± U11VU1VI1
+
+and the Theory of Capital
+
+INTRODUCTION
+
+In her paper with the above title1 Mrs. Robinson was annoyed at many of the practices
+of academic economists. We have reason to be grateful for her annoyance, for she seems
+to have written her article the way an oyster makes pearls—out of sheer irritation. Perhaps
+her main target is the custom of regarding output as a function of inputs of labor and
+“ capital She tells us that the student—the English student, at least—is told that output
+is a kind of index-number, labor is a quantity of homogeneous man-hours, and then he is
+bustled away from the scene of the crime before he thinks to ask in what units “ capital ”
+is measured.
+
+In the spirit of natural history I would like to record that the routine in at least some
+
+American classrooms is slightly different, if no more enlightening. If I write Q — /(£,C),
+I simply assume that there exists only one kind of physically homogeneous capital good,
+and C, like L, is measured in unambiguous physical units. Of course, it’s not true that
+only one kind of capital good exists, but then there’s also more than one kind of labor,
+and  anyhow  this  is  neither  the  student’s  first  nor  last  course  in  economic  theory.  All
+that matters is that it be made clear what part of the theory holds true in the general case.3
+1 would go one step further. For many purposes it is remarkably useful to assume that
+there exists only one physical commodity which can either be consumed or used as capital
+in the production of more of itself. Then Q and C are measured in the same units except
+that Q is a flow and C is a stock. This simple but fruitful model of capital accumulation
+
+
+was one of the legacies to economics left by Frank Ramsey.3 But this is by the way.
+
+The Production Function and the Theory
+of Capital
+
+INTRODUCTION
+
+The  dominance  in  neo-classical  economic  teaching  of  the  concept  of  a  production
+function,  in  which  the  relative  prices  of  the  factors  of  production  are  exhibited  as  a
+function  of  the  ratio  in  which  they  are  employed  in  a  given  state  of  technical  know­
+ledge,  has  had  an  enervating  effect  upon  the  development  of  the  subject,  for  by  con­
+centrating  upon  the  question  of  the  proportions  of  factors  it  has  distracted  attention
+from    the  more  difficult  but  more  rewarding  questions  of  the  influences  governing  the
+supplies  of  the  factors  and  of  the  causes  and  consequences  of  changes  in  technical
+knowledge.
+
+Moreover,   the   production   function   has   been   a   powerful   instrument   of   mis­
+education.  The  student  of  economic  theory  is  taught  to  write  0  =  f  (L,  C}  where  L  
+is
+a  quantity  of  labour,  C  a  quantity  of  capital  and  0  a  rate  of  output  of  
+commodities.1
+He  is  instructed  to  assume  all  workers  alike,  and  to  measure  L  in  man-hours  of  
+labour  ;
+he  is  told  something  about  the  index-number  problem  involved  in  choosing  a  unit  of
+output  ;  and  then  he  is  hurried  on  to  the  next  question,  in  the  hope  that  he  will  
+forget
+
+to  ask  in  what  units  C  is  measured.  Before  ever  he  does  ask,  he  has  become  a  
+professor,
+
+
+and so sloppy habits of thought are handed on from one generation to the next.
+
+The  question  is  certainly  not  an  easy  one  to  answer.  The  capital  in  existence  at
+any  moment  may  be  treated  simply  as  “  part  of  the  environment  in  which  labour
+works.”2   We  then  have  a  production  function  in  terms  of  labour  alone.  This  is  the
+right  procedure  for  the  short  period  within  which  the  supply  of  concrete  capital  goods
+does  not  alter,  but  outside  the  short  period  it  is  a  very  weak  Une  to  take,  for  it 
+ means
+that  we  cannot  distinguish  a  change  in  the  stock  of  capital  (which  can  be  made  over
+the long run by accumulation) from a change in the weather (an act of God).
+
+We  may  look  upon  a  stock  of  capital  as  the  specific  list  of  all  the  goods  in  
+existence
+at   any   moment   (including   work-in-progress   in   the   pipe   lines   of   production).   
+But
+this  again  is  of  no  use  outside  the  strict  bounds  of  the  short  period,  for  any  
+change  in
+the  ratio  of  capital  to  labour  involves  a  re-organisation  of  methods  of  production  and
+requires  a  change  in  the  shapes,  sizes  and  specifications  of  many  or  all  the  goods
+appearing in the original list.3
+
+As  soon  as  we  leave  the  short  period,  however,  a  host  of  difficulties  appear.  Should
+capital be valued according to its future earning power or its past costs ?
+
+A SUMMING UP *
+PAUL A. SAMUELSON
+
+I. The simplest Austrian and more general models, 568. — II. Why re-
+switchiner can occur. 571. — III. Reswitching in a durable-machine model.
+
+
+573.  —  IV.  The  well-behaved  factor-price  frontier,  574.  —  V.  Unconventional
+relation   of   total   product   and   interest,   576.   —   VI.   Unconventional   capital/
+output  ratios,  577.  —  VIL  Reverse  capital  deepening  and  denial  of  diminish­
+ing returns, 579. — VIII. Conclusion, 582.
+
+The phenomenon of switching back at a very low interest rate
+to a set of techniques that had seemed viable only at a very high in­
+
+terest rate involves more than esoteric technicalities. It sho4   ws that
+
+the simple tale told by Jevons, Bbhm-Bawerk, Wicksell, and other
+neoclassical  writers  —  alleging  that,  as  the  interest  rate  falls  in
+consequence  of  abstention  from  present  consumption  in  favor  of
+future, technology must become in some sense more “roundabout,”
+more “mechanized,” and “more productive” — cannot be universally
+valid.
+
+I. THE SIMPLEST AUSTRIAN AND MORE GENERAL MODELS
+
+Figure I shows the simple picture of Bbhm-Bawerk and Hayek,
+in which labor is applied uniformly for a shorter (or longer) period
+
+
+of time and in consequence society gets a smaller (or larger) output
+
+Rate of interest
+
+Techniquel
+
+Techniq
+
+
+
+
+Share Brad DeLong's Grasping Reality
+
+References:
+
+Roger E. Backhouse: MIT & the Other Cambridge 
+<http://web.archive.org/web/20150906001312/http://paulromer.net/wp-content/uploads/2015/08/History-o
+f-Political-Economy-2014-Backhouse-252-71 ,pdf>
+
+Christopher Bliss: Capital Theory & the Distribution of Income 
+<https://books.google.com/books?id=NzejBQAAQBAJ>
+
+Edwin Burmeister: On the Social Significance of the Re switching Controversy
+
+chttps ://www.j stor.org/stable/24696693>
+
+Joan Robinson: The Production Function & the Theory of Capital <http://theme .univ-paris 1 ,fr/M 1 
+/hpe/HPEM 1-TD4 .pdf>
+
+Joan Robinson: Quotes <https://www.azquotes.com/author/32076-Joan_Robinson>
+
+Joan Robinson: What Are the Questions? <https://www.j stor.org/stable/2722966>
+
+Barkley Rosser: The Legacy of Joan Robinson 
+<https://econospeak.blogspot.com/2016/05/the-legacy-of-ioan-robinson.html>
+
+Paul Samuelson: A Summing-Up <https://www.jstor.org/stable/1882916>
+
+Beatrice Sherrier: a€~Having fun re-reading the Solow-Robinson correspondence^! 
+<https://twitter.com/Undercoverhist/status/101290173989957632Q>
+
+Robert M. Solow: The Production Function & the Theory of Capital <https://academic .oup 
+.com/restud/article/23/2/101/1538444>
+
+Robert M. Solow & Joseph E. Stiglitz: Output, Employment, & Wages in the Short Run 
+<https://www.jstor.org/stable/1879599>
+
+&, of course:
+
+Vernor Vinge: A Fire Upon the Deep <https: //books .google .com/books ?id=fCCWWgZ7d6UC>
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

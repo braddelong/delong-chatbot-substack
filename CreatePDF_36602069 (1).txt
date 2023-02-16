@@ -1,0 +1,481 @@
+<https://www.kansascityfed.org/documents/3329/PDF-GD5 2005.pdf>
+
+Mr. Summers: I speak as a repentant, brief Tobin tax advocate, and someone who has learned a great 
+deal about the subject, like Don Kohn, from Alan Greenspan, and someone who finds the basic, 
+slightly Luddite premise of this paper to be largely misguided. I want to use an analogy, not 
+unlike the one Hyun Song Shin did, but to a rather different conclusion.
+
+One can think of the history of transportation over the last two centuries as reflecting a gradual 
+and determined move away from arma€™ s length transactions. People once supplied their own power. 
+Then, they started carrying on transportation using tools that they owned. Then, they increasingly 
+relied on tools that other people owned that were provided by intermediaries.
+
+In that process, the volume of transportation activity increased very substantially. Over time, 
+people became almost entirely complacent about the safety of the transportation arrangements on 
+which they relied. Large sectors of the economy came to be organized in reliance on the capacity of 
+planes to fly and trains to move. The degree of dependence on individual hubsa€”like Oa€™Hare 
+Airporta€’’increased substantially. The worst accidents came to be
+substantially greater conflagrations than they had ever been in an earlier era.
+
+Yet, we all would say almost certainly that something very positive and overwhelmingly positive has 
+taken place through this process. Something that is overwhelmingly positive for individuals is that 
+the number of people who die in transportation-related episodes is substantially smaller than it 
+was in an earlier era.
+
+The best single way to think about the process of financial innovation is as representing a similar 
+process of movement across spaces, spanned not by physical space, but by different states of 
+nature. It seems to me that the overwhelming preponderance of what has taken place has been 
+positive. It is probably true thata€”as we didna€™ t use to have transportation safety regulation 
+and we do nowa€”an evolving system does require an evolving regulatory
+response.
+
+But it seems to me that one needs to be very careful about stressing the negative aspects of the 
+evolution, relative to the positive aspects of the evolution. I was going to make the same point 
+that Don Kohn made about the Japanese financial system and the Scandinavian financial system 
+standing out for the magnitude of damage done and the reliance on vanilla banking, relative to 
+other activities.
+Something similar could be said about the history of U.S. business cycles. The history of the 
+business cycles prior to 1970 would place very substantial reliance on problems that came out of 
+the financial sector and the regulation of the financial sector.
+
+
+I was surprised by the tone of the recommendation around the incentives because it seems that if 
+you take what is the central, most plausible area of concern that is suggested by what takes place 
+in the paper, it is the notion that speculation involves negative feedback over a certain range, 
+then positive feedback once you get outside of that corridor, and that process is very 
+substantially exacerbated by hedge fund phenomena. Indeed, if one looks at the Shleifer-
+Vishny paper that Mr. Rajan refers to, hedge funds and the behavior induced by hedge funds and 
+hedge fund liquidations are the central example. Yet, hedge funds would be the primary example we 
+have of a financial institution where those who were running it did in fact have, as Raghu Rajan 
+recognized in his comment on long-term capital management, very substantial wealth that was 
+involved.
+
+While I think the paper is right to warn us of the possibility of positive feedback and the dangers 
+that it can bring about in financial markets, the tendency toward restriction that runs through the 
+tone of the presentation seems to me to be quite problematic. It seems to me to support a wide 
+variety of misguided policy impulses in many countries.
+
+I would say as a final example of what has come out of the discussion for the 1987 crisis is that 
+if those who wish to protect their assets had bought explicit puts rather than portfolio insurance, 
+the situation would have been substantially more stable. That also argues for the benefits of more 
+open and free financial markets, rather than for the concerns they bring.
+
+Mr. Fraga: Ia€™ m a former regulator and now a hedge fund manager. Unlike Mr. Shin and Mr. Summers 
+who talked about bridges, trucks, and planes, I am going to talk about banks and hedge funds. I 
+will be brief because a lot of what I wanted to say Don Kohn covered in magnificent fashion. I also 
+should say at the outset that I was very stimulated by this paper. It is very rich and insightful. 
+Being a reader of many of your papers, I think one more revision
+with a little more structure or perhaps a framework would be the final touch needed on what is an 
+otherwise stimulating piece.
+
+My first remark is slightly academic. We are moving toward more complete markets. Presumably, this 
+is a good thing. I do see from my vantage point at the ground level that risk is going where it 
+belongs. What we see in the hedge fund industry now is really several different things. It is, in 
+fact, a good innovation because small investors dona€™t like banks to take a lot of risk. So, 
+traders and banks move out to hedge funds and they are there met by more
+sophisticated investors.
+
+First, we must look at distortions and look for ways to improve the system. I am not so sure that 
+what Raghu Rajan mentions is a step in that direction. He says: a€oelnvestment managers get 
+performance-based compensation, and they have a tendency to conceal risks, especially tail 
+risksa€!and that banks somehow were better. a€D
+
+Banks in the old days were paid to grow their loan books. I cana€™ t think of a worse incentive, 
+and that is the way they were compensated. A lot of the things wea€™ ve seen have to do with that. 
+Investment managers today, however risky their businesses may be, tend to care about their 
+reputations and tend to have their money on the line. If you were to do a study, you would find 
+there are substantial amounts of investment managers invested in their own
+funds. That is healthy and is being delivered by the market on its own. Also, banks are tricky 
+because they dona€™ t mark to market their loans. Ita€™ s not doable. Moreover, they have 
+liabilities that trade at par, with deposit insurance. So, talk about moral hazarda€’’there really 
+is plenty of it in banking.
+
+I also must say, as an investor, I have a pretty easy time looking at funds and figuring out what 
+they are doing. It is nearly impossible to know what the large financial institutions we have in 
+this planet are doing these days. I am being cautious here. I think it is impossible.
+
+That is, in my view, probably an argument to say we may be better off than before. The fact that 
+funds mark to market their portfolios every day means if people want to withdraw, there will be a 
+natural protection against a run. People may give up on withdrawing after values decline, and 
+anyway, if they do, it is their own loss. Moreover, these investors are more sophisticateda€”as I 
+said, I run one of these institutionsa€”and they really watch over what we are
+doing. This is quite healthy. In these days, we see endowments and other sophisticated long-term 
+investors doing this job very efficiently.
+
+Perhaps because of all this we see less of an impact of all these financial accidents on the real 
+economy now than we did see in the 1980s when it took years to clear markets, for banks to start 
+lending again, and for the economies to start moving.
+
+Lastly, I should report to you that it seems also very clear that the terms that fund managers get 
+these days are changing. The better fund managers are getting longer terms, and they still get paid 
+in a very convex fashion. I would have a concern if we saw retail investors going into hedge funds. 
+I should just make a note of that.
+
+Mr. Fischer: This is a very interesting paper. It gives a sophisticated answer to the question a 
+lot of people ask about financial innovations: whether they make the markets more efficient and 
+more stable. I think the answer is they make the markets more efficient, they reduce the 
+probability of a financial crisis, and they increase the extent of those crises that are likely to 
+occur. That is my interpretation of what it says.
+Then, the question is what to do about the extreme prices. There is improved internal risk 
+management, which certainly is happening in all institutions. It is very complicated, particularly 
+as instruments get more complex. Like Arminio Fraga, having been inside one of those machines, the 
+need to mark to market inside banks is very clear.
+
+Anybody who wants to take too much comfort from this should remember a lunchtime speech here by the 
+then-CEO of Bankers Trust on how perfect their internal risk management systems were. The trouble 
+is you never quite know. Secondly, you could argue that you could rely on market discipline, but 
+that is really about internal risk management as well.
+
+Then there is prudential supervision, which is extremely tough, because the size of the prudential 
+supervision team is way smaller and the amount of information it has is way less than the internal 
+risk managers have. What it can do is inspect systems, which is good. It certainly put the fear of 
+hell into the institutions, which is probably the best thing it could do. When talking about that, 
+you had better remember insurance companies because these risks are being
+spread more and more and ending up there. It is saida€”I have no direct knowledge of ita€”that the 
+quality of risk management in insurance companies is less and prudential supervision is less than 
+in the banks.
+
+Rajan emphasized that the residual risks are in the banks. I dona€™ t know if that is true, but 
+what is true is that all the market risks end up affecting the banks. That is especially true in a 
+non-Glass-Steagall world, which is the world we have now.
+
+Finally, what to do about the lender of last resort. Rajan emphasized liquidity, and so did the 
+discussants. That is what central banks can provide in a crisis, but you have to bear in mind the 
+rule that the lender of last resort should lend to the market and not to specific institutions. 
+This whole development is paradoxically reemphasizing the role of the central bank in the 
+management of the system. If he is right, Raghu said the key problem is going to be liquidity.
+That is what central banks are about.
+
+I have reflected a long time on the long-term capital management crisis. The thing that struck me 
+most was the story of LTCM could have appeared in Clappina€™ s book on 19th century crises. It is a 
+very modern crisis, but the way it was resolved was almost identical to the way that crises always 
+used to be resolved. The central bank was brought in and banged a few heads together. There was an 
+argument about whether they should have done it, but in the end,
+that was how it was resolved.
+
+Mr. Trichet: First of all, I think the discussion has been absolutely stimulating and of extreme 
+quality. I would echo what Stan Fischer just said. My first point is that we are, as central 
+bankers, at the heart of these issues and threats. I would mention second that the Financial 
+Stability Forum, in my opinion, chaired by Roger Ferguson, is certainly the place where one can 
+have the best assessment of the situation. It is the only place, to my knowledge, where you
+are sure that every institution, and I would say every concept, is taken into consideration. There 
+is no other place. All international institutions are there, all public authorities and the major 
+marketplaces.
+
+Third, herd behavior, in my opinion, remains of course a permanent threat. I like very much all the 
+metaphors that have been used. I remember a meeting in Jackson Hole in 1997, where we were more or 
+less discussing what became known as the Asian crisis. I have the very vivid memory of the private 
+sector warning usa€”meaning the public authoritiesa€”that herd behavior was extremely likely to 
+materialize. And it did. I realized two major conclusions on
+these episodes of turbulence that, I would say, are episodes of both risk turbulence and market 
+turbulence. First, transparency is absolutely of the essence and is the best way to counter herd 
+behavior, as has been proveda€”it seems to mea€”over the last period of time. There are areas where 
+transparency does not exist. I am a little bit puzzled when Arminio Fraga says, a€oelt is 
+impossible to know what major institutions are presently doing ,a€C
+
+I dona€™ t know whether I capture exactly what you said, but that, to me, is contrary to the major 
+lesson we have been drawing from the dramatic events of the recent years. We have to work much more 
+on that. Second, I would mention that the spread of codes of conduct and good practices has been a 
+major advancement, drawing from the dramatic events I was mentioning. I trust that it is essential, 
+and we still have a lot more to do in this domain.
+
+Mr. Sinai: I have a comment and several questions for Raghu and Don Kohn. On the intermediation by 
+what, Raghu, you call investment managers versus bank intermediation. I also have the sense that 
+there is increased risk, perhaps ultimately systemic in the financial system innovations and 
+changes that you described in your paper, despite mark to market discipline. It, in part, stems 
+from the liquidity effects on economic activity, potentially inflation from the
+new intermediaries. I lack empirical evidence for that discomfort. So, I have a series of 
+questions.
+
+Are there any size measuresa€”absolute or relativea€”of what institutions now do most of the 
+intermediation and by how much? Is the traditional intermediation function, as we know it, of banks 
+eventually or already dwarfed by intermediaries such as investment banks, pension funds, venture 
+funds, private equity funds (this is what makes me uncomfortable when I list this totality), buyout 
+funds, hedge funds, and new not transparent, not well-supervised others
+that might evolve in the system? Again, what is the size of the new intermediation pool or lump? Do 
+you have any estimates?
+
+My second question is about monetary policy effectiveness. Monetary policy accommodation, as we 
+know, is interest rates and the availability of funds or credit. With so much availability of 
+funds, the animal spirits of the financial system, and the aggressive nature of the financial 
+system, we may not get the same availability restriction as we used to get from rising interest 
+rates. My next question is more directed at Don. Would there be extra upside inflation
+risk, given the animal spirits in the system and the availability of funds that come from all these 
+intermediaries?
+
+Mr. Blinder: Ia€™ d like to defend Raghu a little bit against the unremitting attack he is getting 
+here for not being a sufficiently good Chicago economist and just emphasize the sentence in his 
+paper which says, a€oeThere is typically less downside and more upside risk from generating 
+investment returns,a€D This is very mildly said. The way a lot of these funds operate, you can 
+become richer than Croesus on the upside, and on the downside you just get your
+salary. These are extremely convex returns.
+
+Ia€™ ve wondered for years why this is so. You dona€™ t need to have public regulatory concerns to 
+worry about it. Take the perspective from inside a big company. The traders dona€™ t own the 
+capital. The traders are taking all this risk and putting the companya€™ s capital at enormous 
+risk. I dona€™ t quite understand why the incentives are as they are.
+I remember a discussion I had witha€”I wona€™ t name hima€”one of the principals of the LTCM, while 
+it was riding high. He agreed with me that the skewed incentives are a problem. But they werena€™ t 
+solving it, obviously. So far, that is just an internal problem to the firm.
+
+What can make it a systemic problem is herding, which Raghu mentioned, or bigness, which is related 
+to the discussion that Fraga raised, and so on. If you are very close to the capitala€”for example, 
+if the trader is the capitalistic’’then you have internalized the problem. So, it may be that 
+bigness has a lot to do with whatever systemic concerns we have. Thus, Ia€™ d draw a distinction 
+between the giant organizations and the smaller hedge funds. Whether that
+thinking leads to a regulatory cure, I dona€™ t know. In other domains, we know, bigness has been 
+dealt with in a regulatory way.
+
+Mr. Weber: I enjoyed reading the paper. I had a few issues in the monetary policy section, which is 
+very short. I would encourage you to elaborate a bit more on that. You said it is plain vanilla, 
+and I think you should add some flavor there.
+
+You mentioned three issues where there is a tradeoff between the monetary policy mandate and the 
+financial supervisory mandate of central banks. You point out the constructive ambiguity issue, 
+where there is the transparency issue in the measured pace policy. You also point out that staying 
+further away from deflation to avoid having to resort to low policy rates is important. My guess is 
+this has implications for the inflation target, and I encourage you also to
+elaborate a bit on thata€”how to deal with this tradeoff and what should govern this tradeoff.
+
+Lastly, you say greater supervisory vigilance should be exercised in periods of low rates to 
+contain asset price inflation. We more or less all agree with these issues. But what should govern 
+these choices? The big issue really is how you implement this if a central bank has a dual mandate. 
+Even if they have dual mandates, there have to be some priorities in the setting, and it may be 
+state dependent. So, I encourage you to work a bit on that.
+
+Mr. Kohn: The only response is to Allena€™ s point about the effectiveness of monetary policy when 
+availability constraints arena€™ t present. I agree with the sense that there used to be a policy 
+channel that ran through credit availability, especially when we had Regulation Q.
+
+Everybody recognized that, as regulations came off, interest rates were going to have to vary over 
+a wider range up and down. But there is no cost to that really, and there is a huge advantage to 
+not having availability constraints. There is no reason why we cana€™ t change those interest rates 
+sufficiently to accomplish our objective, except for the very rare occasion of the zero bound. I 
+dona€™ t see the absence of a credit channel as impinging on monetary
+policy effectiveness.
+
+Mr. Rajan: Let me start by rejecting the allegation that I really have nostalgia for the 
+bank-dominated systemsa€’’absolutely not! I have written a whole book suggesting that we are really 
+much better off in this market-dominated system. All I am arguing is that this creates new 
+concerns. And every responsible regulator and supervisor has to address what these new concerns 
+mean for his or her job. All I am doing is trying to suggest that we need to pay attention
+to this.
+
+In addition, a number of people have raised the concern that we dona€™ t want to interfere with the 
+markets. Again, that is absolutely right. We dona€™ t want to interfere in the natural risk taking 
+of the markets. So, you want to apply market-friendly approaches. As Arminio Fraga said, a number 
+of organizations already use this method of having their managers invest part of their compensation 
+in it.
+
+
+Perhaps because ot all this we see less ot an impact ot all these hnancial accidents on the real 
+economy now than we did see in the 198Us when it took years to clear markets, tor banks to start 
+lending again, and tor the economies to start movmg.
+
+Lastly, I should report to you that it seems also very clear that the terms that fund managers get 
+these days are changing. The better fund managers are getting longer terms, and they still get paid 
+in a very convex fashion. I would have a concern if we saw retail investors going into hedge funds. 
+I should just make a note of that.
+
+Mr. Fischer: This is a very interesting paper. It gives a sophisticated answer to the question a 
+lot of people ask about financial innovations: whether they make the markets more efficient and 
+more stable. I think the answer is they make the markets more efficient, they reduce the 
+probability of a financial crisis, and they increase the extent of those crises that are likely to 
+occur. That is my interpretation of what it says.
+Then, the question is what to do about the extreme prices. There is improved internal risk 
+management, which certainly is happening in all institutions. It is very complicated, particularly 
+as instruments get more complex. Like Arminio Fraga, having been inside one of those machines, the 
+need to mark to market inside banks is very clear.
+
+Anybody who wants to take too much comfort from this should remember a lunchtime speech here by the 
+then-CEO of Bankers Trust on how perfect their internal risk management systems were. The trouble 
+is you never quite know. Secondly, you could argue that you could rely on market discipline, but 
+that is really about internal risk management as well.
+
+Then there is prudential supervision, which is extremely tough, because the size of the prudential 
+supervision team is way smaller and the amount of information it has is way less than the internal 
+risk managers have. What it can do is inspect systems, which is good. It certainly put the fear of 
+hell into the institutions, which is probably the best thing it could do. When talking about that, 
+you had better remember insurance companies because these risks are being
+spread more and more and ending up there. It is saida€”I have no direct knowledge of ita€”that the 
+quality of risk management in insurance companies is less and prudential supervision is less than 
+in the banks.
+
+Rajan emphasized that the residual risks are in the banks. I dona€™ t know if that is true, but 
+what is true is that all the market risks end up affecting the banks. That is especially true in a 
+non-Glass-Steagall world, which is the world we have now.
+
+Finally, what to do about the lender of last resort. Rajan emphasized liquidity, and so did the 
+discussants. That is what central banks can provide in a crisis, but you have to bear in mind the 
+rule that the lender of last resort should lend to the market and not to specific institutions. 
+This whole development is paradoxically reemphasizing the role of the central bank in the 
+management of the system. If he is right, Raghu said the key problem is going to be liquidity.
+That is what central banks are about.
+
+I have reflected a long time on the long-term capital management crisis. The thing that struck me 
+most was the story of LTCM could have appeared in Clappina€™ s book on 19th century crises. It is a 
+very modern crisis, but the way it was resolved was almost identical to the way that crises always 
+used to be resolved. The central bank was brought in and banged a few heads together. There was an 
+argument about whether they should have done it, but in the end,
+that was how it was resolved.
+
+Mr. Trichet: First of all, I think the discussion has been absolutely stimulating and of extreme 
+quality. I would echo what Stan Fischer just said. My first point is that we are, as central 
+bankers, at the heart of these issues and threats. I would mention second that the Financial 
+Stability Forum, in my opinion, chaired by Roger Ferguson, is certainly the place where one can 
+have the best assessment of the situation. It is the only place, to my knowledge, where you
+are sure that every institution, and I would say every concept, is taken into consideration. There 
+is no other place. All international institutions are there, all public authorities and the major 
+marketplaces.
+
+Third, herd behavior, in my opinion, remains of course a permanent threat. I like very much all the 
+metaphors that have been used. I remember a meeting in Jackson Hole in 1997, where we were more or 
+less discussing what became known as the Asian crisis. I have the very vivid memory of the private 
+sector warning usa€”meaning the public authoritiesa€”that herd behavior was extremely likely to 
+materialize. And it did. I realized two major conclusions on
+these episodes of turbulence that, I would say, are episodes of both risk turbulence and market 
+turbulence. First, transparency is absolutely of the essence and is the best way to counter herd 
+behavior, as has been proveda€”it seems to mea€”over the last period of time. There are areas where 
+transparency does not exist. I am a little bit puzzled when Arminio Fraga says, a€oelt is 
+impossible to know what major institutions are presently doing.a€D
+
+I dona€™ t know whether I capture exactly what you said, but that, to me, is contrary to the major 
+lesson we have been drawing from the dramatic events of the recent years. We have to work much more 
+on that. Second, I would mention that the spread of codes of conduct and good practices has been a 
+major advancement, drawing from the dramatic events I was mentioning. I trust that it is essential, 
+and we still have a lot more to do in this domain.
+
+Mr. Sinai: I have a comment and several questions for Raghu and Don Kohn. On the intermediation by 
+what, Raghu, you call investment managers versus bank intermediation. I also have the sense that 
+there is increased risk, perhaps ultimately systemic in the financial system innovations and 
+changes that you described in your paper, despite mark to market discipline. It, in part, stems 
+from the liquidity effects on economic activity, potentially inflation from the
+new intermediaries. I lack empirical evidence for that discomfort. So, I have a series of 
+questions.
+
+Are there any size measuresa€”absolute or relativea€”of what institutions now do most of the 
+intermediation and by how much? Is the traditional intermediation function, as we know it, of banks 
+eventually or already dwarfed by intermediaries such as investment banks, pension funds, venture 
+funds, private equity funds (this is what makes me uncomfortable when I list this totality), buyout 
+funds, hedge funds, and new not transparent, not well-supervised others
+that might evolve in the system? Again, what is the size of the new intermediation pool or lump? Do 
+you have any estimates?
+
+My second question is about monetary policy effectiveness. Monetary policy accommodation, as we 
+know, is interest rates and the availability of funds or credit. With so much availability of 
+funds, the animal spirits of the financial system, and the aggressive nature of the financial 
+system, we may not get the same availability restriction as we used to get from rising interest 
+rates. My next question is more directed at Don. Would there be extra upside inflation
+risk, given the animal spirits in the system and the availability of funds that come from all these 
+intermediaries?
+
+Mr. Blinder: Ia€™ d like to defend Raghu a little bit against the unremitting attack he is getting 
+here for not being a sufficiently good Chicago economist and just emphasize the sentence in his 
+paper which says, a€oeThere is typically less downside and more upside risk from generating 
+investment returns ,a€D This is very mildly said. The way a lot of these funds operate, you can 
+become richer than Croesus on the upside, and on the downside you just get your
+salary. These are extremely convex returns.
+
+Ia€™ ve wondered for years why this is so. You dona€™ t need to have public regulatory concerns to 
+worry about it. Take the perspective from inside a big company. The traders dona€™ t own the 
+capital. The traders are taking all this risk and putting the companya€™ s capital at enormous 
+risk. I dona€™ t quite understand why the incentives are as they are.
+I remember a discussion I had witha€”I wona€™ t name hima€”one of the principals of the LTCM, while 
+it was riding high. He agreed with me that the skewed incentives are a problem. But they werena€™ t 
+solving it, obviously. So far, that is just an internal problem to the firm.
+
+What can make it a systemic problem is herding, which Raghu mentioned, or bigness, which is related 
+to the discussion that Fraga raised, and so on. If you are very close to the capitala€”for example, 
+if the trader is the capitalistic’’then you have internalized the problem. So, it may be that 
+bigness has a lot to do with whatever systemic concerns we have. Thus, Ia€™ d draw a distinction 
+between the giant organizations and the smaller hedge funds. Whether that
+thinking leads to a regulatory cure, I dona€™ t know. In other domains, we know, bigness has been 
+dealt with in a regulatory way.
+
+Mr. Weber: I enjoyed reading the paper. I had a few issues in the monetary policy section, which is 
+very short. I would encourage you to elaborate a bit more on that. You said it is plain vanilla, 
+and I think you should add some flavor there.
+
+You mentioned three issues where there is a tradeoff between the monetary policy mandate and the 
+financial supervisory mandate of central banks. You point out the constructive ambiguity issue, 
+where there is the transparency issue in the measured pace policy. You also point out that staying 
+further away from deflation to avoid having to resort to low policy rates is important. My guess is 
+this has implications for the inflation target, and I encourage you also to
+elaborate a bit on thata€”how to deal with this tradeoff and what should govern this tradeoff.
+
+Lastly, you say greater supervisory vigilance should be exercised in periods of low rates to 
+contain asset price inflation. We more or less all agree with these issues. But what should govern 
+these choices? The big issue really is how you implement this if a central bank has a dual mandate. 
+Even if they have dual mandates, there have to be some priorities in the setting, and it may be 
+state dependent. So, I encourage you to work a bit on that.
+
+Mr. Kohn: The only response is to Allena€™ s point about the effectiveness of monetary policy when 
+availability constraints arena€™ t present. I agree with the sense that there used to be a policy 
+channel that ran through credit availability, especially when we had Regulation Q.
+
+Everybody recognized that, as regulations came off, interest rates were going to have to vary over 
+a wider range up and down. But there is no cost to that really, and there is a huge advantage to 
+not having availability constraints. There is no reason why we cana€™ t change those interest rates 
+sufficiently to accomplish our objective, except for the very rare occasion of the zero bound. I 
+dona€™ t see the absence of a credit channel as impinging on monetary
+policy effectiveness.
+
+Mr. Rajan: Let me start by rejecting the allegation that I really have nostalgia for the 
+bank-dominated systemsa€’’absolutely not! I have written a whole book suggesting that we are really 
+much better off in this market-dominated system. All I am arguing is that this creates new 
+concerns. And every responsible regulator and supervisor has to address what these new concerns 
+mean for his or her job. All I am doing is trying to suggest that we need to pay attention
+to this.
+
+In addition, a number of people have raised the concern that we dona€™ t want to interfere with the 
+markets. Again, that is absolutely right. We dona€™ t want to interfere in the natural risk taking 
+of the markets. So, you want to apply market-friendly approaches. As Arminio Fraga said, a number 
+of organizations already use this method of having their managers invest part of their compensation 
+in it.
+Larry Summers said something about the investigation prompting a wide variety of misguided policy 
+impulses. That may well be true, but that is no reason to not point attention to the possible 
+concerns that are raised. After all, it is our responsibility to do that.
+
+Let me say, we have come a long way. But I do think we need to keep considering how we can make the 
+system work better. Here I want to cite Chairman Greenspan for any changes in regulation: 
+a€oeProceed cautiously. Facilitate and participate in prudent innovation. Allow markets to signal 
+winners and losers among competing technologies and market structures. And, overall, as the medical 
+profession is advised, do no harm.a€D I fully subscribe to this.
+Therefore, we should examine all possibilities and see whether they meet these tests, which I think 
+are very important.
+
+Summers talked about transportation. Well, we never examined the buggy whips to determine whether 
+they were safe because there were two people riding in them. But since we have moved to airplanes, 
+we have the FAAa€”as youa€™ ve pointed outa€”doing a very good job. In the same way, as we get more 
+concentration of risk, it does raise the issue of whether we should investigate more carefully.
+I am not in any way saying, a€oeLeta€™ s go back to banks,a€D Let me stress that again. I am also 
+not saying that banks are in any way better than hedge funds. All I am saying is that we need to 
+pay more attention.
+
+As far as the issue of transparency goes, I agree with Jean-Claude Trichet that transparency is 
+very useful. But for some of these organizations is transparency enough? Do we actually know enough 
+from knowing the immediate positions, so that we dona€™ t have to know their strategies? If we do 
+have to know their strategies, would that not become too complicated, given the limited resources 
+with supervisors, in which case we might have to move eventually
+to incentives. If they have the right incentives, we wouldna€™t worry. We need to figure out 
+whether they, in fact, do have incentives. Fragaa€™ s comment about restructuring the paper makes 
+good sense.
+
+Share
+
+Share Brad DeLong's Grasping Reality
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

@@ -1,0 +1,465 @@
+Very Briefly Noted:
+
+• An aggressive rewrite of C.S. Lewisa€™ s The Last Battle'. a€oeonce a queen in Narnia, always a 
+queen in Narniaa€D: Matt Mikalatos: The Problem(s) of Susan <https ://w ww.tor.com/2Q21 
+/05/12/the-problems-
+of-susan/>
+
+• Brendan Murray & c.: Inflation Rate 2021 & Shortages: Companies Panic Buying as Supplies Run 
+Short 
+<https://www.bloomberg.com/news/articles/2021-Q5-17/inflation-rate-2Q21-and-shortages-companies-
+panic-buying-as-supplies-run-short>
+
+
+• Popehat: a€™ I had forgotten that 73 years ago, when South Pacific debuted, its rather mildly 
+stated anti-racist themes were attacked as anti-American and communist-inspired, and were met with 
+performative
+legislation. Hmma€l <https://twitter.com/Popehat/status/1393992295834263554>
+
+• Cosma Shalizi (2009): On the Certainty of the Bayesian Fortune-Teller 
+<http://bactra.0rg/webl0g/612 .html>
+
+•  Olivier Blanchard (2016): Rethinking Macro Policy: Progress or Confusion? 
+<https://www.bradford-delong.com/2016/05/weekend-reading-olivier-blanchard-rethinking-macro-policy-p
+rogress-or-
+confusion.html>
+
+Paragraphs:
+
+Noah Smith: Yes, Lockdowns Were Good: a€~On the Left, many supported lockdowns, except when it came 
+to protests (fortunately we lucked out when outdoor spread turned out to be very rare)a€!. 
+Governors of
+a€cebluea€D statesa€! were obviously anxious to minimize lockdowns in order to protect their 
+economies (which actually doesna€™t work)a€!. Americans generally resisted lockdowns. And mobility 
+data show that
+Americans didna€™t even really follow the weak, patchy, and temporary lockdowns we put in place. So 
+this entire post is a moot point. Lockdowns failed. A bunch of us died, until eventually we got 
+vaccinesa€!. But now
+that   the evidence is in, I feel a strange desire to set the record straighta€!. Lockdowns reduced 
+transmission of the coronavirus. Some types of social distancing restrictions are more effective 
+than others, and some sub­
+populations benefit more than others, but overall, lockdowns did limit the spread and saved 
+livesa€!. What did lockdown do to the economy?a€! Lo and behold, when we look at evidence, we find 
+that lockdowns accounted
+for   only a small percent of the economic slowdowna€!. Denmark locked down and saw its economic 
+activity decline by 29%; Sweden chose not to lock down, and saw its economic activity decline by 
+25%. The biggest
+economic destroyer by far was not government policy; it was fear of COVIDa€!
+
+LINK: <https://noahpinion.substack.eom/p/yes-lockdowns-were-good>
+
+Steve Matthews: Fed Officials Have Six Reasons to Bet Inflation Spike Will Pass: a€~Acceleration in 
+U.S. price growth this year will have a€oeonly transitory effects on underlying inflation,a€D Fed 
+Vice Chair Richard
+Clarida said Wednesday. Governor Lael Brainard said the day before that officials should be 
+a€oepatient though the transitory surge .a€D Powell has made the same argumenta€!. Measures of 
+expected inflation suggest price
+gainsa€! [after] the next year or soa€! [will] drop back to more normal levelsa€!.. Powell saida€! 
+a€oelt seems unlikely, frankly, that we would see inflation moving up in a persistent way that 
+would actually move inflation
+expectations up while there was still significant slack in the labor marketa€Da€!. The sticky-price 
+index rose a modest 2.4% over 12 months through Aprila€!. A number of structural factors have led 
+to global disinflation
+over    the past three decadesa€!. Outside of passing on commodities prices, most U.S. firms remain 
+reluctant to raise prices on other goodsa€!. Business survey shows limited price increases over 
+next 5a€“10 yearsa€!.
+a€oeBase effects will contributed! to core inflation in April and May,a€D Powell saida€! a€oeand 
+theya€™ 11 disappeara€Da€!
+
+LINK: <https://www.bloomberg 
+.com/news/articles/2021-05-13/fed-leaders-are-confident-inflation-is-transitory-here-s-why>
+
+The Onion (2011): Mitt Romney Haunted By Past Of Trying To Help Uninsured Sick People: a€~BELMONT, 
+MAa€’’Though Mitt Romney is considered to be a frontrunner for the 2012 Republican presidential 
+nomination,
+the national spotlight has forced him to repeatedly confront a major skeleton in his political 
+closet: that as governor of Massachusetts he once tried to help poor, uninsured sick peopled!. 
+doeMy hope is that Republican
+
+voters will one day forgive me for making it easier for sick peopled’’especially low-income sick 
+peoplea€”to go to the hospital and see a doctor ,dD Romney added, doelt was wrong, and Id™ m 
+sorrydUd!
+LINK: 
+<https://politics.theonion.com/mitt-romnev-haunted-bv-past-of-trving-to-help-uninsured-1819572569>
+
+Juan L. Linz (1990): The Perils of Presidentialism: d~The first is the presidentd™ s strong claim 
+to democratic, even plebiscitarian, legitimacy; the second is his fixed term in officed!. The 
+legislators, especially when
+they represent cohesive, disciplined parties that offer clear ideological and political 
+alternatives, can also claim democratic legitimacyd!. Who has the stronger claim to speak on behalf 
+of the people: the president or the
+
+legislative majority that opposes his policies? Since both derive their power from the votes of the 
+people in a free competition among well-defined alternatives, a conflict is always possible and at 
+times may erupt dramatically.
+There is no democratic principle on the basis of which it can be resolved, and the mechanisms the 
+constitution might provide are likely to prove too complicated and aridly legalistic to be of much 
+force in the eyes of the
+electorated!
+
+LINK: <https://scholar.harvard.edu/levitsky/files/1.1 linz .pdf>
+
+Karen Eggleston, Yong Suk Lee, & Toshiaki Iizuka: Robots & Labour in the Service Sector: 
+d~Firm-level studies are important for understanding how robots augment some types of labour while 
+substituting for others,
+yet evidence outside manufacturing is scarce. This column reports on one of the first studies of 
+service sector robots, which suggests that robot adoption has increased some employment 
+opportunities, provided greater
+flexibility, and helped to mitigate turnover problems among long-term care workers. The wave of 
+technologies that inspires fear in many countries may be a remedy for the social and economic 
+challenges posed by population
+ageing  in othersd!
+
+LINK: <https://voxeu .org/article/robots-and-labour-service-sector>
+
+Henry A. Wallace (1952): Where I Was Wrong: d~Before 1949 I thought Russia really wanted and needed 
+peace. After 1949 I became more and more disgusted with the Soviet methodsd!. But in other 
+respects, ideasd!
+have not changed and are as true today as they were then. I went to Asia in 1944 feeling that 
+colonialism could easily be the downfall of the white race. I felt that the supreme problem of 
+modern times was the unresting march
+of the common man, and that most of the common men of the world were earning less than 
+one-twentieth as much as the workers in the US, Canada, Britain, and western Europe. These people 
+because of poor food, disease,
+and ignorance now have a life expectancy 40 years less than ours. With education and good food they 
+have jut as great capacity as we. I wanted the on-rushing common man on our side, and the best way 
+to keep him with us
+was to trade with him and help him to increase his productiona€!
+
+LINK: <https://delong .typepad.com/sd 
+j/2013/02/henry-a-wallace-1952-on-the-ruthless-nature-of-communism-cold-war-era-god-that-failed-webl
+ogging .html>
+
+Ethan Knights & al.: Hand-Selective Visual Regions Represent How to Grasp 3D Tools: Brain Decoding 
+During Real Actions: a€~We examined the responses of independently visually defined 
+category-selective brain areas
+when participants grasped 3D toolsa€!. Whether a tool is grasped appropriatelya€! were decodable 
+from hand-selective areas in occipito-temporal and parietal cortices, but not from tool-, object-, 
+or body-selective areasa€!.
+
+These effects were exclusive for actions with tools, but not for biomechanically matched actions 
+with control non-toolsa€!. Finding a specificity for typical tool grasping in hand-, rather than 
+tool-, selective regions challenges
+the long-standing assumption that activation for viewing tool images reflects sensorimotor 
+processing linked to tool manipulation. Instead, our results show that typicality representations 
+for tool grasping are automatically
+evoked in visual regions specialised for representing the human hand, the braina€™ s primary tool 
+for interacting with the worlda€!
+
+LINK: <https://www.ineurosci.org/content/earlv/2021/04/30/JNEUROSCI.0083-21.2Q21>
+
+Jeet Heer: Two Paths to a Military Coup: a€~If this newsletter has a theme it can be summed up in a 
+sentence: the threat of authoritarianism remains real. Ia€™ ve continued to hammer on this even at 
+the risk of seeming
+obsessed with the past and unable to move on. I think both the coup of January 6 and the subsequent 
+widespread adoption by the Republican Party of the lie of a stolen election shows how real the 
+threat remains in the United
+States. Further, the Trumpian phenomenon has parallels in many other democracies. Authoritarianism 
+isna€™ t the only issue of our time but it is a crucial onea€!
+
+LINK: <https://ieetheer.substack.eom/p/two-paths-to-a-military-coup>
+
+Charlie Sykes: Is This Working for the GOP?: a€~I respect EntenaC™ s work, so this is worth some 
+thinking about, if only as a reflection of the internal ethos of the swamp. We can easily recognize 
+this logic: Successa€”
+measured by polls, or profits, or high gradesa€”is a€oesmarta€n if you dona€™ t dwell too much on 
+other metrics. A company may pollute the environment, cut corners on quality, and game its taxes 
+but be considered
+a€oesmarta€n if it leads to profits. The kid on the playground who gets in his secret punches, but 
+then gets a gold star from his teacher is a€oesmart.a€D A sports team that cheats to win the World 
+Series and gets to keep the
+ringa€”a€oesmart.a€n And a politician who gaslights and lies, but still polls well, can expect the 
+muted applause of cynical punditry. Getting away with it is all that mattersa€!
+
+LINK: <https://morningshots.thebulwark.eom/p/is-this-working-for-the-gop>
+Share Brad DeLong's Grasping Reality
+
+Hoisted from the Archives:
+
+
+20 Yrs. Ago: Aze Monetarist Counterrevolution: Just as modern Keynesians are (in many respects) 
+monetarists, so modern monetarists are really Keynesiansa€”even though they like to admit it even 
+less. They are
+Keynesians in the sense that they have the same profound and deep distrust in the laissez-faire 
+market economy's ability to deliver macroeconomic stability. Moreover, they share the confidence 
+John Maynard Keynes had that
+limited and strategic government interventions and policies could produce macroeconomic stability 
+while still leaving enormous space for the operation of the market. Thus there are no believers in 
+true laissez-faire left, at
+least  not as far as academic macroeconomics is concerneda€!.
+
+The "neutral" monetary policy advocated in works like Friedman and Schwartz (1963) turns out to be 
+a policy that pre-Keynesian generations would have called extraordinarily activist on a number of 
+levels. The laissez-faire
+rhetoric obscures the extraordinarily broad common ground that Milton Friedman shares with John 
+Maynard Keynesa€!. The monetarism of the monetarist counterrevolution^! was as "activist" in its 
+own way as John
+Maynard Keynes could have ever wisheda€!
+
+LINK: 
+<https://www.bradford-delong.com/2016/04/hoisted-from-the-archives-from-fifteen-vears-ago-the-moneta
+rist-counterrevolution.html>
+
+15 Yrs. Ago: Envy and Spite in A3Ae Social Welfare Function'. a€~People who say that we should not 
+count the disutility generated by the fact that the poor envy the rich in the social welfare 
+functiona€!. I have also never
+understood the ferocity of their adverse reaction to the reply: a€oeWell, if we are not going to 
+count the disutility generated by envy, we should also not count the utility generated by 
+spite.a€Ua€!
+
+Daniel Davies: No Riff-Raff'. a€oeEntering into the Brad DeLong Eat The Rich Controversy I offer 
+this observation: If it is not the case a€~that the rich are spitefula€”that they enjoy the envy of 
+the poora€™ , then why is the
+word a€~exclusivea€™ so popular in the marketing material for hotels, nightclubs, holiday resorts 
+and residential property developmentsa€!. Ita€! means that the hotel, nightclub, resort etc is 
+providing a bundled servicea€!
+excluding a segment of the populationa€! the greasy, hairy polloia€!. In order to attract a better 
+class of customer, you have to keep the riff-raff out. Basil Fawlty understood this; why doesna€™t 
+the blogosphere?a€Da€l
+
+Greg Mankiwa€!. a€oeln Brada€™ s world, a rich person conveys a type of negative externality, like 
+pollution. High taxes on the rich can be seen as Pigoviana€!. But I am uncomfortable making envy a 
+basis for public
+policya€!a€D He misses the import of the phrase a€~conspicuous consumption.a€™ Ita€™ s not the hard 
+work and entrepreneurship that is to be discouraged. Make inventions, build enterprises, donate 
+money for hospitals
+and librariesa€”that is all extremely meritorious and praiseworthy. Ita€™ s the conspicuous 
+consumption that is the problem. Surely spite is at least as offensive an other-regarding 
+preference as envy, isna€™t it?a€!
+
+Perhaps some sociologist or psychologist or social psychologist can explain why the reaction is one 
+of jumping to condemn the poor whom the displays by the rich make feel small, rather than to 
+condemn the rich for making
+the displays in order to feel largea€!
+
+LINK: <https://www.bradford-delong .com/2016/05/hoisted-from-the-archives .html>
+
+10 Yrs. Ago: Aze Inflation Slope Is NotAzt Slippery: Between the end of the early 1980s recession 
+and the end of the early 1990s recession, inflation in the United States fluctuated between 1.5% 
+and 6.0%a€”but at no time
+was there any lack of confidence in the Federal Reserve's long-run commitment to low inflation, at 
+no time did the United States slide down the slippery slope, and if there were any complaints that 
+any average inflation rate
+of 4% during that decade noticeably degraded the functioning of the price mechanism, I have not 
+heard them.
+
+Between the end of the early 1990s recession and the end of the early 2000s recession, inflation in 
+the United States fluctuated between 1.7% and 6.0%a€”but at no time was there any lack of 
+confidence in the Federal
+Reserve's long-run commitment to low inflation, at no time did the United States slide down the 
+slippery slope, and if there were any complaints that any average inflation rate of 3% during that 
+decade noticeably degraded the
+functioning of the price mechanism, I have not heard them.
+
+Between the end of the early 2000s recession and the start of the subprime crash, inflation in the 
+United States fluctuated between 1.25% and 4.5%a€”but at no time was there any lack of confidence 
+in the Federal Reserve's
+long-run commitment to low inflation, at no time did the United States slide down the slippery 
+slope, and if there were any complaints that any average inflation rate of 3% during that period 
+noticeably degraded the
+functioning                                                                                         
+         of the price mechanism, I have not heard them.
+
+The argument that an average inflation rate of more than 2% per year sends us sliding down the 
+slippery slope is unsupporteda€!
+
+LINK: 
+<https://web.archive.Org/web/20110514233338/http://delong.tvpepad.com/sdi/2011/05/the-inflation-slop
+e-is-not-that-slipperv.html>
+
+10 Yrs. Ago: Ron Paul Tells Chris Matthews He Favors Enforcement of No-Blacks Covenants in Deeds?'. 
+Not sure I believe thisa€! UPDATE: Yep: Ita€™ s twue! Ita€™ s twue! Ron Paula€™ s American utopia: 
+enforcing
+covenants that property cannot be sold to Black people, and having the police pull Black people out 
+of stores where the proprietor does not welcome thema€!.
+
+Paula€! explained that he would have opposed the Civil Rights Act a€oebecause of the property 
+rights element, not because they got rid of the Jim Crow laws.a€Da€! a€oeThis gimmick, ita€™ s off
+the wall when you say Ia€™ m for property rights and for states rights, and therefore Ia€™m a 
+racist,a€D said the Texas congressman. a€oeThata€™ s just outlandish.a€C Paul appealed to the free
+market, and argued that if a business owner were to post signs declaring segregation in his or her 
+business, people wouldna€™ t patronize ita€!
+
+LINK: 
+<https://www.bradford-delong.com/2011/05/ron-paul-tells-chris-matthews-he-favors-enforcement-of-no-b
+lacks-covenants-in-deeds.html>
+
+10 Yrs. Ago: Scott Hodge ofA3Ae Tax Foundation Censors Himself. If you have been relying on the Tax 
+Foundation as a source of information, it is time to stop. Mark Thoma has the storya€! a€™ I 
+recently noted a post
+from The Tax Foundation accusing the Wall Street Journal editorial page of of a€oea textbook 
+example of how to lie with statisticsa€Da€l Brendan Nyhan notes today that the Tax Foundation post 
+has been taken downa€!
+LINK: 
+<https://www.bradford-delong.com/2011/05/scott-hodge-of-the-tax-foundation-censors-himself.html>
+
+5 Yrs. Ago: What Is A3Ae FOMC Thinking?'. I confess I could understand FOMC participants wanting to 
+raise interest rates right now if projected growth over 2016 was 3.5% or higher. But we have a 
+first quarter of 0.8% and
+a second quarter of 2.3%: we may well not even get to 2.0% this year.I confess I understand FOMC 
+participants worrying about a€ce imbalances a€D created by extremely-low interest rates, but: (1) 
+If they are worried about
+extremely-low real interest rates, they need to be all-in pressuring the Congress for more 
+expansionary fiscal policy. (2) If they are worried about extremely-low nominal interest rates, 
+they need to be all-in pressuring their
+colleagues                                                                                          
+          for a higher inflation target. Ita€™ s the absence of either of those two from the Fed 
+hawksa€”and the Fed moderatesa€”that has me greatly concerneda€! LINK: 
+<https://www.bradford-delong.com/2016/05/must-
+read-i-confess-i-could-understand-fomc-participants-wanting-to-raise-interest-rates-right-now-if-pro
+iected-growth-o.html#more>
+
+1 Yr. Ago: Intro: How Do We Learn (Online Especially)?'. Universities will make a hash of moving 
+online unless we answer the question: How do we learn? This video is the leadoff to a module that 
+suggests some possible
+answers. We also need to know what economics isa€”and how it is good for. And the module that 
+follows this video intro suggests some possible answers to those questions also
+
+<https://delong.typepad.com/files/UNFINISHED-module-0-before-class-begins.pdf>a€! LINK: 
+<https://www.bradford-delong.com/2020/05/intro-how-do-we-learn-online-especially.html>
+
+1 Yr. Ago: Noted: Campos: Trumpa€™ s Acquittal'. In the end, Trumpa€™ s acquittal may be viewed by 
+future historians much like the Roman Senatea€™ s decision to block the Gracchi is regarded by 
+current historians: as
+the start of a huge downward spiral. That presidential corruption and malfeasance are subject to no 
+checks as long as 34 senators fear their reelection chances would be damaged by removal is not a 
+state I ever thought I would
+ever see America reach, but it hasa€! LINK: <https://www.bradford-delong.com/2020/Q5/paul-campos- 
+another-brow-furrower 
+-this-looks-like-one-of-those-deals-where-the-president-savs-ill-stop-illegally.html>
+
+6 Mos. Ago: Do I Really Need to Say, Again, Azat Judy Shelton Does Not Belong on A3Ae Federal 
+Reservea€™ s Board of Governors? Apparently I Dod€\: It looks like even without Trump Republican 
+senators will continue
+to be orange-haired baboons: That any Republican senators at all are thinking of voting for Judy 
+Sheltona€”a woman views whom Milton Friedman dismissed by saying a€oeit would be hard to pack more 
+error into so few
+wordsa€Da€”for a Fed Governor position reveals an astonishing lack of spine. Yet the Senate Banking 
+Committee chair appears to be attempting to advance her nomination on Tuesdaya€! LINK: 
+<https://www.bradford-
+delong.com/2020/ll/do-i-reallv-need-to-sav-again-that-iudv-shelton-does-not-belong-on-the-federal-re
+serves-board-of-governors-apparentlv-i-d.html>
+
+3 Mos. Ago: For PresidentaC™ s Day : A Republic, If We Can Keep If. I do not know what todaya€™ s 
+Republicans want America to be, but it is certainly not a democratic republic. And it is certainly 
+not any form of
+a€oepopulisma€D that I am aware of. Perhaps we should classify their goal as a minority 
+ethnocentric demogocracy? a€ceNeofascista€D still seems the best word to me, but I am told that is 
+much, much, much too impolite
+to use, even on the internet: No, Alexander Hamilton was not a president. But he should have been: 
+a€™It is impossible to read the history of the petty republics of Greece and Italy without feeling 
+sensations of horror and
+disgust at the distractions with which they were continually agitated, and at the rapid succession 
+of revolutions by which they were kept in a state of perpetual vibration between the extremes of 
+tyranny and anarchya€!. From
+the disordersa€! advocates of despotism have drawn argumentsa€! against the forms of republican 
+government^! [and] decried all free government as inconsistent with the order of societya€!. I 
+trust America will be the
+broad and solid foundation of other edificesa€! which will bea€! permanent monuments of their 
+errors. But it is not to be denied thata€! if it had been found impracticable to have devised 
+models of a more perfect structure
+[than the petty republics of Greece and Italy], the enlightened friends to liberty would have been 
+obliged to abandon the cause of that species of government as indefensible. The science of 
+politics, howevera€! has received
+great improvement^! distribution of power into distinct departmentsa€! balances and checksa€! 
+judges holding their offices during good behaviora€! representation of the peoplea€! by deputies of 
+their own electiona€! are
+means, and powerful means, by which the excellences of republican government may be retained and 
+its imperfections lessened or avoideda€! LINK: 
+<https://www.bradford-delong.com/2021/02/for-presidents-day-a-
+republic-if-we-can-keep-it.html>
+
+1 Mo. Ago: I Do Not See d€ceOverheatingd€dAzis Yeara€\ - Brad DeLonga€™ s Grasping Reality. a€~Yes, 
+there will be some inflationa€”base effects and sectoral shifts and simply the speed of reopening 
+will create
+bottlenecks in the system, and those with pricing power will take advantage. Buta€”unless the 
+coronavirus plague has done a lot more damage to the economic division of labor than I believea€”it 
+will not be because
+production and employment are in any manner above stable-inflation a€cepotentiala€D. Think of 
+whatever inflation might happen as skidmarks and burning rubber, rather than any form of 
+boilovera€! LINK:
+
+<https://braddelong.substack.eom/p/i-do-not-see-overheating-this-yeai>
+
+1 Mo. Ago: Our EconomistsaC™ Letter on A3Ae Need for Public Investment'. We need this stuff, 
+badlya€!. Dear Senate Majority Leader Schumer, Senate Minority Leader McConnell, Speaker Pelosi, 
+and House Minority
+
+
+1 Yr. Ago: Noted: Campos: Trumpa€™ s Acquittal: In the end, Trumpa€™ s acquittal may be viewed by 
+future historians much like the Roman Senatea€™ s decision to block the Gracchi is regarded by 
+current historians: as
+the start of a huge downward spiral. That presidential corruption and malfeasance are subject to no 
+checks as long as 34 senators fear their reelection chances would be damaged by removal is not a 
+state I ever thought I would
+ever see America reach, but it hasa€! LINK: <https://www.bradford-delong.eom/2020/05/paul-campos- 
+another-brow-furrower 
+-this-looks-like-one-of-those-deals-where-the-president-savs-ill-stop-illegallv.html>
+
+6 Mos. Ago: Do I Really Need to Say, Again, Azat Judy Shelton Does Not Belong on A34e Federal 
+Reservea€™ s Board of Governors? Apparently I Dod€\: It looks like even without Trump Republican 
+senators will continue
+to be orange-haired baboons: That any Republican senators at all are thinking of voting for Judy 
+Sheltona€”a woman views whom Milton Friedman dismissed by saying a€oeit would be hard to pack more 
+error into so few
+wordsa€Da€”for a Fed Governor position reveals an astonishing lack of spine. Yet the Senate Banking 
+Committee chair appears to be attempting to advance her nomination on Tuesdaya€! LINK: 
+<https://www.bradford-
+delong.com/2020/ll/do-i-reallv-need-to-sav-again-that-iudv-shelton-does-not-belong-on-the-federal-re
+serves-board-of-governors-apparently-i-d.html>
+
+3 Mos. Ago: For PresidentaC™ s Day : A Republic, If We Can Keep It: I do not know what todaya€™ s 
+Republicans want America to be, but it is certainly not a democratic republic. And it is certainly 
+not any form of
+a€cepopulisma€D that I am aware of. Perhaps we should classify their goal as a minority 
+ethnocentric demogocracy? a€ceNeofascista€D still seems the best word to me, but I am told that is 
+much, much, much too impolite
+to use, even on the internet: No, Alexander Hamilton was not a president. But he should have been: 
+a€™It is impossible to read the history of the petty republics of Greece and Italy without feeling 
+sensations of horror and
+disgust at the distractions with which they were continually agitated, and at the rapid succession 
+of revolutions by which they were kept in a state of perpetual vibration between the extremes of 
+tyranny and anarchya€!. From
+the disordersa€! advocates of despotism have drawn argumentsa€! against the forms of republican 
+government^! [and] decried all free government as inconsistent with the order of societya€!. I 
+trust America will be the
+broad and solid foundation of other edificesa€! which will bea€! permanent monuments of their 
+errors. But it is not to be denied thata€! if it had been found impracticable to have devised 
+models of a more perfect structure
+[than the petty republics of Greece and Italy], the enlightened friends to liberty would have been 
+obliged to abandon the cause of that species of government as indefensible. The science of 
+politics, howevera€! has received
+great improvement^! distribution of power into distinct departmentsa€! balances and checksa€! 
+judges holding their offices during good behaviora€! representation of the peoplea€! by deputies of 
+their own electiona€! are
+means, and powerful means, by which the excellences of republican government may be retained and 
+its imperfections lessened or avoideda€! LINK: <https 
+://www.bradford-delong.com/2021/02/for-presidents-day-a-
+republic-if-we-can-keep-it.html>
+
+1 Mo. Ago: I Do Not See d€ceOverheatingd€dAzis Yeara€\ - Brad DeLonga€™s Grasping Reality: a€~Yes, 
+there will be some inflationa€”base effects and sectoral shifts and simply the speed of reopening 
+will create
+bottlenecks in the system, and those with pricing power will take advantage. Buta€”unless the 
+coronavirus plague has done a lot more damage to the economic division of labor than I believea€”it 
+will not be because
+production and employment are in any manner above stable-inflation a€cepotentiala€D. Think of 
+whatever inflation might happen as skidmarks and burning rubber, rather than any form of 
+boilovera€! LINK:
+
+<https://braddelong.substack.eom/p/i-do-not-see-overheating-this-veai>
+
+1 Mo. Ago: Our EconomistsaC™ Letter on A3/4e Need for Public Investment: We need this stuff, 
+badlya€!. Dear Senate Majority Leader Schumer, Senate Minority Leader McConnell, Speaker Pelosi, 
+and House Minority
+Leader McCarthya€! LINK: <https://braddelong.substack.eom/p/our-economists-letter-on-the-need>
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

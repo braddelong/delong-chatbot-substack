@@ -1,0 +1,52 @@
+Subscribe now
+The passage is:
+
+Dig into Friedmana€™ s thesis that the Great Depression was a failure of government and not of 
+market, and things become interesting. For how could you
+tell whether interest rates were too high, too low, or just right? According to Friedman, too-high 
+interest rates would lead to high unemployment. Too-low
+interest rates would lead to high inflation. Just-right interest ratesa€”those that corresponded to 
+a a€ceneutrala€D monetary policy a€’’would keep the
+macroeconomy balanced and the economy smoothly growing. Thus theory became tautologya€!
+
+Mark Skousen writes:
+
+I'm dumbfounded by your claim that Milton Friedman wanted to "stabilize interest rates" (pp. 
+401-402). Actually Friedman wanted to target the growth of
+the stock of money, not the price of money. He wanted the Fed (central banks) to increase the money 
+supply at a stable rate equal to the long-term
+economic growth rate, and to let interest rates find their own equilibrium.a€D
+
+He is correct: the implication that Milton Friedman sought to stabilize interest rates is wrong. He 
+sought a neutral monetary policya€”in which interest
+rates, and much else, would be stable. What I was trying to get at was that when Friedman talks 
+about focusing on the monetary base plus checking
+depositsa€”M2a€”as a quantity to be stabilized, this M2 is not a control variable but rather an 
+intermediate target. It is a leading indicator of nominal
+spending,      and valuable and important only to the extent that it is a reliable leading 
+indicator. M2 is, in Friedman's schema, an immense help as a thing to
+watch  in crafting a neutral monetary policy. Whenever Goodhart's Law arrived and roosted, and the 
+correlation between M2 and future nominal spending
+broke down. Friedman threw away the M2 target and focused on the nominal spending path as an ex 
+post indicator of whether monetary policy had been
+properly neutral. But too much of that a argument was left on the cutting room floor in the final 
+compression of the ms. And so it makes the points only to
+someone, like me, who already understands what I am trying to say.
+
+For a while in his career, Friedman relied on historical correlations for his claim that a 
+a€ceneutrala€D monetary policy could be made automatic. But as
+Charles Goodhart had warned him, the historical correlations broke down as soon as central banks 
+started to try to rely on them as control mechanisms. See
+
+C. A. E. Goodhart, a€oeProblems of Monetary Management: The UK Experience,a€D in Monetary Theory 
+and Practice: The UK Experience, London:
+Palgrave Macmillan, 1984,91a€“121. Friedman then took refuge in a a€oea€~neutrala€™ is whatever 
+worksa€D position. See Timothy B. Lee,
+a€oeMilton Friedman Would Be Pushing for Easy Money Today,a€D Forbes, June 1,2012, 
+<http://www.forbes.com/sites/timothylee/2012/06/01/milton-
+friedman-would-be-pushing-for-easv-monev-today/?sh=76b918545b 16>.
+
+Subscribe now
+Leave a comment
+
+

@@ -1,0 +1,407 @@
+Subscribe now
+
+CONDITION: SBF & FTX
+
+Two truly remarkable and bizarre things to read:
+
+• Adam Fisher: Sam Bankman-Fried Has a Savior Complexa€”And Maybe You Should Tooa€!
+
+• Tracy Alloway & Joe Weisenthl: Transcript: Sam Bankman-Fried and Matt Levine on How to Make Money 
+in Cryptoa€!
+And an important lesson is here in:
+
+• Tyler Cowen: A Simple Point About Existential Riska€!
+
+Share
+
+FOCUS: Quantum Financial Suicide, SBF, & FTX:
+
+
+a€oeBahamas and Quantum Financial Suicidea€D by Stable Diffusion via NightCafe
+
+Matt Levinea€™ s Money Stuff Newsletter is 7450 words this morning, most on SBF but some on Twitter 
+and other topicsa€!
+And Byrne Hobart writes what I was going to write, and writes it better:
+
+Byrne Hobart: Money, Credit, Trust, and FTX: a€~The north star for intelligent risk management is 
+the Kelly Criteriona€! maximize log(wealth); in other words, identifying the bet size that will 
+produce the highest compounding returns without any risk of either a) losing everything, or b) 
+equivalently, losing so much that there's no way to recovera€!. But for a utilitarian who plans to 
+give away all of their money, the utility of wealth is
+roughly linear for all plausible sumsa€!. Was the utilitarianism stuff just bluster to defend a 
+sociopathic moneymaking scheme? Probably not. SBF was writing about utilitarianism for years before 
+he started Alameda, and before he was even working in financea€!.
+
+Continuously betting big, with nonzero odds of failure, will eventually lead to some kind of 
+drawdown. Doing a full Kelly bet can lead to extreme drawdowns, even with perfect play; maximizing 
+log(wealth) also means having a level of volatility that few people can reasonably toleratea€!. SBF 
+argued that you shouldn't bet based on expected(log(wealth)), but based on expected(wealth)a€!. 
+Going past Kelly doesn't mean trading more
+risk for more return, it means taking on so much risk that there's no possibility of a good 
+long-term return!
+
+There are three plausible ways this overbetting strategy can be rescued from the curse of blowup 
+risk. The first is that there's an overlap between the Effective Altruist community and belief in 
+the Many-Worlds interpretation of, which can be interpreted to mean that when probabilities don't 
+work out, there's a world in which they do, and you can't privilege this world over that one just 
+because you happen to be stuck in the unlucky
+version of reality. It's quantum suicide but for financea€!.
+
+A second option is that this kind of utilitarian risk-on behavior is happening in parallela€!. When 
+SBF looks at a bet with a 1% chance of paying off, he shouldna€™ t think of this as a one-time 
+proposition, because other EAs will find similar bets, and take them. If other peoplea€™ s utility 
+matches your own and enough other people are running the same moral source code you are, then the 
+Law of Large Numbers appliesa€!. Full Kelly
+underbets because the bankroll is much bigger than it looks.
+
+And a third possibility is that SBF was maximizing arithmetic returns rather than geometric returns 
+because he saw the crypto boom as a one-time, and temporary, opportunitya€!. You don't care about 
+compounding, because your bet won't compounda€!.
+
+Regardless of the exact justification, FTX/Alameda persistently bet big. And, at some point, they 
+tapped the invisible line of credit ($), moved assets to where they shouldn't be, and eventually 
+got caughta€!. Expected(Log(wealth)) is hard to escape, because linear extrapolation to arbitrary 
+values will always produce absurdities. Nature abhors an oversimplified model, though the way 
+nature deals with it is only obvious in retrospecta€!
+
+Share Brad DeLong's Grasping Reality
+
+MUST-READ: Charles Dickens: Little Dorrit: Ch 21: Mr. Merdlea€™s Complaint:
+
+Harley Street, Cavendish Square, was more than aware of Mr and Mrs Merdle. Intruders there were in 
+Harley Street, of whom it was not aware; but Mr and Mrs Merdle it delighted to honour. Society was 
+aware of Mr and Mrs Merdle. Society had said a€~Let us license them; let us know them.a€™
+
+Mr Merdle was immensely rich; a man of prodigious enterprise; a Midas without the ears, who turned 
+all he touched to gold. He was in everything good, from banking to building. He was in Parliament, 
+of course. He was in the City, necessarily. He was Chairman of this, Trustee of that, President of 
+the other. The weightiest of men had said to projectors, a€~Now, what name have you got? Have you 
+got Merdle?a€™ And, the reply being in the negative, had
+said, a€~Then I wona€™ t look at you.a€™ a€!
+
+There was a dinner giving in the Harley Street establishment, while Little Dorrit was stitching at 
+her fathera€™ s new shirts by his side that night; and there were magnates from the Court and 
+magnates from the City, magnates from the Commons and magnates from the Lords, magnates from the 
+bench and magnates from the bar, Bishop magnates, Treasury magnates, Horse Guard magnates, 
+Admiralty magnates ,a€’’all the magnates that keep us going, and
+sometimes trip us up.
+
+a€~I am told,a€™ said Bishop magnate to Horse Guards, a€~that Mr Merdle has made another enormous 
+hit. They say a hundred thousand pounds .a€™
+Horse Guards had heard two.
+
+Treasury had heard three.
+
+Bar, handling his persuasive double eye-glass, was by no means clear but that it might be four. It 
+was one of those happy strokes of calculation and combination, the result of which it was difficult 
+to estimate. It was one of those instances of a comprehensive grasp, associated with habitual luck 
+and characteristic boldness, of which an age presented us but few. But here was Brother Bellows, 
+who had been in the great Bank case, and who could probably tell us
+more. What did Brother Bellows put this new success at?
+
+Brother Bellows was on his way to make his bow to the bosom, and could only tell them in passing 
+that he had heard it stated, with great appearance of truth, as being worth, from first to last, 
+half-a-million of money.
+
+Admiralty said Mr Merdle was a wonderful man, Treasury said he was a new power in the country, and 
+would be able to buy up the whole House of Commons. Bishop said he was glad to think that this 
+wealth flowed into the coffers of a gentleman who was always disposed to maintain the best 
+interests of Society.
+Mr Merdle himself was usually late on these occasions, as a man still detained in the clutch of 
+giant enterprises when other men had shaken off their dwarfs for the daya€!.
+
+Bar fell into discussion with Horse Guards concerning courts-martial. Brothers Bellows and Bench 
+struck in. Other magnates paired off. Mr Merdle sat silent, and looked at the table-cloth. 
+Sometimes a magnate addressed him, to turn the stream of his own particular discussion towards him; 
+but Mr Merdle seldom gave much attention to it, or did more than rouse himself from his 
+calculations and pass the wine.
+When they rose, so many of the magnates had something to say to Mr Merdleindividually that he held 
+little levees by the sideboard, and checked them off as they went out at the door.
+
+Treasury hoped he might venture to congratulate one of Englanda€™ s world-famed capitalists and 
+merchant-princes (he had turned that original sentiment in the house a few times, and it came easy 
+to him) on a new achievement. To extend the triumphs of such men was to extend the triumphs and 
+resources of the nation; and Treasury felta€”he gave Mr Merdle to understands’’patriotic on the 
+subject.
+a€~Thank you, my lord,a€™ said Mr Merdle; a€~thank you. I accept your congratulations with pride, 
+and I am glad you approves™
+
+S~Why, I donS™ t unreservedly approve, my dear Mr Merdle. Because,S™ smiling Treasury turned him by 
+the arm towards the sideboard and spoke banteringly, S~it never can be worth your while to come 
+among us and help us.S™
+Mr Merdle felt honoured by theS”
+
+S~No, no,S™ said Treasury, S~that is not the light in which one so distinguished for practical 
+knowledge and great foresight, can be expected to regard it. If we should ever be happily enabled, 
+by accidentally possessing the control over circumstances, to propose to one so eminent toS”to come 
+among us, and give us the weight of his influence, knowledge, and character, we could only propose 
+it to him as a duty. In fact, as a duty that he owed to
+Society .a€™
+
+Mr Merdle intimated that Society was the apple of his eye, and that its claims were paramount to 
+every other consideration. Treasury moved on, and Bar came up.
+
+Bar, with his little insinuating jury droop, and fingering his persuasive double eye-glass, hoped 
+he might be excused if he mentioned to one of the greatest converters of the root of all evil into 
+the root of all good, who had for a long time reflected a shining lustre on the annals even of our 
+commercial countrya€”if he mentioned, disinterestedly, and as, what we lawyers called in our 
+pedantic way, amicus curiae, a fact that had come by accident within his
+knowledge. He had been required to look over the title of a very considerable estate in one of the 
+eastern countiesa€’’lying, in fact, for Mr Merdle knew we lawyers loved to be particular, on the 
+borders of two of the eastern counties. Now, the title was perfectly sound, and the estate was to 
+be purchased by one who had the command ofa€”Money (jury droop and persuasive eye-glass), on 
+remarkably advantageous terms. This had come to Bara€™ s knowledge
+only    that day, and it had occurred to him, a€~I shall have the honour of dining with my esteemed 
+friend Mr Merdle this evening, and, strictly between ourselves, I will mention the opportunity.a€™ 
+Such a purchase would involve not only a great legitimate political influence, but some half-dozen 
+church presentations of considerable annual value. Now, that Mr Merdle was already at no loss to 
+discover means of occupying even his capital, and of fully employing
+even his active and vigorous intellect, Bar well knew: but he would venture to suggest that the 
+question arose in his mind, whether one who had deservedly gained so high a position and so 
+European a reputation did not owe ita€”we would not say to himself, but we would say to Society, to 
+possess himself of such influences as these; and to exercise thema€”we would not say for his own, 
+or for his partya€™ s, but we would say for Societya€™ sa€”benefit.
+
+Mr Merdle again expressed himself as wholly devoted to that object of his constant consideration, 
+and Bar took his persuasive eye-glass up the grand staircase. Bishop then came undesignedly sidling 
+in the direction of the sideboard.
+
+Surely the goods of this world, it occurred in an accidental way to Bishop to remark, could 
+scarcely be directed into happier channels than when they accumulated under the magic touch of the 
+wise and sagacious, who, while they knew the just value of riches (Bishop tried here to look as if 
+he were rather poor himself), were aware of their importance, judiciously governed and rightly 
+distributed, to the welfare of our brethren at large.
+Mr Merdle with humility expressed his conviction that Bishop couldna€™ t mean him, and with 
+inconsistency expressed his high gratification in Bishopa€™ s good opinion.
+
+Bishop thena€’’jauntily stepping out a little with his well-shaped right leg, as though he said to 
+Mr Merdle a€~dona€™ t mind the apron; a mere form!a€™ put this case to his good friend:
+
+
+Give a gift subscription
+
+ONE IMAGE: SBFa€™s FTX Excel Spreadsheet:
+
+Note: all of these are rough vataes, and could be slightly off; there is also obviously a chance of 
+typos etc. They also change a bit over time as trades happen.
+
+liabilities                                 Assets
+
+8JI59,D12,572                   liquid                899,859,124  1,012,262,574                    
+  less liquid     5,449,513,085  15,415,519,517                    Illiquid      3,232,059,943 
+3,223,752,915
+
+Tkker          Lbbilty                       Tkker         Deliverable now      Before this week    
+                Tkker      Deliverable    Before this week                    Tkker      
+Deliverable  Before
+UyerZero          •45.000.000                   HOOD                472,291.833   579.183,374       
+               FTT         553.903,773   5,905.299.356                    other ventures 
+1.475,000,000  1.475,000,000
+
+EUR            •114,536.254                   USD m ledge* Prime        200.000.000   200,000.000   
+                   SRW        2,187,876,172   5,430,110,335                    GDA       
+1,150.000.000  1,150,000,000
+
+Genets          -200.000,000                   USOB                 73,001,646   73.223,641         
+             SOL         981,902,267   2445,516,953                     Anthrop :     500,000,000   
+500,000,000
+
+Bkxkfi           -215.000.000                   DAI                  28.491,686   28,464601         
+             MAPS        616.372,827    865.376,279                    PVTH        63,766,000   
+63,766.000
+
+USDT           -796,432.405                   DOT                 28.384,450   32.522,096           
+           lotted USDT     500,000.000    500,000.000                    TWTR       43.293,943    
+34,986.915
+
+ETH            -671,542,663                   PAXG                 23,767,062   23,244,430          
+            OXY         54,008,094    100,105,976                    TRUMPtCSE     7,394,877    
+7.394.877
+
+BTC           -1.412.758,406                   JPY                  2L 758.186   21.979,251         
+             STG         45,511,034    66,499,913
+
+USD           -5.135.280,129                   TUSO                 15.991.331   16,034,265         
+            ETHE         53.155.549     64.420.529
+
+Other           .268.462,711                   EURT                 1X117,879   11,847,808          
+           ADA         36,492,962    62,127,831
+
+BAZ                  9,049,093    8.708,731                     MSOL        26.558,417    
+60.394,582
+
+
+BRI                  7X317.295   6.753.417                     A5D         33.946.248    49.967,401
+
+WXRP                 6,937,890    9,298,681                     BITW         26,527.697    
+31,939,957
+
+PAX                  L0O0.714    LM2477                      Others        17,860,159    29,105,657
+
+G0TC         3.304.945     4.387,145
+
+APT        312,092,943      267,602
+
+
+Hidden, poorly ter rally baled "flfttf account
+Withdrawals co Sunday
+
+8,000,000,000
+
+5,000.000.000
+
+There were many things I wish I could do differently than I did. but the largest are represented by 
+these two thirds the poorly labeled internal bank reiated arount. and the sire of customer 
+withdrawals during a run on the bank
+
+
+liabilities 4 liquid
+
+liabilities liquid less Uqu»d illiquid                   without hat^       Total Actual leverage 
+Perceived leverage
+Today's pixes     •8^59.042.572   899,859,124  5,449.513,085     3,232,059.943        40,816.552  
+722,389,579 12X)2x       Ox
+
+October's prices    •8.859.042,572  1,012,262,574  15,415,519,517     3,223,752,915        
+153,220,002 10.792,492,434 1.73K        Ox
+
+Short term deliverability vs demand
+Normal    Accuse Fear
+
+3.60M     0.20K
+
+4.05K      0.13K
+
+
+Before Sunday                    Today’s p:<es     -13.859.042.572  5,899,859,124  5,449.513,085    
+ 3,232,059,943         40.816.552   722,389,579 12_02x        Ox
+
+$5b of withdrawals                  October’s pr ces    13.859,042,572  6,012,262,574  
+15,415,519,517     3,223,752,915        153,220,002 10,792,492,434 1.73x        Ox
+
+21«h      0.85K
+
+24.05M    0.87K
+
+Get 50% off a group subscription
+
+OA%er Things Azt Went Whizzing bya€!
+
+Very Briefly Noted:
+
+• Adam Fisher: Sam Bankman-Fried Has a Savior Complexa€”And Maybe You Should Tooa€!
+
+•  Sara Straw: a€~Did I fall for an affinity fraud? No, these were my kind of guys, the smart guys! 
+Ia€™ d never fall for an affinity fraud! Ia€™ m a smart guy!a€!
+
+•  Kerry Vaughan: a€~ Will's outrage about the FTX situation is difficult to take seriously for 
+three reasons:(l) SBF is not the first disgraced crypto billionaire that Will has vouched for: (2) 
+Will was longtime friends with SBF; (3) Will was warned about SBF's unethical behavior as far back 
+as 2018a€l
+
+• Satoshi Nakamoto: Bitcoin: A Peer-to-Peer Electronic Cash System 
+<https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/r2DpiSeiLL0M/v0>
+
+• Matthew Delmont: The WWII Veterans Murdered After Returning Homea€!
+
+• Robin Wigglersworth: a€~Jingle maila€™ redux?: Goldman Sachs explores the risks of mortgage 
+defaultsa€l
+
+• Alan Beattie: Americaa€™ s deep suspicion of globalisation makes it an outliera€!
+
+• Kelsey Piper: Billionaires are a dual-use technologya€!
+
+•  Kate Clark: FTXa€™ s VC Backers That Lost the Most: a€~FTXa€l valuationa€l $32 billion in 
+Januarya€!. Paradigma€! SequoiaaCI SoftBank, Tiger Global, the Singapore government investment fund 
+Temasek and the Ontario Teachersa€™ Pension Plana€l.
+
+• Josh Barro: Elon Won't Make Money By Making Twitter Less Pleasant to Reada€!
+
+• Liam Denning: Twitter Is Wrecking the Musk Aura That Fueled Tesla: a€~ The auto companya€™ s 
+value has plunged by $644 billion this year as its billionaire CEO tends to his newest 
+distractiona€l
+Donate Subscriptions
+
+AJs:
+
+Gillian Tett: Cryptoa€™ s future may be divided, not dead: a€~This is the crypto version of the 
+2008 Lehman Brothers shocka€l. So does this mean that crypto will now die?a€l Opacity is costlya€l. 
+Custodya€! practices have long been a dangerous messa€l. In theory, these problems could be fixed 
+if crypto were forced to adopt the same regulatory tenets around custody and transparency as 
+fuddy-duddy fiat-based financea€l. [But] there is still a large pool of
+players who use digital assets to evade government controlsa€l. [And] central bank digital 
+currency, or CBDC, experiments are heating up, not least because, as I was told last month, the 
+government of China (and, to a lesser extent, Europe) want CBDCs to displace private digital 
+assetsa€l Either way, prepare for more twistsa€l
+
+Brad Stone: FTX Implodes, and a Top VC Backer Falls on Its Face: a€~In late September, the Sequoia 
+Capital website published a long, meandering profile of Sam Bankman-Frieda€l an eye-glazing 14,000 
+wordsa€! flowery prose that looked especially ridiculous after FTXa€™ s spectacular collapse. 
+Sections of the story were turned into memes, labeled as god-tier comedy and generally subjected to 
+widespread mockerya€!. Now, this is not to dunk on the
+storya€™ s author, Adam Fischer, a longtime Silicon Valley journalist (and friend!). Journalism can 
+be a humbling business, and anyone practicing the craft long enough is apt to become the victim of 
+unfortunate timinga€l. What happened nexta€l. The article disappeared entirely from the site. 
+Visitors who followed old links to the piece were redirected to a note the venture capital firm had 
+sent its investors, citing an uncertain future for FTX. At most
+mainstream news organizations, this is a journalistic tabooa€l. But Sequoia didna€™ t follow that 
+scripta€l. The firm declined to comment on the movea€l
+
+Duncan Black: A Triumphant Victory For The Forces Of Wokeness: a€~I do want to restate that every 
+political journalist had a pre-write sitting in the CMS about how, as usual, Democrats Were Out Of 
+Touch With Real Americans, what with loving crime and having kids shit in litterboxes and treating 
+trans people as human beings. No one really cares about democracy, why won't Joey shut about that? 
+And then they just... couldn't run them. Their intended
+narrative wasn't based on polls, just vibes. "Dems keeping the Senate" was a perfectly reasonable 
+prediction given polling and the House is always a bit of a guess. With redistricting there was 
+reason for pessimism, but again that's just guessing. There are never enough good polls.Again, I am 
+not claiming a victory for full communism, but all the stuff the Right spent screeching about for 
+the last several months, which journalists always echo, didn't work for
+them. One thing I don't see remarked upon much is that despite the pretty undemocratic nature of 
+the Senate - leaning heavily against the Democrats - they manage to keep it much of the time! Even 
+now!
+
+Steven Beschloss: Red Waving, Fox News and Sanity's Survival: a€~They hyped a GOP blow-out, but a 
+desire to calm the extremism has largely won the day. Now we'll see if the loss only exacerbates 
+the madness that is Trump and Trumpisma€l. Before looking ahead to the expected presidential 
+announcement tomorrow by the leading purveyor of violent, sociopathic incitements to get and keep 
+power, I thought it useful to look back at how many Republicans
+became convinced of their omnipotence and the inevitability of their overwhelming victory in the 
+midterms. In short, look no further than the Fox News bubble and its chief propagandists determined 
+to spread their narrative, reality be damneda€l. No matter what issue I was addressing online, I 
+was getting bombarded by a€oered wave-ists,a€D possessed by certitude and hostilitya€I. Laughably, 
+Republican Louisiana Sen. Bill Cassidy said Sunday on NBC,
+a€oeWea€™re not a cult. Wea€™re not like, OK, therea€™ s one person who leads our partya€l. We 
+should be a party of ideas and principlesaCDaCI. I remain convinced that it will take indictments 
+and prosecutions of Trumpa€”and the hard daily work of a€oedoing democracya€da€”if we are ever 
+going to have a chance to put this constant danger behind usa€!
+
+Nicholas Gruen: a€~From Slouching Towards Utopia: Brad DeLong: a€oeln 2003, the era in which the 
+United States was the trusted leader of the global-north a€oeWestern alliancea€D came to an end. At 
+the end of the 1980s, after the end of the Cold War, George H.W. Bush reassured the world that US 
+military supremacy was benign because the US military would be deployed only in support of an 
+overwhelming majority vote of a countrya€™ s people, or
+according to the will of the UN Security Council. The Clinton administration had changed this to 
+a€oeaccording to the will of the NATO alliancea€D; and then the George W. Bush administration had 
+changed it to a€oemore or less at random, according to false and misleadingly interpreted 
+intelligence, against countries that do not possess nuclear weapons.a€D Countries took notea€l
+
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Leave a comment
+Subscribe now
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Leave a comment
+Subscribe now
+

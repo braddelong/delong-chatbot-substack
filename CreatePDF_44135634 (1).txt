@@ -1,0 +1,236 @@
+Share Brad DeLong's Grasping Reality
+
+Very Briefly Noted:
+
+• Cat Rambo: You Sexy Thing: a€~I first learned about hopepunk froma€! Alexandra Rowland. I ended 
+up incorporating it in a class I was teaching, All the Punks, which covered cyberpunk, steampunk, 
+biopunk, solarpunk, splatterpunk, and morea€! 
+<https://whatever.scalzi.com/2021/11/16/the-big-idea-cat-rambo- 3/>
+
+• Alice Evans <https: //w w w.draliceevans ,com/>
+
+•  Ronan Farrow & Jia Tolentino: How Britney Spears Got Free, and What Comes Next'. a€~Spears 
+fought for years to end the conservatorship she was under, and finally won. But the legal battles 
+arena€™ t overa€! 
+<https://www.newyorker.com/news/news-desk/how-britnev-spears-got-free-and-what-comes-next>
+
+•  John Lippert: Bloomberg 2008a€“12a€“23: a€~John Cochrane was steaming as word of U.S. Treasury 
+Secretary Henry Paulsona€™ s plan to buy $700 billion in troubled mortgage assets rippled across 
+the University of Chicagoa€!. a€oeWe should have a recession,a€D Cochrane said in November, 
+speaking to students and investors in a conference room that looks out on Lake Michigan.
+a€oePeople who spend their lives pounding nails in Nevada need something else to doa€Da€!
+
+
+
+Brad DeLong's Grasping Reality
+
+READING: John Lippert on AMe Idiocy of AMe Chicago School in Late 2008
+
+a€!Cochranea€™ s declarationa€”made at a time when the share of the U.S, labor force in 
+construction was below its long-run average and had been below its long-run average for fifteen 
+monthsa€”that: a€oewe should have a recession. People who spend their lives pounding nails in 
+Nevada need something else to do.a€D No recognition at all that the structural-adjustment ca€!
+Read more
+
+2 years ago A- 2 likes A- 2 comments A- Brad DeLong
+
+• Mark Silk: Did John Adams Out Thomas Jefferson & Sally Hemings?
+
+
+Brad DeLong's Grasping Reality
+
+READING: Mark Silk: Did John Adams Out Thomas Jefferson & Sally Hemings?
+
+
+Mark Silk: Did John Adams Out Thomas Jefferson and Sally Hemings?: a€~The first eight months of 
+1802 were mercifully dull for President Jefferson. France and England signed a peace treaty, 
+reopening European and Caribbean ports to American commerce. The Navy was making headway against 
+Barbary pirates in the Mediterranean. West Point was established. A pria€!
+Read more
+
+2 years ago A- 1 like A- 2 comments A- Brad DeLong
+
+Paragraphs:
+
+Andy Kessler: The Chip That Changed the World'. a€~In 1969, Nippon Calculating Machine Corp, asked 
+Intel to design 12 custom chips for a new printing calculator. Engineers Federico Faggin, Stanley 
+Mazor and Ted Hoff were tired of designing different chips for various companies and suggested 
+instead four chips, including one programmable chip they could use for many products. Using only 
+2,300
+transistors, they created the 4004 microprocessor. Four bits of data could move around the chip at 
+a time. The half-inch-long rectangular integrated circuit had a clock speed of 750 kilohertz and 
+could do about 92,000 operations a second. Intel introduced the 3,500-transistor, eight-bit 8008 in 
+1972; the 29,000-transistor, 16-bit 8086, capable of 710,000 operations a second, was introduced in 
+1978. IBM used
+the  next iteration, the Intel 8088, for its first personal computer. By comparison, Applea€™ s new 
+Ml Max processor has 57 billion transistors doing 10.4 trillion floating-point operations a second. 
+That is at least a billionfold increase in computer power in 50 years. Wea€™ ve come a long way, 
+baby. When I met Mr. Hoff in the 1980s, he told me that he once took his broken television to a 
+repairman, who
+noted a problem with the microprocessor. The repairman then asked why he was laughinga€!
+
+LINK: chttps://www.wsj 
+.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel
+-11636903999>
+
+Martin Ravallion: The Degrowth Fallacy : a€~In an example of the Degrowth Fallacy, in a radio 
+interviewa€! Jason Hickel (introduced as an economist and anthropologist at the London School of 
+Economics) points to Costa Rica to support his claim that rich countries can maintain their social 
+outcomes at lower mean income. Yes, Costa Rica has had good social and environmental policies over 
+many
+decades, and other countries can learn from that experience. However, the country did this in 
+combination with economic growth. Indeed, mean income has tripled in real terms since 1960, and the 
+average growth rate has been above average for Latin America (World Bank). By combining social 
+policies with policies that directly supported economic growth, Costa Rica was able to attain over 
+time good
+social outcomes for a country at its level of mean income. Costa Rica is definitely not an example 
+of how good social outcomes are possible without economic growthaCI
+
+LINK: chttps://economicsandpoverty.com/2017/12/2 l/the-degrowth-fallacy/>
+
+Paul Krugman (May 21,2020): Crying Fire! Fire! In Noaha€™ s Flood'. a€~Ia€™m getting a lot of rage 
+from people who want their deficit-and-inflation crisis, and wona€™t take no for an answera€!. I 
+was trying to come up with an explanation of the curious insistence that wea€™re facing an imminent 
+interest rate and/or inflation crunch; then I realized that John Maynard Keynes had already done
+that, in explaining the hold classical economics retained on thought despite its obvious inability 
+to account for the Great Depression: a€oeThe completeness of the Ricardian victory is something of 
+a curiosity and a mystery. It must have been due to a complex of suitabilities in the doctrine to 
+the environment into which it was projected. That it reached conclusions quite different from what 
+the ordinary
+uninstructed person would expect, added, I suppose, to its intellectual prestige. That its 
+teaching, translated into practice, was austere and often unpalatable, lent it virtue. That it was 
+adapted to carry a vast and consistent logical superstructure, gave it beauty. That it could 
+explain much social injustice and apparent cruelty as an inevitable incident in the scheme of 
+progress, and the attempt to change such
+things   as likely on the whole to do more harm than good, commended it to authority. That it 
+afforded a measure of justification to the free activities of the individual capitalist, attracted 
+to it the support of the dominant social force behind authoritya€la€D And all of this has a real, 
+damaging effect on policy. The econ team at Goldman Sachs (not online) makes the interesting point 
+that FOMC inflation
+forecasts are pulled up by a small group that keeps forecasting much higher inflation than anyone 
+else; this in turn helps limit the Feda€™ s willingness to support the economy. And the deficit 
+hawks have, of course, killed any hope of more stimulus. Anyway, Ia€™ m sure that the usual 
+suspects wona€™ t change their tune. Even if we do have a Japan-style lost decade, theya€™ 11 keep 
+predicting
+hyperinflation just around the cornera€!
+
+LINK: chttps://krugman.blogs .nytimes .com/2010/05/21/crying-fire-fire-in-noahs-flood-3/>
+
+Noah Smith: The Metaverse & (Near-)Infinite Economic Growth'. a€~Think of the classic movie 
+American Graffitia€\ a 1950s world where young people have fun, hook up, and get social status by 
+driving around in cars all day and all nighta€! hugely resource intensive. Nowadaysa€! chatting, 
+sharing stories, and playing video gamesa€! Tindera€! get social status by accumulating Facebook 
+likes, TikTok
+views, and Twitter follows. Thus, young people have been ditching cars for smartphonesa€!less 
+gasoline burned, less steel and aluminum useda€!. But more funa€!. The Metaverse is just that 
+process taken one step further. The more fun or useful stuff you can do in VRa€”games, business 
+meetings, vacations, hangoutsa€”the less youa€™ 11 have to suck up physical resources to do it in 
+meatspace. The
+more                                                                                                
+                                                                                you can transform 
+your subjective world by overlaying it with AR, the less youa€™ 11 have to suck up resources 
+transforming your physical environment to suit your tastes. Thus, the Metaverse can help continue 
+the decoupling of physical resource use from economic growth. The logical endpoint of all this, of 
+course, is personality uploada€!
+
+LINK:
+
+Noahpinion
+
+The Metaverse and (near-)infinite economic growth
+
+People have been pestering me to write a blog post about how infinite growth is possible on a 
+planet with finite resources. Now Facebook has changed its name to Meta, and has announced that 
+ita€™ s spending $10 billion this year on augmented reality and virtual reality, which it calls the 
+a€ceMetaversea€D. So that gives me a good opportunity to write that post a€!
+
+Read more
+
+a year ago A- 41 likes A- 75 comments A- Noah Smith
+
+Derek Davison: Justice Is for The Bad Guys'. a€~I dredge this exchange back up because so far this 
+month wea€™ ve seen two fairly explicit cases that undermine Secretary Blinkena€™ s assertion that 
+the United States has the a€cedemonstrateda€D a€cecapacitya€D a€oeto make sure that there is 
+accountability in any situations where there are concerns about the use of force and human 
+rights.a€D
+Leta€™ s consider them briefly. The first of these cases involves the August 29 drone strike in 
+Kabul, the Pentagona€™ s parting shot on its way out of Afghanistan. After first insisting that the 
+strike was a a€cerighteousa€D one that had prevented an imminent Islamic State suicide bombing at 
+the overcrowded Kabul airport, the US military acknowledged weeks latera€”and only after a New York 
+Times
+investigation turned up no evidence to support that initial claima€”that its attack had in fact 
+killed ten civilians and zero would-be bombersa€!. Case twoa€! reaches back to the last days of the 
+war against the Islamic Statea€™ s a€cecaliphatea€D in 2019. With ISa€™ s remnants having taken up 
+position in the eastern Syrian town of Baghuz, on March 18,2019, the US military undertook an 
+airstrike on a
+large   crowd of people huddled in a field just outside of town. That strike killed at least 70 
+people, we now know, thanks to another New York Times investigation, that they, or most of them, 
+were civiliansa€!. The Pentagon knew they were civilians, because one of its drones filmed the 
+crowd and the strike. Nevertheless, military officials quickly moved to cover it upa€!. Charged 
+with determining whether or
+not they themselves had committed a war crime in orchestrating this airstrike, the members of Task 
+Force 9 unsurprisingly concluded that they had not. And the Pentagon was happy to let that be the 
+last word and to leave the March 18 incident to languish in obscurity, despite several internal 
+whistleblower reports to the contrarya€’’until the Times investigation reached the publication 
+stage. Now the
+Pentagon has acknowledged that the airstrike took place but is insisting that it was legitimate. It 
+claims the death toll included only four confirmed civilians along with 16 IS fighters and 60 
+people whose circumstances could not be determineda€!. Because the US military is allowed to 
+investigate itself, a privilege that only agents of national security or law enforcement are 
+permitted to exercise, wea€™ 11
+never know, and the victims of the Baghuz strike will likely never have justice. Their families 
+will see even less than the pittance the Pentagon intends to give to the families of the Kabul 
+victims. Your mileage may vary, but personally I see nothing in either of these instances to 
+suggest that the United States can be trusted to investigate its own atrocitiesa€!
+
+LINK:
+
+
+Discontents
+
+
+Discontents
+
+Justice Is for The Bad Guys
+
+Back in June, during a session of the House Foreign Affairs Committee, Congressperson Ilhan Omar 
+(D-MN) asked Secretary of State Antony Blinken a pointed question about international justice. 
+Given that the United States rejects the authority of the International Criminal Court to judge US 
+military personnel, Omar asked, how could the victims of possibla€!
+
+Read more
+
+a year ago A- 5 likes A- Derek Davison
+
+Addison Del Mastro: The Record-Tape Missing Link'. a€~A fascinating piece of industrial design 
+evolution: This is another one of those occasional old-technology posts (a bunch of you came in 
+through one of those, so hopefully youa€™ 11 appreciate this!) As is often the case, Ia€™ ve 
+learned most of whata€™ s in here from Techmoan, a British YouTuber who acquires and demonstrates 
+an incredible
+range of old and largely forgotten electronic devices, largely failed audio and video formatsa€!
+
+LINK:
+
+The Record-Tape Missing Link
+
+This is another one of those occasional old-technology posts (a bunch of you came in through one of 
+those, so hopefully youa€™ 11 appreciate this!) As is often the case, Ia€™ ve learned most of 
+whata€™ s in here from Techmoan, a British YouTuber who acquires and demonstrates an incredible 
+range of old and largely forgotten electronic devices, largely failed audia€!
+
+
+The Record-Tape Missing Link
+
+This is another one of those occasional old-technology posts (a bunch of you came in through one of 
+those, so hopefully youa€™ 11 appreciate this!) As is often the case, Ia€™ ve learned most of 
+whata€™ s in here from Techmoan, a British YouTuber who acquires and demonstrates an incredible 
+range of old and largely forgotten electronic devices, largely failed audia€!
+
+Read more
+
+a year ago A- 1 like A- Addison Del Mastro
+
+Leave a comment
+
+Subscribe now
+

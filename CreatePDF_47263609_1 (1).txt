@@ -1,0 +1,605 @@
+Become a free subscriber to receive this a€~Stack in your email. Do note that this Grasping Reality 
+newsletter is a reader-supported publication^”1 really would like to collect enough from it to hire 
+an RA. So consider becoming a paid subscriber, please, if you find this project worthwhile and 
+think it worth continuing:
+
+Type your emaila€|       Subscribe
+
+CONDITION: Embarrassment:
+
+
+This is an embarrassingly overpowered machine for what I am asking it to do:
+
+Core 1 — Efficiency                   _                    :
+
+a                    A                                 aa                             a       A
+
+w              a     aa * a       aaa         a a              aaoa                   aa a     aaa 
+aaaaa       aa
+
+CPU History
+
+Core 2 — Efficiency
+
+w          •                                       w
+
+flfl  fl           fl    flfl     fl fl       flflflfl          fl fl  fl flflfl  flfl              
+  flfl
+
+
+aaaaaaaaaaaaaaaaeaaaoaeeaaaaaaaaaaaaaaaaaaaa■■•■••o•••••o••aaaaaaaaaaaaaa8aaaaaaaaa•••••••f•••••aaaa
+aaaaaaaaaaaaaai■■■■•■■■■
+
+Core 3 — Performance
+
+••••fll•••••efl•flflaaflflflflflflflflfl•fl••••••  
+••••••eaafleaaaaaaaaaaaaaaaaaeaaa»eeeeooaeaaeeeaaaaaaaaaaaaaaaaaaaaeeeeeoo«eaaeeaaaaaaaaaaaaaaaeaeee
+eaaeeeeeeeeaaoaeeaaaaaaaaaaaaaaaaaeeaaeaeeeeeeeeaeeaeeaaaaaa
+
+Core 4 — Performance
+
+• •   ■
+
+• •   ■   ■
+
+
+•      •   • •
+
+• ■ • •
+
+■                                                •
+
+
+Core 5 — Performance
+
+WWWWWW WW     WW     w W       WWWW W     WWW              w         W  W WWW           WWW         
+             •
+
+- w           <a 8flfl^ W •         — — —                 « W W W W w w w • • — — • W w w - • •     
+             « w «     w w w          * » ww
+
+Core 6 — Performance
+
+fl
+
+■
+
+■
+
+fl
+
+flflfl fl     fl                                                             fl fl
+
+_fl _flflfl flfl     flfl                    flfl                          fl fl            fl fl   
+                   fl
+
+flflflfla fl fl —fl flfl*fl * fl •                                   w ww      fl fl a fl fl w «www 
+ww www                         w w* w*ww             *www www w           w w       *               
+               w
+
+Core 7 — Performance                                                        Core 8 — Performance
+
+a
+
+
+Core 9 — Performance
+
+a
+
+■ fl                   — - —      - -                          ■ ■            w • w « «             
+      *
+
+• • • ■•      ■■•■■■ ■ ••■■••••••          •■     • * ••• aa                 aaeaa       ae    a    
+      aa           a aea            aaa     aa                a
+
+Core 10 — Performance
+
+w     •                    aaa        W    a                      a             aaa     a           
+      a                             a
+
+Thanks for reading this. And please share it far and wide, if you think it worth readinga€!
+Share
+
+First: I Have a Bad Feeling About This:
+
+My 75 person class this semester is divided roughly equally into two parts, group #1 of which has 
+seen and (hopefully) at least somewhat remembers macro economic growth theory before (and also has 
+had some experience with computer programming), and group #2 of which has not. No I want the class 
+to not learn but rather use a bunch of the conclusions of this growth theory. Thus I am taking the 
+second week to either review, remind, or give the bottom line
+conclusionsa€’’depending on what they bring to the course.
+
+So I want to be reassuring. But I dona€™ t think this draft piece from my lecture notes is really 
+going to reassure group #2:
+
+In the Basic Solow Growth Model, the equilibrium economists look for is an equilibrium in which the 
+economya€™ s capital-output ratio dUoe.. .1° is contant, and thus the capital stock per worker, the 
+level of income and output per worker, and the efficiency of labor are all three growing at exactly 
+the same proportional ratea€”a rate that remains constant over time. We will call this rate g, for 
+growth.
+
+Is this going by at bewildering speed? Blame it on the fact that our curriculum here in Economics 
+is not well-designed. We want you to have the tools of economic theory to use here in this course. 
+But we don't have time to build them from scratch. So we skate over the surfacea€’’providing a 
+quick review to those of you who have taken Econ 100b before, and a skating-over-the-surface to 
+those of you who have not.
+Remember: we do not want you to understand the conclusions of these models and theoriesa€”we merely 
+want you to know those conclusions, take them for now on faith, and use them.
+
+
+As my teacher's teacher, the Nobel Prize-winning economic historian Robert Fogel once said, the 
+killer app of history (and economics) is counting things.
+
+Math is basically all about counting things. But we are very lucky, in that we stand on the 
+shoulders of giants who have figured out how to and transmitted to us the knowledge of how to count 
+things in incredibly powerful ways.
+
+One such giant whose shoulders we stand on is Mua₄¥ammad ibn MA«SAO al-KhwAElrizmA« (c. 780-850). 
+The first part of his name is simply "Muhammad, son of Moses". The second part? It is the answer to 
+the question: "OK. But which Mua₄¥ammad ibn MA«sAd wandering around Baghdad in the early 800s 
+during the reign of the Kalif al-Mamun are we talking about?a€d The answer was: "the one who came 
+here from KhwAdrizm, and
+who works at the House of Wisdom established by the Kalif".
+
+as                               ay
+
+€ Numerus
+quimriut du-
+plica fawA a-
+pud Auba^
+Pcrfas, & Tur-
+
+ca$> exprimkur.
+Qnidam qui-
+naxium  fxc pin-
+gunc  & tunc
+iifnm fucncs)
+circulo exPti-
+munc   : inde
+AliKolhgius A-
+ftronomus
+
+Pali Ju©
+J.}
+
+
+Sipam firibunt
+
+•,      .   , .      . „      _                     figurA circtlli.
+
+veto quintriwn arccllo, & hfram enffo pundo efformant. Quam faibendi
+
+d»- cdiutcm nifi probe, in evolvents curum hbris, inisudycttcri^ infinities cm bis.
+
+When Italians heard "al-KhwADrizmA«", they mangled it into algorithm. Every time you say algorithm, 
+you are saying that you are undertaking the kind of step-by-step analysis that Mua^ammad ibn MA«SAD 
+al-KhwADrizmA« taught us to do. Hew as the author of: Al-KitAEJ) al-Mukhtad'£ar fA« HisAEb al-Jabr 
+waa€™ l-Mud* 3AJLbalad€”The Compendious Book on Calculation by Completion and Balancing
+
+It was his work on how to repeatedly and rapidly do large numbers of similar and related 
+calculations that allowed us to turn simple counting into the mathematics of "what-if?" machines. 
+We ask the question "what-if?" And we then answer it be doing a large number of calculations about 
+what might be at once, seeing which of these calculations produce ansers that satisfy whatever the 
+consistency and coherence conditions we have imposed are, and
+then summarizing the results of all of them in a very small space. It becomes complicated and very 
+hard to remember and opaque very quickly. But, at the bottom, it is just counting.
+
+Listen to physicist Richard Feynman, about how his QED theory of the interaction of light and 
+mattera€”a theory that has been tested and is correct at unbelievably precise scales. As of 1985:
+
+Experiments have Dirac's number at 1.00115965221 (with an uncertainty of about 4 in the last 
+digit); the theory puts it at 1.00115965246 (with an uncertainty of about five times as much). To 
+give you a feeling for the accuracy of these numbers, it comes out something like this: If you were 
+to measure the distance from Los Angeles to New York to this accuracy, it would be exact to the 
+thickness of a human hair...
+
+No doubt experiments and calcuations since have sharpened both of those, and they are still in 
+agreement.
+Feynman, talking about this "Feynman Diagram" theory of his, said:
+
+An analogya€!. The Maya Indians were interested ina€! [when they would be able to see the War-Star] 
+Venusa€!. To make calculations, the Maya had invented a system of bars and dots to represent 
+numbersa€! and had rules by which to calculate and predict not only the risings and settings of 
+Venus, but other celestial phenomenaa€!.
+Only a few Maya priests could do such elaborate calculationsa€!.
+
+Suppose we were to ask one of them how to do just one step in the process of predicting when Venus 
+will next rise as a morning stara€’’subtracting two numbersa€!.. How would the priest explain?a€!.
+He could either teach us thea€! bars and dots and the rulea€! or he could tell us what he was 
+really doing:
+
+Suppose we want to subtract 236 from 584. First, count out 584 beans and put them in a pot. Then 
+take out 236 beans and put them to one side. Finally, count the beans left in the pot. That number 
+is the resulta€!.
+
+You might say, a€~My Quetzalcoatl! What tediuma€! what a job!a€™
+To which the priest would reply,
+
+Thata€™ s why we have the rulesa€!. The rules are tricky, but they are a much more efficient way of 
+getting the answera€!. We can predict the appearance of Venus by counting beans (which is slow, but 
+easy to understand) or by using the tricky rules (which is much faster, but you must spend years in 
+school to learn them)...
+
+We stand on the shoulders of myriad upon myriad of armies of giants. All we have to do is to build 
+in our brains a filing system so we can remember how to utilize the conclusions of all the work 
+they have gifted us with, trusting that they were indeed giants and knew how to do their job.
+
+Share Brad DeLong's Grasping Reality
+
+One Audio:
+
+Noah Smith: Interview: Ryan Petersen, Founder & CEO of Flexport’. a€~The supply chain crunch, 
+modern logistics, and that famous trip around the Port of Long Beacha€! <https://noahpinion 
+.substack.eom/p/interview-rvan-petersen-ceo-of-flexport>:
+
+
+Interview: Ryan Petersen, founder and CEO of Flexport
+
+For the last year or so, the global economy has been hammered by a massive supply chain crunch. The 
+phenomenon is impossibly complex, encompassing a dizzying array of factors a€” demand shifts, the 
+shift to e-commerce, Chinese industrial crackdowns, Covid, inflation, legacy regulations, trade 
+imbalances, and much much more. But a small moment of clarity aa€!
+
+Read more
+
+a year ago A- 78 likes A- 27 comments A- Noah Smith
+
+One Picture:
+
+
+
+Cherie Priest:
+
+sumer is icumen in
+doge wat do ye do?
+
+groweth seed and kanine bloom
+but no potats for yoo
+
+sing cuccu and
+no tomats for yoo
+
+LINK:
+
+Cherie Priest @cmpriest
+
+sumer is icumen in doge wat do ye do? groweth seed and kanine bloom but no potats for yoo sing 
+cuccu and no tomats for yoo
+
+
+9:49 PM r™ Jan 16,2022
+
+669Likes59Retweets
+
+Very Briefly Noted:
+
+• Max Knoblauch: Mark Cuban Launches Online Pharmacy for Generic 
+DrMffs<https://www.morningbrew.com/daily/stories/mark-cuban-online-pharmacy-generic-drugs>
+
+• James Fallows (1991): d€oeThe Economics of the Colonial Cringed€d a€~Pseudonomics and the sneer 
+on the face of the Economists! 
+<https://www.theatlantic.com/technologv/archive/1991/10/-quot-the-economics-of-the-colonial-cringe-q
+uot-about-the-economist-magazine-washington-post-1991/7415/>
+
+•  Tim de Chant: Intel Says Ohio a€ceMegafaba€dWill Begin Making Advanced Chips in 2025: a€~Intel 
+will start with two fabs, but it has space for eightS! 
+<https://arstechnica.com/tech-policy/2022/01/intel-says-ohio-megafab-will-begin-making-advanced-chip
+s-in-2025/>
+
+• Janan Ganesh: LA: The Great Walking City: a€~Weirdness and weather make it an underrated 
+flA0neura€™ s paradisea€! <https://www.ft.com/content/429fde28-9ecb-4ae4-aa3f-balaa95d445f>
+
+Paragraphs:
+
+Robert Leeson: Hayek: A Collaborative Biography: a€~In his history of the LSE, Ralf Dahrendorf 
+(1995, plate 17, between 268 and 269) reproduced a photograph of academics dancinga€!. Hayek 
+described Arthur Lewis, his LSE colleague and the winner of the 1979 Nobel Prize for Economic 
+Sciences, as an a€ceunusually able West Indian negroa€D; when asked what his a€oeattitude to black 
+people wasa€!he said that he did not like a€Ddancing Negroesa€oe. He had
+watched a Nobel laureate doing so which had made him see the a€Dthe animal beneath the facade of 
+apparent civilisation" (Cubitt 2006,23)a€!
+
+LINK: <https://archive.0rg/details/hayekcollaboratiOOOOunse/page/l 
+12/mode/2up?q=dancing+negroes&view=theatei>
+
+Jemima Kelly: Crypto Is Crashing But Ita€™s All Going to Be OK, OK?: a€~The halvening, but probably 
+ultimately even better for bitcoina€!. Yes, you might have lost half your money if you got in a 
+couple of months ago, but the OG HODLers who got in at $200 or whatever are starting to hurt a bit 
+too and we need to keep in mind the equitable future of money free from the yoke of evil fiat fat 
+cats that they all deserve. So BTFD, keep these OGs in their Lambos, and
+like, focus on some inspirational quotes or somethinga€!
+
+LINK: <https://www.ft.com/content/0f3815da-861c-4274-ba5f-fa2d6c377baf>
+
+Hinze Higendoorn: Perception in Real-Time: Predicting the Present, Reconstructing the Past: a€™ We 
+feel that we perceive our environment in real-time, despite the constraints imposed by neural 
+transmission delays. Due to these constraints, the intuitive view of perception in real-time is 
+impossible to implement. I propose a new way of thinking about real-time perception, in which 
+perceptual mechanisms represent a timeline, rather than a single timepoint. In this
+proposal, predictive mechanisms predict ahead to compensate for neural delays, and work in tandem 
+with postdictive mechanisms that revise the timeline as additional sensory information becomes 
+available. Building on recent theoretical, computational, psychophysical, and functional 
+neuroimaging evidence, this conceptualisation of real-time perception for the first time provides 
+an integrated explanation for how we can experience the presents!
+
+LINK: <https://www.sciencedirect.com/science/article/pii/S1364661321002886>
+
+Liam Bright: a€™ My somewhat more detailed sense of the present balance of forces in something like 
+The Typical Anglo-American University. The largest group, and not only numerically largest but over 
+represented in positions of senior authority, are what I would call Generic Libs, left of centre 
+but not especially so. Probably basically like Kier Starmer and Elizabeth Warren. They donS™ t 
+understand and vaguely fear and resent woke students, who they think of as
+something like the mob in a Victor Hugo novel (the TV show The Chair captured this vibe well). One 
+way in which IS™ m a culture war centrist is I think the university is simultaneously full of 
+insufferable baby-wokes who discovered Politics in 2016 and have been awful ever since, and also 
+resentful mediocrities who blame feminism for their inadequacy. We contain multitudes. The next 
+next biggest group are the woke. Disproportionately represented among students
+and junior faculty youS™ d not naturally think itS™ s gonna be an especially powerful group. But 
+they have four things going for them. 1. ThereS™ s often a power base for them in administration, 
+as office for diversity (etc) often has more soft power than official position in the hierarchy 
+suggests. 2. Some humanities disciplines ensure they will have representation at senior faculty 
+level. 3. They have friends in the press so can credibly threaten bad publicity. 4. Most of
+all, they have asabiyya. They have the energy and solidarity of young people who believe in what 
+theyS™re doing and why. This group feeling lets them achieve more than their often quite junior 
+official positions would suggest. Third are resentful anti-wokes. Smaller in number than either 
+previous group they usually feel a bit beleaguered. But they have three things going for them. 1. 
+To get anything done you have to go via first group. The second group achieved that
+
+
+through fear. That works ok, but the anti-wokes thereby automatically get some institutional 
+sympathy, as no one likes being pushed around and thata€™ s how the generic libs feel when 
+confronted by the woke kids. 2. They also have friends in the press, so have a similar credibly 
+threat to the second group. 3. They have allies with formal political power, and Deans are very 
+aware of the need to fend off right populist attack. There are of course other factions and 
+interest
+
+groups, some of which can get a lot done, but Culture War wise these are the significant 
+groupingsa€!
+LINK:
+
+Liam Bright @ lastpositivist
+
+My somewhat more detailed sense of the present balance of forces in something like The Typical 
+Anglo-American University. The largest group, and not only numerically largest but over represented 
+in positions of senior authority, are what I would call Generic Libsa€l
+
+Liam Bright @ lastpositivist
+
+One way in which I'm a culture war centrist is I think the university is simultaneously full of 
+insufferable baby-wokes who discovered Politics in 2016 and have been awful ever since, and also 
+resentful mediocrities who blame feminism for their inadequacy. We contain multitudes.
+6:45 PM a~™ Jan 23,2022
+
+155Likes20Retweets
+
+Charles Gaba: a€™ Unlike the Delta wave, which saw case and deaths hit the least-vaxxed counties 
+with rates up to 4x or 5x as high as the most-vaxxed, Omicron has been the reverse in terms of case 
+rates so far. As a result, herea€™ s what things look like since June 30th for each. First, herea€™ 
+s what cumulative case rates from 6/30/21 - 1/21/22 look like broken out into 10 equal-population 
+2-dose vaccination deciles. As you can see, Omicron has completely
+cancelled out the prior trenda€! all 10 brackets have virtually identical case rates now. But 
+herea€™ s the kicker: Even with virtually identical infection rates in all 10 brackets, the death 
+rate is still 4x higher in the least-vaccinated tenth of the country than the most-vaccinated 
+tenth. Ia€™ 11 have more on both trends and where theya€™re likely headed going forward soon. None 
+of this actually surprises me, but I did a double take to see the case rate run virtually even 
+across
+all                                                                                                 
+                                                                                                    
+                      10 deciles at the same timea€“I figured therea€™ d be more variance even as 
+they shift. Two other important caveats to keep in mind: 1. These graphs include Delta and Omicron 
+combined; they look very different separately (Ia€™ 11 include Omicron only on a Monday blog post) 
+2. The vaxx data is based on 2-DOSE vaccinations; it does not include Booster data yeta€!
+
+
+12,000
+
+New COVID Cases/100K since 6/30/21 by % of Total Population Fully Vaccinated
+(All 3,144 Counties, Parishes & County Equivalents across all 50 U.S. States ♦DC)
+
+Case data via Johns Hopkins University, NY Times (NE/UT) & WH COVID Response Team (FL)
+
+11,430
+
+11,003     1 1,081
+
+
+11,000
+
+10,855
+
+-    10,893
+
+XU./XO        _
+
+10₉.794
+
+
+10,000
+
+10,503
+
+■ni    10,518              ----
+
+10,161
+
+~ 8,000
+
+C
+
+« 7,000
+
+O
+
+6,000
+
+*
+
+
+5,000
+
+I
+
+V)
+
+o  4,000
+
+ra
+O
+
+Q 3,000
+
+>
+O
+
+o
+
+2,000
+
+1,000
+
+
+0
+
+Lowest 10th 2nd           3rd        4th        5th        6th        7th        8th        9th
+
+< 44.7% 44.7 - 50.7% 50.7 - 54.6% 54.6 - 57.3% 57.3 - 60.7% 60.7 - 63.6% 63.6 - 66.9% 66.9 - 69.9% 
+69.9 - 74.4%
+
+% of Total Population Fully Vaccinated (Appx. 33.1 million U.S. residents apiece)
+
+Highest 10th
+
+> 74.4%
+
+
+150
+
+140
+
+130
+
+5 120
+
+§
+
+o 110
+
+0)
+
+140.98
+
+New COVID Deaths/100K since 6/30/21 by % of Total Population Fully Vaccinated
+(All 3,144 Counties, Parishes & County Equivalents across all 50 U.S. States + DC)
+
+Death data via Johns Hopkins University, NY Times (NE/UT) & WH COVID Response Team (FL)
+
+114.81
+
+
+W 100                          96.31
+
+43
+
+| 90
+
+’(/) ™
+o 80
+
+90.24
+
+73.73
+
+66.62
+
+60.43
+
+52.37
+
+38.85
+
+35.13
+
+O 30
+O
+
+20
+
+10
+
+
+0
+
+Lowest 10th 2nd            3rd        4th        5th        6th        7th        8th        9th
+
+< 44.7%   44.7 -50.7% 50.7 -54.6% 54.6 -57.3% 57.3 -60.7% 60.7 -63.6% 63.6 -66.9% 66.9 -69.9% 69.9 
+-74.4%
+
+% of Total Population Fully Vaccinated (Appx. 33.1 million U.S. residents apiece)
+
+Highest 10th
+
+> 74.4%
+
+LINK:
+
+Charles #GetCovered-ba dY©° @ Charles gaba
+
+...unlike the Delta wave, which saw case *and* deaths hit the least-vaxxed counties with rates up 
+to 4x or 5x as high as the most-vaxxed, Omicron has been the reverse in terms of *case rates* so 
+far. As a result, here's what things look like *since June 30th* for each:
+3:10 AM Y™ Jan 23,2022
+
+3 8Likes5Re tweets
+
+Leave a comment
+
+
+
+Q
+
+O 30
+O
+
+38.85
+
+35.13
+
+20
+
+10
+
+
+0
+
+Lowest 10th 2nd            3rd        4th        5th        6th        7th        8th        9th
+
+< 44.7%   44.7 -50.7% 50.7 -54.6% 54.6 -57.3% 57.3 -60.7% 60.7 -63.6% 63.6 -66.9% 66.9 -69.9% 69.9 
+-74.4%
+
+% of Total Population Fully Vaccinated (Appx. 33.1 million U.S. residents apiece)
+
+Highest 10th
+
+> 74.4%
+
+LINK:
+
+Charles #GetCovered-ba 5Y©° @Charles gaba
+
+...unlike the Delta wave, which saw case *and* deaths hit the least-vaxxed counties with rates up 
+to 4x or 5x as high as the most-vaxxed, Omicron has been the reverse in terms of *case rates* so 
+far. As a result, here's what things look like *since June 30th* for each:
+3:10 AMT™ Jan 23,2022
+
+3 8Likes5Re tweets
+Leave a comment
+
+Become a free subscriber to receive this a€~Stack in your email. Do note that this Grasping Reality 
+newsletter is a reader-supported publication^”1 really would like to collect enough from it to hire 
+an RA. So consider becoming a paid subscriber, please, if you find this project worthwhile and 
+think it worth continuing:
+
+Type your emaila€|       Subscribe
+
+Give a gift subscription
+

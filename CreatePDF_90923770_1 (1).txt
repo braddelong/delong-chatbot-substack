@@ -1,0 +1,124 @@
+Subscribe now
+
+The New Inflation Picture
+
+J. BRADFORD DELONG
+
+Following Russia's invasion of Ukraine, the bond market's 5-10 year projection of annual 
+chain-weighted personal-consumption-expenditures inflation reached 2.27%, raising concerns that 
+another big shock could de-anchor inflation expectations. But since that didn't happen, the Federal 
+Reserve now should reconsider its position.
+
+BERKELEY a€“ At the start of February 2022, the five-year, five-year-forward consumer-price-index 
+(CPI) inflation break-even rate in the US bond market was hovering at around 2% per year a€“ a 
+figure that corresponds to a chain-weighted personal-consumption-expenditures (PCE) inflation 
+forecast of 1.6% per year 5-10 years from now. Since 1.6% inflation is materially below the US 
+Federal Reservea€™ s 2%
+target, I entered that month feeling quite good about being on a€oeTeam Transitorya€D a€“ or at 
+least on a€oeTeam The Fed Has Got Thisa€D or a€oeTeam Inflation Expectations Remain Solidly 
+Anchored.a€D
+
+But then, at the end of that month, Russian President Vladimir Putin a€“ the wannabe Grand Prince 
+of Muscovy a€“ ordered a blitzkrieg invasion of Ukraine. Things did not go as he had planned. The 
+Ukrainians fended off the initial onslaught, and both sides settled in for a longer war of 
+attrition. Energy, grain, and fertilizer prices skyrocketed. The world began to worry that, come 
+winter, Europe would freeze and many
+other countries a€“ from Egypt to Nigeria a€“ would starve.
+
+FRED   — 5-Year, 5-Year Forward Inflation Expectation Rate
+
+2.8
+
+2.6
+
+2.4
+
+2.2
+
+2.0
+
+(D
+
+1.8
+
+0)
+
+1.0
+
+0.8
+
+2018-01       2018-07       2019-01       2019-07       2020-01       2020-07        2021-01       
+2021-07       2022-01        2022-07
+
+Owing to these fears, the five-year, five-year-forward CPI inflation rate shot up from 2% per year 
+to its peak of 2.67% on April 21,2022, while expectations of annual PCE inflation 5-10 years hence 
+reached 2.27%. That PCE projection suggested that bond traders had not lost confidence in the 
+Feda€™ s commitment to its inflation target.
+
+FRED   • Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)
+
+0.8
+
+0.6
+
+
+0.8
+
+0.6
+
+-0.6
+
+Jan 2018       Jul 2018 Jan 2019 Jul 2019                   Jan 2020                   Jul 2020 Jan 
+2021 Jul 2021       Jan 2022       Jul 2022
+
+But if one supposes that the width of the Feda€™ s target zone is 0.6 percentage points a€“ meaning 
+the bond market expects the central bank to remain on target if five-year, five-year-forward CPI 
+inflation remains between 2% and 2.6% a€“ that April 2022 peak raised concerns. For those whose 
+hair was already on fire, there was every reason to fear that we were just one more big supply 
+shock away from losing the
+inflation-expectations anchor that has kept prices relatively stable for decades.
+
+Perhaps we were. But since we did not get that additional large adverse supply shock, it hardly 
+matters now. The PCE-chain inflation rate for November was just 0.16%, which is less than 2% per 
+year when multiplied by 12. To be sure, one swallow does not make a summer, and one data point does 
+not make a trend. Even the decline from 0.62% in June (7% per year) is not necessarily bankable. 
+After all, we also saw some
+declines between December 2021 and April 2022, and between August 2021 and December 2021.
+
+As I have said before, this pandemic business cycle has been one of those rare periods when I have 
+not envied the members of the Federal Open Market Committee (FOMC). What they do over the next six 
+months will not really affect the real economy of demand, employment, and production until one year 
+from now, and it will not meaningfully affect the inflation news until a year and a half from now. 
+There will be many
+new developments over the next 18 months a€“ some of them good, and some of them bad.
+
+Regardless of what the Fed decides to do, it is almost certain to have some regrets afterwards. 
+Will it continue to overdo interest-rate hikes? If so, the economy, two years from now, will be 
+mired once again in secular stagnation a€“ with interest rates at their zero lower bound, and no 
+visible path for a rapid return to full employment. Will the economy achieve a a€oesoft landinga€D 
+through immaculate disinflation, or will
+additional supply shocks and political pressures throw us into stagflation and a painful and 
+prolonged recession?
+
+Nobody knows. But if I was on the FOMC right now, I would keep two considerations in mind. First, 
+the Fed does not have to move slowly. The past six months have shown that there are very few 
+downsides to rapid monetary-policy changes. Until this month, the Fed was raising interest rates by 
+a massive 75 basis points at a time, and even that rate is not a speed limit. The FOMC should take 
+advantage of this apparent
+optionality. When the situation is unclear, it can pause, confident in the knowledge that it can 
+then move very fast when the situation becomes clear.
+
+Second, in retrospect, former Fed Chair Alan GreenspanaC™ s 1996 decision to set the inflation 
+target at 2% per year was very ill advised. Yes, there may be substantial benefits from maintaining 
+and strengthening the Feda€™ s credibility by getting the economy back to the 2% annual target, 
+even if that target will be raised in the medium term. But is that really the kind of credibility 
+the Fed wants to have? Is it good for
+markets to think that you will persist with policies that no longer fit new circumstances, just 
+because you said you would?
+
+Once again, I do not envy the members of the FOMC this winter.
+Share
+
+Leave a comment
+Subscribe now
+

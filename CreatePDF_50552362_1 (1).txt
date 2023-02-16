@@ -1,0 +1,580 @@
+First: MacBookPro Brought to Its Knees at Last!
+
+& the Stupidity of Believing that a€celntelligencea€n Is a One-Dimensional a€cega€D Even in 
+Machines, Let Alone in Brains:
+
+
+I have found something my MacBookPro cannot do without becoming unusable: open ten 
+<http://bloomberg.com> tabs in Safari:
+
+Activity Monitor
+
+All Processes
+
+X                     CPU Memory Energy C
+
+Process Name                  Mem... v       Threads       Ports       PID          User
+
+
+https://www.bloomberg.com
+https://www.bloomberg.com
+https://www.bloomberg.com
+https://www.bloomberg.com
+Keynote
+https://www.bloomberg.com
+https://www.bloomberg.com
+WindowServer
+https://www.bloomberg.com
+https://www.eschatonblog.com
+MarsEdit
+
+HEY Helper (Renderer)
+
+https://twitter.com, ...
+
+4.12 GB
+
+3.84 GB
+
+3.82 GB
+
+3.16 GB
+
+2.26 GB
+
+2.04 GB
+
+2.04 GB
+
+1.77 GB
+
+1.65 GB
+
+1.29 GB
+
+1.19 GB
+
+1,018.1 MB
+
+744.0 MB
+
+9        100    14528    braddelong
+
+9        101    14587    braddelong
+
+3        92    14504     braddelong
+
+6        96    14498     braddelong
+
+6      1,040      4182    braddelong
+
+7        100    14594     braddelong
+
+*7        98    14656     braddelong
+
+25      5,452       589    _windowserver
+
+7        99     14758    braddelong
+
+8        101    14916    braddelong
+
+8      1,356      5452    braddelong
+
+17      2,505      3746    braddelong
+
+5        106     6904     braddelong
+
+
+
+Thanks for readinga€”and please share with someone you think would learn from thisa€!
+Share
+
+One Video:
+
+Oleg Ustenko & Jacob Funk Kirkegaard: Sanctions & More 
+<https://www.piie.com/events/discussion-oleg-ustenko-ukraines-chief-economic-advisor-sanctions-and-m
+ore>
+Share Brad DeLong's Grasping Reality
+
+One Picture:
+
+Cases are translating into deaths at much higher rates in Hong Kong than
+in New Zealand, where elderly vaccination rates are much higher
+
+Daily cases per 100,000 people, and daily deaths per 2 million
+
+100 Hong Kong                                 New Zealand
+
+66% of over-80s unvaccmated                  >■         2% unvaccinated                             
+■
+80 when Omicron took off                                     CFR: 0.1%                              
+   ■
+
+Case fif>lity                            Ji
+
+rate: 4.7%                                                                                   A
+
+
+Very Briefly Noted:
+
+• Dan Kennedy: Republicans Have a Putin Problem'. a€™ & the media need to stop glossing over ita€! 
+<https://www.wgbh.org/news/commentary/2022/03/16/republicans-have-a-putin-problem-and-the-media-need
+-to-stop-glossing-over-it>
+
+•  Jomini of the West: Ukrainian Theater of War, Day 20 & 21: a€™ The third week of the war ends 
+with failed Russian efforts to regain the strategic initiative in Kyiv, exposed to raids and 
+ambushes in the Sumy Oblast, slow progress in the Donbas, and brutal siege warfare in Mariupola€!
+
+Jomini of the West @JominiW
+
+14/ By contrast Russiaa€™ s messaging seems to be consumed with ensuring public perceptions of the 
+war in Ukraine remain at least neutral, if not supportive. Coercing domestic support is critical if 
+the MoD hopes to bring in enough reservists & conscripts to replace losses.
+5:40 AM r™ Mar 17,2022
+
+292Likes27Retweets
+
+•  Adam Davidson: _a€™ I just watched a bunch of GOP political ads. I am embarrasseda€”even 
+ashameda€”that for years I reported earnestly about the GOPa€™ s free-market based vision. That 
+clearly was a thin scrim over ethnonationalism. I truly regret the errora€!
+
+Adam Davidson @adamdavidson
+
+I just watched a bunch of GOP political ads. I am embarrassed—even ashamed—that for years I 
+reported earnestly about the GOP's free market based vision. That clearly was a thin scrim over 
+ethnonationalism. I truly regret the error.
+12:55 PMr™ Mar 15,2022
+
+15,945Likes2,257Retweets
+
+•  Paolo Bacigalupi: a€™ Particularly worth noting how Fox News hosts and far-right Republicans are 
+providing aid and comfort to the Kremlin propaganda effort. Amazing to see Republicans acting as 
+willing tools for Russian imperial desiresa€! <
+
+
+Paolo Bacigalupi @paolobacigalupi
+
+Particularly worth noting how Fox News hosts and far-right Republicans are providing aid and 
+comfort to the Kremlin propaganda effort. Amazing to see Republicans acting as willing tools for 
+Russian imperial desires.
+3:29 PM r™ Mar 17,2022
+
+1 !Likes2Retweets
+
+•  Eric Topol: a€™Many countries Europe & Asia-Pacific have Omicron BA.l and BA.2 breakouts, some 
+countries, like the United States, are cutting funds to prepare, somehow thinking they are 
+immunea€!
+
+Eric Topol @EricTopol
+
+While many countries Europe and Asia-Pacific have Omicron BA.l and BA.2 breakouts, some countries, 
+like the United States, are cutting funds to prepare, somehow thinking they are immune
+
+
+Daily new confirmed COVID-19 cases per million people
+
+7-day railing average. Dur to limited testing the number of confirmed cases is lower than the true 
+number of infections.
+
+Our World
+in Data
+
+Source AoHuHopkiruUnwMtyCSSE COVID-19 DaU                                                          
+CC8V
+
+2:36 PM r™ Mar 17,2022
+
+2,015Likes716Retweets
+
+Paragraphs:
+
+J.R.R. Tolkien: Telling Off Nazis: a€~Thank you for your letter. I regret that I am not clear as to 
+what you intend by arisch. I am not of Aryan extraction: that is Indo-Iranian; as far as I am aware 
+none of my ancestors spoke Hindustani, Persian, Gypsy, or any related dialects. But if I am to 
+understand that you are enquiring whether I am of Jewish origin, I can only reply that I regret 
+that I appear to have no ancestors of that gifted people. My great-great-
+grandfather came to England in the eighteenth century from Germany: the main part of my descent is 
+therefore purely English, and I am an English subjecta€’’which should be sufficient. I have been 
+accustomed, nonetheless, to regard my German name with pride, and continued to do so throughout the 
+period of the late regrettable war, in which I served in the English army. I cannot, however, 
+forbear to comment that if impertinent and irrelevant inquiries of this
+sort   are to become the rule in matters of literature, then the time is not far distant when a 
+German name will no longer be a source of pride. Your enquiry is doubtless made in order to comply 
+with the laws of your own country, but that this should be held to apply to the subjects of another 
+state would be improper, even if it had (as it has not) any bearing whatsoever on the merits of my 
+work or its sustainability for publication, of which you appear to have satisfied
+yourselves without reference to my Abstammung3^\
+
+LINK: <https://gizmodo.com/whats-classier-than-j-r-r-tolkien-telling-off-nazis-a-5892697>
+
+Joseph E. Gagnon & Christopher G. Collins: Low Inflation Bends the Phillips Curve: a€~The Phillips 
+curve, which traces out a negative relationship between inflation and unemployment, has undergone 
+tremendous changes over more than 100 years. Some researchers argue that the slope of the curve in 
+the United States fell substantially around 20 years ago so that unemployment now has little or no 
+effect on inflation. This paper shows that another
+hypothesis is equally consistent with the data: The Phillips curve may be nonlinear when inflation 
+is low, with the economy having operated in the flat region of the curve for most of the past 20 
+years. The next few years may be decisive in the debate between these hypotheses, as unemployment 
+has returned to a range in which a nonlinear curve ought to display significant steepness. A flat 
+Phillips curve implies little change in inflation going forward, but a
+nonlinear curve implies moderate increases in inflation over the next few yearsa€!
+
+LINK: <https://www.piie.com/system/files/documents/wp 19-6,pdf>
+
+David Reifschneider & David Wilcox: _The Case for a Cautiously Optimistic Outlook for US 
+Inflation_: a€~There is a risk that the expectations-augmented Phillips curve model is 
+fundamentally wrong and that the stability of long-run inflation expectations does not actually 
+mattera€!. Wea€! are skepticala€!. Core inflation hardly respondeda€”and then only brieflya€”to the 
+rise in oil prices from $30/ barrel in early 2004 to almost $140/barrel by the summer
+of 2008, to the Great Recession, to the tight labor market of 2018 and 2019, or to the shutdown of 
+much of the economy in the spring of 2020a€!. If we are experiencing a return to prea€‘T990 
+inflation dynamics, long-run inflation expectations should have jumped even if they do not play an 
+important role in propagating inflationa€!. The FOMC should look through todaya€™ s elevated 
+inflation readings and any future bumps that may occur and focus instead
+on attempting to discern where inflation is likely to settle outa€!. It should avoid unnecessarily 
+restraining real activity in the near term to combat an inflation problem that can be reasonably 
+expected to, for the most part, self-correcta€!. The Fed musta€! demonstrate that it continues to 
+understand that it has inescapable and unconditional responsibility for controlling inflation over 
+the longer runa€! demonstrate its willingness to shoulder this responsibility^!.
+We think that the Fed may not need to take the federal funds rate materially above its neutral 
+level in the current cycle of tighteninga€!
+
+LINK: <https ://www.pile.com/sites/default/files/documents/pb22-3 .pdf>
+
+
+Jude Doyle: If You Say a€a?Cancel Cultured€dOne More Time, So Help Me: a€~[Sarah] Hepolaa€™ s 
+article is bada€! The reader braces for the expected a€oegender criticala€n turn, or perhaps a 
+brisk bit of racism, only to finda€! Hepola is actually accusing Brock Turnera€™ s victim, Chanel 
+Miller, of being a blackout drunk who invited her own rape. a€oel have no reason to suspect that 
+Chanel Miller is a chronic blackout drinker, but my research taught
+me that blackout drinking can be chronic in college environments,a€D Hepola assures us, and that, 
+plus the fact that Hepola used to have a drinking problem, has given her the wisdom to know that 
+some girls are asking for it: a€oel watched from afar as the person whose memory had not recorded 
+the incident came to control the narrativea€!. I sympathized with many of these men: Johnny Depp, 
+Ryan Adams, Brett Kavanaugh, every booze-soaked dumbass
+who has been accused of doing or saying things he may or may not remember, may or may not regret, 
+may or may not have done while under the influence. But being sympathetic to these fallen 
+creaturesa€”a trait instilled by literature, my mother, and Opraha€”had been declared a sin. I 
+toyed with the idea of writing about Brock Turner. Maybe it would get me into The New Yorker\a€Oa€\
+
+For what ita€™ s worth, Brock Turner was not convicted on Millera€™ s word. He was interrupted in 
+the act of raping her by two witnesses, who pried him off Millera€™ s unconscious and badly injured 
+body.
+This is a fact Hepola does not mention and, quite possibly, does not know.
+
+Yet Brock Turner, like all Goda€™ s creatures, is two steps away from having his face melted off in 
+a nuclear conflagration^!. You sound like an out-of-touch jackass writing about a€oecancel 
+culturea€D at the best of times, but you sound downright delusional writing about it in March of 
+2022. There are real problems in the worlda€!. Hepola mentions none of these things. They might as 
+well not exist for her. Therea€™ s a war and a pandemic and a fascist
+uprising and shea€™ s complaining about hanging out in a fucking brownstone with New York Times 
+columnists who are worried they wona€™t get enough likes on Tweets about Jonathan Franzen novels. 
+The world is on fire, and shea€™ s so desperate for problems that she has to make them upa€!
+
+LINK: 
+<https://iudedovle.medium.com/if-vou-sav-cancel-culture-one-more-time-so-help-me-a598d6cff708>
+
+Brianna Wu: a€™ Going after elites, conspiracy theories, mocking his critics as unpatriotic. He 
+reminds me of someone, but I cana€™ t quite say who: Michael Elgort: a€oel have translated and 
+added subtitles to the latest video speech by Vladimir Putin from two hours ago. Please dona€™ t 
+let it go in vaina€”I want everyone to see what a speech of true fascism looks like. No further 
+comment needed, ita€™ s all here, in his speech.a€D Ita€™ s like
+wea€™ ve been listening to the fascism cover band since 2016, and now the musician with talent is 
+here to play the same songa€!
+
+LINK:
+
+Going after elites, conspiracy theories, mocking his critics as unpatriotic. He reminds me of 
+someone, but I cana€™ t quite say who.
+
+Michael Elgort dYaDOaLDdYnDdY^dYtlaoeiLD @just whatever
+
+I have translated and added subtitles to the latest video speech by Vladimir Putin from two hours 
+ago. Please dona€™ t let it go in vain -1 want everyone to see what a speech of true fascism looks 
+like. No further comment needed, ita€™ s all here, in his speech https://t.co/QEzsG9BODX
+2:58 AMT™ Mar 17,2022
+
+200Likes29Retweets
+
+Timothy Burke: The Read: Howard W. French, Born in Blackness: Africa, Africans, and the Making of 
+the Modern World, 1471 to the Second World War: a€~French does a terrific job in effectively and 
+consistently explaining to his audience why this history matters and in underlining his own 
+astonishment that it hasna€™ t mattered more to general knowledge about the modern world. a€oeHow 
+is it that this story has gone for so long being so seldom
+examined or told?a€D, he asks about Portugala€™ s early acquisition of gold and other valuable 
+commodities from West African trading partners. Therea€™ s a very clear chapter-length explanation 
+of a€oewealth in personsa€D as different from a€oewealth in thingsa€D, a key concept that I often 
+struggle to communicate effectively to my studentsa€!
+
+LINK:
+
+Eight by Seven
+
+The Read: Howard W. French, Born in Blackness: Africa, Africans, and the Making of the Modern 
+World, 1471 to the Second World War
+
+Why did I get this book? I have always appreciated Frencha€™ s reporting from sub-Saharan Africa 
+(which is a pretty unusual feeling about mainstream American reportage if youa€™re an Africanist). 
+More importantly, I wanted to evaluate this book for possible use in my West African survey 
+coursea€!
+
+Read more
+
+a year ago A- 5 likes A- Timothy Burke
+Leave a comment
+
+Give a gift subscription
+
+I had been thinking that one-in-ten was about the right ratio of paid to total subscribers to this 
+a€~Stack, but over the winter the fraction has drifted down to one-in-twenty. So if you are not a 
+paid subscribera€”and if you can think of something I could add to the Directora€™ s Cut that would 
+induce you to become a paid subscriber^’’please email your suggestions to me at 
+brad.delong@gmail.com. &, please, become a paid subscriber to some a€~Stack, even if
+not this one. Chris, Hamish, and company are working hard and deserve more money, and their ability 
+to satisfy their VC wolves with raw meat would, in the long run, help create a much better public 
+sphere, I thinka€l
+
+Type your emaila€|       Subscribe
+
+
+Directora€™s Cut PAID SUBSCRIBER ONLY Content Below:
+
+Subject: The Post-WWI Political Emergence of Ukraine
+
+lllustrissimus Adam Tooze has a ver nice extended quote from his own book, The Deluge 
+<https://www.google.com/books/edition/The Deluge/HC7aCwAAQBAJ>, on Ukraine between Imperial Germany 
+and Bolshevik Russia in 1918:
+
+Adam Tooze: Brest-Litovska€” Imperial Germany & the Troubled Birth of Modern Ukraine'. a€~In 1918 
+Austria and Germany confidently expected at least 1 million tons from their new Ukrainian ally. But 
+by the end of April it had become clear that a€~exploitinga€™ the bread basket of the Ukraine would 
+present more problems than these fantasies allowed. If they were to avoid the enormous costs of a 
+full-scale occupation, Austria
+and Germany needed a cooperative local authority to collaborate with them. Having been driven out 
+of Kiev (by a Bolshevik attack), only to be restored courtesy of the German Army, the Rada needed a 
+breathing space to re- establish itself. But the scale and urgency of Germany and Austriaa€™ s 
+economic demands made this impossible.
+
+In Ukraine, as in the rest of revolutionary Russia, the only way to secure popular legitimacy was 
+to cede possession of the land to the peasants. Over the summer of 1917 a nationwide land grab had 
+redistributed the gentrya€™ s estates. In the nationwide Constituent Assembly election, the 
+peasants of Ukraine had voted in their millions for the party that promised a village- based 
+agrarian future, the Social Revolutionaries. The SRs were
+reliable allies against the Bolsheviks, but their land policy ran directly counter to the interests 
+of the Central Powers. To maximize the surplus available for export, they needed cultivation to be 
+concentrated in large, market- orientated farms. For the Rada to have presided over the restoration 
+of the great estates for the sake of its German protectors would have discredited it completely. 
+For the Germans themselves to reverse the agrarian
+revolution by force would have required hundreds of thousands of troops from the Western Front that 
+Ludendorff could ill afford.
+
+If the Germans had been able to barter desirable manufactured goods in exchange for grain 
+deliveries, this conflict might have been alleviated. Under the Brest-Litovsk Treaty, Germany had 
+committed itself to trading grain for industrial goods. But under the strain of the war effort, 
+goods for export were in desperately short supply. To purchase the grain they needed, the Central 
+Powers resorted to the short- term expedient of simply
+ordering the Ukrainian National Bank to print whatever currency they required. This gave them 
+purchasing power and avoided requisitioning, but within a matter of months it rendered the currency 
+worthless. As General Hoffmann noted from Kiev: a€~Everyone is rolling in money. Roubles are 
+printed and almost given awaya€! the peasants have enough stocks of corn to live on for two or 
+three years, but they will not sell it.a€™
+
+Having reached this point, there was no alternative but to resort to coercion. In early April, 
+Field Marshal Hermann von Eichhorn, the German occupation commander, issued a decree requiring 
+compulsory cultivation of all land. However, the Field Marshal acted without the approval of the 
+Rada, and the deputies refused to ratify the decree. Within days, the German military decided 
+against diplomacy. In a coup da€™ A©tat, they ousted
+
+the Ukrainian National Assembly and installed a so-called Hetmanate under the Tsarist cavalry 
+officer Pyotr Skoropadskyi. Only six weeks after the ratification of the Brest-Litovsk Treaty by 
+Germanya€™ s own Reichstag, under the pressure of economic necessity, the German military had 
+unilaterally abandoned any residual claim to be acting as the protector           of the legitimate 
+causeof self- determination. Skoropadskyi spoke virtually
+no Ukrainian and filled his cabinet with conservative Russian nationalists. The real power-holders 
+in Germany seemed to have lost interest in the project of creating a viable Ukrainian nation state. 
+Instead, they appeared to be readying Kiev as the launching pad for a conservative reconquest of 
+all of Russia.
+
+The result, as Erzberger lamented in the Reichstag was not just discreditable, but dysfunctional. 
+a€~A German soldier can no longer show himself unarmed in Kieva€! the railway men and workmen are 
+planning a general strikea€! the peasants would not deliver any grain, and bloodshed must be 
+reckoned with in the event of requisitioning^™. Instead of the            1    million tons 
+promised under the peacetreaty, the Ukrainedelivered nomore
+than 173,000 tons to the Central Powers in 1918. 54 But it was not bread alone that was at stake. 
+The question that concerned Erzberger and his colleagues in the Reichstag majority was who 
+controlled the Reich. In future Erzberger demanded all measures in the Baltics and Ukraine should 
+have the approval of the Reichstag.
+
+By June, Ludendorffa€™ s staff had lost any interest in long-term sponsorship of an independent 
+Ukrainian state. Instead, they hoped to march to Petrograd and install a pro-German conservative 
+government for all of Russia that would trade the return of Ukrainian to Russian sovereignty in 
+exchange for German economic domination of all of Russia.
+
+As Germanya€™ s position on the Western front collapsed, the Reichstag found itself struggling to 
+prevent the generals from launching a final German offensive in the East towards Petrograd. As they 
+were agonizingly aware they were, de facto, helping to assure the survival of the increasingly 
+terroristic Bolsheviks regime, which they abhorred on political grounds.
+And, as Germanya€™ s power collapsed, so too did the regime it had created in Kiev. Skoropadskya€™ 
+s regime did not last beyond December 1918 when Ukraine became a Peoplea€™ s Republica€!
+
+LINK:
+
+Chartbook
+
+Chartbook #96: Brest-Litovsk - Imperial Germany and the troubled birth of modern Ukraine
+
+In the urgency of the present, our thinking about Ukraine is drawn to the immediate past. We place 
+the current crisis against the backdrop of the a€oeMaidan revolutiona€D of 2013-2014, or the first 
+escalation of tension with Russia in 2007-2008, or the orange revolution of 2004. We go back to the 
+fateful negotiations between 1991 and 1994 over the end of thea€!
+
+Read more
+
+a year ago A- 55 likes A- 8 comments A- Adam Tooze
+
+As I understand it, immediately after the fall of the Czar Nicholas II Romanov, Mykhailo Hrushevsky 
+led the formation of the Central Rada in Kyiv which sought approval from Petrograd to establish a 
+regional government. By late June 1917 the Central Rada had declared Ukrainian autonomy within a 
+Russian federation. In the aftermath of the Bolshevik coup in Petrograd, the Central Rada declared 
+independence: a Ukrainian People's Republic (UNR). The
+Bolsheviks faction in Kyiv then found itself massively outnumbered, and fled to Kharkiv, where 
+Christian Rakovksy declared himself the head of the real, Bolshevik, government of Ukraine. Then 
+came Trotsky's March 1918 signature to the Treaty of Brest-Litovsk, by which the Bolsheviks 
+recognized the independence of Ukraine, and its location within the Imperial German sphere of 
+influence. By the late Spring of 1918, it appeared that this independent
+
+
+If the Germans had been able to barter desirable manufactured goods in exchange for grain 
+deliveries, this conflict might have been alleviated. Under the Brest-Litovsk Treaty, Germany had 
+committed itself to trading grain for industrial goods. But under the strain of the war effort, 
+goods for export were in desperately short supply. To purchase the grain they needed, the Central 
+Powers resorted to the short- term expedient of simply
+ordering the Ukrainian National Bank to print whatever currency they required. This gave them 
+purchasing power and avoided requisitioning, but within a matter of months it rendered the currency 
+worthless. As General Hoffmann noted from Kiev: a€~Everyone is rolling in money. Roubles are 
+printed and almost given awaya€! the peasants have enough stocks of corn to live on for two or 
+three years, but they will not sell it.a€™
+
+Having reached this point, there was no alternative but to resort to coercion. In early April, 
+Field Marshal Hermann von Eichhorn, the German occupation commander, issued a decree requiring 
+compulsory cultivation of all land. However, the Field Marshal acted without the approval of the 
+Rada, and the deputies refused to ratify the decree. Within days, the German military decided 
+against diplomacy. In a coup da€™ A©tat, they ousted
+
+the Ukrainian National Assembly and installed a so-called Hetmanate under the Tsarist cavalry 
+officer Pyotr Skoropadskyi. Only six weeks after the ratification of the Brest-Litovsk Treaty by 
+Germanya€™ s own Reichstag, under the pressure of economic necessity, the German military had 
+unilaterally abandoned any residual claim          to beacting asthe protector of the legitimate 
+cause of self- determination. Skoropadskyi  spoke virtually
+no Ukrainian and filled his cabinet with conservative Russian nationalists. The real power-holders 
+in Germany seemed to have lost interest in the project of creating a viable Ukrainian nation state. 
+Instead, they appeared to be readying Kiev as the launching pad for a conservative reconquest of 
+all of Russia.
+
+The result, as Erzberger lamented in the Reichstag was not just discreditable, but dysfunctional. 
+a€~A German soldier can no longer show himself unarmed in Kieva€! the railway men and workmen are 
+planning a general strikea€! the peasants would not deliver any grain, and bloodshed must be 
+reckoned with in the event of requisitioning^™. Instead of the            1    million tonspromised 
+under the peace treaty, theUkraine delivered nomore
+than 173,000 tons to the Central Powers in 1918. 54 But it was not bread alone that was at stake. 
+The question that concerned Erzberger and his colleagues in the Reichstag majority was who 
+controlled the Reich. In future Erzberger demanded all measures in the Baltics and Ukraine should 
+have the approval of the Reichstag.
+
+By June, Ludendorffa€™ s staff had lost any interest in long-term sponsorship of an independent 
+Ukrainian state. Instead, they hoped to march to Petrograd and install a pro-German conservative 
+government for all of Russia that would trade the return of Ukrainian to Russian sovereignty in 
+exchange for German economic domination of all of Russia.
+
+As Germanya€™ s position on the Western front collapsed, the Reichstag found itself struggling to 
+prevent the generals from launching a final German offensive in the East towards Petrograd. As they 
+were agonizingly aware they were, de facto, helping to assure the survival of the increasingly 
+terroristic Bolsheviks regime, which they abhorred on political grounds.
+And, as Germanya€™ s power collapsed, so too did the regime it had created in Kiev. Skoropadskya€™ 
+s regime did not last beyond December 1918 when Ukraine became a Peoplea€™ s Republica€!
+
+LINK:
+
+Chartbook
+
+Chartbook #96: Brest-Litovsk - Imperial Germany and the troubled birth of modern Ukraine
+
+In the urgency of the present, our thinking about Ukraine is drawn to the immediate past. We place 
+the current crisis against the backdrop of the a€oeMaidan revolutiona€D of 2013-2014, or the first 
+escalation of tension with Russia in 2007-2008, or the orange revolution of 2004. We go back to the 
+fateful negotiations between 1991 and 1994 over the end of thea€!
+
+Read more
+
+a year ago A- 55 likes A- 8 comments A- Adam Tooze
+
+As I understand it, immediately after the fall of the Czar Nicholas II Romanov, Mykhailo Hrushevsky 
+led the formation of the Central Rada in Kyiv which sought approval from Petrograd to establish a 
+regional government. By late June 1917 the Central Rada had declared Ukrainian autonomy within a 
+Russian federation. In the aftermath of the Bolshevik coup in Petrograd, the Central Rada declared 
+independence: a Ukrainian People's Republic (UNR). The
+Bolsheviks faction in Kyiv then found itself massively outnumbered, and fled to Kharkiv, where 
+Christian Rakovksy declared himself the head of the real, Bolshevik, government of Ukraine. Then 
+came Trotsky's March 1918 signature to the Treaty of Brest-Litovsk, by which the Bolsheviks 
+recognized the independence of Ukraine, and its location within the Imperial German sphere of 
+influence. By the late Spring of 1918, it appeared that this independent
+Ukraine included all lands up to and including the Lower Volga and the Kuban, with a boundary 
+perhaps at the Caucasus.
+
+Then the Germans staged their coup d'etat, establishing what they hoped would be their puppet 
+Hetmanate. It did not survive the end of the German Empire in November 1918. As the Bolshevik 
+Ukrainian armies moved in and defeated the non-Bolshevik armies, non-Bolsheviks in Lviv declared a 
+Western Ukrainian People's Republic (ZUNR). Neither the ZUNR nor the UNR could get the Allies in 
+Versailles to give them the time of day. Things then got swept
+up in the Bolshevik-Polish Wear and with the Peace of Riga in March 1921 the Ukraine was divided 
+between (a) Poland, (b) the Ukrainian SSR, and (c) Russia, which took Crimea, Kuban, and Don 
+Cossacks. Somehow, in all this, Carpathian Ruthenium found itself in Czechoslovakia, and Bukovina 
+found itself in Roumania. And I have not mentioned Nestor Makhno.
+
+Now it could very easily have gone otherwise. The Treaty of Brest-Litovsk had the Grand Duchy of 
+Warsaw and a Greater Lithuania assigned to Germany in some form., It had Finland, Estonia, 
+"Livonia" (Latvia), and Ukraine "self-determined". All of the German-assigned and self-determined 
+territories at Brest-Litovsk became interwar nation-states, save for Ukraine, which became the 
+Ukrainian SSR, and a member of the USSR.
+
+I have always thought that Lennon's attitude toward nationalism derived from his belief that the 
+nation state was little and the party was all. Individual soviet socialist republics could be 
+independent. But their parties would be directed from Moscow. And that would be what counted. I 
+think we see a legacy of this in the Soviet demand that each of the USSR's union republics have a 
+seat in the United Nations, which was then bargained down to the USSR having
+three seats: Russia, Ukraine, and Belarus. (Was Russia always the Security Council power, or was it 
+the USSR? I do not know.)
+
+I believe that in Lenina€™ s mind the template was tha,t as the revolution advanced, newly 
+Bolshevized areas would join the USSR as member republics, independent but with their parties 
+democratically centralized under Moscow. Today the Ukraine. At some future date Finland, Estonia, 
+Latvia, Lithuania, and Poland. Later on Bavaria, Hungary, Austria, and Prussia, and so forth.
+But after World War II that pattern was not followed. To my knowledge, none of the Soviet 
+satellites petitioned to join the US SRa€’’although in 1960 the government of Czechoslovakia did 
+change its name from "People's Republic of Czechoslovakia" to the "Czechoslovak Soviet Socialist 
+Republic", ACESSR...
+
+
+Now it could very easily have gone otherwise. The Treaty of Brest-Litovsk had the Grand Duchy of 
+Warsaw and a Greater Lithuania assigned to Germany in some form., It had Finland, Estonia, 
+"Livonia" (Latvia), and Ukraine "self-determined". All of the German-assigned and self-determined 
+territories at Brest-Litovsk became interwar nation-states, save for Ukraine, which became the 
+Ukrainian SSR, and a member of the USSR.
+
+I have always thought that Lennon's attitude toward nationalism derived from his belief that the 
+nation state was little and the party was all. Individual soviet socialist republics could be 
+independent. But their parties would be directed from Moscow. And that would be what counted. I 
+think we see a legacy of this in the Soviet demand that each of the USSR's union republics have a 
+seat in the United Nations, which was then bargained down to the USSR having
+three seats: Russia, Ukraine, and Belarus. (Was Russia always the Security Council power, or was it 
+the USSR? I do not know.)
+
+I believe that in Lenina€™ s mind the template was tha,t as the revolution advanced, newly 
+Bolshevized areas would join the USSR as member republics, independent but with their parties 
+democratically centralized under Moscow. Today the Ukraine. At some future date Finland, Estonia, 
+Latvia, Lithuania, and Poland. Later on Bavaria, Hungary, Austria, and Prussia, and so forth.
+But after World War II that pattern was not followed. To my knowledge, none of the Soviet 
+satellites petitioned to join the US SRa€’’although in 1960 the government of Czechoslovakia did 
+change its name from "People's Republic of Czechoslovakia" to the "Czechoslovak Soviet Socialist 
+Republic", ACESSR...
+

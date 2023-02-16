@@ -1,0 +1,201 @@
+SLOUCHING TOWARDS UTOPIA
+
+J. BRADFORD DELONG
+
+PREORDER NOW • ON SALE 6 SEPTEMBER
+
+The printed endnotes in my Slouching Towards Utopia: An Economic History of the 20th Century 
+<https: //bit .ly/3pP3Krk>, forthcoming September 6,2022, from Basic, are minimal, minimal. They 
+are (1) direct quotes plus (2) places where I am following one particular source plus (3) places 
+where there is an obvious next thing to read.
+The problem is that the subject deserves much more in the way of notes. Here they are, 
+paragraph-by-paragraph
+
+Subscribe now
+
+Introduction: My Grand Narrative[a]
+
+What I call the a€oelong twentieth centurya€D started with the watershed-crossing events of around 
+1870a€”the triple emergence of globalization, the industrial research lab[l][b], and the modern 
+corporation [2] a€’’which ushered in changes that began to pull the world out of the dire poverty 
+that had been humanitya€™ s lot for the previous ten thousand years, since the discovery of 
+agriculture. And what I call the a€oelong twentieth centurya€D ended in
+2010,[c] with the worlda€™ s leading economic edge, the countries of the North Atlantic, still 
+reeling from the Great Recession that had begun in 2008, and thereafter unable to resume economic 
+growth at anything near the average pace that had been the rule since 1870. The years following 
+2010 were to bring large system-destabilizing waves of political and cultural anger from masses of 
+citizens, all upset in different ways and for different reasons at the failure
+of  the system of the twentieth century to work for them as they thought that it should.
+
+Share
+
+Printed Endnotes:
+
+[1] Steven Usselman, a€oeResearch and Development in the United States since 1900: An Interpretive 
+Historya€D, Economic History Workshop, Yale University, November 11,2013 
+https://economics.yale.edu/sites/default/files/usselman_paper.pdf; Thomas P. Hughes, American 
+Genesis; A Century of Invention and Technological Enthusiasm, 1870-1970, Chicago: University of 
+Chicago Press, 2004.
+
+[2j Alfred Chandler, The Visible Hand: The Managerial Revolution in American Business, Cambridge: 
+Harvard University Press, 1977.
+Share Brad DeLong's Grasping Reality
+
+Longer Notes:
+
+Most of the extra notes I could add to this first paragraph have a better place further down the 
+pages, sometimes much further down the pages. But I do want to add four things:
+
+[a] I think I stole the title from Simon Auerbach from an article he wrote back in 1993: a€oeMrs. 
+Thatchera€™ s Labor Laws: Slouching Towards Utopia?a€D <https://onlinelibrary.wiley.com/doi/10.1111 
+/ j. 1467-923X.1993.tbOO312.x>. And the extremely insightful George Scialabba grabbed it for a talk 
+title <http://georgescialabba.net/mtgs/2018/03/slouching-toward-utopia.html> four years ago. And, 
+of course, Joan Didion
+
+<https://archive.org/details/isbn 0679640866>. And, of course, the most plundered poem of the 
+entire twentieth century William Butler Yeatsa€™ s The Second Coming 
+<https://www.poetryfoundation.org/poems/43290/the-second-coming>:
+
+Turning and turning in the widening gyre
+The falcon cannot hear the falconer;
+Things fall apart; the centre cannot hold;
+Mere anarchy is loosed upon the world.
+
+The blood-dimmed tide is loosed, and everywhere
+
+
+The best lack all conviction, while the worst
+Are full of passionate intensity.
+
+Surely some revelation is at hand;
+Surely the Second Coming is at hand.
+
+The Second Coming! Hardly are those words out
+When a vast image out of Spiritus Mundi
+
+Troubles my sight: somewhere in sands of the desert
+A shape with lion body and the head of a man,
+
+A gaze blank and pitiless as the sun,
+
+Is moving its slow thighs, while all about it
+Reel shadows of the indignant desert birds.
+
+The darkness drops again; but now I know
+That twenty centuries of stony sleep
+
+Were vexed to nightmare by a rocking cradle,
+
+And what rough beast, its hour come round at last,
+Slouches towards Bethlehem to be born?
+
+[b] Bill Janeway sends me a quote from late-1800s Scottish-American steelmaster Andrew Carnegie on 
+the birth of the IRL, and the application of science to technology and engineering:
+
+Bill Janeway: Doing Capitalism in the Innovation Economy, 2nd ed. (Cambridge: Cambridge University 
+Press, 2018) <https://www.amazon.com/dp/1108471277>, p. 253: By World War I, a new institution was 
+emerging to serve as the nexus of technological innovation: the industrial research laboratory. The 
+relevance of science to industry had been discovered by that most entrepreneurial of capitalists, 
+Andrew Carnegie, who reflected
+on the economic benefits of systematic assays of iron ore by a trained chemist: a€oeWhat fools we 
+had been! But then there was this consolation: we were not as great fools as our competitorsa€!.. 
+Years after we had taken chemistry to guide us, [they] said they could not afford to employ a 
+chemist. Had they known the truth then, they would have known they could not afford to be without 
+onea€![37] Quoted in David Mowery &
+Nathan Rosenberg: Technology and the Pursuit of Economic Growth (Cambridge: Cambridge University 
+Press, 1989) <https: //ww w.amazon .com/dp/0521380332>, p. 30.
+
+Janeway is worth quoting, both in his own voice and quoting Alfred Chandler, on this at greater 
+length:
+
+The more general recognition, a generation later, of science-based research and development as a 
+source of competitive advantage may be read as an indirect impact of the railroads in the context 
+of the American version of laissez-fairea€!. A national marketa€! the radical decline in 
+manufacturing costs as companies exploited the a€oeeconomies of scale and scopea€D analyzed by 
+Alfred Chandlera€!.
+
+Companies ha[d] a need and an opportunity to rationalize a€oethe facilities and skills of the 
+constituent companies by making concentrated investments in manufacturing, marketing and 
+management, the mergers and corporate reorganizations of the late nineteenth and early twentieth 
+centuries hastened the growth of industrial researcha€! In firms such as American Telephone and 
+Telegraph, General Electric, U.S. Steel or Du Pont, the
+development of a strong central office was closely associated with the establishment or significant 
+expansion of a central research facilitya€!a€D
+
+Thus the great corporations moved into a space that previously had been haphazardly funded, 
+principally by wealthy individuals guided by motives that combined curiosity and philanthropya€! 
+[with] utter lack of interest in economic or financial returna€!
+
+And Fred Block writes from U.C. Davis that the decline of Industrial Research Laboratories in 
+American oligopolistic corporations in the age of neoliberalism bears some responsibility for the 
+slowdown in growth that is one of the signposts of the end of the long twentieth century:
+
+You are right to emphasize the world-changing importance of the corporate research laboratory. 
+However, I think there is a lot of evidence that the corporate research labs have declined 
+dramatically in significance over the last half century. Some of this is short-termism where 
+corporations dona€™ t want to spend on anything that will not improve the bottom line in the next 
+two or three quarters. But far more significant is the greater
+technological complexity of current innovation. Developing new products or new processes now 
+requires five, six, seven, or more different scientific specialties. Not even the big monopolies 
+can afford to create career lines for technologists in more than three or four fields.
+
+So the current pattern is that they have experts in two or three fields and they link up with 
+outside experts either at federal laboratories or universities or the new larger research 
+institutes that the government is busy creatinga€”such as the advanced manufacturing institutes. 
+Moreover, the public sites are the place where the actual innovating occurs rather than back home 
+at the corporate lab that probably lacks all the high tech equipment
+that the public sector provides. Nobody talks about this because it undermines the case for 
+privatizing the profits rather than gainsharing that acknowledges the federal contribution.
+
+As you imagined, I am skeptical of your reliance on the Gordon/TFP numbers, but it does not make 
+too much difference in terms of your argument whether or not there was some economic improvement in 
+the 90a€™ s and early 2000a€™ s. The basic point is that the neoliberals did not solve the problems 
+that they claimed to solve and with rising inequality and the failure to deal with climate change, 
+the economy became more fragile.
+(personal communication)
+
+[c] 1870 as the starting date is, to my mind, incontestable. The pace of technological progress 
+deployed and diffused worldwide jumps up discontinuously by a factor of more than four around 1870. 
+That transforms humanity from a civilization still under the dire poverty-generating harrow of 
+Malthus to one that is on the way of solving the problem of producing enoughd^”of producing a big 
+enough economic pie that there is a real sense that the economic
+problem is no longer among the most serious problems of the human race, and that what comes to the 
+forefront are the problems of distribution and utilizationa€’’slicing the pie semi-equitably, and 
+tastinga€”enjoyinga€”the pie so that we can make ourselves healthy, safe, secure, and happy.
+
+While 1870 is the starting point, there is lots of room for debate and argument about the ending 
+point of the long 20th century. Did it end at the turn of 2000-2001, when George W, Bush got 
+himself elected to the presidency by a 5-4 Supreme Court vote, and the possibility of renewing 
+American economic exceptionalism as an exemplar of rapid and equitable growth melted away? Did it 
+end in September, 2001, with the boiling over of a new round of
+catastrophes that threatened to become wars of religion? Did it end in the spring of 2003, when 
+George W. Bush and Richard Cheney broke the western alliance and abandoned the U.S.a€™ s mammoth 
+soft-power advantage of being able to portray itself as a benevolent hegemonl Did it end in 
+2007-2008, when it became very clear that the neoliberal order had no clue how to regulate 
+financial markets for stable prosperity? Did it end in 2009-2011, when it was
+only                                                                                                
+                                                                                                    
+        by the skin of our teeth that we avoided a second Great Depression, and it became clear 
+that restoring high employment was not a high priority among the ruling A©lite? Was it 2016, and 
+the rise of Donald Trumpa€”and the failure of Americaa€™ s Republican Party to stand up for itself? 
+Was it in the 2010s in general, with a worldwide rise of movements that Madeleine Albright called 
+a€cefascista€D (and who am I to argue with her?)? Was it 2020, and
+the failure to competently manage the coronavirus plague as a public health challenge?
+
+I very much hope that people will argue about this. But for now let me bracket it, and delay 
+discussion until we approach the end of the book.
+
+Leave a comment
+
+Give a gift subscription
+Donate Subscriptions
+
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Subscribe now
+

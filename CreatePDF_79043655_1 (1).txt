@@ -1,0 +1,180 @@
+Subscribe now
+
+Bernanke v. Kindleberger: Which Credit Channel?
+
+By Perry G. Mehrling
+
+In the papers of economist Charles Kindleberger, Perry Mehrling found notes on the paper that won 
+Ben Bernanke his Nobel Prize.
+
+In the 1983 paper cited as the basis for Bernankea€™ s Nobel award, the first footnote states: 
+a€oel have received useful comments from too many people to list here by name, but I am grateful to 
+each of them.a€D One of those unnamed commenters was Charles P. Kindleberger, who taught at MIT 
+full-time until mandatory
+retirement in 1976 and then half-time for another five years. Bernanke himself earned his MIT Ph.D. 
+in 1979, whereupon he shifted to Stanford as Assistant Professor. Thus it was natural for him to 
+send his paper to Kindleberger for comment, and perhaps also natural for Kindleberger to respond.
+
+As it happens, the carbon copy of that letter has been preserved in the Kindleberger Papers at MIT, 
+and that copy is reproduced below as possibly of contemporary interest. All footnotes are mine, 
+referencing the specific passages of the published paper, a draft copy of which Kindleberger is 
+apparently addressing, and filling in
+
+
+In the papers of economist Charles Kindleberger, Perry Mehrling found notes on the paper that won 
+Ben Bernanke his Nobel Prize.
+
+In the 1983 paper cited as the basis for Bernankea€™ s Nobel award, the first footnote states: 
+a€oel have received useful comments from too many people to list here by name, but I am grateful to 
+each of them.a€D One of those unnamed commenters was Charles P. Kindleberger, who taught at MIT 
+full-time until mandatory
+retirement in 1976 and then half-time for another five years. Bernanke himself earned his MIT Ph.D. 
+in 1979, whereupon he shifted to Stanford as Assistant Professor. Thus it was natural for him to 
+send his paper to Kindleberger for comment, and perhaps also natural for Kindleberger to respond.
+
+As it happens, the carbon copy of that letter has been preserved in the Kindleberger Papers at MIT, 
+and that copy is reproduced below as possibly of contemporary interest. All footnotes are mine, 
+referencing the specific passages of the published paper, a draft copy of which Kindleberger is 
+apparently addressing, and filling in
+context that would have been familiar to both Bernanke and Kindleberger but may not be to a modern 
+reader. With these explanatory notes, the text speaks for itself and requires no further commentary 
+from me.
+
+a€oeMay 1,1982
+Dr. Ben Bernanke
+
+Graduate School of Business
+Stanford University
+Stanford,  CA 94305
+
+Dear Dr. Bernanke,
+
+Thank you for sending me your paper on the great depression. You ask for comments, and I assume 
+this is not merely ceremonial. I am afraid you will not in fact welcome them.
+
+I think you have provided a most ingenious solution to a non-problem.[j.] The necessity to 
+demonstrate that financial crisis can be deleterious to production arises only in the scholastic 
+precincts of the Chicago school with what Reder called in the last J EL its tight priors, or TP.[2] 
+If one believes in rational expectations, a natural
+rate of unemployment, efficient markets, exchange rates continuously at purchasing power parities, 
+there is not much that can be explained about business cycles or financial crises. For a Chicagoan, 
+you are courageous to depart from the assumption of complete markets.[3]
+
+You wave away Minsky and me for departing from rational assumptions. [4] Would you not accept that 
+it is possible for each participant in a market to be rational but for the market as a whole to be 
+irrational because of the fallacy of composition? If not, how can you explain chain letters, 
+betting on lotteries, panics in burning
+theatres, stock market and commodity bubbles as the Hunts in silver, the world in gold, etca€! 
+Assume that the bootblack, waiters, office boys etc of 1929 were rational and Paul Warburg who said 
+the market was too high in February 1929 was not entitled to such an opinion. Each person hoping to 
+get in an[d] out in time may be
+rational, but not all can accomplish it.
+
+Your data are most interesting and useful. It was not Temin who pointed to the spread (your DIF) 
+between governts [sic] and Baa bond yields, but Friedman and Schwartz. [5] Column 4 also interests 
+me for its behavior in 1929. It would be interesting to disaggregate between loans on securities on 
+the one hand and loans and
+discounts on the other.
+
+Your rejection of money illusion (on the ground of rationality) throws out any role for price 
+changes. I think this is a mistake on account at least of lags and dynamics. No one of the Chicago 
+stripe pays attention to the sharp drop in commodity prices in the last quarter of 1929, caused by 
+the banks, in their concern over loans on
+securities, to finance commodities sold in New York on consignment (and auto loans). [6] This put 
+the pressure on banks in areas with loans on commodities. The gainers from the price declines were 
+slow in realizing their increases. The banks of the losers failed. Those of the ultimate winners 
+did not expand.
+
+Note, too, the increase in failures, the decrease in credit and the rise in DIF in the last four of 
+five months of 1931.[7] Much of this, after September 21, was the consequence of the appreciation 
+of the dollar from $4.86 to $3.25.[8] Your international section takes no account of this because 
+prices dona€™t count in your analysis.
+In The World in Depression, 1929-1939, which you do not list,[9] I make much of this structural 
+deflation, the mirror analogue of structural inflation today from core inflation and the oil shock. 
+But your priors do not permit you to think them of any importance.
+
+Sincerely yours,
+
+[Charles P. Kindleberger] a€D
+
+References
+
+Bernanke, Ben S. 1983. a€oeNonmonetary Effects of the Financial Crisis in the Propagation of the 
+Great Depression.a€D American Economic Review 73 No 3 (June): 257-276.
+Kindleberger, Charles P. 1973. The World in Depression, 1929-1939. Berkeley CA: University of 
+California Press.
+
+Kindleberger, Charles P. 1978. Manias, Panics and Crashes: A History of Financial Crises. New York: 
+Basic Books.
+
+Kindleberger, Charles P. 1985. Keynesianism vs. Monetarism and Other Essays in Financial History. 
+London: George Allen and Unwin.
+Kindleberger. Charles P. and Jean-Pierre Laffargue, eds. 1982. Financial crises: Theory, History, 
+and Policy. Cambridge: Cambridge University Press.
+Mehrling, Perry. 2022. Money and Empire: Charles P. Kindleberger and the Dollar System. Cambridge: 
+Cambridge University Press.
+
+Notes
+
+[1] Bernanke (1983,258): a€oereconciliation of the obvious inefficiency of the depression with the 
+postulate of rational private behaviora€D.
+
+[2] Reder, Melvin W. a€oeChicago Economics: Permanence and Change ,a€C Journal of Economic 
+Literature 20 No. 1 (March 1982): 1-38. Bernanke (1983,257) states explicitly, aCcethe present 
+paper builds on the Friedman-Schwartz worka€!a€D
+
+[3] Bernanke (1983,257): aCceThe basic premise is that, because markets for financial claims are 
+incomplete, intermediation between some classes of borrowers and lenders requires nontrivial 
+market-making and information-gathering service s.a€D And again at p. 263: a€oeWe shall clearly not 
+be interested in economies of the
+sort described by Eugene Fama (1980), in which financial markets are complete and 
+information/transactions costs can be neglected.a€D
+
+[4] Bernanke (1983,258): a€oeHyman Minsky (1977) and Charles Kindleberger (1978) have in several 
+places argued for the inherent instability of the financial system, but in doing so have had to 
+depart from the assumption of rational economic behavior.a€D It is perhaps relevant to observe that 
+elsewhere Kindleberger takes
+pains to point out the limitations of the Minsky model for explaining the great depression: a€oeit 
+is limited to the United States; there are no capital movements, no exchange rates, no 
+international commodity prices, nor even any impact of price changes on bank liquidity for domestic 
+commodities; all assets are financial.a€D
+(Kindleberger 1985,302) This passage appears in Kindlebergera€™ s contribution to a 1981 conference 
+sponsored by the Banca di Roma and MITa€™ s Sloan School of Management, which followed on a 1979 
+Bad Homburg conference that also included both men, which proceedings were published as Financial 
+Crises:
+Theory,  History and Policy (Cambridge 1982).
+
+[5] Bernanke (1983,262): a€ceDIF = difference (in percentage points) between yields on Baa 
+corporate bonds and long-term U.S. government bondsa€D.
+
+[6] It is exactly the sharp drop in commodity prices that Kindleberger puts at the center of his 
+explanation of why the depression was worldwide since commodity prices are world prices. 
+Kindleberger (1973,104): a€oeThe view taken here is that symmetry may obtain in the scholara€™ s 
+study, but that it is hard to find in the real
+world. The reason is partly money illusion, which hides the fact of the gain in purchasing power 
+from the consumer countries facing lower prices; and partly the dynamics of deflation, which 
+produce an immediate response in the country of falling prices, and a slow one, often overtaken by 
+spreading deflation, in the country with
+improved terms of trade, i.e. lower import prices.a€D
+
+[7] Bernankea€™ s Table 1 cites August-December DIF figures as follows: 4.29,4.82,5.41,5.30,6.49.
+
+[8] September 21 is of course the date when the Bank of England took sterling off gold, see 
+Kindleberger (1973,167-170).
+
+[9]The published version, Bernanke (1983), still does not list Kindleberger (1973), citing only 
+Kindleberger (1978), Manias, Panics, and Crashes. Notably, the full title of that book includes 
+also the words a€oeA History of Financial Crises.a€n Kindleberger himself quite explicitly frames 
+Manias as an extension of the
+Depression book, now including all of the international financial crises he can find. Later 
+commentary however follows Bernanke in viewing Kindleberger (1978) as instead an extension of 
+Minskya€™ s essentially domestic Financial Instability Hypothesis, which is not correct. On this 
+point see footnote 4, and more generally,
+Chapter                                                                                             
+                                                       8 of my book Money and Empire (Cambridge 
+2022).
+
+Subscribe now
+Leave a comment
+
+

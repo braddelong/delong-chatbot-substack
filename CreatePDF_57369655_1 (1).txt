@@ -1,0 +1,419 @@
+Longest-Run Global Economic Growth
+
+
+Date
+
+-73000
+
+Ideas
+Growth
+Rate      h
+
+Ideas
+Stock
+Level      H
+
+Real
+Income/
+Capita       y
+
+$1,200
+
+Popula­     Total
+tion P    Income Y
+(millions) (billions)
+
+0.005
+
+Population
+Growth n
+
+Efficiency-
+Growth g
+
+
+-68000               0.008
+
+-48000   0.002%      0.011
+
+-8000   0.003%      0.036
+
+-6000   0.009%      0.043
+
+-3000   0.018%      0.074
+
+-1000   0.030%      0.136
+
+150   0.060%      0.272
+
+800   0.014%      0.297
+
+1500   0.052%      0.429
+
+$1,200
+
+$1,200
+
+$1,200
+
+$900
+
+$900
+
+$900
+
+$900
+
+$900
+
+$900
+
+0.2
+
+2
+
+5
+
+50
+
+200
+
+240
+
+500
+
+$0.12
+
+$0.24
+
+$4.5
+
+$14
+
+$45
+
+$180
+
+$216
+
+$450
+
+0.060%
+
+0.003%
+
+0.006%
+
+0.046%
+
+0.037%
+
+0.060%
+
+0.028%
+
+0.105%
+
+0.000%
+
+0.000%
+
+0.000%
+
+-0.014%
+
+0.000%
+
+0.000%
+
+0.000%
+
+0.000%
+
+0.000%
+
+
+1770 0.149%
+
+1870 0.442%
+
+0.643
+
+1.000
+
+$1,100        750      $825
+
+$1,300       1300    $1,690
+
+0.150%
+
+0.550%
+
+0.074%
+
+0.167%
+
+
+2010 2.159%       20.557
+
+2100 2.000%     108.893
+
+$11,600       6900   $80,040
+
+$53,802       9000      $484,214?
+
+1.192%
+
+0.295%
+
+1.563%
+
+1.705%
+
+2.000%
+
+Subscribe now
+
+FIRST: Why 20th Century History Was so Different than All Previous History
+
+Briefly: very very roughly, approximately, and inadequately, on average what twenty workers were 
+needed to do in 1870 with their eyes, fingers, thighs, brains, mouths, and ears, 1 worker was able 
+to do in 2010.
+
+It is also true that what one worker could do in 1870 required 20 in -6000. But that 20-fold 
+amplification was an 8000-year creep rather than a 140-year sprint: a proportional growth rate of 
+0.04%/year rather than 2.1%/year. And from -6000 to 1870 the overwhelming bulk of the potential 
+benefits for humans from that twentyfold upward creep of technological knowledge had been eaten up 
+by growing resource scarcity: the land and other natural
+resources available to support 1 person in -6000 had to support 400 by 1870.
+
+By contrast, the twentyfold post-1870 technological-progress wave had to deal not with a 200- but 
+only a 6-fold multiplication of human numbers, leaving lots to be devoted to bringing about much 
+higher average productivity.
+
+Thus over the long 20th century humanity really should have used our collective technological 
+prowess to build a Utopia or Utopiasa€“have created, as my friend Max Singer used to say, a truly 
+human world. Spoiler: it did not do so. But why not? And is there anything we can do to do better 
+in the 21st century? And, if so, what?
+
+If there is one single nugget of insight that I want readers of my book Slouching Towards Utopia 
+<https://bit.lv/3pP3Krk> to permanently engrave on their brains, this is it: around 1870 the rate 
+of technological progress and thus of potential wealth creation went into much higher gear. After 
+1870, humanity's deployed technological capabilities and thus potential prosperity doubled every 
+thirty-five yearsa€”and withit came economic creative destruction
+that reduced old economic structures to rubble and built new ones, and did it again, and again, and 
+again, every single generation. Before 1870? From 1770-1870 humanity's globally-deployed 
+technological prowess had a doubling time of about 150 yearsa€”not 35. From 1500-1770 it had a 
+doubling time of 500 years. And before 1500, we are looking at a doubling time of 2000 years. The 
+difference between our world, in which technological progress
+creatively destroys and revolutionizes the economy every 35 years, and the world of Agrarian-Age 
+antiquity in which the same proportional changes in technology and economy, and thus in polity and 
+society, take not 35 but 2000 years is, I think, a master force shaping human history.
+
+I want to hammer home the obvious to those who don't have exponential growth magnitudes in their 
+immediate intellectual panoply: a twentyfold amplification of human technological prowess in 140 
+years is a REALLY BIG F—ING DEAL. To get an equivalent proportional jump in the other direction, 
+you have to go back from 1870 to the Bronze Agea€” to the year -2000 or so. We are, 
+proportionately, as separate in technology from the railroad's
+Golden Spike and the first transoceanic cables as those were from the earliest chariots and the 
+sculptor of the dancing girl of Mohenjo-Daro:
+
+
+Share
+
+One Audio:
+
+Henry Farrell & San Carroll: Democracy as a Problem-Solving Mechanism 
+<https://www.preposterousuniverse.com/podcast/2021/05/24/148-henry-farrell-on-democracy-as-a-problem
+-solving-mechanism/>
+Share Brad DeLong's Grasping Reality
+
+One Image: The Fruits of BREXIT:
+
+UK business investment fails to rebound
+
+Real index, rebased 02 2016=100
+
+M Actual ■ 02 2009- 02 2016 trend
+
+L30
+
+L20
+
+LIO
+
+LOO
+
+90
+
+
+in
+
+60 ------------ j----------- 1---------- 1---------- 1---------- 1---------- 1---------- 
+1---------- 1---------- 1---------- 1---------- 1---------- 1      r
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+
+FINANCIAL TIMES                                            Source: ONS and FT calculations
+
+Very Briefly Noted:
+
+•  Open Letter to the Executive Committee of the American Economic Association: a€™ The AEA bylaws 
+state the our organization a€oewill take no partisan attitude, nor will it commit its members to 
+any position on practical economic questions.a€D Howevera€! economists who are pregnant or might 
+become pregnant have an equal right to participate in our Annual Meetings without facing 
+disproportionate health risksa€!
+
+<https: //pi akiela .github .io/AE A-open-letter-women-2022-06-24.pdf>
+
+•  John Brunner (1993): Sometimes in the Recent Futurea€\: a€~J. B. S. Haldanea€! Bertrand Russell 
+and J. D. Bernala€! supplied raw material to the science fiction mills for the best part of two 
+generationsa€! chttps://www.newscientist.com/article/mg13818683-900/>
+
+•  Toby Helm & al.: a€~What Have We Done?a€™: Six Years on, UK Counts the Cost of Brexit: 
+a€~Sectors from fishing to aviation, farming to science report being bogged down in red tape, 
+struggling to recruit staff and racking up losses for the first timea€! 
+<https://www.theguardian.com/politics/2022/jun/25/what-have-we-done-six-vears-on-uk-counts-the-cost-
+of-brexit?CMP=share_btn_tw>
+
+• Daniel Kuehn: James Buchanan, Gordon Tullock, & the a€oeRadically Irresponsiblea€D One Person, 
+One Vote Decisionsa€! 
+<https://www.cambridge.org/core/journals/journal-of-the-historv-of-economic-thought/article/abs/iame
+s-buchanan-gordon-tullock-and-the-radicallv-irresponsible-one-person-one-vote-decisions/154C4E05C545
+2EAE2E4464E4F94B64DB>
+
+• Benji Jones: Summer 2022 Started with a Brutal Heat Wave. Where Do These a€oeHeat Domesa€L2Come 
+From? 
+<https://www.vox.eom/energv-and-environment/2022/6/22/23176860/heat-wave-summer-temperatures-climate
+-change-us-europe>
+
+• JJ). Bernal: -The World, the Flesh, & the Devil: An Enquiry into the Future of the Three Enemies 
+of the Rational S,6>uZ<https: //w w w.marxists .org/archive/bernal/works/1920s/soul/index ,htm>
+
+
+AJs:
+
+Inflation expectations
+
+io
+
+
+5
+
+0
+
+Michigan 2/80       Michigan 5/22
+
+■ 1 year    5 year
+
+■■
+
+TIPS 6/22
+
+I agree with Claudia here: I simply do not see the expectational wage-price spiral in the making:
+
+Claudia Sahm: Ita€™ s 2022, not 1972’. a€~The Fed must act to bring inflation down. It is! And it 
+has the full support of the White House and Congress. No guarantees of success. Peoplea€™ s beliefs 
+can change quickly. Feelings matter. And the world has been cruel the past few years. That said, 
+ita€™ s not time to throw in the towel and accept a recession. No!a€! The Feda€™ s thinking and 
+actions in the 1970s are not
+comparable to the current crisis. We have learned many lessons from the past, and ita€™ s clear 
+that Fed officials are applying those lessons as best they can todaya€!
+
+LINK:
+
+Stay-At-Home Macro
+
+Addendum: This post is an example of me trying to make economics more accessible while sharing my 
+expertise. I truly love economics, and my goal is to share that love with others. Above all, I want 
+to create space for others to join these discussions, epsecially who do not look like a typical 
+economist on the news or in policy circles or who dona€™t have the elite credentials. So yeah, some 
+might see me as a€oenot seriousaCD here, but the worst
+thing I could do is take myself too seriously. Ita€™ s not about mea€!
+
+Read more
+
+10 months ago A- 6 likes A- 2 comments A- Claudia Sahm
+
+Here, for the first time I have seen this year, is a comprehensible argument about how expectations 
+of inflation might get entrenched, and thus generate a wage price spiral which would be best 
+handled by having more aggressive Fed tightening now. Paul Krugman does not believe it. But he does 
+take it seriously. And so do I. The claim that a media-partisan complex is about to brainwash 
+gullible Americans in the interests of clickbait and anti-Biden
+votesa€”it seems a big stretch to me. But the world is a stange and surprising place:
+
+Paul Krugman: a€~Crucial: [I am] not claiming that consumers or markets have special information. 
+The question isna€™t whether theya€™re right; ita€™ s whether inflation has gotten entrenched. All 
+the evidence says no. Now, Goldman Sachs is making a curious argument: That inflation expectations 
+will rise because of a€cethe coming barrage of political advertisements highlighting high inflation 
+ahead of the midterm
+electionsa€Da€!. CNN has become the Inflation News Network; and what do you think people see on 
+Fox?a€! If partisan ads get more people to tell pollsters that they expect permanent high 
+inflation, will this translate into actual wage and price increases? That is, will it affect 
+perceptions that inform economic decisions, as opposed to those that might affect voting? Doubtful. 
+Wea€™ 11 need to watch this, and maybe discount
+what    the surveysa€”as opposed to financial markets, where people are putting money on the 
+linea€”say. Key point: the Fed should not slam the brakes because of phantom inflation fearsa€!
+
+LINK:
+
+
+Paul Krugman @paulkrugman
+
+Crucial: not claiming that consumers or markets have special information. The question isn't 
+whether they're right; it's whether inflation has gotten entrenched. All the evidence says no 10/
+12:32 PM r™ Jun 26,2022
+
+179Likes23Re tweets
+
+I confess it has been a long, long time since the New York Timesa€™ s decision to keep giving Ross 
+Douthat has column-inches has made any sense to me. Perhaps it is eleven-dimensional chess? That 
+this is the best that a conservative in America in 2022 can do? The key, I think, is that the 
+plutocrats and neofascists in the republican party have discovered that their key to political 
+success is resisting social-democratic proposals to treat people equally
+by aggressively pushing for a society in which people are classified as unequals and then treated 
+unequally:
+
+Steve M.: Imagine Therea€™s No Revanchism'. a€~Once again [Ross] Douthat is digging in the dung 
+pile of the contemporary right, convinced that there must be a compassionate-conservative pony in 
+there somewherea€!. Stop snickering. He really believes this. He thinks ita€™ s actually possible 
+that a movement almost monomaniacally devoted to punitive acts will do a 180 and empathetically 
+expand aid to poor parents in
+the name of conservatisma€!
+
+LINK: <https://nomoremister.blogspot.com/2022/06/imagine-theres-no-revanchism.html>
+
+And, yes, a better world is possible:
+
+Garrison Lovely: Do We Need a Better Understanding of a€~Progressa€™ ?\ a€~Cowen and Collisona€! 
+are not content to merely study progress; they want actiona€!. The progress community wants its 
+followers to believe that they can do bettera€!. For Crawford, the vision of that world animates 
+him: a€oel want humanity to regain its self-esteem and its ambition, to figuratively and literally 
+reach for the stars. I want us to
+dream of flying cars, fusion energy, nanotech manufacturing, terraforming planets, exploring the 
+galaxy. So ita€™ s not just about policy, but about peoplea€™ s fundamental attitudes towards 
+humanity and our place in nature. a€D If you fell asleep for another 70 years, might Crawforda€™ s 
+world await you? Would you be living a happier, richer life? Perhapsa€!
+
+LINK: <https://www.bbc .com/future/article/20220615-do-we-need-a-better-understanding-of-progress>
+Leave a comment
+
+Give a gift subscription
+Donate Subscriptions
+
+
+Read Brad DeLong s Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Subscribe now
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Subscribe now
+

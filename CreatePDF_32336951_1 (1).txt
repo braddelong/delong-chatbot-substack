@@ -1,0 +1,926 @@
+Introduction to: After Piketty: The Research Program Starting from Thomas Pikettya€™s Capital in 
+the Twenty-First Century:
+
+Capital in the Twenty-First Century, Three Years Later Thomas Pikettya€™ s Capital in the 
+Twenty-First Century is an astonishing, surprise
+bestseller.
+
+Its enormous mass audience speaks to the urgency with which so many wish to hear about and 
+participate in the political-economic conversation regarding this Second Gilded Age in which we
+in the Global North now find ourselves enmeshed. 1 C2/a€™ s English-language translator Art 
+Goldhammer reports (this volume) that there are now 2.2 million copies of the book scattered
+around the globe in 30 different languages. Those 2.2 million copies cannot and should not but have 
+an impact. They ought to shift the spirit of the age into another, different channel: post­
+Piketty, the public-intellectual debate over inequality, economic policy, and equitable growth 
+ought to focus differently. We have assembled our authors and edited their papers to highlight what
+we,  at least, believe economists should study After Piketty as they use the book to trigger more 
+of a focus on what is relevant and important.
+
+Outside of Economics
+
+In social-science discussions outside of economics, we see Pikettya€™ s book as making a definite 
+splash. Thomas Pikettya€™ s C21 has achieved a major intellectual victory. It is shaping
+sociological, political-science, and political-economic debate, as outside-economics social-science 
+discussions definitely feel the impact of Pikettya€™ s arguments about the likelihood and
+effects                                                                                  of rising 
+inequality.
+
+What is that impact on historians, sociologists, political scientists, and others? We believe that 
+the best summary sketch of the impact of C21 on the social sciences outside of economics is,
+somewhat paradoxically, written by an economist: Paul Krugman wrote in his NYRB review of C27, 
+included herein.2 The last historical period of great inequalitya€’’the First Gilded Agea€”
+showed that such great inequality was perfectly compatible with what was then seen as radical 
+(white,
+
+1
+
+male) democracy, for a€oethen, as now, great wealth purchased great influenced’’not just over 
+policies, but over public discourse.a€D It was not just that wealth provided a megaphone with
+which to amplify the voices of the wealthy both in the corridors of power and in the public sphere. 
+In addition, wealth induced sociological patterns of emulation. Wealth shaped images of
+worthwhile styles of life.
+
+Krugman sees, we believe accurately, the same links from economic inequality to politics and 
+sociology operating today, and if anything he sees them as operating more strongly today. It is as 
+if
+political and sociological currents are responding not to what inequality is today but to what 
+people perceive it likely to be a generation hence:
+
+a curious aspect of the American scene is that the politics of inequality seem if anything to be 
+running ahead of the reality.  At this point the US economic elite owes its status mainly to wages
+
+rather than capital income. Nonetheless, conservative economic rhetoric already emphasizes and 
+celebrates capital. as if a substantial part of our political class is actively working to restore
+
+Pikettya€™ s patrimonial capitalism (this volume, p. XX TK XX).
+
+Sociologists, historians, political scientists, and others now seem to us to be healthily and 
+productively wrestling with these questions. That part of the splash made by C21 seems, to us at 
+least,
+to be on track.
+
+Inside of Economics
+
+However, inside of economics the reaction seems to us to be less healthy. Piketty a€™ s appearances 
+in economics seminars draw standing-room-only crowds. But the flow of scholarship within
+economics on the full panoply of issues he raises in C21 has, to date at least, has not been large. 
+C21 has not or has not yet had the impact that we, at leasta€’’definite fans that we area€”think it
+ought to have had. C21 ought, we think, to have done more and to be doing more to shape research 
+agendas than it has.
+
+We believe that it ought to because we believe that C21 is, as Robert Solow writes in his 
+contribution here, a very serious book. There is a great deal for economists to engage with. The 
+Kaldor
+fact was that inequality a€”at least as driven by shifts in factor income sharesa€”was by the 
+mid-20th century no longer and would never again be an important changing economic factor. The
+Kaldor fact turns out not to
+
+2
+
+be a facta€”or, rather, to have been a transitory emergent historical pattern that has now 
+dissolved. The Kuznets fact was that all or nearly all economies had or would go through an 
+industrial
+age in which inequality rose and then a social-democratic mass-consumption age in which inequality 
+fell and then stabilized. It, too, turns out not to be a facta€”once again merely transient
+historical contingency. Given that these two facts are not facts, Solow calls for economistsa€”and 
+economicsa€”to take the serious C21 book as seriously as Piketty deserves. His call is a major
+part                                                                                       of our 
+motivation for this book. The fact that economists as a discipline do not, as best as we can tell, 
+appear to be responding optimally is the rest of our motivation.
+
+Pikettya€™s Claims
+
+Therefore our questions are: How has Piketty moved the ball forward with respect to our 
+understanding of the economy? What are the next steps for economic research to take, in light of 
+what
+Piketty has done? In order to answer them, we need to first be clear on what the argument of C21 
+is. As we see it, Pikettya€™ s best- seller makes five central claims about:
+
+1.The post-World War II Social Democratic Age in the Global Northa€”1945- 1980, saya€”saw the 
+industrial economies of the Global North as relatively egalitarian places (for native-
+born white men, at least). In them, relative income differences were moderated; long-standing 
+racial wealth, income, and employment gaps were narrowed; and political voice was widely
+distributed throughout the population. In them, the claims of wealth to drive political directions 
+and shape economic structures were kept within boundsa€”although not neutralized.
+
+2. That Social Democratic Age pattern was an unstable historical anomaly. Unlike many scholars, 
+Piketty sees the rise of the social welfare state as the consequence of declining power of
+
+the plutocratic elite. He traces declining post- tax inequality to the wars and the introduction of 
+progressive taxation, but not the social insurance, labor standards, and welfare infrastructures set
+up in the late 19th and early 20th century. Because capital-destroying wars are an anomaly, the 
+period of low inequality was as well.
+
+3. That Social Democratic Age was preceded by the Belle A%cpoquea€”so-called in Europe, and called 
+the First Gilded Age in America. In that preceding epoch the claims of wealth,
+especially inherited wealth, to drive political directions and shape economic structures were 
+dominant. In that age relative income and even more relative wealth differentials were at extreme
+values.
+
+3
+
+4. We are enmeshed in what appears to be an era of transition. While wealth concentration has just 
+now returned to its early 20th century peak, Piketty shows that it remains the case that for
+the top 1 percent, earnings from labor, not capital still comprises the majority of income.3 It has 
+not yet transpired that the a€oeThe past devours the future.a€D4
+
+5. It is most likely that we will seea€”the underlying dynamics of wealth generate powerful forces 
+driving us toa€”a Second Gilded Age, another Belle A%cpoque, in which once again
+
+the claims of wealth, especially inherited wealth, to drive political directions and shape economic 
+structures will be dominant, and in which relative income and even more relative wealth
+differentials will once again be at extreme values, and in which the benefit of access to modern 
+advances in health and education ceases to be universal, stalling if not reversing relative
+convergence in wellbeing across groups and individuals.
+
+The Structure of Pikettya€™s Argument
+
+The central argument for these claims that Piketty makes can itself be hastily sketched in seven 
+analytical steps:
+
+1. A societya€™ s wealth-to-annual-income ratio will grow (or shrink) to a level equal to its net 
+savings and accumulation rate divided by its growth rate.
+
+2. Time and chance inevitably lead to the concentration of wealth in the hands of a relatively 
+small group: call them a€oethe richa€O: a society with a high wealth-to-annual- income ratio will
+be a society with an extreme unequal distribution of wealth.
+
+3. A society with an extremely unequal distribution of wealth will also have an extremely unequal 
+distribution of income, for the wealthy will manipulate political economy or other factors in
+such a way as to keep rates of profit at substantial levels and so avoid what John Maynard Keynes 
+called a€oethe euthanasia of the rentier^Cl.5
+
+4. A society with an extreme unequal wealth and income distribution will be one in which, over 
+time, control over wealth falls to heirs and heiressesa€”an a€ceheiristocracya€D.
+
+
+4
+
+5. And a society in which wealth, especially inherited wealth, is economically salient will be one 
+in which the rich will have a very high degree of economic, political, and sociocultural
+influenced’’and will be an unpleasant society in many ways.
+
+6. The twentieth century: (a) saw a uniquely high rate of economic growth due to the growth forces 
+of the Second Industrial Revolution outlined by Robert Gordon and due to successful
+convergence of the Global North to the economic prosperity frontier marked by the United States; 
+(b) saw wars, revolutions, general chaos, and socializing and progressive tax-imposing
+political movements generate uniquely strong forces pushing down the rate of accumulation; but (c) 
+all of these forces are now ebbing if they have not already completely ebbed away.6
+
+7. Hencea€’’although we are far from the limit yeta€”the logic of (1) through (5) is now at work. 
+It is substantially more likely than not to work itself to completion. It will deliver a society
+unpleasant in a number of ways in a half-century or so.
+
+In Piketty's view, we are now more than a full generation into this process of the passing away of 
+North Atlantic social democracy. This process, however, has not yet come to an end. It will, he
+thinks, take another two generations or more for the logic he sees driving us on our current 
+trajectory to work itself through to its completion. We havena€™t, in Pikettya€™ s view, seen
+anything yet, at least as far as the Global Northa€™ s return to its default pattern of plutocracy 
+is concerned.
+
+The Poverty of (Much) Piketty Criticism
+
+Now, even in this oversimplified thumbnail form, this argument of Pikettya€™ s is not a simple 
+argument. One would therefore expect that it would attract a large volume of substantive
+criticism. And, indeed, it has: there are a substantial number of effective and thoughtful 
+critiques of Piketty. To note a few examples:
+
+• Matt Rognlie seeks to cast doubt on step (3), and has taken John Maynard Keynesa€™ s side of the 
+debate over whether accumulation that leads to a rising wealth-to-annual-income
+ratio leads in fact to a rate of profit that falls faster than the wealth-to-annual-income ratio 
+grows, thus creating a society with a high degree of wealth but a low degree of income
+inequality.7
+
+• Tyler Cowen casts doubt on (2), (4), and (5): He argues that creative destruction will break up 
+or at least limit the salience of cross-generational dynastic accumulations. He further
+argues, echoing Friedrich von Hayek,
+
+5
+
+that the a€oeidle richa€D are a valuable cultural resource precisely because they are not bound to 
+the karmic wheel of earning, getting, and spending on necessities and conveniences, and so
+can take the long and/or heterodox view of things.8
+
+a€0 Acemoglu and Robinson point out that while Piketty a€oementions policies and institutions ... 
+their role is ad hoc.a€D9
+
+a€0 Still others hope for a new industrial revolution to create more low-hanging fruit and faster 
+growth, accompanied by another wave of creative destruction, that will short-circuit (2), (4), (6),
+and (7).
+
+a€0 And there is the question of Pikettya€™ s neglect of human capital as an important form of 
+property and a leveling factor in the modern age.
+
+All in all, however, what has impressed us has been the limited substantive meat in the critiques 
+of Pikettya€™ s overall chain of argument. The argument is complex and multi-stepped. All
+such arguments are vulnerable. Our coverage and reading of the critiques is far from complete: we 
+try to survey the critiques of Piketty, but find ourselves reduced by the volume to simply
+surveying the surveys. And in our view we see a remarkable number of arguments that same to us to 
+be largely substance- free. They come in the forms of amateur psychological diagnosis, red­
+baiting, misconstructions of Pikettya€™ s argument, miscalibrations of economic growth models, data 
+errors, and more.
+
+The nadir, perhaps, comes from the pen of Allan Meltzer of Carnegie-Mellon and of Stanford 
+Universitya€™ s Hoover Institution. It accuses Thomas Piketty of being a Frenchmen, a former
+MIT Professor, and a co-author of Emmanuel Saez at MIT, where... the IMFa€™ s Olivier Blanchard, 
+was a professor. He is also French. France has, for many years, implemented destructive
+
+policies of income redistribution. 10
+
+On the one hand, it is disappointing to see critiques that do not look much like academic analyses, 
+but more like things designed to reassure standard billionaires hoping to establish a dynasty.
+
+On the other hand, it is clear that the urge to set forth even low-substance critiques plus the 
+booka€™ s 2.2 million copies is powerful evidence that C21 has struck a very louda€”if not
+resonanta€’’chord. Many, many find that it is worth engaging. The question is: how?
+
+6
+
+We want to help to drive a constructive engagement with Pikettya€™ s Capital in the Twenty-First 
+Century. We want critiquea€’’sharp critique. But we want effective, useful critique that
+contributes to the advance of knowledge. We do not want things like:
+
+that misrepresent Pikettya€™ s argument and in so doing subtract from rather than adding to global 
+knowledge. And we want to encourage work that will build on Piketty, and carry his data
+collection and his theoretical arguments further.
+
+We believe that the contributors we have assembled have accomplished this task. And so we have 
+written this introduction to set the stage for them. Here in this introduction we ask:
+
+1. Is ita€”the argument of Thomas Pikettya€™ s C27a€”right? 2. Do we care?
+
+3. What are the implications?
+
+4. And what do we economists do next?
+
+(1) Is Piketty Right?
+
+The first question is: Is Piketty right? Or, at least, if Piketty is not definitely right, is he 
+presenting a plausible and disturbing scenario: something to worry about, and perhaps something to 
+take
+action about in the hopes of turning the forecasts of C21 into a self-denying prophecy?
+
+Here the answer strongly appears to us to be: yes.
+
+
+James Pethokoukis
+
+©JimPethokoukis
+
+Follow
+
+Karl Marx wasn’t wrong, just early. Pretty much.
+Sorry, capitalism. #inequalityforevah
+natl.re/1eD21dL via @NRO
+
+
+Piketty is right in maintaining that here in the Global North, as far back as we can look, 
+ownership of private wealtha€”with its power to command resources, dictate where and how people
+would work, and shape politicsa€”was always highly concentrated. Piketty is right in maintaining 
+that 150 yearsa€”six generationsa€”ago, in the Belle A%opoque-First Gilded Age, the ratio of
+a typical Global North countrya€™ s total private wealth to its total annual income was about six. 
+Piketty is right in maintaining that in the Age of Social Democracy some 50 yearsa€”two
+generationsa€”ago, that capital-income ratio was about three. And Piketty is right to note that 
+over the past two generations that wealth-to-annual-income ratio has been rising rapidly.
+
+More debatable is whether the rise in wealth-to-annual-income ratios is driven by the forces 
+Piketty highlights. And much more debatable is whether the rise in income inequality is being driven
+by a rise in wealth inequality that is itself a consequence of the rise in economy-wide 
+wealth-to-annual-income ratios. These points are contestable, and are contested. But we would 
+expect them
+to be contestable. There are lots of other influences on the distribution of income besides the 
+forces Piketty places at center stagea€”some of which he writes about himself. Those forces have
+not yet had time since the end of the Age of Social Democracy to work themselves out. Pikettya€™ s 
+main argument is not about the causes of how things are now, but about what things will be
+like in 50 years and more. Notwithstanding that, there are plenty of indications available to us in 
+the world today that substantial features of the last Gilded Age have recurred: a rising capital
+income share, a rising coincidence of labor with capital incomes, rising persistence of 
+inter-generational fortunes impregnable from assault by the tax authorities.
+
+Of further debate is the bandwidth for institutions, politics, or social movements to move beyond 
+his fairly deterministic theory of the future. While Piketty often gives lip-service the role of
+non-economic forces and encourages the reader to consider what the other social sciences might have 
+to tell us, in the end, his argument is based on a simple economic inequality. The
+institutional changes required to propel this vision forward are baked in. There are a variety of 
+ways that institutions as they actually are may hamper his vision, however. As Heather Boushey
+points out in this volume, an a€oeheiristocracya€n will almost certainly require a move away from 
+gender equitya€”a trend that women and their allies may be prepared to fight against.
+
+Moreover, both David Grewal and Marshall Steinbaum argue for a history of inequality as arising 
+from the rise (in Grewal's case) and fall (in Steinbaum's) of
+8
+
+what be termed an a€oeideology of capitalisma€D and an associated body of law and policy. A 
+a€oefree marketaGD independent of mercantilist or monarchical authority developed alongside
+the bourgeoisie of the 18th century and entered into a political alliance with the ancien regime in 
+the 19th. Piketty argues that capitalism itself, rather than its ideology, is responsible for ever­
+widening inequality, and as such it was the exogenous world wars of the 20th century that briefly 
+derailed it. But they also derailed its ideology, and that was not so exogenous.
+
+Pikettya€™ s argument is contestable and contested right now because the signal he focuses on is 
+not yet emerging or has barely emerged from the noise. But that is what we would expect to
+see if his argument were in fact correct.
+
+However, that is also what we might well see if his argument were in fact badly off-base.
+
+More secure is Pikettya€™ s claim that the pattern of the aGoeeuthanasia of the rentieraGD expected 
+by authors like Keynes, Rognlie, and others who assume the identity of wealth with
+productive capital in some neoclassical production function of income might have substantial 
+empirical problems. Those authors expect large swings in societal wealth-to-annual-income ratios
+to   be associated with large swings in society-wide rates of profit, with profit rates high when 
+capital is scarce relative to annual income and low when capital is abundant.
+
+Thomas Piketty's response to this is, roughly: RognlieaG™ s argument sounds very good in 
+neoclassical economic theory, but fails in historical practice. Supply-and- demand tells us that 
+when
+the economy's wealth-to-annual income ratio varies, the rate of profit should vary in the opposite 
+direction. But history tells us, to the contrary, that the annual rate of profit has plodded along 
+at
+some 4% or 5%, largely independent of the relative scarcity or abundance of wealth. So much the 
+worse for the logic supply-and-demand.
+
+Here we have an apparent historical fact: the relative invariance of the rate of profit to what 
+aggregate neoclassical production functions tell us should be its principal source of variation. But
+here Piketty does not put forward a theory. He might argue that physical capital, total wealth, 
+rent-seeking political-economy, and government-enforced monopoly rents work in an iron
+quadrilateral to maintain the rate of profit willy-nilly no matter what the logic of production and 
+the marginal- product theory of distribution say. He might argue that technology is such that
+physical capital does not face sharply decreasing marginal returns and so that the capital-income 
+ratio and capital share move together and not inversely. He might argue that in the past what he
+calls aGoecapitalaGD was overwhelmingly agricultural
+
+9
+
+capital in the form of land and in the future aGcecapitalaGD will overwhelmingly be information 
+capital and that the neoclassical growth model was a valid first-order approximation only for
+the short interval that was the Age of Social Democracy. He might follow Suresh Naidu, in this 
+volume, who argues that capital's share of national income, far from obeying the rules of
+marginal productivity pricing, is in fact determined by power, and the total stock of what Piketty 
+and the neo-classicals call both wealth and capital is actually financialized claims on a
+forthcoming stream of revenuea€”not the result of lengthy accumulation, so to speak, but of 
+political control of the future. But Piketty does not take a stand. This seems to be a substantial 
+hole
+in    the book. It points out what is perhaps the most important and urgent research task opened up 
+by Piketty. Is the apparent constancy of the rate of profit a robust reality? And if it is, what
+forces and factors maintain the constancy of the rate of profit.
+
+In this book, Devesh Raval tries to advance the ball here. He reinforces the Rognlie-Keynes 
+aGoeeuthanasia of the rentieraGD point that capital and labor are not substitutable enough to 
+sustain
+PikettyaG™ s argument. If the story behind the constancy of the rate of profit isnaG™ t that 
+marginal capital continues to be productive as it is accumulated, what is it? Is there a story? One
+possible  story is provided by Michael Spence and Laura Tyson, who see Piketty as very much barking 
+up the wrong tree. Inequality is growing and will continue to grow. But its growth will not
+be driven by the factors in PikettyaG™ s growth models. It will be driven by the coming of the 
+information age, and the shape of information-age technology which for the first time does make
+human labor a substitute for rather than a complement to capital by greatly reducing the necessity 
+of using human brains as routine cybernetic control mechanisms for basic matter manipulation
+and basic information processing.
+
+Branko Milano vic has a different critique here: that PikettyaG™ s arguments are appropriate only 
+for the institutional setup that Milano vic calls aGoenew capitalisma€D. In what we would tend
+to call advanced social democracy a€”in which the state and society powerfully put their thumbs on 
+the scales to equalize the distribution of claims to income that flow from aGoeold
+propertyaGD and also to create aGoenew propertyaGD in the form of citizen entitlementsaG’’there is 
+no connection between the capital share and inequality in the distribution of income. And in
+what Milanovic calls aGoeclassic capitalismaGD (and Karl Marx would call aGoepetit bourgeois 
+societyaGD) the distribution is driven by the Ricardian triad of labor, capital, and landaG”and
+the dynamics are substantially different. Milano vicaG™ s contribution is that the correspondence 
+between fractional and personal distribution is a peculiar, and contingent, historical
+phenomenonaG”one that could easily be reversed.
+
+10
+
+Is PikettyaG™ s argument right?
+
+At the moment the answer is aGoeperhapsaGD. Not only does a great deal turn on the robustness of 
+each of the links in his argument, but his argument is also conditional on the Global
+NorthaG™ s remaining on its current political-economic trajectory. So a lot turns on what we take 
+that phrase aGoecurrent political-economic trajectoryaGD to mean. Under some interpretations
+of   that phrase Piketty will surely be right. Under others he will surely be wrong. And we do need 
+to distinguish which is which.
+
+(2) Do We Care?
+
+The second question is: Do we care?
+
+SomeaG”perhaps manyaG”say that we do not care. There is one often-made thread of argument that we 
+simply should not care about inequality. In fact, according to this thread, inequality is
+good: It is an engine of faster economic growth, by incentivizing human capital acquisition and 
+engendering social mobility. It is not a problem for an economy, a society, or a country at all.
+
+What is a problem, this thread of argument maintains, is povertyaG’’especially dire poverty.
+
+And, this thread continues, we are now much richer than our predecessors of six generations ago 
+were. Back then Gilded Age or Belle A%opoque levels of inequality caused not just poverty but
+dire poverty. Hence back then inequality was a serious problem. Now, however, because the Global 
+North is so much richer, the amount of inequality that back then caused dire poverty does not
+cause dire poverty today. In fact, it does not cause anything that we should call aGoepovertyaGD at 
+allaG”at least not if we take a historical perspective.
+
+In the United States, policy-oriented organizations like Third Way argue that AmericaaG™ s middle 
+class is doing just fine. They point to the rise in real incomesaG” in no small part due to the
+added hours and earnings of womenaG”as an indicator that PikettyaG™ s measures of the top 1 percent 
+are just getting the story wrong. In the academy, many point to the great advances of
+medical care, sanitation, public education, literacy, disease eradication, and proliferation of 
+leisure activities, to
+
+11
+
+mention only a few, and claim that there is no prospect for reversing these gains in absolute 
+wellbeing regardless of what happens to the top 1%.
+
+
+This is an old argumenta€”250 years old, in fact. It was Adam Smith who argued in his Wealth of 
+Nations that your average working-class Briton lived in greater material comfort than an
+African king. It was Adam Smith who argued in his Theory of Moral Sentiments that the consumption 
+of the rich was limited by the size of their stomachs, and thus that most of what they spent
+even on themselves was in fact a contribution to the leisure and the comfort of their underlings.
+
+However, this argument is probably wrong. Granting that economic growth above bare Malthusian 
+subsistence up to Britaina€™ s eighteenth-century Augustan Age was impressive, and
+granting that economic growth since then has been magnificent, there are still powerful and 
+important reasons to care not just about what by historical standards is dire poverty and poverty, 
+but
+about inequality and about what we call a€cepovertya€D todaya€”even if the poor do have 
+dishwashers, smartphones, and televisions:
+
+First, anyone who has looked at the distribution of medical care in the United States and our 
+abysmal health outcome statistics relative to other rich countries cannot help but see that 
+inequality
+is a factor that leads enormous investments of resources to deliver little of ultimate value in the 
+sense of human well-being and human satisfaction. The point generalizes beyond the health
+sector: an unequal economy is one that is lousy at turning productive potential into societal well- 
+being. We could be doing bettera€”and with a more equal income and wealth distribution
+would  be.
+
+Ita€™ s hard to prove causality from inequality to health or other social welfare indicators, but a 
+data point that illustrates the struggles facing parts of the United States left out of the new
+gilded age is found in the research of Anne Case and Angus Deaton. They show that the rise in 
+mortality among middle-aged Americans from suicides and drug overdosesa€”both conditions
+that are associated with economic malaisea€’’between 1999 and 2013 has been so large that it is 
+similar to the rise in mortality caused by the AIDS crisis through 2015.11 Similar findings
+document that once-narrowing gaps in employment, health, and overall wellbeing have stopped 
+closing, and in some cases, re-opened.12
+
+Second, as noted above, established wealth, especially inherited wealth, is by its nature hostile 
+to the creative destruction that accompanies rapid economic growth, for it is established wealth
+that is creatively destroyed. Plutocrats and their
+
+12
+
+ideologues like to claim that too equal an income distribution destroys incentives to work and 
+turns us into a a€~nation of takers.a€™ But a return to the inequality levels of the 1960s would
+not turn us into Maoist China. In the relevant range of levels of inequality, it is much more 
+likely that higher inequality will slow growth by depriving the non-rich of the resources to invest 
+in
+themselves, their children, and their enterprises; It will further slow growth by focusing effort 
+on helping the rich keep what they have at the cost of squelching the development of the new.
+
+There is ample evidence across the United States that elites are engaged in what some call 
+a€oeopportunity hoarding .a€D 13 We hear a lot about how the rich are able to garner human-sized
+airplane seats and now their own haven within a cruise ship, but there are areas where their 
+consumption limits the potential for others. 14 Elites are increasingly opting out of public 
+schools,
+which deprives those schools of valuable parental engagement as well as income to the extent these 
+elites then fail to support levies for school financing. In the limit, such elite withdrawal
+leaves public schools open to political assault from forces hostile to the whole idea of universal 
+free and equal high-quality public education.
+
+Third, a society in which plutocrats deploy their resources to have not just a loud but an 
+overwhelming voice will be a society in which government sets about to solve problems of concern the
+plutocrats and not the people. And that is unlikely to be a good society.
+
+This too, pushes against a high growth society. The extent to which plutocrats are given the option 
+of rent-seeking or trying to win in the competitive marketplace, they are likely to seek to close
+the door behind them. Case in point: as policymakers struggle to rein in the anti-competitive bent 
+of newly-powerful platform-based firms, we are seeing a win for those who arrive firsta€”and
+peanuts for the rest. This kind of economy keeps prices high and stifles innovation, neither of 
+which bode well for economic dynamism.
+
+Fourth, the predominance of wealth in the exercise of power extends far beyond the sphere of formal 
+politics, well into the workplace, the home (even into the bedroom), and to civil society.
+Reliance on private wealth to finance higher education has already made that sector far more 
+unequal, with very expensive mediocrity the lot of anyone unlucky enough not to gain access to its
+most restricted precincts (which explicitly favor the children of their alumni and implicitly those 
+applicants similar to them), and with a greater degree of restriction on the curriculum and on the
+views of the personnel who teach it than obtain under a system that owes its existence to the 
+continued support of the public.
+
+13
+
+Fifth, an unequal society in one in which employers can and do exploit their ability to pick 
+winners and losersa€”and are driven to indignant outrage by the idea of a collective worker voice.
+
+Labor Economist David Weil sees increasing inequality both driving in part and being driven in part 
+by a a€~fissuring of the workplacea€D. In the past large corporations would in a relatively-
+efficient Coasian way serve as islands of central planning in the sea that was the market economy, 
+with workers at all levels: skilled professionals, mid-level administrators, and manual workers.
+Such a workplace is inevitably subject to strong egalitarian pressures: the presence of high-wage 
+professionals pulls up everyonea€™ s calculus of what the firm can afford to pay its manual
+workers and what its manual workers deserve. But with increasing inequality it becomes potentially 
+profitable to break the coordination efficiencies if so doing can relax egalitarian sociological
+pressures. We need to find out how strong the forces Weil identifies are, and whether they are a 
+peculiar case or suggest that high inequality is likely to interfere with efficiency along a broad
+front.
+
+Sixth, an unequal society is one in which who you know matters more to your ultimate wellbeing than 
+what you know, and one thing we can tell by observing the behavior of the rich and their
+acolytes is that native ability to suck up to the rich is not equally distributed throughout the 
+population. The rich prefer people who are like themselves, and a society in which a€oewho the rich
+likea€D determines the distribution of wellbeing is unlikely to preserve the gains of racial and 
+gender equality made during the Social Democratic era.
+
+Moreover, Arthur Okuna€™ s argument in Equality and Efficiency: The Big Trade-Off that a good 
+society was one that made a proper choice of a point on the equality- efficiency frontier
+appears, in retrospect, to be in all likelihood substantially wrong if we try to apply it to our 
+day. 15 More equality may well go along with greater efficiency.
+
+So: Yes, we should care. We do care.
+
+(3) What Are the Implications?
+
+14
+
+Suppose that Piketty has established that the Global North a century hence is highly likely to have 
+a much higher wealth-to-annual-income ratio than todaya€” and even that inherited wealth
+will be a much greater proportion of total wealth than it is today. Does this necessarily entail an 
+unfavorable distribution of economic power and resources, an economy that falls short of its
+potential according to some utilitarian benchmark that takes account of declining marginal utility 
+of wealth? Is it in fact that case that a high wealth-to-income ratio even mean that society must
+be grossly unequal?
+
+Piketty says a€ceyesa€D. On these issues he follows Marx, and Marxa€™ s insight that in a market 
+economy with transferable wealth an egalitarian property distribution is unstable. From a
+starting point of equal division time and chance will inevitably produce a large and extended upper 
+tail with the size and a length heavily and positively dependent on the magnitude of r - g,
+where                                                                                       r is 
+not the safe interest rate but the average economy-wide rate of profit, and on the magnitude of the 
+risk associated with capital returns. Thus an economy with a high wealth to income
+ratio and a high capital and other forms of wealth share in national income will be an unequal 
+economy.
+
+Pikettya€™ s argument is thus:
+
+Many shocks... contribute to making the wealth distribution highly... demographic shocks... shocks 
+to rates of return... to labor market outcomes... differences in taste parameters that affect the
+level of saving.... A central property of this large class of models is that... the long-run 
+magnitude of wealth inequality will tend to be magnified if the gap r a"’ g is higher. A higher gap
+
+between r and g allows an economy to sustain a level of wealth inequality that is higher and more 
+persistent over time... a distribution that has a Pareto shape for top wealth holders. [with] the
+
+inverted Pareto coefficient (an indicator of top-end inequality) is a steeply rising function of 
+the gap r a"’ g... see in particular Champernowne 1953; Stiglitz 1969. Piketty and Zucman (2015,
+
+section 5.4)...
+
+In this class of models, relatively small changes in r a"’ g can generate very large changes in 
+steady-state wealth inequality. It is really the interaction between the r a"’ g effect and the
+
+institutional and public policy responsesa€’’including progressive taxation of income, wealth, and 
+inheritance; inflation; nationalizations, physical destruction, and expropriations; estate
+division rules; and so ona€”which in my view, determines the dynamics and the magnitude of wealth 
+inequality...
+
+15
+
+And, in Pikettya€™ s view, at least as expressed in the book, the interaction is likely to be an 
+unhelpful one: greater wealth inequality will raise the demand for egalitarian policy responses, but
+it will also raise the ability of those with wealth to block such policy responses. The book 
+portrays the forces favoring the formation of a dominant plutocracy as being so strong that they 
+can be
+countered only by world wars and global revolutions a€“ and even then, the correction is only 
+temporary.
+
+
+rjote mat we said: afeoeat least as expressed in me hooKafeU. Since me publication ot me book, 
+inomas PiKetty nas not played me role ot a doomsayer, bringing me message ot inescapable
+
+rising inequality and encouraging a passive response. Instead, he has embraced the role of a 
+celebrity public intellectual. And the message he has carried to all corners of the world is not the
+message expected from a passive chronicler of unavoidable destiny. If we look at what Piketty does 
+a€“ rather than what he writes a€“ it is clear that he believes we can collectively make our
+own destiny, even if the circumstances are not what he, or we, would choose.
+
+Branko Milano vic has a relevant critique here, not of Piketty-as-public-intellectual but of 
+Piketty-as-author. In his view, these arguments of Pikettya€™ s (and before him of Marx) are
+appropriate only for the institutional setup that Milanovic calls a€oenew capitalisma€D. There are 
+other institutional setups possible in the future. Indeed, we have seen others in the past In
+what    we would tend to call advanced social democracy a€’’for example, the post-World War II 
+institutional order in which the state and society powerfully put their thumbs on the scales to
+equalize the distribution of claims to income that flow from a€oeold propertya€n and also to create 
+a€oenew propertya€D in the form of citizen entitlementsa€’’there is no connection between
+the capital share and inequality in the distribution of income. And in what Milanovic calls 
+a€oeclassic capitalisma€D (and Karl Marx would call a€oepetit bourgeois societya€D) the
+distribution is driven by the Ricardian triad of labor, capital, and landa€”and the dynamics are 
+substantially different.
+
+More than one and two-thirds centuries ago Karl Marx dismissed Brankoa€™ s critique as reflecting 
+an irrational and unattainable longing for a a€oepetty-bourgeois socialisma€D that could
+never be attained and that if it did develop by accident could never be maintained.
+
+But that casual dismissal does not mean that Milanovic is wrong.
+
+Pikettya€™ s world is particularly grim because ita€™ s predetermined. So long as the rate of 
+profit is above the rate of growth, wea€™re destined to move towards ever-
+16
+
+increasing inequality. The only thing we can do is figure out how to tally up the massive wealth 
+and tax ita€”if we can overcome the ability of wealth to protect itself by constraining political
+options.
+
+As Gareth Jones points out in his chapter, this is a tall order in no small part because capital 
+has stepped outside the purview of the nation state. The rise of wealth from industrialization
+occurred alongside the coalescence of the nation state in Europe and elsewhere. The state was a 
+means of promoting the accumulation of capital. Capital today aims often to avoid the confines
+of place or citizenship, choosing instead to wander the globe in pursuit of not only profits, but 
+unfettered access to those profitsa€”as we've seen with Gabriel Zucman's pioneering research on
+tax havens and with such other improvements in our ability to survey the global wealth landscape as 
+the release of the Panama Papers.
+
+(4) What Do We Need to Understand?
+
+For all these reasons, we judge that C21 is a serious book warning us of likelya€” but not 
+inevitablea€’’distressing consequences of certain aspects of the future historical path that the 
+world
+economy appears to have embarked on roughly thirty years ago or so. That raises the natural 
+questions of: Do we need to buy insurance? And what kinds of insurance ought we to buy?
+
+However, as Abraham Lincoln said in his a€oeHouse Divideda€D speech in Springfield, IL on June 
+16,1858, such questions are in a sense premature: We need a€oefirst [to] know where we
+are, and whither we are tending...a€U, for only after after knowing that a€oecould [we] then better 
+judge what to do, and how to do it...a€D The next move must be, as John Maynard Keynes
+liked to say, a€oewith the heada€D. And we have organized this book to set out our view of the 
+agenda with respect to what we need to better understand.
+
+When readers face a book as sprawling as this one is, they badly need help orienting ourselves. We 
+have tried to help. This introduction leads off a first, orienting, section of the book. In it, we
+editors, Art Goldhammer, Bob Solow, and Paul Krugman set out our different perspectives on 
+C27-as-phenomenon and on C27-as argument-with-implications.
+
+What is this thing a€cecapitala€D that C21 is about? Piketty offers definitions. But as is so often 
+the case when a single concept is at the core of a striking and contestable argument, whether
+the concept can bear the argumentative load attached to it, and indeed what the concept really 
+means, become contestable, uncertain, and worth
+
+17
+
+examination. The second section of the book thus examines the concept of a€cecapitala€D from five 
+different viewpoints. Deresh Raval points out that Piketty presents his argument in
+economic-theoretic terms as a derivation from the historical fact that at the aggregate level 
+capital and labor are highly elastic in substitution. Yet there is a great deal of research, much 
+of it by
+Raval   himself, strongly suggesting that at the micro level that is simply not the casea€”and here 
+the aggregate should indeed be the simple average of the micro. He highlights a puzzle at the
+center of any reading of C21: Is it at its core an argument that at the margin capital continues to 
+be productive as it is accumulated? And if that is not the case, what is left of the argument?
+
+Suresh Naidu provides a possible response to Ravala€™ s puzzle, contrasting a a€cedomesticateda€D 
+Piketty, working within the machinery of an aggregate neoclassical economic production
+function, and a a€cewilda€D Piketty who breaks free. Naidua€™ s answer is that what remains is a 
+political-economic argument about how the wealthy in a Gilded Age structure property in
+such  a way as to protect and increase the salience of the rents they extract.
+
+The other three papers in this second section find flaws in Pikettya€™ s deployment of and use of 
+the concept a€cecapitala€D:
+
+First, a great deal of the argument of C21 is that the 20th century was exceptionala€” that as far 
+as the dynamics of wealth inequality are concerned, the 21st century is much more likely to be
+like the 19th and the 18th centuries. Daina Ramey Berry critiques the image of those earlier 
+centuries that Piketty draws in C21. In her reading of history, slavery was a much more salient
+institution in the a€oeprimitive accumulation^ □ and extraction of wealth than Piketty allows for, 
+both in terms of the depth and breadth of direct exploitation that it allowed and in how
+potential competition from slavemasters and their lash-driven shackled workers eroded the 
+bargaining power of even free labor. If the factors she adduces are salient, that suggests that a 
+free-
+labor  21st century may see it much harder to sustain a Second than the 18th and 19th centuries 
+found it to create a First Gilded Age. Or does it? As Branko Milanovic might point out, barriers to
+international migration are a form of labor unfreedom, and one that becomes more salient the wider 
+the gulf between the Global North and the Global South.
+
+Second, a great deal of the argument of C21 assumes that the only truly real forms of wealth are 
+government-created rent and debt amortization flows, physical assetsa€”land, buildings,
+machinesa€”and control of the organizations that deploy such physical and financial assets. High 
+wages are, in Pikettya€™ s view, more a chance and transitory outcome of favorable supply
+and  demand conditions than a true, durable source of wealth and thus a factor in driving the 
+evolution of
+
+18
+
+inequality. Eric Nielsen says: no. And he sketches out the immense potential damage that would be 
+done to Pikettya€™ s argument should human capital be a 21st century form of wealth on
+equal footing with other forms.
+
+And, third, Mike Spence and Laura Tyson argue that while land and industrial capital were salient 
+factors in the dynamics of the evolution of wealth and its distribution in the past, that will not
+be true in the future and is not even true now. Rather, they argue, one needs to hybridize C21 with 
+an argument like that of The Second Machine Age by Brynnjolfsson and MacAfee to create a
+framework for the inequality debate that we should be having to understand our likely future.
+
+In an intellectual bridge between the examination of a€oecapitala€D and our survey of dimensions of 
+inequality, David Weila€”former Administrator of the Wages and Hours Division of the
+US Department of Labora€’’points out the importance the a€oeFissured Workplacea€D. Rather than one 
+large corporation employing workers of all skill levels and all job types, as was the
+case in the past, increasingly jobs are outsourced to other corporation and other locations. 
+Workers who would once have been employees, and thus entitled to de jure and de facto privileges
+associated with membership in a corporate business enterprise considered as a sociological 
+community, are now excluded. The result is a race to the bottoma€”and a force that was not
+operating   in the 19th century tending to raise inequality in the 21st no matter what the other 
+economic factors affecting the capital-labor split.
+
+After examining the concept of a€cecapitala€D and the functions it needs to perform in the argument 
+of C21, we then turn in the booka€™ s third section to authors who examine various
+dimensions of the inequality that an unequal distribution of capital can create. Mariacristina De 
+Nardi, Giulio Fella, and Fang Yang point out that a high capital-to-annual-income ratio and a
+large  capital share in income do not directly translate one-for-one into a determinant degree of 
+higher inequality. And they examine the links and the slippage there is there. Branko Milanovic
+notes that the links between property ownership and control on the one hand and real on-the- ground 
+inequality on the other depend critically on how the political system manages its political-
+economic institutions. Christoph Lakner criticizes Pikettya€™ s C21 for telling the story of 
+inequality as a comparative story of inequality within nation states, thus missing the elephant 
+which
+is   that the evolution of equality across nation states has been more decisive since the start of 
+the Industrial revolution as a determinant of global inequality. Gareth Jones further critiques the
+absence of 'space' from C21, in which geography serves only as a a€oecontainer for dataa€D rather 
+than a context for inequality and exploitation to play out. How geography enables and
+propagates inequality in a globalized world is, in his view,
+
+19
+
+a salient factor completely omitted from C21. And Heather Boushey examines the potential 
+feminist-economics effects of the creation of a a€ceheiresstocracya€D: historically, gender 
+relations
+become especially fraught and difficult even for women one would adjudge as having considerable 
+social power when onea€™ s status and standing seriously depends on who onea€™ s
+parents  and in-laws are.
+
+
+in iwu papcis, ivicuis. Zutuiui cuiu oaivaiuic iviuicin mail IUKC us 111 a uuiddit UHCULIUU. nicy 
+ucgiu me vciy iiiipuiiani tasis. wi uyiug iu assess now cvuiiuiniv smuiuiy at me icvci ui managing 
+me
+
+business cycle and encouraging growth changes in an environment of rising inequality. Their 
+conclusion is not quite the old academic standard a€oemore research is neededa€D. They both see
+serious risksa€”but risks that can, perhaps, be managed or compensated for.
+
+Finally in this section, Emmanuel Saez points out how very much we do not know about inequality 
+a€’’and how badly, if we are to understand where we are and whither we are tending, we need
+to:
+
+• disaggregate our systems of National Income Accounts to include distributional measures.
+
+• devote more resources to measuring wealth inequality.
+
+• understand the effects of regulation and taxation on inequality.
+
+The fourth section of the book contains a different set of challenges to Piketty a€™ s argument. 
+Four papers take big-institutional-intellectual-history perspectives. Ellora
+Derenoncourt wishes that Piketty had done more to address the deep institutional-historical origins 
+of high degress of wealth inequality, and fills in the gap by deploying Daron
+Acemoglu, James Robinson, and Simon Johnsona€™ s dichotomy between a€ceextractivea€D and 
+a€ceinclusivea€D institutions with a twist, for institutions that are
+a€ceinclusivea€D and a€cedevelopmentala€D for a€cecitizensa€D may well be a€ceextractivea€D and 
+a€ceexclusivea€D for a€oesubjectsa€n. David Grewal sees the coming
+
+of the Firsta€”and the Seconda€’’Gilded Age as largely baked in the cake with the legal- political 
+philosophical shift in the 17th and 18th centuries that turned absolute dominion
+over property from an edge case to the canonical way that western societies thought about the 
+control of concrete and abstract things and the responsibilities of a€ceownersa€D.
+
+Marshall Steinbaum makes a convincing case that the post-World War II social democratic era of 
+relatively low inequality was itself the result of the genocidal political and military
+catastrophes of the first half of the twentieth century and of the role played by those 
+catastrophes in discrediting the pre-World War I First
+
+20
+
+Gilded Age unequal capitalist political-economic order. And Elisabeth Jacobs tries to puzzle 
+through how politics can be both everywhere and nowhere in PikettyaC™ s story C21 contains an
+argument that asserts both that there are fundamental laws of economics and that there are 
+historically-contingent and institutionally-prescribed processes that shape growth and 
+distribution.
+
+We want to highlight this last, for it points to a contradiction that seems to us to be at the 
+heart of C27a€™ s dual nature as work of scholarship and as global intellectual phenomenon. On the
+one hand, Pikettya€™ s central thesis is that our reversion to the economic and political patterns 
+of the Gilded Age is to be expected as normal for a capitalist society. On the other hand, Piketty
+himself as a celebrity public intellectual is not behaving like a passive chronicler of unavoidable 
+destiny. He is acting as if he believes that the forces he describes in his book can be resisteda€”
+that we collectively make our own destiny, even if the circumstances under which we make it are not 
+those of our choosing.
+
+And then Thomas Piketty tells us what he thinks of our arguments, critiques, extensions, and 
+explorations.
+8208 words
+
+Endnotes
+
+1
+
+(Cambridge, MA: Harvard University Press, 2014).
+23
+
+Paul Krugman, this volume XXXX
+
+On wealth, see: Thomas Piketty and Gabriel Zucman, a€oeCapital Is Back: Wealth-Income
+6
+
+See: Robert J. Gordon, The Rise and Fall of American Growth: The U.S. Standard of
+
+Thomas Piketty, Capital in the Twenty-First Century, trans. Arthur Goldhammer
+
+Ratios in Rich Countries 1700-2010,a€D The Quarterly Journal of Economics 129, no. 3 (August 
+1,2014): 1255a€“1310, doi:10.1093/qje/qju018.
+4
+
+10107). Harvard University Press. Kindle Edition.
+
+Piketty, Thomas (2014-03-10). Capital in the Twenty-First Century (Kindle Location
+5
+
+York: Harcourt Brace Jovanovich, Inc., 1953), XX TK XX.
+
+John Maynard Keynes, The General Theory of Employment, Interest, and Money (New
+
+Living since the Civil War, The Princeton Economic History of the Western World (Princeton,
+N.J.: Princeton University Press, 2016),
+http://www.amazon.com/gp/product/0691147728/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp= 1
+789&creative=9325&creativeASIN=0691147728&linkCode=as2&tag=freakonomic08-
+20&linkId=PNZJ3C2PH3Y2KCTT.
+
+7
+
+Paper, (2014).
+
+Matthew Rognlie, a€oeA Note on Piketty and Diminishing Returns to Capital ,a€D Working
+21
+
+8 https://www.foreignaffairs .com/reviews/review-essay/capital-punishment.
+Tyler Cowen, a€oeCapital Punishment,a€D Foreign Affairs, June 2014,
+
+Daron Acemoglu and James Robinson, a€oeThe Rise and Decline of General Laws of
+
+9
+
+Capitalism, a€D Journal of Economic Perspectives 29, no. 1 (Winter 2015): 9.
+
+10
+
+Journal, April 17,2014, http://www.hoover.org/research/united-states-envy.
+11
+
+Anne Case and Angus Deaton, a€oeRising Morbidity and Mortality in Midlife among White
+Allan Meltzer, aCceThe United States of Envy,a€D Defining Ideas: A Hoover Institution
+
+
+Paper, (zu 14).
+
+Matthew Rognlie, a€oeA Note on Piketty and Diminishing Returns to Capital ,a€D Working
+21
+
+8 https ://www.foreignaffairs .com/reviews/review-essay/capital-punishment.
+Tyler Cowen, a€oeCapital Punishment,a€D Foreign Affairs, June 2014,
+
+Daron Acemoglu and James Robinson, a€oeThe Rise and Decline of General Laws of
+
+9
+
+Capitalism, a€D Journal of Economic Perspectives 29, no. 1 (Winter 2015): 9.
+
+10
+
+Journal, April 17,2014, http://www.hoover.org/research/united-states-envy.
+11
+
+Anne Case and Angus Deaton, a€oeRising Morbidity and Mortality in Midlife among White
+Allan Meltzer, a€oeThe United States of Envy,a€D Defining Ideas: A Hoover Institution
+
+Non-Hispanic Americans in the 21st Century ,a€D Proceedings of the National Academy of Sciences
+
+112, no. 49 (December 8,2015): 15078a€“83, doi:10.1073/pnas.1518393112.
+
+12 Neal, Derek and Armin Rick (2014) a€oeThe Prison Boom and the Lack of Black Progress
+After Smith and Welch.aCD NBER Working Paper # 20283.
+
+13
+
+Richard V. Reeves and Kimberly Howard, a€oeThe Glass Floor: Education, Downward
+Mobility, and Opportunity Hoardinga€C (Washington, D.C.: Brookings Institution, November
+2013), http://www.brookings .edu/~/media/research/files/papers/2013/11/glass-floor-downward-
+mobility-equality-opportunity-hoarding-reeves-howard/glass-floor-downward-mobility-equality-
+opportunity-hoarding-reeves-howard.pdf.
+
+14
+
+economy .html?em_pos=large&emc=edit_nn_20160426&nl=morning-briefing&nlid=74144564.
+
+Nelson Schwartz, a€oeln an Age of Privilege, Not Everyone Is in the Same Boat,a€D The New York 
+Times, April 23,2016, http://www.nytimes.com/2016/04/24/business/economy/velvet-rope-
+15
+
+Institution Press, 2015).
+
+Arthur M. Okun, Equality and Efficiency: The Big Tradeoff, Second (Brookings
+22
+

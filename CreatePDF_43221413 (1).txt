@@ -1,0 +1,217 @@
+Subscribe now
+
+First:
+
+Alice Evans sends us to the very good Arash Nekoei & Fabian Sinn: The Origin of the Gender Gap: it 
+is a count of records from the Human Biographical Record, finding that throughout history a€’’save 
+for Egypt in antiquity a€’’only about 10% of women as men have records coming down to us that grant 
+them a place in Human Biographical Record entries, with no significant changes over the millennia. 
+While the 1900s do show the highest female share of entries since
+the -2000s, the difference is not (yet) very large:
+
+Arash Nekoei & Fabian Sinn: The Origin of the Gender Gap: a€~International differences in womena€™ 
+s status are striking. When and where did those differences first emerge?a€! Over the last 5,000 
+yearsa€l records show no long-run trend in womena€™ s share in recorded history. Historically, 
+womena€™ s power has been a side-effect of nepotisma€!. Self-made women began to rise among the 
+writers in the 17th century before a broader
+take-off in the 19th centurya€l. Was it really the case that half of the world population were 
+repressed for the entire history of humankind, leaving half of the total brainpower unused?a€! We 
+attempt to write a quantitative history of women over the last 5,000 yearsa€!. Our focus is on a 
+fixed share of each generationa€! Human Biographical Recorda€™ s entriesa€!. To our surprise, we 
+document no long-run trend in the womena€™ s share at the top
+when analysing 5000 yearsa€l. Womena€™ s share fluctuates around an average of 10%, the main 
+positive outlier is the third millennium BCE, driven by a high womena€™ s presence among Ancient 
+Egypta€™ s observations in the Human Biographical Recorda€!. The modern rise of women has a 
+distinct and important feature. A closer look at the Human Biographical Record individual-level 
+data reveals that for most of history, women who
+became part of the elite were either born into influential families or married into thema€l. The 
+first rise in the share of women among self-mades is recorded among writers and poets born between 
+1620 and 1660. It reflects the birth of a€~the feminine reading marketa€™ in Protestant Europea€!
+
+Figure 1 Women’s share at the top of social hierarchy over history
+
+
+20%
+
+Ancient Civilizations
+
+
+
+Career
+Family
+
+"Career & Family": Professor Claudia Goldin
+
+Oct 2021 • ROCKING OUR PRIORS
+
+57:40
+
+
+Noahpinion
+
+Beware shoveling money at overpriced service industries
+
+The other day I got a CT scan at UCSF, to check for possible aneurysms (dona€™ t worry, I dona€™ t 
+have one). My insurance and I were charged a total of over $20,000 for this service. This is over 4 
+times the maximum price that most sources will list for a brain CT. Out of pocket, a CT scan can 
+cost as little as a few hundred dollarsa€!
+
+Read more
+
+a year ago A- 69 likes A- 86 comments A- Noah Smith
+
+• Max Read: Maybe We Need a Moral Panic About Facebook : a€~Sorry, I mean Metaverse, Inca€!
+
+
+Maybe we need a moral panic about Facebook
+
+I have a friend who's a journalist who writes about surveillance and tech companies. Facebook is a 
+frequent subject of his work; like a lot of people who write about the company, he quit both 
+Facebook (the main platform) and Instagram a long time ago. His mom, on the other hand, is one of 
+the most engaged and enthusiastic Facebook users to cross my Newsa€!
+
+Read more
+
+a year ago A- 9 likes A- 4 comments A- Max Read
+
+Paragraphs:
+
+Andrei Frumusanu: Apple Announces Ml Pro & Ml Max: Giant New Arm SoCs with All-Out Performance'. 
+a€~The Ml Proa€”laying the ground-work for what Apple calls no-compromise laptop SoCsa€!. Wea€™ re 
+seeing a quite larger area of the SoC being taken up by the memory controllersa€!. In terms of CPU 
+performance metrics, Apple made some comparisons toa€! Intela€™ s Core i7a€“1185G7, anda€! i7a€“l 
+1800H, 4-core and 8-core variants ofa€! Ice Lake
+10nma€!. At equal power usage of 30W, the new Ml Pro and Max are 1.7x faster in CPU throughput than 
+the 11800Ha€!. At an equal performance level as the peak of the 11800H, the new Ml Pro/Max achieve 
+70% less power consumption^!. Applea€™s GPU performance is said to vastly outclass any previous 
+generation competitor integrated graphics performance^ I showcasing the Ml Pro against a GeForce 
+RTX 3050 Ti 4GB, with the Apple chip achieving similar
+performance, at 70% less powera€!. Alongside the Ml Pro, Apple also announced a bigger 
+brothera€”the Ml Maxa€! supercharging the GPU to a total of 32 coresa€”essentially ita€™ s no 
+longer an SoC with an integrated GPU but ita€™ s a GPU with an SoC around ita€!. The Ml Pro 
+transistor counta€! 33.7 billion, while the Ml Max bloats that up to 57 billion transistors. AMD 
+advertises 26.8bn transistors for the Navi 21 GPU design at 520mmA2, Apple here has over
+double the transistors at a lower die sizea€!. The Ml being at a currently known 120mmA2, the Ml 
+Pro would be 245mmA2, and the Ml Max 432mmA2. Most of the die size is taken up by the 32-core GPU, 
+which Apple advertises reaching 10.4TFLOPsa€!. I think Apple has managed to not only meet the 
+expectation, but also vastly surpass them. Both the Ml Pro and Ml Max look like incredibly 
+differentiated designs, much different than anything wea€™ ve ever seen in
+the laptop space. If the Ml was any indication of Applea€™ s success in their silicon endeavours, 
+then the two new chips should also have no issues in laying incredible foundations for Applea€™ s 
+Mac products, going far beyond what wea€™ ve seen from any competitora€!
+
+LINK: chttps://www.anandtech.com/show/17019/apple-announced-m 1 -pro-ml 
+-max-giant-new-socs-with-allout-performance>
+
+Jan Eeckhout, Christoph Hedtrich, & Roberto Pinheiro: Inequality Is an Urban Affair Due To New 
+Tech'. a€~The adoption of information technologya€! polarisationa€! via the displacement of routine 
+cognitive jobsa€!. 200,000 firms in the US from 1990 to 2015a€! labour savings from IT are largest 
+in big citiesa€! the polarisation of occupations across geography and accounts for the rise in wage 
+inequality within citiesa€!
+LINK: <https://voxeu.org/article/inequafity-urban-affair-and-it-s-due-new-tech>
+
+JA^rn-Steffen Pischke: Natural Experimenters: Nobel Laureates David Card, Joshua Angrist, & Guido 
+Imbens: a€~The 2021 Nobel Prize in Economic Sciences has been awarded to David Card of the 
+University of California, Berkeley, a€oefor his empirical contributions to labour economicsa€D, and 
+to Joshua Angrist of MIT and Guido Imbens of Stanford University a€oefor their methodological 
+contributions to the analysis of causal relationshipsa€D. This column
+explains how the use of natural experiments in empirical economics has ushered in much progress in 
+the analysis of causal relationships. The ensuing a€~credibility revolution^™ over the past three 
+decades has been transformational for the study of key policy challenges, including education, 
+immigration and the minimum wagea€!
+
+LINK: 
+<https://voxeu.org/article/natural-experimenters-nobel-laureates-david-card-joshua-angrist-and-guido
+-imbens>
+
+Dylan Patel: Intel Betting The Farmd€”Shrinking Business, Margins Down For Few Years, But 
+Aggressively Investing $40B-$43B A Year And More With Subsidies: a€~Pat Gelsinger laid it all out 
+on the table and stopped the charade. He was once a farm boy from rural Pennsylvania who moved out 
+to Silicon Valley at the age of 18 to work at Intel. Now he has the keys to the company, and hea€™ 
+s betting the entire farm on its future technological dominance. Ita€™ s been
+very clear Intel will lose market share for at least the next couple of yearsa€!. Intel finally 
+learned their lesson. Instead of continuing to milk the cow, they realize ita€™ s time to put the 
+pedal to the metala€!. Intel will be spending $25B-$28B in capital expenditure alone plus another 
+~$15B of R&D each year. This amount will be spent on additional fabs, process technologies R&D, 
+improving the design, and other intellectual property. In just the last 8 months since Pat
+Gelsinger joined Intel, they have hired an additional 6,000 engineersa€!. Intela€™ s plan just 
+feels insane to us. a€oe5 nodes in 4 years.a€D After the firm struggled on the 14nm replacement for 
+nearly a decade, to believe they can execute on this vision takes a whole lot of kool-aid. What we 
+can believe is that Intel will spend a lota€!. Executives and shareholders in firms like Applied 
+Materials, Lam Research, KLA, ASML, and Tokyo Electron are likely cheering about
+Intel    not backing down in the face of adversity. Pat will take the lower margins, but instead of 
+figuring out how to cut costs like all prior leadership since and including Paul Otellini, he is 
+willing to potentially light money on firea€!. We are very skeptical this can be executed on. 
+Therea€™ s no way to emphasize how difficult this will be, but ita€™ s also the only path forward. 
+Intel could follow the path of many other American goliaths such as IBM and General Electric. A
+slow slide to irrelevancya€!. Pat Gelsinger and Intel are saying no to thisa€!. We doubt 100% 
+success from Intel, but we will leave it off with a quote from the man himself. a€oeThis is a 
+tremendous period of time. Wea€™re seizing the opportunity. Carpe Diem.a€D Pat Gelsinger, Intel 
+CEOa€!
+
+LINK:
+
+
+
+
+semi
+
+Intel Betting The Farm a€“ Shrinking Business, Margins Down For Few Years, But Aggressively 
+Investing $40B-$43B A Year And More With Subsidies
+
+Pat Gelsinger laid it all out on the table and stopped the charade. He was once a farm boy from 
+rural Pennsylvania who moved out to Silicon Valley at the age of 18 to work at Intel. Now he has 
+the keys to the company, and he's betting the entire farm on its future technological dominance. 
+Ita€™ s been very clear Intel will lose market share for at least tha€l
+Read more
+
+a year ago A- 8 likes A- 1 comment A- Dylan Patel
+
+SemiAnalysis
+
+Adam Tooze: Yaled€™ s Grand Strategy Program'. a€~A ripple went through the media recently 
+following the resignation of Prof Beverly Gage from Yalea€™ s Grand Strategy Program. I dona€™ t 
+have anything to add on that affair. Ia€™ 11 just say that whilst at Yale, I taught pretty 
+regularly on the program, alongside John Gaddis, Paul Kennedy and Charlie Hill. Given my interests, 
+you might have thought it would have been a natural fit. It wasna€™ t. An ideology of
+cultural conservatism was hardwired into the program and not just by the donorsa€!
+
+LINK:
+
+
+SemiAnalysis
+
+Intel Betting The Farm a€“ Shrinking Business, Margins Down For Few Years, But Aggressively 
+Investing $40B-$43B A Year And More With Subsidies
+
+Pat Gelsinger laid it all out on the table and stopped the charade. He was once a farm boy from 
+rural Pennsylvania who moved out to Silicon Valley at the age of 18 to work at Intel. Now he has 
+the keys to the company, and he's betting the entire farm on its future technological dominance. 
+Ita€™ s been very clear Intel will lose market share for at least tha€!
+
+Read more
+
+a year ago A- 8 likes A- 1 comment A- Dylan Patel
+
+Adam Tooze: Yaled€™ s Grand Strategy Program'. a€~A ripple went through the media recently 
+following the resignation of Prof Beverly Gage from Yalea€™ s Grand Strategy Program. I dona€™ t 
+have anything to add on that affair. Ia€™ 11 just say that whilst at Yale, I taught pretty 
+regularly on the program, alongside John Gaddis, Paul Kennedy and Charlie Hill. Given my interests, 
+you might have thought it would have been a natural fit. It wasna€™ t. An ideology of
+cultural conservatism was hardwired into the program and not just by the donorsa€!
+
+LINK:
+
+Chartbook
+
+Top Links #27 Yale's Grand Strategy Program, 5000 years of interest rates & fascist wine
+
+Welcome to Top Links #27 your regular collection of excellent reading and viewing from around the 
+web. If you enjoy the Chartbook feed, why not share with a friend. Early Mondrian is surprisinga€l
+Read more
+
+a year ago A- 4 likes A- 1 comment A- Adam Tooze
+Leave a comment
+
+Subscribe now
+

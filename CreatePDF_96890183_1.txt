@@ -1,5 +1,276 @@
+Subscribe now
+
+FOCUS: On Re-Meeting bCourses, UC Berkeleya€™s CMS:
+
+When I run into systems that get in my way relative to systems that I remember having decades agoa€l
+What I want the webpage to look like:
+
+Lecture Notes:
+
+2022-01-26 Th: Malthusian Logic
+
+Required Readings:
+
+Clark: A Farewell to Alms chs. 2-5 <https://bcourses.berkeley.edu/files/8504Q117>
+
+Optional Readings:
+
+Brad DeLong: Lecture Notes: The Solow Growth Model: Malthusian Economies 
+<http://datahub.berkeley.edu/user-redirect/interact?
+account=braddelonq&repo=history-of-economic-growth-theory-readings&branch=main&path=heg-growth-theor
+y.ipynb>|
+
+In order to get this up onto Berkeleya€™ s bCourses websitea€’’which I am returning to after a fall 
+sabbatical semestera€”I would prefer to use John Grubera€™ s wonderful Markdown 
+<https://daringfireball.net/projects/markdown/>, and type:
+
+**Lecture Notes:**
+
+> 2022-07-26 Th: Malthusian Logic
+
+**Required Readings:**
+
+> **Clark ; A Farewell to Alms chs. 2-5 <https://bcourses.berkeley.edu/files/85040117>
+
+Optional Readings: *
+
+> * Brad DeLong: **_Lecture Notes: The Solow Growth Model: Malthusian Economies_
+
+<http://datahub.berkeley.edu/user-redirect/interact?account=braddelong&repo=history-
+of-economic-growth-theory-readings&branch=main&path=heg-growth-theory.ipynb>
+
+But I cana€™ t. So I type into bCoursesa€™ s WYSIWYG editor and punch some formatting buttons. 
+bCourses produces an underlying html layer.
+What I would consider a€ceacceptablea€D html:
+
+<pxstrong> Lecture Notes: /strongx/p>
+
+<blQ.QKaW.Q.te><P> 2022-01-26 Th: Malthusian Logic</px/blQ.Qto.Qte>
+
+<hr />
+
+<pxstrong>Required Readings: :/strongx/p>
+
+<b.lQ.QkQU.Q.te><pxstrong>Clark</strong>: <em>A Farewell to Alms</em> chs. 2-5 <a href- 
+https://bcourses.berkeley.edu/files/
+85040117'^ https://bcourses.berkeley.edu/files/85040117</ax/px/blockquote>
+
+<hr/>
+
+<pxstrong Optional Readings:</strongx/p>
+
+<blQ.QbQW.Qte.xpxstronf Brad DeLong: strong> <em> Lecture Notes: The Solow Growth Model: Malthusian 
+Economies</em> <a
+
+
+href='http://datahub.berkeley.edu/user-redirect/interact?account=braddelong&arrip;repo=history-of-ec
+onornic-growth-theory-
+readings&amp;branch=main&amp;path=heg-growth-theory.ipynb'>http://datahub.berkeley.edu/user-redirect
+/interact?
+account=braddelong&repo=history-of-economic-growth-theory-readings&branch=main&path=heg-growth-theor
+y.ipynb</ax/p></
+blockquote>|
+
+But this is the underlying html code that Berkeleya€™ s CMS wants to give me:
+
+1 <p><span><strong>Lecture Notes :</strongx/spanx/p>
+
+2 <p>2022-01-26 Th: <a class="inline_disabled" 
+href="https://braddelong.substack.eom/p/day-3-lecture-notes-the-logic-of"
+target="-blank" rel="noopener">Malthiisian Logic</a> &nbsp;&nbsp; &nbsp;<a class="inline_disabled 
+external"
+href="https://braddelong.substack.com/p/introduction-to-history-of-economic" target-'-blank" 
+rel="noopener"><sgan
+
+class-'external_link_icon" rote-'presentation"><sgan c\ass="screenreader-only">Links to an external 
+site.</span></span>
+
+</a></p>
+
+3 <hr />
+
+4 <pxstrong>R</strong><strong>equired Readings :</strongx/p>
+
+5 <p class="ally-file-link-holder" style="padding-left: 40px;"><strong>Clark</strong>: <em c\ass="a 
+Ily-file-link-holder">
+
+<img class="ally-accessibility-score-indicator-image" 
+src="https://prod.ally.ac/static/ally-icon-indicator-medium-
+circle.4428c6d77d3c6c6de8alcf6a36e70408.svg" alt="" /xa class="inline_disabled"
+href="https://bcourses.berkeley.edu/files/85040117"        target="-blank" rel="noopener" data-api-
+endpoint="https://bcourses.berkeley.edu/api/vl/files/85040117" data-api-returntype="File" 
+data-id="85040117">A Farewell to
+Alms</ax/em>              chs. 2-5<br /><emx/emx/p>
+
+6 <hr />
+
+7 <pxstrong>Optional Readings :</strong></p>
+
+8 <p style-'padding-left: 40px;"xspan><strong>Brad DeLong</strong>: </spanxemxspan>Lecture Notes: 
+The Solow Growth
+Model</spanxstrong>; </strongxspan>Lecture Notes: Malthusian Economies &lt;</spanx/emxa
+
+WHY, in the Holy Name of THE ONE WHO IS, WHY?
+
+Yes, I understand that you are really not supposed to look at the html in a CMS. Yes. Still: BUT 
+WHY!?
+
+I just want plain-vanilla text, bold, italic, and <links> that behave in a default way. I have no 
+need for things to be of the 'inline_disabled' class; for 'target' tags so that some links to open 
+in the current and some links to open in a new tab/windowa€’’either one would be fine, if it were 
+consistenta€”for a distinction between links that go into and links that go outside the CMS; for 
+'data-api-endpoint', 'data-
+api-returntype', and 'data-id's, all of which are implicit in the target url; for pointless 
+'<emx/em>' and other null tags left in the html stream; and for pointless '<span>a€!</span>' tags. 
+(I can approve of 'rel=a€Dnoopenera€LT; and I understand, and can forgive, the social-engineering 
+nudges involved in the accessibility-score dial.)
+
+It is more than purely Alsthetic.
+
+At least once a day, when editing something in bCoursesa€™ s WYSIWYG editor, something goes wrong 
+and I do have to drop into html to see (most recently, why shift-return has not generated a simple 
+'<br />' but instead something really weird). I then have to undertake a five-minute de-crufting 
+process before I can see what is going on. And so I am knocked out of my flow.
+a€oeJohn Henry and the steamhammer!a€D you say? No! I love steamhammers! But the steamhammer should 
+be a well-designed steamhammer, with proper affordances. It should be something like Markdown! It 
+is Markdown! But if you search bCourses help for a€oemarkdowna€n:
+
+Berkeley
+
+markdown|
+
+0 Results                                             Sort by | Relevance
+
+Your search did not return any results: markdown
+
+Yes, I should spring and pay $15 for Typora <https://typora.io> or some such, and write-and-paste.
+Maybe this past week of semester-start and renewed contact with bCourses will induce me to do soa€!
+
+And, meanwhile, elsewhere in infotech gone wrong: Chat-GPT tells me that right now I am best known 
+as the author of Slouching Towards Utopia: The Economic History of the Twentieth Century and of The 
+Fist of Contrition: A History of the Public Debt of the United States.
+
+Share
+
+MUST-READ: How Stupid Does Elon Musk Think San Francisco Juries Are?:
+
+Wow:
+
+Mack DeGeurin: Elon Musk Tells Jury That 420 Has Nothing to Do With Weed: a€~The Tesla CEO 
+dismissed associations between a $420 share price and marijuana and accused the head of Saudi 
+Arabia's sovereign wealth fund of a€oeass coveringa€D...
+
+SihsirA Rrcrl FIAT nna'c FJructwiner RAtUitv
+
+
+ONE IMAGE: American Toxic Performative a€oeMasculinitya€n in Action:
+
+
+The Ford F-150 since 1960.
+Ford makes what sellsa€!
+Leave a comment
+
+ONE AUDIO: How China Is Ruled:
+
+<https://overcast.fm/+oiPVDTr-A>
+
+Ezra Klein: a€~A lot is happening in China right nowa€!. Yuen Yuen Ang is a professor of political 
+economy, a China scholar at Johns Hopkins University and the author of a€oeChinaa€™ s Gilded Age: 
+The Paradox of Economic Boom and Vast Corruption.a€D Her basic argument isa€! you need to first 
+understand ChinaaC™ s unique, often misunderstood political systema€!
+a€oeautocracy with democratic characteristics.a€D Because we in the West are so fixated on how 
+China selects its leaders, she argues, wea€™ ve overlooked a more subtle but far more consequential 
+revolution in how China is governed. That transformation of the Chinese political system is the 
+deeper story behind both the countrya€™ s economic success a€” as well as its current
+troubles.                                                                                           
+                                                                              And it provides an 
+illuminating lens through which to view American politics as wella€!
+
+Start writing today. Use the button below to create your Substack and connect your publication with 
+Brad DeLong's Grasping Reality
+Start a Substack
+
+Very Briefly Noted:
+
+•  Noah Smith: Fiscal arsonists: a€~We didna€™ t go very far down the slippery slope to this sort 
+of disaster in 2011.... But that doesna€™ t mean that what the Tea Party Congress did was OK. It 
+took us one step down the slippery slope toward catastrophe, and thata€™ s one step too many. 
+Americans were not happy.  The GOPa€™ s debt ceiling brinksmanship might have been a factor in Mitt
+
+Romneya€™ s defeat in 2012...
+
+•  Tara Palmieri: Feeling the Vern: a€~Vern Buchanan exploded after losing Ways & Means to a 
+McCarthy ally, fueling anxiety that he could retire out of piquea€”and that McCarthya€™ s favor 
+trading has eroded his narrow margin of supporta€!
+
+•  Jason Smith: Genuine a€oeLongtermisma€D: a€~A genuine longtermist wouldna€™ t be racist. 
+Genotype diversity is species survival, not special preferences for specific phenotypesa€! social 
+welfare policies so that every human can live and support a familya€! redistribute the wealth of 
+billionairesa€! basically be a social democrata€!
+
+• Eric Hoel: Why I am not an effective altruist: a€~The origins of the effective altruist movement 
+in utilitarianism means that as definitions get more specific it becomes clear that within lurks a 
+poison, and the choice of all effective altruists is either to dilute that poison, and therefore 
+dilute their philosophy, or swallow the poison whole. This poisona€! is not a quirk, or a bug, but 
+rather a feature of
+utilitarian philosophy, and can be found in even the smallest dropa€!
+
+•  Robert B. Hubbell: A press release beneath the dignity of the Court: a€~a€~The one thing that 
+the press release does not say is that the Marshal interviewed the justices as part of the 
+investigation. Instead, we are told that the Marshal a€cespokea€D to the justices as part of an 
+a€oeiterative processa€D in which they a€oeasked and answered questionsa€D...
+
+•  Paul Krugman: a€~Many people think inflation is still running wild; the big deceleration in the 
+2nd half of 2022 hasn't broken through to public consciousnessa€!. Traditional core inflation still 
+reflecting rent increases from a year ago. And asymmetric reporting: breathless coverage of rising 
+inflation, disinflation not so mucha€!
+
+• Typora: A new way to read & write Markdowna€!
+
+• Paul Fussell (1983): Class : a guide through the American status systema€!
+Give a gift subscription
+
+AJs:
+
+Martin Wolf: In defence of democratic capitalism: a€~The marriage of liberal economics and 
+democracy has brought immense benefits to the world, but faces its toughest test in decades. What 
+needs to be done? The energy behind populism cannot be ignored, let alone suppressed. It needs to 
+be harnessed, instead. Politicians committed to liberal democracy must respond to the widespread 
+distrust of elites
+not by surrendering to them, but by making themselves trustworthy, once again. This is what 
+Franklin Delano Roosevelt achieved in the 1930s, by combining the innovative ideas and competence 
+of people such as Frances Perkins, the labour secretary who laid the foundation of the US social 
+security system, with barnstorming rhetoric against what he called a€oegovernment by organised 
+moneya€D.
+Successful renewal is possible now, tooa€!. It is impossible to sustain a universal suffrage 
+democracy with a market economy if the former does not appear open to the influence a€” and the 
+latter does not serve the interestsa€”of the people at large. This, in turn, demands a political 
+response rooted not in thedestructive politics of identity, but of welfare for  all citizensa€”that 
+is,a commitment to economic
+opportunity and basic security for all. Building on FDR himself, domestic policy goals should be 
+rising, widely shared and sustainable standards of living, good jobs for those who can work, 
+equality of opportunity, security for those who need it and ending a€oespecial privilegesa€D for 
+the fewa€!
+
+Can Duruk: Google vs. ChatGPT told by aglio e olio: a€~The real reason Google is at risk that 
+thanks to their monopoly position, the folks over at Mountain View have left their once-incredible 
+search experience degenerate into a spam-ridden, SEO-fueled hellscapea€!. The fact that many people 
+are  comparingOpenATs tech demo to Google's flagship product should be causing     alarmbells togo 
+off
+long time, Google's claim to fame was to getting the users the answers they want faster than the 
+competition. That doesn't hold true for many types of queries anymore. More than half the time, I 
+have to add 'site:redditcom' to get anything that is not SEO spama€!
+
+Get 33% off a group subscription
+Donate Subscriptions
 
 
 
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
 
+Get the app
+
+Leave a comment
+Subscribe now
 

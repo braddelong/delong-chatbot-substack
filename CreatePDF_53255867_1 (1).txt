@@ -1,0 +1,635 @@
+Subscribe now
+
+Cumulative deaths attributed to Covid-19 in US, UK, Japan, Canada, Australia and New Zealand
+
+Cumulative deaths (per 100k)
+
+
+2020                                                                                       2022
+
+Source: Financial Times analysis of data from Johns Hopkins CSSE, World Health Organization, UK 
+Government coronavirus dashboard, Government of Peru, Public Health France,
+Israeli Health Ministry, Slovenian Ministry of Health, Finnish Institute for Health and Welfare and 
+the Swedish Public Health Agency.
+
+Isaac Chotiner: The Contrarian Coronavirus Theory That Informed the Trump Administration'. 
+a€~President Trump, who at one point called the coronavirus pandemic an a€oeinvisible enemya€D and 
+said it made him a a€ce wartime President,a€D has in recent days questioned its seriousness, 
+tweeting, a€oeWE CANNOT LET THE CURE BE WORSE THAN THE PROBLEM ITSELF.a€D Trump said repeatedly 
+that he wanted the country to reopen by
+Easter, April 12th, contradicting the advice of most health officials. (On Sunday, he backed down 
+and extended federal social-distancing guidelines for at least another month.) According to the 
+Washington Post, a€oeConservatives close to Trump and numerous administration officials have been 
+circulating an article by Richard A. Epstein of the Hoover Institution, titled a€~Coronavirus 
+Perspective ,a€™ which plays down the extent of the spread and the
+threat .a€d
+
+Epstein, a professor at New York University School of Law, published the article on the Web site of 
+the Hoover Institution, on March 16th. In it, he questioned the World Health Organizational™ s 
+decision to declare the coronavirus outbreak a pandemic, said that a€oepublic officials have gone 
+overboard,a€D and suggested that about five hundred people would die from covida€“19 in the U.S. 
+Epstein later updated his estimate to five thousand, saying that the
+previous number had been an error. So far, there have been more than two thousand 
+coronavirus-related fatalities in America; epidemiologistsa€™ projections of the total deaths range 
+widely, depending on the success of social distancing and the availability of medical resources, 
+but they tend to be much higher than Epsteina€™ s. (On Sunday, Anthony Fauci, the director of the 
+National Institute of Allergy and Infectious Diseases, estimated that there could be
+between a hundred thousand and two hundred thousand deaths in the U.S.) In a follow-up article, 
+published on March 23rd and titled a€oeCoronavirus Overreaction,a€d Epstein wrote, a€oeProgressives 
+think they can run everyonea€™ s lives through central planning, but the state of the economy 
+suggests otherwise. Looking at the costs, the public commands have led to a crash in the stock 
+market, and may only save a small fraction of the lives that are at
+risk.a€U
+
+Epstein has long been one of the most cited legal scholars in the country, and is known for his 
+libertarian-minded reading of the Constitution, which envisions a restrained federal government 
+that respects private property. He has also been known to engage with controversial subjects; last 
+fall, he published an article on the Hoover Institution Web site that argued, a€oeThe professional 
+skeptics are right: there is today no compelling evidence of an impending
+climate emergency.a€D Last Wednesday, I spoke by phone with Epstein about his views of the 
+coronavirus pandemic. He was initially wary of talking, and asked to record his own version of the 
+call, which I agreed to. During our conversation, which has been edited for length and clarity, 
+Epstein made a number of comments about viruses that have been strongly disputed by medical 
+professionals. We have included factual corrections alongside those statements.
+
+Share
+
+What did you want to achieve with your pieces?
+
+What did I want to achieve with my pieces? First of all, I am not a politician. What I did is that 
+I looked at the standard model that was put out in the New York Times [in an Op-Ed by Nicholas 
+Kristof and Stuart A. Thompson, published on March 13th], which was backed up by other models in 
+other places, and it occurred to me that I just did not think that the underlying assumptions there 
+were sound. The single most important thing to me was not to get my
+own estimate of what the number is. The most important thing was to look at that curve, which 
+seemed to suggest that there would be ten million cases a day during a ten-day or so band in the 
+middle of July, and to explain why, in relationship to all other things I know about evolutionary 
+theory, that this just has to be wrong. The better way to have phrased the paper would have been to 
+say that the traditional models, which were used for the last flu season, for
+the 2009 H1N1 situation, are much better approximations of what is likely to happen than these 
+rather scary kinds of projections.
+
+You wrote last week, a€celn the United States, if the total death toll increases at about the same 
+rate, the current 67 deaths should translate into about 500 deaths at the end.a€D We are currently 
+at eight hundred deathsa€”over eight hundred deaths. [This was true when we spoke; the number is 
+now over two thousand.]
+First of all, let me just say I wrote an amendment to that, the thing I regret most in that whole 
+paper. But I was not so much interested in explaining why my number was right. I was interested in 
+explaining why the other projections were wrong.
+
+O.K., but your number was surpassed in about a week, and now wea€™re alreadya€”
+
+I understand that, but the point about that is that, first of all, there was a simple stupid error, 
+which is you would never want to put it in a model that total deaths in the United States relative 
+to the world would be one per cent. So if you just inflated it to five per cent or ten per cent, 
+then all of a sudden youa€™ ve got a number which is either five or ten times as high.
+
+Secondly, suppose I should have been wiser in this and said, as I referred to the flu vaccine and 
+later on to the H1N1 situation, if those are your benchmarks, then the number goes up to, say, 
+between fifteen thousand and forty thousand deaths, as opposed to the one million-plus that are 
+projected. [The Times model projected, without interventions by governments or citizens, a million 
+deaths in the U.S.; with such interventions, the model showed that number
+dramatically decreasing.] And, remember, the one million-plus is on a model which is universal and 
+worldwide, and you should expect to see something like that somewhere else. And therea€™ s no 
+evidence whatsoever that any of the situations, even in Italy, is going to approach the kinds of 
+numbers that you had there. And so I am truly sorry about that [five hundred] number. I regard it 
+as the single worst public-relations gaffe Ia€™ ve made in my entire life.
+But   the question to ask, Isaac, is not whether I chose the right number but whether I had the 
+right model.
+
+Something else you wrote, in an earlier piece, was, a€oeWhy has there been such a dramatic mismatch 
+in the responses to ordinary flu and the coronavirus?a€D Is that a question youa€™re still unsure 
+about?
+
+Look, the basic problem is, I think, in effect, that the tendency on the part of many people to 
+treat this particular thing as unique is a mistake. Therea€™ s an underlying, standard model that 
+you want to use, and the question is how you stuff it full of parameters. That is, numbers you add 
+into it to make whata€™ s going on. And, so, the situation that you get is you cannot use any 
+exponential system because essentially then everybody is going to be dead, because
+things just keep doubling, doubling, and doubling.
+
+So you have to develop a model which is going to explain why therea€™ s a fairly rapid increase at 
+the outset, and then why the thing starts to turn flat, ultimately down, and then disappears. 
+Thata€™ s the strategy that you have to do. And so the theory here is one that I actually worked 
+with and I thought worked pretty well in the aids stuff, which I worked on back in the early 
+nineteen-eighties. And the model goes something like this. You start off with this
+virus, and therea€™ s a range, some of which are very serious and some of which are less, so ita€™ 
+s a theory of natural selection with a normal distribution set. And, if youa€™re moving into a new 
+environment like the [Life Care Center] of Kirkland or like the cruise ship, what happens is you 
+have people who are completely unaware of what is going on. And so you take a population like in 
+Kirkland, which is fragile and old, you get somebody in who has a
+strong version of the virus, and the thing will just absolutely rip through the population and kill 
+everybody in it within a very short period of time. [Daniel Kuritzkes, the chief of the 
+infectious-diseases division at Brigham and WomenaC™ s Hospital, in Boston, said, after being read 
+this passage, a€oeTherea€™ s no evidence that there are strong and weak variations of the 
+coronavirus circulating. There may be minor variations person to person or location to
+location in the actual genetic sequence, but there is no evidence that they have different 
+virulence or that a less virulent version is overtaking a more virulent version.a€D]
+
+And Washington State had a very high peak early on. And, probably, most of the deaths that we have 
+today, if you went through and chased them down, were either people who are in the facility or 
+people who have family members who hugged and kissed people in the facility. So they got large 
+doses of intense viruses. [Albert Ko, a professor of epidemiology and medicine and the department 
+chair at the Yale School of Public Health, responded, a€oeThere is no
+evidence that you have a higher risk of dying from contact from someone in the facility than if you 
+had contact from some other source.a€D] But then adaptation starts to set in. And, in my view, 
+adaptation is a co-evolutionary process in which things change, not only in human behavior but also 
+change in genetic viral behavior. So, on the human side, once you see that these things are really 
+going to happen in this particular form, people take steps to avoid
+contact.
+
+You write, a€oel fully understand the need for immediate responses to immediate threats, like 
+fires, but not for crises that may last for three months or more.a€D
+
+Yes. Well, Ia€™ m saying in effect, by this particular pointa€”this is not the medical sidea€”is 
+after you start declaring emergencies you have time for reflection and adaptation and modification, 
+which you dona€™ t have in a fire case. So the political point is one which essentially says, when 
+you see governors of three major states putting out statements that their experts have said this, 
+that, and the other thing is a result, and you dona€™t see the studies and
+you cana€™ t question the assumption, I regard that as a serious breakdown in the political 
+process. So my view on that particular point is Ia€™ d like to know which of these studies theya€™ 
+re relying on. If ita€™ s the New York Times studies, then I thought that that study was mistaken 
+for the reasons that I was trying to give you a moment ago, which is that as the virus becomes more 
+apparent, adaptive responses long before government gets involved
+become clear.
+
+You wrote, a€oeThe adaptive responses should reduce the exposures in the high-risk groups, given 
+the tendency for the coronavirus to weaken over time.a€D What tendency are you talking about, and 
+how do we know it will weaken over time?
+
+Well, what happens is ita€™ s an evolutionary tendency. [a€oeThere is absolutely no evidence for 
+that,a€D Ko told me. According to Kuritzkes, a€oeThere is no proof that this is the case. To the 
+extent we see that evolution taking place it is usually over a much vaster timescale.a€D] So the 
+mechanism is you start with people, some of whom have a very strong version of the virus, and some 
+of whom have a very weak version of the virus. If the strong-version-
+of-the-virus people are in contact with other people before they die, it will pass on. But, if it 
+turns out that you slow the time of interaction down, either in an individual case or in the 
+aggregate, these people are more likely to die before they could transfer the virus off to 
+everybody else.
+
+On the other hand, those people have the more benign version of the virus that will allow them to 
+live longer, which means that they have the chance to make a connection with somebody else. And so 
+what happens is, if it turns out you think something like the coronavirus is ten times as strong as 
+another virus, what that means is that the distancing is going to be more violent, which means that 
+the evolutionary process should be more rapid than that for the
+ordinary flu.
+
+But you stated as fact that the coronavirus has a tendency to weaken over time.
+
+Isaac, let me just explain it. This tendency takes time. It could be a week. It could be a month. 
+It could be longer. But, in the end, you should expect something of this particular sort to take 
+place. More importantly, on the other side, where therea€™ s no dispute, ita€™ s clear that people 
+will start to evolve away from these things so that the rate of transmission will start to go down. 
+And, as that starts to happen, whether you have just private or social responses,
+youa€™ d expect the rate of transmission to go lower. So the question then is, How quickly will 
+this thing peak? And, if you looked at the standard model, it basically postulated a very long 
+buildup and a peak which is about three months away from now. And that just strikes me as being too 
+high and too far relative to everything else that we have.
+
+So, in the United States, if you start looking at yesterdaya€™ s figures, it was about two per cent 
+higher than the day before, which is already indicating that the speed-up is slowing down. Wea€™re 
+going to have to see what the next days do. But wea€™re talking ten thousand cases a day at the 
+current maximum, and the flu was vastly larger in terms of its number and its extent. And my sense 
+is, given the reactions that youa€™re going to have, this thing will
+peak earlier and start to decline earlier than the common models start to say, because they dona€™ 
+t seem to build in anything by way of adaptative responses.
+
+You keep talking about your a€oesense.a€D I think thata€™s the word youa€™re using. But youa€™re 
+stating as a fact that the virus is going to weaken over time. It seems like we do not know that. 
+We can turn to other viruses and how theya€™vea€”
+
+No, that is not what I said. I said therea€™ s a long-term tendency in these ways. Over time, yes. 
+And is this a hundred-per-cent tendency? No. Is there any known exception to it? No. [a€oeWe did 
+not see sars or Ebola weaken over time,a€D Kuritzkes said. a€oelt is only appropriate public-health 
+measures or vaccines that have helped to control those epidemics.a€d] It seems to me that if you do 
+this, what youa€™re trying to do is to figure out what the
+probabilities are, and I think the answer is, if you look at all of the cases that wea€™ ve seen, 
+no matter whata€™ s going on, even if you subtract out the coercion that was used in China and in 
+Korea and so forth, you cannot come up with a credible story that those places in Korea would have 
+had, say, a half a million cases a day. Or in China you would have had, say, thirty million cases a 
+day. And so I do think that the tendency to weaken is there, and Ia€™ m
+willing  to bet a great deal of money on it, in the sense that I think that this is right. And I 
+think that the standard models that are put forward by the epidemiologists that have no built-in 
+behavioral response to ita€”
+
+And youa€™re not an epidemiologist, correct?
+
+No, Ia€™ m trained in all of these things. Ia€™ ve done a lot of work in these particular areas. 
+And one of the things that is most annoying about this debate is you see all sorts of people 
+putting up expertise on these subjects, but they wona€™t let anybody question their particular 
+judgment. One of the things you get as a lawyer is a skill of cross-examination. I spent an 
+enormous amount of time over my career teaching medical people about some of this stuff,
+and their great strengths are procedures and diagnoses in the cases. Their great weakness is 
+understanding general-equilibrium theory.
+
+O.K., so your expertise in the subject I guess comes in part from your work with AIDS, which you 
+just referenced, is that right?
+
+AIDS, and Ia€™ ve worked on evolutionary theory for forty years in its relationship to law.
+
+
+iou write, a^iernere are twu laciurs tu consider. une is me age 01 me exposed pupuiauun, anu me 
+umer is me raie 01 mange 111 me virulence ui me virus as me raie 01 transmission siows, WHICH 
+snouiu continue apace, oy way 01 comparison, me viruieiii aius virus inai Kineu wanioiny in me 
+ryous cresieu anu uecnneu wnen n gave way to a nmuer lorm 01 virus years laier once me conuiuon was 
+recogmzeu anu me oam Houses were
+
+closed down.a€D [I read this passage to Kuritzkes, who responded, a€oelta€™s completely inaccurate. 
+It had nothing to do with the change in the virus. We were able to do it by safe-sex practices and 
+the like, and we saw the explosive growth of H.I.V. during the nineteen-nineties in sub-Saharan 
+Africa and more recently in Eastern Europe. There is nothing about the virus that has become less 
+virulent .a€D] What milder form of the
+virus are you talking about?
+
+Look, all it is is ita€™ s a distribution. What you do is you figure out what this toxicity 
+strength is and if ita€™ s X at one point, then ita€™ s going to be some fraction of X down the 
+road. And ita€™ s quite clear that that is what happened with aids. And then, when it comes along 
+and you start getting [the antiretroviral drug] AZT and other conditions, ita€™ s easier to treat 
+them because all of a sudden aids is evolved in much the same path as syphilis. If you
+go through the history of syphilis, it starts off, ita€™ s essentially a deadly disease and kills 
+most people. And then those who survive have the milder version of it. And so after a while what 
+happens is it becomes a tamer disease. [Syphilis is a bacterial infection, not a viral infection. 
+a€oeOne doesna€™t have anything to do with the other,a€D Kuritzkes said. Ko told me, a€oeThata€™ s 
+not something that is based in empirical evidence, so the fallacy in his
+argument is the over-all lack of scientific rigor in his analysis .a€U]
+
+Youa€™re saying that therea€™s a milder form of the H.I.V. virus than what was around in the 
+eighties and nineties. Thata€™s what youa€™re saying?
+
+Well, I mean, therea€™ s always been a continuous distribution from severe to less severe. What 
+Ia€™ m saying is the probability distribution switches so that the medium becomes a little more 
+mild. And, if it becomes more mild, it kills fewer people. And, after a while, it becomes something 
+that becomes a chronic disease of some sort or another instead of something thata€™ s virulent.
+
+O.K., but you used the phrase a a€oemilder forma€D of the virus, which I could find no scientific 
+backup for, so I wanted to clarify that point.
+
+Well, Ia€™ m just telling you, Ia€™ m giving you this as a theory.
+
+Oh, ita€™s a theory.
+
+No, look, Ia€™ m not an empiricist, but, again, let me just be clear to you, because youa€™ re much 
+too skeptical. The evolutionary component has not been taken into account in these models, and so 
+before one is so dismissive, what you really need to do is to get somebody whoa€™ s an expert on 
+this stuff to look at the evolutionary theory and explain why a principle of natural selection 
+doesna€™ t apply here.
+
+What Ia€™ m doing here is nothing exotic. Ia€™ m taking standard Darwinian economicsa€’’standard 
+economic-evolutionary theory out of Darwina€”and applying it to this particular case. And, if 
+thata€™ s wrong, somebody should tell me. But what happens is I just get these letters from people 
+saying, a€oeYoua€™ re not an expert. The Hl virus differs from this one in the following way.a€D 
+What I dona€™ t get from anybody is a systematic refutation
+which looks at the points parameter by parameter.
+
+I guess my point is that shouldna€™t you be careful about offering up these theories before they 
+a€™ re printed?
+
+No. It turns out in this particular world if you become quiet about this stuff it never gets heard. 
+And what wea€™ ve had now is very loud talk on one side. I think most of it is incorrect. Ia€™ m 
+always willing to debate somebody on the other side who wants to say this is the way the model 
+works. In fact, I have several of my Hoover colleagues who have done exactly that.
+
+Richard, with all due respect, your article is apparently circulating in conservative circles in 
+Washington and the White House.
+
+I didna€™t write it as a conservative article. Donald Trumpa€™ s name is not mentioned in it.
+
+I grasped that.
+
+Ia€™ m not interested in politics.
+
+I know, but we have a responsibility when we put our name on something, no?
+
+I absolutely do. And I told you Ia€™ m willing to debate anybody and anywhere at any time on this 
+particular topic, and wea€™ 11 see how it comes out. What was the last sentence in that article? 
+Would you care to read it again?
+
+Ia€™ve got it right here, I believe. a€oePerhaps my analysis is all wrong, even deeply flawed. But 
+the stakes are too high to continue on the current course without reexamining the data and the 
+erroneous models that are predicting doom.a€D Are the stakes too high to publish articles with 
+basic errors?
+
+This is not a mistake. Ita€™ s an open challenge. Ia€™ ve spent my entire life as a lawyer taking 
+on established wisdom. My view about it is what youa€™ re asking me to do is, when I think 
+everybody is wrong, to remain silent, and the stakes are too high. So my view is therea€™ s all 
+these experts on the other side. Somebody come up and explain why it is that they think the results 
+are going to be different. Looking at the data thus far, both theories tend to
+predict a sharp rise at the beginning, mine less sharp than the one thata€™ s coming out.
+
+In the next week or so, wea€™ 11 see. I will be, shall we say, much more compromised if we start to 
+see a continuing explosion of deaths going on for two or three weeks. But, if the numbers start to 
+level off, the curves will start to go downward.
+
+I was just asking abouta€”
+
+Ia€™ m saying what I think to be the truth. I mean, I just find it incrediblea€”
+
+I know, but these are scientific issues here.
+
+You know nothing about the subject but are so confident that youa€™re going to say that Ia€™ m a 
+crackpot.
+
+No. Richarda€”
+
+Thata€™ s what youa€™ re saying, isna€™ t it? Thata€™ s what youa€™ re saying?
+
+Ia€™m not saying anything of the sort.
+
+Admit to it. Youa€™ re saying Ia€™ m a crackpot.
+
+Ia€™m not saying anything of thea€”
+
+Well, what am I then? Ia€™ m an amateur? Youa€™ re the great scholar on this?
+
+No, no. Ia€™m not a great scholar on this.
+
+Tell me what you think about the quality of the work!
+
+O.K. Ia€™m going to tell you. I think the fact that I am not a great scholar on this and Ia€™m able 
+to find these flaws or these holes in what you wrote is a sign that maybe you shoulda€™ve thought 
+harder before writing it.
+
+What it shows is that you are a complete intellectual amateur. Period.
+
+O.K. Can I ask you one more question?
+
+You just dona€™ t know anything about anything. Youa€™ re a journalist. Would you like to compare 
+your rA©sumA© to mine?
+
+No, actually, I would not.
+
+Then good. Then maybe what you want to do is to say, a€oeGee, Ia€™ m not quite sure that this is 
+right. Ia€™ m going to check with somebody else.a€D But, you want to come at me hard, I am going to 
+come back harder at you. And then if I cana€™ t jam my fingers down your throat, then I am not 
+worth it. But you have basically gone over the line. If you want to ask questions, ask questions. I 
+put forward a model. But a little bit of respect.
+
+O.K. Let me ask you this question. All my questions are asked with respect.
+
+Thata€™ s not the way I hear it.
+
+O.K. Let me ask you this question. This is an important point, so I want us to come to some sort of 
+resolution on this, because I think it gets to the crux of what youa€™re saying. You write, 
+a€oeMoreover, it is unlikely that the healthcare system in the United States will be compromised in 
+the same fashion as the Italian healthcare system in the wake of its quick viral spread. The amount 
+of voluntary and forced separation in the United
+States has gotten very extensive very quickly, which should influence rates of infection sooner 
+rather than later^€D Here is what confused me. Are you saying we are overreacting, which seems to 
+be the tone of the rest of the article, or are you saying that the measures we are taking are going 
+to prevent an Italy-like disaster, in which case, why the complaints about the overwhelming 
+response?
+
+Well, I think the answer is all of the above. If what Ia€™ m saying is correct, we should not 
+expect to see many replications of what has happened in New York, where in fact the caseload here 
+is actually lower than it was during the height of the flu season last year. [At the time of this 
+interview, Epstein was correct. Now, however, the number of covida€“19 cases surpasses it.] Whata€™ 
+s happening is the amount of quarantine that wea€™re putting in has
+created strain on the system, because what we do now is we spend much more money per case than we 
+did in the summer, because we have more respirators, more isolation, more special uniforms, more 
+special ambulances, and so forth.
+
+But also on the other side wea€™re going to see a very strong reaction. The self-quarantine that 
+youa€™re seeing taking place in New York, where I live, this is hugely voluntary. I have so many 
+friends, not only are they going into quarantine, anybody who has a house in Connecticut or New 
+Jersey, in the suburbs, they go out and theya€™re spreading this thing out there. Ita€™ s like the 
+days in England when people would leave London during the plague
+and head off to Oxford.
+
+So I think all of these forces are going to take hold fairly quickly. And the Italian situation, 
+well, whata€™ s the problem there? This is a national health-care system, and the way in which 
+national health-care systems ration, since they typically do not devote enough resources and they 
+charge no prices, is they ration by queuing, which is they have people wait. And so the stories 
+that come out of Italy, there was one in the Jerusalem Post, said that they had a
+consistent policy of not giving a respirator treatment to anybody who got the virus who was over 
+sixty. Well, thata€™ s going to clearly change the mortality rates. [Italy does not have a 
+consistent policy on ventilators but has had to ration their use. New York City officials have 
+warned that they, too, may run out of equipment. On Sunday, Mayor Bill de Blasio said, a€oeWea€™re 
+going to need at least several hundred more ventilators very quickly.a€D]
+
+And, if vou start looking at the mortality rates in Italv, ninety per cent or eightv-five per cent 
+of the deaths are from people over seventv, which suggested something like this is going on. In the 
+United States, we dona€™ t have quite the skew, and we have a little bit better supplv on things. I 
+think we have a greater abilitv to ramp up in terms of things. So mv guess is vou will see real 
+stresses in the short run in the New York area, but that given the time thata€™ s
+
+
+Ia€™ m not interested in politics.
+
+I know, but we have a responsibility when we put our name on something, no?
+
+I absolutely do. And I told you Ia€™ m willing to debate anybody and anywhere at any time on this 
+particular topic, and wea€™ 11 see how it comes out. What was the last sentence in that article? 
+Would you care to read it again?
+
+Ia€™ve got it right here, I believe. a€oePerhaps my analysis is all wrong, even deeply flawed. But 
+the stakes are too high to continue on the current course without reexamining the data and the 
+erroneous models that are predicting doom.a€D Are the stakes too high to publish articles with 
+basic errors?
+
+This is not a mistake. Ita€™ s an open challenge. Ia€™ ve spent my entire life as a lawyer taking 
+on established wisdom. My view about it is what youa€™ re asking me to do is, when I think 
+everybody is wrong, to remain silent, and the stakes are too high. So my view is therea€™ s all 
+these experts on the other side. Somebody come up and explain why it is that they think the results 
+are going to be different. Looking at the data thus far, both theories tend to
+predict a sharp rise at the beginning, mine less sharp than the one thata€™ s coming out.
+
+In the next week or so, wea€™ 11 see. I will be, shall we say, much more compromised if we start to 
+see a continuing explosion of deaths going on for two or three weeks. But, if the numbers start to 
+level off, the curves will start to go downward.
+
+I was just asking abouta€”
+
+Ia€™ m saying what I think to be the truth. I mean, I just find it incrediblea€”
+
+I know, but these are scientific issues here.
+
+You know nothing about the subject but are so confident that youa€™re going to say that Ia€™ m a 
+crackpot.
+
+No. Richarda€”
+
+Thata€™ s what youa€™ re saying, isna€™ t it? Thata€™ s what youa€™ re saying?
+
+Ia€™m not saying anything of the sort.
+
+Admit to it. Youa€™ re saying Ia€™ m a crackpot.
+
+Ia€™m not saying anything of thea€”
+
+Well, what am I then? Ia€™ m an amateur? Youa€™ re the great scholar on this?
+
+No, no. Ia€ ™m not a great scholar on this.
+
+Tell me what you think about the quality of the work!
+
+O.K. Ia€™m going to tell you. I think the fact that I am not a great scholar on this and Ia€™m able 
+to find these flaws or these holes in what you wrote is a sign that maybe you shoulda€™ve thought 
+harder before writing it.
+
+What it shows is that you are a complete intellectual amateur. Period.
+
+O.K. Can I ask you one more question?
+
+You just dona€™ t know anything about anything. Youa€™ re a journalist. Would you like to compare 
+your rA©sumA© to mine?
+
+No, actually, I would not.
+
+Then good. Then maybe what you want to do is to say, a€oeGee, Ia€™ m not quite sure that this is 
+right. Ia€™ m going to check with somebody else.a€D But, you want to come at me hard, I am going to 
+come back harder at you. And then if I cana€™ t jam my fingers down your throat, then I am not 
+worth it. But you have basically gone over the line. If you want to ask questions, ask questions. I 
+put forward a model. But a little bit of respect.
+
+O.K. Let me ask you this question. All my questions are asked with respect.
+
+Thata€™ s not the way I hear it.
+
+O.K. Let me ask you this question. This is an important point, so I want us to come to some sort of 
+resolution on this, because I think it gets to the crux of what youa€™re saying. You write, 
+a€oeMoreover, it is unlikely that the healthcare system in the United States will be compromised in 
+the same fashion as the Italian healthcare system in the wake of its quick viral spread. The amount 
+of voluntary and forced separation in the United
+States has gotten very extensive very quickly, which should influence rates of infection sooner 
+rather than later^€D Here is what confused me. Are you saying we are overreacting, which seems to 
+be the tone of the rest of the article, or are you saying that the measures we are taking are going 
+to prevent an Italy-like disaster, in which case, why the complaints about the overwhelming 
+response?
+
+Well, I think the answer is all of the above. If what Ia€™ m saying is correct, we should not 
+expect to see many replications of what has happened in New York, where in fact the caseload here 
+is actually lower than it was during the height of the flu season last year. [At the time of this 
+interview, Epstein was correct. Now, however, the number of covida€‘T9 cases surpasses it.] Whata€™ 
+s happening is the amount of quarantine that wea€™re putting in has
+created strain on the system, because what we do now is we spend much more money per case than we 
+did in the summer, because we have more respirators, more isolation, more special uniforms, more 
+special ambulances, and so forth.
+
+But also on the other side wea€™re going to see a very strong reaction. The self-quarantine that 
+youa€™re seeing taking place in New York, where I live, this is hugely voluntary. I have so many 
+friends, not only are they going into quarantine, anybody who has a house in Connecticut or New 
+Jersey, in the suburbs, they go out and theya€™re spreading this thing out there. Ita€™ s like the 
+days in England when people would leave London during the plague
+and head off to Oxford.
+
+So I think all of these forces are going to take hold fairly quickly. And the Italian situation, 
+well, whata€™ s the problem there? This is a national health-care system, and the way in which 
+national health-care systems ration, since they typically do not devote enough resources and they 
+charge no prices, is they ration by queuing, which is they have people wait. And so the stories 
+that come out of Italy, there was one in the Jerusalem Post, said that they had a
+consistent policy of not giving a respirator treatment to anybody who got the virus who was over 
+sixty. Well, thata€™ s going to clearly change the mortality rates. [Italy does not have a 
+consistent policy on ventilators but has had to ration their use. New York City officials have 
+warned that they, too, may run out of equipment. On Sunday, Mayor Bill de Blasio said, a€oeWea€™re 
+going to need at least several hundred more ventilators very quickly.a€D]
+
+And, if you start looking at the mortality rates in Italy, ninety per cent or eighty-five per cent 
+of the deaths are from people over seventy, which suggested something like this is going on. In the 
+United States, we dona€™ t have quite the skew, and we have a little bit better supply on things. I 
+think we have a greater ability to ramp up in terms of things. So my guess is you will see real 
+stresses in the short run in the New York area, but that given the time thata€™ s
+available, I first of all did not think that the runoffs will be as great anywhere else throughout 
+the system. All right? But, on the other hand, I think therea€™ 11 be more preparedness. My fear is 
+that there will be overpreparedness if it turns out that the numbers that theya€™ re preparing for 
+are too high. Illinois declared that the state was on lockdown when they had twelve cases. By the 
+way, Bill Gates agrees with me, Ia€™ m happy to say.
+
+What does he agree with you on?
+
+He thinks you have to relax the economic, lockdown restrictions. They are too severe.
+
+Just to clarify, this is from a Vox Recode article, a€oeBill Gates rebuked proposals, floated over 
+the last two days by leaders like Donald Trump, to reopen the global economy despite the Covida€“19 
+coronavirus outbreak, saying that this approach would be a€~very irresponsible.a€™ a€D Gates said, 
+a€oeThere really is no middle ground, and ita€™s very tough to say to people, a€~Hey, keep going to 
+restaurants, go buy new houses,
+ignore the pile of bodies over in the corner. We want you to keep spending because maybe therea€™s 
+a politician who thinks GDP growth is all that counts.a€™ Ita€™s very irresponsible for someone to 
+suggest we can have the best of both worlds.a€D
+
+I misread him then. Whatever Mr. Gates said, thata€™ s fine. That strikes me as more populist than 
+I am. The question is we managed to survive all of these things during the periods of flu vaccine. 
+Nobody wants to trivialize death. Youa€™re trying to minimize them. The point that Ia€™ m making 
+is, you shut down the economy and put it on lockdown, youa€™re going to get medical deaths, when 
+people dona€™ t get adequate supervision and care for other
+kinds of conditions that also kill.
+
+Right. I think the point that Bill Gates and others are making is that if we dona€™t shut down the 
+economy or large parts of it, wea€™re going to get the economic devastation anyway down the road, 
+because wea€™re not going to stop the virus.
+
+That presupposes that the basic model is correct, that theya€™re relying on it. I think it is 
+wrong. And the whole point of writing that article was to attack that model. Leta€™ s put it this 
+way: if in fact that model is right, ita€™ s not at all clear that shutting down the economy will 
+do any good, because it may well just be so devastating. And, if ita€™ s wrong, ita€™ s absolutely 
+clear that the model is devastating.
+
+A previous version of this piece misstated the percentage of Italians over the age of seventy who 
+died from covida€^19.
+
+LINK: 
+<https://www.newvorker.com/news/q-and-a/the-contrarian-coronavirus-theorv-that-informed-the-trump-ad
+ministration>
+Share Brad DeLong's Grasping Reality
+
+Leave a comment
+Give a gift subscription
+Donate Subscriptions
+Subscribe now
+
+
+/uiu, ii you start looxing at me mortality rates in rtaiy, ninety per cent or eignty-iivc per cent 
+01 me creams are iroin people over seventy, WHICH suggesteu someinnig HKC mis is going on. m me 
+united otates, we uona^ t nave quite me SKCW, aiiu we nave a mue OH oetter supply oil tilings, r 
+LIHHK we nave a greater aonity to ramp up in terms or tilings, JO my guess is you win see real 
+stresses m me snort run in me new IOLK area, out mat given me time tiiata^ }
+
+available, I first of all did not think that the runoffs will be as great anywhere else throughout 
+the system. All right? But, on the other hand, I think therea€™ 11 be more preparedness. My fear is 
+that there will be overpreparedness if it turns out that the numbers that theya€™ re preparing for 
+are too high. Illinois declared that the state was on lockdown when they had twelve cases. By the 
+way, Bill Gates agrees with me, Ia€™ m happy to say.
+
+What does he agree with you on?
+
+He thinks you have to relax the economic, lockdown restrictions. They are too severe.
+
+Just to clarify, this is from a Vox Recode article, a€oeBill Gates rebuked proposals, floated over 
+the last two days by leaders like Donald Trump, to reopen the global economy despite the Covida€“19 
+coronavirus outbreak, saying that this approach would be a€~very irresponsible.a€™ a€D Gates said, 
+a€oeThere really is no middle ground, and ita€™s very tough to say to people, a€~Hey, keep going to 
+restaurants, go buy new houses,
+ignore the pile of bodies over in the corner. We want you to keep spending because maybe therea€™s 
+a politician who thinks GDP growth is all that counts.a€™ Ita€™s very irresponsible for someone to 
+suggest we can have the best of both wor!ds.a€D
+
+I misread him then. Whatever Mr. Gates said, thata€™ s fine. That strikes me as more populist than 
+I am. The question is we managed to survive all of these things during the periods of flu vaccine. 
+Nobody wants to trivialize death. Youa€™re trying to minimize them. The point that Ia€™ m making 
+is, you shut down the economy and put it on lockdown, youa€™re going to get medical deaths, when 
+people dona€™ t get adequate supervision and care for other
+kinds of conditions that also kill.
+
+Right. I think the point that Bill Gates and others are making is that if we dona€™t shut down the 
+economy or large parts of it, wea€™re going to get the economic devastation anyway down the road, 
+because wea€™re not going to stop the virus.
+
+That presupposes that the basic model is correct, that theya€™re relying on it. I think it is 
+wrong. And the whole point of writing that article was to attack that model. Leta€™ s put it this 
+way: if in fact that model is right, ita€™ s not at all clear that shutting down the economy will 
+do any good, because it may well just be so devastating. And, if ita€™ s wrong, ita€™ s absolutely 
+clear that the model is devastating.
+
+A previous version of this piece misstated the percentage of Italians over the age of seventy who 
+died from covida€“19.
+
+LINK: 
+<https://www.newyorker.com/news/q-and-a/the-contrarian-coronavirus-theory-that-informed-the-trump-ad
+ministration>
+Share Brad DeLong's Grasping Reality
+
+Leave a comment
+Give a gift subscription
+Donate Subscriptions
+Subscribe now
+

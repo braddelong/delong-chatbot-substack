@@ -1,0 +1,215 @@
+This lives at: <https://equitablegrowth.org/?s=delong>
+
+Worthy Reads from Equitable Growth
+
+What economic policy levers can we pull to make advancing technologies complements to work or 
+skills and capabilities rather than substitutes for them? We cannot count on large,
+oligopolistic firms to do this job. Well they can, by the nature of their business and market 
+position, capture a substantial amount of the net returns from worker-substitute
+technologies,   they cannot do the same thing for worker-complement technologies. There we must 
+rely on the public and the nonprofit sectors, and we need to start doing so at scale
+as                                                                               soon as possible:
+
+Equitable Growth: a€~Register for Our Event on Tuesday! a€oeA Future for All Workers: Technology & 
+Worker Powera€Ohttps://equitablegrowth.org/event/a-future-for-all-
+workers-technology-and-worker-power/: featuring a keynote from SEIU International President Mary 
+Kay Henrya€!. Change is inevitable, but the form it takes is not. At issue are
+how          workplaces implement new technologies and the impact these technologies have on 
+workersa€™ lives. How these technological changes are implemented, in turn, depends on
+the underlying economic and legal structures, as well as the extent to which workers are empowered 
+to be full and active partners in technological adoption and integration^!
+
+Fiscal automatic stabilizers are highly effective because they are state-dependent rather than 
+time-dependent policies. We very much need to learn from and then generalize that
+state-dependent feature that makes those policies so effective and cost-effective:
+
+David Mitchell & Corey Husak: How to Replace Covid Relief Deadlines with Automatic a€~Triggersa€™ 
+that Meet the Needs of the U.S. Economy
+https://equitablegrowth.org/how-to-replace-covid-relief-deadlines-with-automatic-triggers-that-meet-
+the-needs-of-the-u-s-economy/: a€~The next coronavirus relief bill can be
+written to keep critical benefits in place until they are no longer needed. So-called off-triggers 
+that depend on economic data can ensure that benefits phase out as the economy
+recovers, not on a random date. There are a number of possible mechanisms that can serve as 
+off-triggersa€!. What was lacking in the Great Recession, and what is needed now, is a
+mechanism for ensuring that benefits remain available as long as they are necessary, with no need 
+to wait for Congress to act. There are a number of solid, evidence-based ideas for
+such a mechanism. In 2019, the Washington Center for Equitable Growth and The Brookings 
+Institution^™ s Hamilton Project published Recession Ready, a book of essays with
+comprehensive plans to strengthen automatic stabilizers, including recommendations for automatic 
+triggers to activate supplemental benefits to families and state governments, and
+automatic triggers to turn them offa€!
+
+Policy mistakes and acts of malfeasance in one generation echo substantially into future history 
+for very long periods of time:
+
+Jonathan Colmer & John Voorheis: Reductions In Air Pollution Have Intergenerational Consequences 
+https://equitablegrowth.org/new-research-shows-that-reductions-in-air-
+pollution-have-intergenerational-consequences/: a€~It was not only the children of women who 
+benefited from regulatory reductions in exposure to air pollution during pregnancy,
+but              also their grandchildren. The grandchildren of women who were exposed to lower 
+levels of air pollution during pregnancy were more likely to attend college and less likely to
+drop out of high school 40 years later. A 10 percent reduction in prenatal exposure to particulate 
+matter for individuals born around 1970 is associated with a 3.2 percentage point to
+
+3.8 percentage point increase in the likelihood that their children attend college 40 years later. 
+This corresponds to an 8 percent increase in attendance^!
+
+Mike Konczal of the Roosevelt Institute has written a very nice book of moral philosophy and public 
+policy. He investigates the question: a€oeWhy is so much of American
+thinking about political economy and public policy issues in the mode of a€~the market giveth, the 
+market taketh away: blessed be the name of the marketa€™ , why is it wrong,
+and what can we do about it?a€D:
+
+Brad DeLong: DeLongTODAY: Enthusiastically Reading Mike Konczal: a€ceFreedom from the 
+Marketa€dhttp://delongtoday.com: a€~It was in that election that Supreme Court
+Chief Justice William Rehnquist won his spurs by running a€oeballot securitya€D efforts in which 
+a€oeevery Black or Mexican[-looking] person was being challenged .a€da€!
+
+Why did Goldwater decide to throw away thata€! founding principle?a€! The answer, I think, is that 
+African-American aspirationsa€’’hopes for an equal voice, and then that with
+that equal voice they could ask and get a redistribution and redefinition of property to redress at 
+least some of past injuries and abusesa€”made Goldwater and company extremely
+uneasy. They were asking for real democracy. And real democracya€’’especially African-American 
+democracya€’’for Rehnquista€! and for many othersa€! [that] touched
+uncomfortably on matters of governance^!
+
+Worthy Reads from Elsewhere:
+
+I think we can now afford to forget about the risk that those vaccinated for COVID-19 will still be 
+as infectious as the unvaccinated population is. The Moderna Phase III trial looks
+to me to be decisive on this:
+
+A Marm Kilpatrick: a€.~ (I think) We can now estimate the (minimum) reduction in transmission from 
+the Moderna
+
+vaccine https://twitter.com/DiseaseEcology/status/1359213744937598976. tl;dr Moderna vaccine blocks 
+90% (87a€“93%) of infections and 91% (89a€“94%) of transmission^!.
+The big remaining question isa€! will vaccination reduce transmission or just disease?a€! Does 
+reduced symptomatic infection imply reduced infections?a€! A CRUCIAL bit of
+data was shared from Moderna trial based on swabs taken on day of 2nd dosea€!. The swabs represent 
+truly asymptomatic infections. This is fantastic because it indicates we
+havea€! reductions of 95% in symptomatic and 61.5% in asymptomatic infectionsa€!. A very recent 
+paper from Roy Kishony from Israel suggested that infections following
+vaccination reduces viral loada€!. Another recent set of papers showed that lower viral loads are 
+strongly correlated with lower transmission^!. I think we can estimate the
+(minimum) reduction in both infection & transmission from vaccinated individuals. Minimum because 
+reduction in asymptomatic infections & viral load is based on data BEFORE
+2nd  dose. Efficacy should improve with 2nd dosea€! median reductions of 90% (87a€“93%) in 
+infection and 91% (89a€“94%) of transmission^!
+
+And I also I think we can now safely conclude that it is overwhelmingly the first dose in the mRNA 
+vaccine protocol that does the overwhelming share of the work:
+
+Danuta M. Skowronski & Gaston De Serres: Safety & Efficacy of the BNT162b2 mRNA Covida€“19 Vaccine 
+https://www.nejm.org/doi/full/10.1056/NEJMc2036242: a€~Polack
+et al. (Dec. 31) report a vaccine efficacy of 94.8% against Covida€“19 after two doses of the 
+messenger RNA (mRNA) vaccine BNT162b2 (Pfizera€“BioNTech). The authors also
+report a vaccine efficacy of 52.4% from after the first dose to before the second dose, but in 
+their calculation, they included data that were collected during the first 2 weeks after the
+first dose, when immunity would have still been mounting. We used documents submitted to the Food 
+and Drug Administration to derive the vaccine efficacy beginning from 2
+weeks after the first dose to before the second dose (Table 1). Even before the second dose, 
+BNT162b2 was highly efficacious, with a vaccine efficacy of 92.6%, a finding similar to
+the first-dose efficacy of 92.1% reported for the mRNAa€“1273 vaccine (Moderna)a€!
+
+The rule of thumb I was taughta€”by Olivier Blancharda€”is that one basis point of long-term 
+Treasury bond rate increase offsets 0.02%-points of national incomea€™ s worth of
+fiscal stimulus. A fiscal program thata€’’unlikely a€’’would notionally push us $600 billion in 
+annual national income above potentiala€”3%-pointsa€”would thus be offset by a
+150 basis-point increase in long Treasury rates, which standard gearing suggests would be delivered 
+by a 4.5%-point increase in the federal funds rate. A world in which appropriate
+monetary policy near a business-cycle peak is a 4.5% rather than a 0% federal funds rate seems to 
+me vastly preferable to our current secular-stagnation zero-lower-bound Fed-out-
+of-ammunition enormous-downside-risk world. It seems to me a place that we really do want to go. I 
+do not understand this. I do not understand this at all:
+
+Olivier Blanchard: In Defense of Concerns Over the $1.9 Trillion 
+RgZZe/'jPZanhttps://www.piie.com/blogs/realtime-economic-issues-watch/defense-concerns-over-19-trill
+ion-relief-
+plan: a€~If inflation were to take off, there would be two scenarios: one in which the Fed would 
+let inflation increase, perhaps substantially, and anothera€”more likelya€”in which
+the  Fed would tighten monetary policy, perhaps again substantially. Neither of these two scenarios 
+is ideal. In the first, inflation expectations would likely become deanchored,
+cancelling one of the major accomplishments of monetary policy in the last 20 years and making 
+monetary policy more difficult to use in the future. In the second, the increase in
+interest   rates might have to be very large, leading to problems in financial markets. I would 
+rather not go therea€!
+
+Those who fear that a $15 an hour minimum wage is too risky a policy should have long since I've 
+gotten behind an expansion of the Earned Income Tax Credit. In fact, those who
+advocate for a $15 an hour minimum wage should also be behind an EITC expansion. That is what the 
+research says:
+
+Cynthia Miller & Lawrence F. Katz: Biden Wants to Boost the EITC for Workers without Dependent 
+Childrend€”What Does the Research Say?
+https://thehill.com/opinion/finance/538298-biden-wants-to-boost-the-eitc-for-workers-without-depende
+nt-children-what?rl=l#.YCUykA0cLq8.twitter: a€~Many commentators
+have expressed the hope that the inequalities exposed by the pandemic will lead to renewed efforts 
+to address them by expanding the social safety net and by providing basic
+protections for workers. An expanded EITC can be an effective part of this effort, increasing 
+workersa€™ incomes (without depressing work effort) and putting them in a better
+position to recover from this crisis and weather the nexta€!
+
+The question Wall Street was consideringa€”Ryan Cohen vs. Gabriel Plotkina€”was this: GameStop now 
+is a sustainable enterprise: it pays its bills. Suppose GameStop wants to
+raise an extra $300 million on the equity markets to spend on reorienting itself as it tries to 
+find a path forward. Should those willing to invest that $300 million get, in return, a half­
+ownership of the firm? Or should they get a 20% ownership of the firm? Gabriel Plotkin believes and 
+bets on the first, and Ryan Cohen believes and bets on the second. Then along
+comes WallStreetBets, saying: IT SHOULDN'T BE 50%! IT SHOULD BE 2%!! GAMESTOPa€’’WORTH $20 BILLION 
+!!!! And yet David Atkins of the Washington Monthly, in
+some way, and for some reason, approves. Very, very, very strange indeed:
+
+
+David Atkins: Hedge Funds Shouldnd€™ t Get To Decide Who Has Fundamental Value 
+https://washingtonmonthly.com/2021/01/30/hedge-funds-shouldnt-get-to-decide-who-has-
+fundamental-value/: a€~ [Financial firms,] most of them, would have been bankrupt multiple times 
+over without assistance from the Federal Reserve.... They have become...
+guaranteed     against failure. Within a modern capitalist system that is probably good 
+macroeconomic policy. But crucially, that leeway has not been given to brick-and-mortar firms.
+
+Your local chain storea€“to say nothing of your local mom-and-pop corner storea€“has not been 
+provided the same assurances against failure or the same easy moneya€!.
+Keynesian liquidity... gives predatory hedge funds enormous leeway to stake out short positions on 
+struggling firms, devaluing them and then selling off the remains for pieces...
+obliterating companies that might have survived for a long time otherwise, such as Toys R Us...
+
+This was actually much more hopeful and positive than I thought it would be about political-economy 
+and racial politics changes in the American north in the aftermath of the Great
+Migration of African-Americans from the south:
+
+Alvaro Calderon, Vasiliki Fouka, & Marco Tabellini: Racial Diversity, Electoral Preferences, & the 
+Supply of Policy https ://voxeu .org/article/racial-diversity-electoral-
+preferences-and-supply-policy: a€~The 1940a€“1970 Great Migration of African Americansa€!. How 
+resulting changes in the racial composition of local constituencies affected
+votersa€™    preferences and politiciansa€™ behavioura€!. Democrats and union members supported 
+blacksa€™ struggle for racial equality, but that backlash against civil rights
+erupted among Republicans and among whites who more exposed to racial mixinga€!. Politicians 
+largely responded to demands of their constituencies^!. Under certain
+conditions, cross-race coalitionsa€!. Changes in the composition of the electorate can polarise 
+both voters and politiciansa€!
+
+This I enthusiastically endorse: Figuring out that on Twitter you have a righta€”nay, stronger than 
+a right: you have a dutya€”to not mute but block people even if all they do
+
+is justwaste your time is essential to having a good life. Either that, or drop Twitter entirely. 
+In an attention economy, grabbing your attention uselessly is a cognitive attack on your
+mind. Such cognitive attacks need to be stopped:
+
+Zeynep Tufekci: a€™I try not to block actual criticism chttps: //twitter. 
+com/zeynep/status/1361680717416177664> but things Ia€™ ve started pretty much
+
+automatically blocking to make Twitter usablea€!. a€oeOh youa€™re surprised?a€D reply guys; People 
+who respond to an article I wrote with a point made in the articlea€!.
+Ia€™ ve never had a useful interaction with any of the above categories, and they are just 
+cluttering up my mentions especially since others then respond to them, and ita€™ s an
+endless, pointless series of pings that hide any signal that may hide in my mentionsa€!. Why not 
+mute? I tried. Because people reply to them (which I see) and others see them and
+affects the quality of the discussion I do want to havea€!. This is an attempt to be able to hear 
+real criticism and feedbacka€!
+
+Tom Gara: a€™ We joked a lot about sending various 2020 headlines back in time to 
+2005https://twitter.com/tomgara/status/1362606805470359557 to freak people out, but
+a€oeCDC survival guidance for Texans considering melting snow for drinking watera€D would be a 
+great one to send back to 2020a€!
+

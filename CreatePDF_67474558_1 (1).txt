@@ -1,0 +1,348 @@
+I greatly enjoy and am, in fact, driven to write Grasping Realitya€”but its long-term viability and 
+quality do depend on voluntary subscriptions from paying supporters. I am incredibly grateful that 
+the great bulk of it goes out for free to what is now well over ten-thousand subscribers around the 
+world. If you are enjoying the newsletter enough to wish to join the group receiving it regularly, 
+please press the button below to sign up for a free subscription and get (the bulk of) it in your 
+email inbox. And if you are enjoying the newsletter enough to wish to join the group of supporters, 
+please press the button below and sign up for a paid subscription:
+
+Subscribe now
+
+FIRST: Something Useful for Me, & Coordinated!
+
+So Why Doesna€™t the Democratic Party Technostructure Send Me Something Like This Every Week?
+
+a€oeArange of resources in discussing the Inflation Reduction Act:
+
+• Letter from 126 economists supporting the Inflation Reduction Act
+
+• Statement from bipartisan Treasury Secretaries supporting the Inflation Reduction Act
+
+• Statement from bipartisan IRS commissioners supporting the Inflation Reduction Act
+
+•  Congressional Budget Office score or the legislation, showing more than $300 billion in savings 
+over the budget window, including deficit reduction in 2023 and 2024
+
+• Analysis by the Committee for a Responsible Federal Budget, showing deficit reduction of up to $2 
+trillion over two decades
+
+• Tweet thread by Chye-Ching Huang on the false claim that the bill raises taxes on the 
+middle-class
+
+• Tweet thread by Jean Ross on the false claim that the bill will hurt domestic manufacturing
+
+• Tweet thread by David Kamin on the false claim that the tax enforcement funding will be focused 
+on middle-class Americans
+
+•  HHS analysis finding that the uninsured rate fell to an all-time low in the first part of 2022, 
+in significant part due to the AC A improvements extended in the Inflation Reduction Act 
+(additional graphics here)
+
+•  As President Biden wrote in his May 2022 Wall Street Journal op-ed: a€oeWe will likely see fewer 
+record job-creation numbers, but this wona€™t be cause for concern. Rather, if average monthly job 
+creation shifts in the next year from current levels of 500,000 to something closer to 150,000, it 
+will be a sign that we are successfully moving into the next phase of recoverya€”as this kind of 
+job growth is consistent with a low
+unemployment rate and a healthy economy.a€D
+
+• The economy created an average of 164k jobs per month in 2019 a€“ the year before the pandemic 
+began.
+
+•  There were 7 months during Donald Trumpa€™ s presidency when the economy created fewer than 100k 
+jobs per month. In fact, exactly 3 years ago a€“ in July 2019 a€“ the economy created just 78k 
+jobs.a€D
+
+When was it back in The Daya€! 1985? 1987? 1989?a€! that every morning the fax machine at the NBER 
+(a non-partisan thinktank) would burble out the a€oeDaily Line for Republican Newsmakersa€D for 
+Marty Feldstein and company. The a€oeeveryone talking about the same thinga€D echo effect wasa€”and 
+still isa€’’effective for the Republicans.
+
+The bold paragraph raises a big question: since we are manifestly not (yet) a€oesuccessfully moving 
+into the next phase of recoverya€l [with moderated] job growth is consistent with a low 
+unemployment rate and a healthy economya€!a€D, should we be worried? And I think the answer is 
+clearly no. The inflation gauge you should be watchinga€”the Core PCEa€”is not very elevated:
+
+FRED    Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+
+1965         1970         1975         1980         1985         1990         1995         2000     
+    2005         2010         2015         2020
+
+We will see how much it comes down as plague- and war-driven supply-chain disruptions come to an 
+end. We will see what effects the remarkable tightening of financial conditions that have taken 
+place over the past six months will have on the economy:
+
+FRED^ — Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an 
+Investment Basis
+
+— Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment 
+Basis
+
+2011         2012         2013         2014         2015         2016         2017         2018     
+    2019         2020         2021         2022
+
+If I were the Federal Reserve, I would be strongly tempted to stand pat, with the yield curve on 
+the point of inversion, until the data becomes clearer and there is some new signal arising out of 
+the Core PCE.
+
+The level of the Core PCE, after all, is only 1/2 x 6/4 x 3% - 3/4% = 1.5%-points above what it 
+would have been had the Federal Reserve hit its 2% inflation target throughout the plague years. I 
+know of no theory about what the neutral rate of inflation ought to be that would suggest that such 
+a level-jump in response to such a series of structural shocks should be thought of as excessive.
+Share
+
+One Video:
+
+Noah Smith: Video interview: Olivier Blanchard on Inflation
+
+
+Video interview: Olivier Blanchard on inflation
+
+Olivier Blanchard is among the most respected macroeconomists of our times, and one of the most 
+cited macroeconomists in history. He was a professor at MIT for a long time (now emeritus), and 
+served as the chief economist at the IMF from 2008 to 2015. He is now a senior fellow at the 
+Peterson Institute for International Economicsa€l
+Read more
+
+7 months ago A- 57 likes A- 24 comments A- Noah Smith
+Share Brad DeLong's Grasping Reality
+
+Very Briefly Noted:
+
+•  Dan Pfeiffer: Why John Fetterman is So Good at Messaging: a€~John Fetterman talks to his voters 
+the way he talks to his friends. Human to humana€!. Fetterman also talks directly to voters. His 
+campaign frequently posts videos on Instagram and elsewhere of the candidate talking directly to 
+the camera about the campaign or reacting to the news. These videos are lightly produced and 
+therefore feel more authentica€!
+
+<https://messagebox.substack.eom/p/whv-iohn-fetterman-is-so-good-at>
+
+• Jonathan Chait (2018): New Trump Economist Kudlow Has Been Wrong About Everything 
+<https://nvmag.com/intelligencer/2018/03/new-trump-economist-kudlow-has-been-wrong-about-everything.
+html>
+
+• Twitter: mDAUFAQ 
+<https://www.sec.gov/Archives/edgar/data/0001418091/000119312522213Qll/d389634ddefal4a.htm>
+
+•  Nico Voigtlaender & Hans-Joachim Voth: Persecution Perpetuated: The Medieval Origins of 
+Anti-Semitic Violence in Nazi German: a€~Pogroms during the Black Death are a strong and robust 
+predictor of violence against Jews in the 1920s, and of votes for the Nazi Partya€! <https: //ww 
+w.nber.org/papers/w 17113>
+
+•  Michael Mignano: The End of Social Media: a€~Last week, Meta announced that the Facebook 
+newsfeed would be shifting towards an algorithmic, recommendation-based model of content 
+distributional the end of social media as wea€™ ve known ita€!. Platforms like the massively 
+popular (and still growing) TikTok and YouTube put far less emphasis on friends and social graphs 
+in favor of carefully curated, magical algorithmic experiences
+that match the perfect content for the right people at the exact right time. This is recommendation 
+media, and ita€™ s the new standarda€! <https://everv.to/p/the-end-of-social-media>
+
+• Sam Kim & Chris Anstey: Semiconductor Shortage Seems to Be Easing 
+<https://www.bloomberg.com/news/newsletters/2022a€“08a€“Q6/semiconductor-shortage-seems-to-be-easing
+-new-economv-saturdav?cmpid=BBD080622NEF>
+
+•  Michael A. Cohen: Arizona Primary Election Results Show Trumpa€™ s GOP Destruction: 
+a€~Republicans are clinging to Trumpa€™ s election lies in battleground states. Theya€™ re about to 
+regret ita€! 
+<https://www.msnbc.com/opinion/msnbc-opinion/arizona-primarv-election-results-show-trump-s-gop-destr
+uction-nl297676>
+
+AJs:
+
+This is, to put it bluntly, exactly right. You cana€™t steer between Scylla and Charybdis unless 
+you know how to read the currents, and core inflation is the best way to read the currents:
+
+Paul Krugman: Wonking Out: The Meaning of Falling Inflation: a€~The majority of gas stations in the 
+United States are already charging less than $4 a gallon, and declining wholesale prices suggest 
+that retail prices still have further to fall. Food prices are also coming downa€!. Policymakersa€! 
+should respond to the good inflation news by keeping calm and carrying ona€!. The concept of 
+a€cecorea€D inflationa€’’distinguishing
+between volatile prices, like food and energy, and slower-moving prices that have a lot of 
+inertiaa€”has been highly successful since the economist Robert Gordon introduced it in the 1970s. 
+Time and again, the Fed has steered through crises by ignoring critics who wanted it to panic over 
+blips in inflation caused by temporary jumps in commodity prices.a€!
+
+LINK: <https://messaging-custom-newsletters.nvtimes.com/template/oakv2?CCPAOptOut=true&emc=edit_pk 
+.20220805&instance_id=68584&nl=paul-krugman&productCode=PK&regi_id=64675225&segment_id=100604&te=l&u
+ri=nvt%3A%2F%2Fnewsletter%2F379a87e4-916b-5589-b90e-21cc87968c6c&user 
+id=8a3fce2ae25b5435f449ab64b4e3e880>
+
+The major reason to fear that Adam is wrong here is that back in the before times better 
+information, technologies, greatly raised the financial value of being close to the information 
+core so that you could have personal contact with those at the heart of the communications network. 
+That suggests that there are important ways in which "remoteness" is very much second class. Until 
+we understand what those ways are, I have to fear that Adam is wrong here:
+
+Adam Ozimek: On Jobs, Remote Work, & Housing: a€~Remote work is a general purpose technologya€! 
+spillovers throughout industriesa€! indirect impacts. And housing stock is one example, but there 
+are so many types of capital that need to adjust in the long run. There are so many organizational 
+forms that are going to changea€!. Ia€™ m not saying the aggregate economic impact is going to be 
+bigger than or as big as
+electrification, but ita€™ s that kind of fundamental changea€!
+
+LINK:
+
+Adam Ozimek On Jobs, Remote Work, and Housing
+
+Listen now (34 min) I Dear readers, Ita€™ s a pretty good week for my conversation with Adam 
+Ozimek, an economist whose recent work focuses on the intersection between labor markets and 
+housing. Adam is an evangelist for remote work a€” perhaps in part because he lives near Lancaster, 
+Pennsylvania, the sort of affordable mid-size city within a couple of hours of very major cities 
+ta€!
+Read more
+
+6 months ago A- 12 likes A- 1 comment A- Josh Barro
+
+
+Very nice thing to assign. Put this in the tickler file:
+
+Victor Stango & Jonathan Zinman: We Are All Behavioral, More or Less: A Taxonomy of Consumer 
+Decision Making'. a€~We examine how 17 behavioral biases relate to each other, to three standard 
+measures of risk and time preferences, to cognitive skills, personality, and demographics, and to 
+outcomes in household finance, well-being, and health. Most consumers in our nationally 
+representative panel data exhibit multiple biases,
+with substantial cross-person heterogeneity. Biases are positively correlated within person, 
+especially after adjusting for measurement error. From that correlation structure, we reduce our 20 
+bias and standard preference measures to four behavioral common factors. Each BCF reflects a group 
+of related biases re: beliefs, decision quality, discounting, or risk/uncertainty attitudes. The 
+first two BCFs also strongly correlate with each other
+(positively) and cognitive skills (negatively). The first three BCFs and cognitive skills strongly 
+correlate with various outcomes in the expected directions. Our results support processing-based 
+models where basic limitations in cognition and/or attention produce multiple biases, and have 
+several other implications for theory and practicea€!
+
+LINK: 
+<https://www.restud.com/paper/we-are-all-behavioral-more-or-less-a-taxonomy-of-consumer-decision-mak
+ing/>
+
+WAIT? WHAT? What makes an achievement a€oebipartisana€n when the least-crazy and most-vulnerable 
+20% of the Republican senators (and fewer house members) peel off? CHIPS, infrastructure, gun 
+safety, indeed BBBa€”they ought to have passed 80-20, all of them:
+
+Economist: Joe Biden Has Disappointed Everyone'. a€~Biden can point to a series of bipartisan 
+accomplishments, now including a bill to subsidise Americaa€™ s semiconductor industry on top of 
+the first gun-safety legislation in almost 30 years and a $1.2trn infrastructure lawa€!. Mr 
+Bidena€™ s patience for talks and tolerance for compromise, not qualities associated with the 
+previous president, have also yielded breakthroughs (for
+now, within his party) on fighting climate change and restraining drug costsa€!
+
+LINK: 
+<https://www.economist.com/united-states/2022/08/04/joe-biden-has-disappointed-everyone?etear=nl 
+today _2>
+
+In general, Democrats do well when they convince the working class in the middle class that they 
+have interests in common with minorities in equitable growth. Democrats do badly when the working 
+class in the middle class conclude that growth is not equitable and that they need to stop on 
+minorities .In general, Democrats do well when they convince the working class in the middle class 
+that they have interests in common with minorities in equitable growth.
+Democrats do badly when the working class in the middle class concluded that growth is not 
+equitable, and that they need to stomp on minorities who are getting more than their fair 
+sharea€”that social democracy seeks to treat people equally, and since peoplea€’’minorities and 
+such from the perspective of many, and working-class people from the perspective of many 
+othersa€”are unequal, that is a wrong and bad thing to do. Manchin appears to have largely
+avoided the consequences of that:
+
+Greg Sargent: The Huge, Hidden Bonanza in Getting Joe Manchin to Yes'. a€~After insisting that 
+extensive spending would be inflationary, he now takes credit for scrubbing out allegedly 
+inflationary effects, as the deal puts $300 billion into deficit reduction. To counter GOP screams 
+about raising taxes, Manchin says hikes will hit only the wealthy, noting that Wall Street has 
+a€oebeen on a hell of a ride.a€D Manchin, you see, is only
+for rebalancing an economy badly unbalanced by elite rigging. And on climate, Manchin says he backs 
+investment in the technologies of a greener future, but without an abrupt abandonment of fossil 
+fuelsa€l. This would be our biggest investment in our climate future evera€!. If Manchin can sell 
+this package on his own chosen terms in West Virginia, that hints at new possibilities for 
+Democratsa€!
+
+LINK: 
+<https://www.washingtonpost.com/opinions/2022/07/28/how-joe-manchin-got-yes-why-that-holds-hidden-pr
+omise/>
+
+I think the consensus is that the mythical founding father of a€oeClaremonta€n, Harry V. Jaffa, 
+would be very unhappy with what those who claim to be his intellectual grandchldren are doing. It 
+is not just a hint of the a€oedehumanizing rhetoric that fascist propagandists employa€D:
+
+Laura K. Field: What the Hell Happened to the Claremont Institute?'. a€~a€oeYou dona€™t see this on 
+Fox or any of the other stationsa€D but you can see it in a€oethe data.a€Ua€! [John] Eastman became 
+very animated, pumping his fists and yelling: a€oeWe no longer live in a self-governing republic if 
+we cana€™t get the answer to this question! This is bigger than President Trump! It is the very 
+essence of our republican form of
+government, and it has to be done! And anybody that is not willing to stand up to do it does not 
+deserve to be in the office! It is that simple!a€Ua€!
+
+In the aftermath of January 6, Michael Anton has continued to defend his work hyping the election 
+fraud narrative, albeit in an incredibly awkward and self-denying waya€! the extent to which his 
+claims about voter fraud rely on alleged a€oestatistical anomaliesa€D and a€oehistorical 
+anomaliesa€Da€; seems a bit at odds with the old one: According to Flight 93 standards, Trump 
+represented something unprecedented, world-historical,
+and super-risky; but apparently things didna€™t get strange enough by 2020 to account for anything 
+weirda€!.
+
+[Glenn] Ellmers offers advice to his readers: a€oelf you are a zombie or a human rodent who wants a 
+shadow-life of timid conformity, then put away this essay and go memorize the poetry of Amanda 
+Gorman.a€D Gorman is the young black poet who spoke movingly at President Joe Bidena€™ s 
+inauguration. Ellmersa€™ s line here is vicious on its face, and John Ganz rightly describes it as 
+a hint of a€oethe kind of dehumanizing
+rhetoric that fascist propagandists employ.a€D But it also ought to be read in the context of 
+Claremont and racisma€!
+
+LINK: <https://www.thebulwark.com/what-the-hell-happened-to-the-claremont-institute/>
+
+American fascism in 2022:
+
+David Weigel & Isaac Arnsdorf: Hungary Leader Viktor Orban Addresses CPAC Dallas Amid a€~Mixed 
+Racea€™ Blowback'. a€~a€oeThe West is at war with itself,a€D Orban said. a€oeThe globalist can all 
+go to hell. I have come to Texas,a€D he added, stumbling over a famous slogan attributed to Texas 
+legend Davy Crocketta€!. Orbana€™ s latest controversy: a speech in which he railed against Europe 
+becoming a€oemixed
+race,a€D saying that Europeans did not want to live with people from outside the continent. One of 
+his own close advisers resigned in protest, calling the speech a€oepure Nazi.a€D But Orban has 
+found defendersa€! Donald Trumpa€! Tucker Carlsona€! J.D. Vancea€!
+
+LINK: <https://www.washingtonpost.eom/nation/2022/08/04/viktor-orban-cpac-dallas-speech/>
+Leave a comment
+
+Give a gift subscription
+Get a group subscription
+Donate Subscriptions
+
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+I greatly enjoy and am, in fact, driven to write Grasping Realitya€”but its long-term viability and 
+quality do depend on voluntary subscriptions from paying supporters. I am incredibly grateful that 
+the great bulk of it goes out for free to what is now well over ten-thousand subscribers around the 
+world. If you are enjoying the newsletter enough to wish to join the group receiving it regularly, 
+please press the button below to sign up for a free subscription and get (the bulk of) it in your 
+email inbox. And if you are enjoying the newsletter enough to wish to join the group of supporters, 
+please press the button below and sign up for a paid subscription:
+
+Subscribe now
+

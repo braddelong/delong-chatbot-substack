@@ -1,0 +1,167 @@
+Subscribe now
+
+Roll the Dice, Kevin! (2023-01-05)
+
+If I were Kevin McCarthy, I would make a motion to elect the Speaker by a plurality, and see what 
+happens...
+
+
+A A A A                   a                                         MAM                           
+mi
+
+Right Now A34e House Is a Zombie (2023-01-04)
+
+Right now the House can only do three things:
+
+1. Collect nominations for Speaker
+
+2. Vote on a Speaker
+
+3. Adjourn until a date and time certain
+
+ita€™ s a strange form of Constitutional Groundhog Day.
+
+Furthermore, at the moment there are no Representatives. There are only Representatives-Elect, who 
+will not become Representatives until they are sworn in, after the election of a Speaker.
+
+Parliamentary Procedure (2023-01-04)
+
+Were I Kevin McCarthy this morning, I would wind up some of my guys and tell the Handmaiden Caucus 
+that, for each one of them who does not vote for me, one of my guys will vote a€oepresenta€oe. 
+Thus, if more than eight handmade caucus members do not vote for McCarthy, Hakeem Jeffries becomes 
+Speaker. ^^(The Republicans will then be able, when they do have their ducks in a row, to vote to 
+vacate the chair next week.
+
+Variable a€ceSpeakera€D = a€cenulla€D (2023-01-03)
+
+The variable a€ceSpeakera€D has value a€oenulla€na€!
+
+Variable Lags, Monetary Policy, & A34e Inflation Situation (2023-01-03)
+
+— Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an
+Investment Basis, Inflation-Indexed
+
+2.0
+
+
+-1.5
+
+-2.0
+
+2018                 2019                 2020                 2021                 2022
+
+Noah Smith writes: The "monetary policy hasn't had time to work yet, therefore inflation is falling 
+all on its own and the Fed is needlessly endangering the economy" line is not credible.
+
+I reply: That argument is for a tighter gearing from short-term rates to spending-relevant rates. 
+The five-year TIPS did not begin to move until mid-December 2021: 6 mos to affect demand and then 6 
+mos more to affect inflation anda€! we will start to see its effects this montha€! 
+pic.twitter.com/zu3zxLAFPF
+
+Distributional & Monetary Models of Inflation (2023-01-03)
+
+There is an interesting debate between David 
+Glasnerhttps://uneasvmonev.com/2023/01/01/vou-sav-potato-i-sav-potahto-vou-sav-tomato-i-sav-tomahto-
+vou-sav-distribution-i-sav-expectation/ and Olivier Blanchard
+
+Olivier Blanchard @ojblanchardl
+
+1/8. A point which is often lost in discussions of inflation and central bank policy. Inflation is 
+fundamentally the outcome of the distributional conflict, between firms, workers, and taxpayers. It 
+stops only when the various players are forced to accept the outcome.
+11:24 PM r™ Dec 30,2022
+
+3,888Likes 1,009Re tweets
+going on.
+
+I think the easiest way to conceptualize what I think of as the major point is to set up a model in 
+which:
+
+• The central bank has a target rate of inflation.
+
+• The rate of inflation is a constant markdown applied to the rate of nominal wage increase.
+
+•  The rate of increase of nominal wages that workers are able to demand, and enforce, is a 
+declining function of the unemployment rate and of the real wage.
+
+In this model, there is a warranted rate of nominal wage increase: the central banka€™ s inflation 
+target, plus the wedge between price inflation and nominal wage increase. In this model, the 
+natural rate of unemployment is the rate at which the actual rate of nominal wage increase is equal 
+to the warranted rate, and thus depends on the level of the real wagea€”with a lower real wage 
+sustainable only with a higher natural rate of unemployment.
+You can understand this as a distributional conflict: total demands for production greater than 
+100% of supply, and so attaining a feasible equilibrium requires one of:
+
+1. diminishing other groupsa€™ claims on income and so pushing real wages up enough that nominal 
+wage increases demanded are at the nominal warranted rate of wage increase.
+
+2. raising the unemployment rate enough that nominal wage increases demanded are at the nominal 
+warranted rate of wage increase.
+
+3. accepting an inflation rate higher than the central banka€™ s target, and thus achieving 
+feasibility via the exploitation of workersa€™ short-run money illusion.
+If                                                                            you take this 
+approach, I think it becomes clear that Blanchard and Glasner are talking past each other, and are 
+not really disagreeinga€!
+
+My Rapidly Mounting Intellectual-Attention Debt (2023-01-02)
+
+It is only 12 hours into 2023, and already I have read (well, in the case of the first noteda€”I 
+read it last fall) four things that I really want to re-read again, carefully, and think for a long 
+time about:
+
+• Olivier Blanchard: Fiscal Policy under Low Interest Ratesi^A 
+<https://mitpress.mit.edu/9780262544870/fiscal-policy-under-low-interest-rates/>
+
+•  Nick Confessore: The Invention of Elise Stefanik: I^UTo rise through the Trump-era G.O.P., a 
+young congresswoman gave up her friends, her mentors and her ideals. Will it be enough?... <https 
+://ww w.nytimes .com/2022/12/31/us/politics/elise-stefanik .html>
+
+• Steve M: Today I Learned What Right-Wingers Mean When They Say a€ceBig Mike "a€oe 
+<https://nomoremister.blogspot.com/2022/12/today-i-learned-what-right-wingers-mean.html>
+
+• Noah Smith: The Third Magic: A Meditation on History, Science, & AI'i^A 
+<https://noahpinion.substack.eom/p/the-third-magic>
+RAUdi Dornbusch used to say to us graduate students: They pay me to write the literature, not read 
+the literature.
+
+I still do not know whether or not I should be saddened by this, because if I just read the 
+literature, and do nothing else, I am of no use...
+
+Happy New Year! (2023-01-01)
+
+May your 2023 go as well as humanly possiblea€!
+
+And, now that my book Slouching Towards Utopia <bit.ly/3pP3Krk> is well launched, what do you think 
+I should do with this SubStack Newsletter?
+Yours,
+
+Rrnd TVAT finer
+
+
+L/UlllUUdVll      LU OCty LV Ud glCLUUCLLV OLUUVHLO. A11VJ P^J 111V LU WlllV L11V 11LV1 Cl LUI V, 
+11VL 1VQU LI IV AIL VI CL LUI V.
+
+I still do not know whether or not I should be saddened by this, because if I just read the 
+literature, and do nothing else, I am of no use...
+
+Happy New Year! (2023-01-01)
+
+May your 2023 go as well as humanly possiblea€!
+
+And, now that my book Slouching Towards Utopia <bit.ly/3pP3Krk> is well launched, what do you think 
+I should do with this SubStack Newsletter?
+Yours,
+
+Brad DeLong
+
+Merry Christmas, Everyone! (2022-12-25)
+
+Stable Diffusion is trying its best:
+
+Brad DeLong Merry Christmas, everyone!
+Share
+
+Leave a comment
+Subscribe now
+

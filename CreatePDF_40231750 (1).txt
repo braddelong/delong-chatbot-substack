@@ -1,0 +1,168 @@
+Subscribe now
+
+A week before first lecture is a good time to undertake an overview of the current state of the 
+Delta variant plague wave, the fourth wave that is now beginning to hit the United States. The best 
+source I have found so far is Max Roser & al.: Our World in Data: COVID-19 Data Explorer 
+<https://ourworldindata.org/explorers/coronavirus-data-explorer>
+At the moment, the United States is reporting that every day brings 400 new confirmedcases per 
+million peoplea€”that means that a month will see about 1/1000 people confirmed to have caught the 
+SARS-Cov-2 plague:
+
+Daily new confirmed COVID-19 cases per million
+people
+
+Shown is the rolling 7-day average. The number of confirmed cases is lower than the number of
+actual cases; the main reason for that is limited testing.
+
+(LINEAR    LOG
+
+Our World
+in Data
+
+
+United Kingdom
+United States
+
+Source: Johns Hop  Mar 1,2020   5E COVID-19 Data                          Aug 18,2021     CC BY
+
+
+Share
+
+But that is just confirmed cases. There are many others, some of them asymptomatic, who catch the 
+virus. The United States right now is only testing 1/400 of the population each day:
+
+Daily new COVID-19 tests per 1,000 people
+
+Shown is the rolling 7-day average.
+
+Our World
+in Data
+
+LINEAR   LOG
+
+
+Israel
+
+tests performed
+
+United Kingdom
+
+tests performed
+
+10
+
+5
+
+United States
+
+te^ts nerformed
+
+
+Source: Officia   Mar 1,2020    ur World in Data                              Aug 16,2021      CC 
+BY
+
+Share Brad DeLong's Grasping Reality
+
+If you are not tested, you cannot become a confirmed case. How many unconfirmed cases are there? 
+And how serious are they? The Center for Disease Control has been disappointingly and 
+irritatinglya€’’and, I would say, incompetentlya€’’evasive at providing us with reasonable 
+scenarios on how our testing frequency and the number of confirmed cases our testing infrastructure 
+reports scales up to a sense of how the plague is moving through the population.
+What we do know is that, right now, 1/7 of all COVID-19 tests are positive:
+
+
+The share of daily COVID-19 tests that are positive
+
+Shown  is  the  rolling  7-day  average.  The  number  of  confirmed  cases  divided  by  the
+number  of  tests,  expressed  as  a  percentage.  Tests  may  refer  to  the  number  of  tests
+performed  or  the  number  of  people  tested,  depending  on  which  is  reported  by  the
+particular country.
+
+(LINEAR    LOG
+
+30%
+
+Our World
+in Data
+
+
+Suppose we were testing at the rate Israel was testinga€’’testing seven times as large a fraction 
+of the populationa€’’would we be reporting 7 times as many confirmed cases? No: we are testing 
+people because we have reason to think that they might have the disease, or because there is some 
+requirement that they get tested. But we would be reporting perhaps three times as many confirmed 
+cases. We really do not know. And the CDC, again disappointingly and
+irritatinglya€’’and again, I would say, incompetentlya€’’never set up the random sample of people 
+in the country to be repeatedly tested to allow us to use standard statistical tools to find out.
+
+
+Daily new confirmed COVID-19 deaths per million
+
+people
+
+Shown is the rolling 7-day average. Limited testing and challenges in the attribution of the cause
+of death means that the number of confirmed deaths may not be an accurate count of the true
+number of deaths from COVID-19.
+
+(LINEAR   LOG)
+
+Our World
+
+in Data
+
+
+United States
+Israel
+
+United Kingdom
+
+Marl, 2020 Aug 8. 2020                      Feb 24,2021 Aug 18,2021
+
+Source: Johns Hop  Mar 1,2020   BE COVID-19 Data                          Aug 18,2021     CC BY
+
+We do know that right now 2/1,000,000 Americans are dying each day of this plague. If you are going 
+to die, it takes about a month from your confirmed diagnosis to death. A month ago the United 
+States had 1/8 as many confirmed cases as it does now. That means we can look forward to a likely 
+daily death toll in a month of 16/1,000,000 Americans.
+How high will the Delta wave of this plague go? We do not know.
+
+The university places great trust in vaccination. Guy Nicolette and Anna Harte write 
+<https://calmessages.berkeley.edu/archives/message/89204>
+
+The extremely good news is that while the current vaccines are not 100% protective against 
+infection, especially with the delta variant, they clearly remain very effective against severe 
+disease. CPC data show that to date, the prevalence of a fully vaccinated person experiencing a 
+breakthrough infection resulting in hospitalization or death is 0.0048%. We cannot completely 
+contain this virus.  There will be infections on campus and we must accept that. Our
+
+main focus is to avoid significant spread and to avoid severe disease that puts... [people] in the 
+hospital, or worse. Given our vaccine mandate and extremely high vaccination rate, we feel 
+confident stating that your risk of contracting and transmitting is going to be higher when you are 
+out and about in the community than when you are on campus.... With nearly 90% of the campus 
+community reporting vaccination. wea€™ ve been incredibly successful in this
+
+effort. We expect these numbers to go even higher as the mandate is enforced. Our rates 
+significantly outpace the fully vaccinated populations in our surrounding communities...
+
+For context, the 1/20,000 vaccinated people dying of the plague covers a period in which confirmed 
+cases amounted to a total of 2% of the population. If the Delta wave leads to confirmed cases of 
+10% of the populationa€’’which it might, but which I think is likely to be an upper bounda€”then 
+only 1/4000 vaccinated people will die. And for vaccinated students in their 20s, the fraction will 
+be more like 1/40000. In other words, it is not unlikely that we will see
+1 healthy student without comorbidities die of SARS-CoV-2 this fall as the Delta wave sweeps over 
+the country. But it does now, right now, seem unlikely that we will see more.
+
+Thus healthy students' concerns should be overwhelmingly focused on how to keep themselves from 
+getting the plague and then infecting those more vulnerable, and more at risk, rather than on 
+risk-to-self.
+Yours,
+
+Brad DeLong
+Leave a comment
+
+(Remember: You can subscribe to thisa€ I weblog-like newslettera€l here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

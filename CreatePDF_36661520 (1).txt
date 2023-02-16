@@ -1,0 +1,538 @@
+Subscribe now
+
+First:
+
+This is NUTS. & GENIUS. GENIUS-NUTS:
+
+On startup, the Apple Silicon Ml notices that it has lots of background and housekeeping work to 
+doa€”mds_stores, bird, cloudd, kernel_task, & c.a€”and so it starts doing it. It immediately 
+full-throttles all four of its IceStorm efficiency cores.
+
+Then I start working. And it responds, giving me FireStorm core #5, with occasional spillover to 
+FireStorm core #6, holding FireStorm cores #7 & #8 in reserve, just so if I ask it to do anything 
+heavy, it can respond instantaneously, rather than get caught up on its background and housekeeping 
+by letting those processes onto the
+performance cores.
+
+Leta€™ s see if I can get it in geara€! Here I have an unconverted terabyte zoom session lying 
+arounda€!
+PEDAL to the METAL, Commander!
+
+Core 1 — Efficiency
+
+COTA 9 — Efficiency
+
+
+Core 3 — Efficiency
+Core 4 — Efficiency
+Core  5 — Performance
+Core 6 — Performance
+Core 7 — Performance
+Core 8 — Performance
+
+Zoom & MacOS are not able to feed the FireStorm cores fast enough to fully-occupy all four of them, 
+but it definitely gets us to a heavy workloada€!
+And yet the fan never goes on. The thermal envelope of the machine is so far from being a 
+constraint that it needs no boosting at all.
+
+I havena€™t felt like this with the performance delta of a new machine since the high tick-tock 
+days of Moorea€™ s Law, back before the beginning of the Great Recession:
+
+Moore's Law: The number of transistors on microchips doubles every two years   Our World
+
+in Da^
+
+Transistor count
+
+50.000.000.000
+
+I )(
+
+0(
+
+
+500,000,000
+
+100,000,000
+
+50,000,000
+
+10,000,000
+
+5,000,000
+
+1,000,000
+
+500.000
+
+100,000
+
+50,000
+
+10,000
+
+1,000
+
+
+Jata source: Wikipedia (wikipedia.org/wiki/iransistor_count)
+
+Year in which the microchip was first introduced
+
+3urWoridinData.org - Research and data to make progress against the world's largest problems. 
+Licensed under CC-BY by                    H.
+
+But I do wish this from <http://anandtech.com> said a€ceTSMC-Applea€D or a€oeApple-TSMCa€n rather 
+than just a€ceApplea€D. TSMC is doing a lot of the heavier lifting here:
+
+Intel vs Apple Top Performance
+
+Apple    63.3
+
+10900K, 58.6
+
+9900K, 54.3
+
+
+o
+in
+
+6700K, 45.6
+
+7700K, 49.2                    1185G7, 55.3
+
+Apple A13, 54.9
+
+
+
+Share Brad DeLong's Grasping Reality
+
+Very Briefly Noted:
+
+• Patrick Wyman: Indo-Europeans and the Yamnaya Culture 
+<https://patrickwvman.substack.eom/p/indo-europeans-and-the-vamnava-culture>
+
+• Wikipedia: Bigos <https://en.wikipedia.org/wiki/Bigos>
+
+• Frances Coppola: TetheraC™ s Smoke & Mirrors 
+<https://www.coppolacomment.com/2021/05/tethers-smoke-and-mirrors.html>
+
+• Allrecipes: Polish Golobki (Gawumpki) Recipe 
+<https://www.allrecipes.com/recipe/223270/polish-golobki-gawumpki/>
+
+•  Tracy Alloway & Joe Weisenthal: How the Worlda€™s Companies Wound Up in a Deepening Supply Chain 
+Nightmare'. a€~Not a day goes by where there isna€™t news of some new shortage or bottleneck. 
+Chips, shipping containers, lumber, you name it. So how did it happen and how does it get 
+unwound?a€!
+
+•  Jon Gruber: The 2021 Ml iPad Pros'. a€~When the first iPad was introduced in 2010. But Steve 
+Jobs took particular pride in talking about its system-on-a-chip, which, for the first time, Apple 
+gave a name to: the A4. Two years after their acquisition of chip maker PA Semia€”which in 
+hindsight was clearly one of
+the best acquisitions in the history of businessla€’’the A4 was the first chip Apple was willing to 
+take credit for and brag abouta€! <https://daringfireball.net/2021/05/the_2021. ml. _ipad_pros>
+
+Paragraphs:
+
+Sufficient unto the day is the evil thereof. Our problem now is to get the country vaccinated, the 
+boosters in preparation, the economy reopen, and full employment reattained. Inflation over the 
+next year and a half is an aid to that. The problem of controlling inflation is a problem for 2023 
+and beyond, which means that the
+Federal Reserve should start thinking about it and acting to prepare for it in mid-2022, not now. 
+So I wish Noah Smith were writing now about how to make reattaining full employment go smoothly, 
+not painting bad-case inflation scenarios:
+
+Noah Smith: When to Worry About Inflation'. a€~Joe Weisenthal notes that if you take out used cars 
+and trucks, core inflation (which already takes out food and energy) only ran at a little over 2% 
+in April. The used car shortage, he argues, was due to highly specific factorsa€!. The inflation of 
+the last two
+months is probably a blipa€!. But there actually is a scary inflation scenarioa€!. 1) cost-push 
+inflation from supply bottlenecks a€”> 2) Fed is afraid to raise rates because it would tank the 
+economy and/or increase government borrowing costs a€”> 3) businesses decide that the Fed is no 
+longer willing to
+contain inflation a€”> 4) businesses start raising prices rapidly leading to high and sustained 
+inflationa€!. Inflation is a weird thing., a coordination gamea€! happens when people think 
+inflation is going to happena€!. By pulling out the bazooka, Paul Volcker convinced America that 
+the Fed would do
+whatever it took to beat down inflation. He carried out a reA©ime shift in policy, which in turn 
+generated a rA©gime shift in expectationsa€!. High and persistent inflation will return if the 
+opposite rA©gime shift happensa€!. [If] inflation stays significantly above 2% for quite some 
+timea€! and the Fed
+doesna€™ t hike ratesa€!. If policymakers start seriously talking about price controls as a way to 
+manage inflation, ita€™ s a very bad sign. If you look at episodes of inflation, theya€™re usually 
+preceded by a failed regime of price controlsa€!
+
+LINK: <https://noahpinion.substack.eom/p/when-to-worrv-about-inflation>
+
+Very true from Paul Krugman: a€oeAnyone can offer praise for qualities a man actually has; only the 
+truly subservient will humiliate themselves by offering flattery totally untethered from 
+realitya€la€D That is, I think, the explanation for the obsequious dAOrogeance of Republicans like 
+Tomas Philipson and Kevin McCarthy:
+only by abandoning any reputation they had for not routinely lying can they demonstrate that they 
+are properly loyal to Donald Trump. In what coin they expect a man who is not very healthy and 
+already 74 to reward them for their dAOrogeance is not clear:
+
+Paul Krugman: The Strange Death of American mMdesty: a€~Once upon a time Republican leaders posed 
+as regular guys even when they were anything buta€!. Today, of course, the Republican Party has 
+turned into a Trump personality cult, even though Donald Trumpa€™ s actual accomplishments
+are hard to find. A failed nuclear deal with North Korea, a failed trade deal with China, a tax cut 
+that never delivered the promised investment boom, a mishandled pandemic? Never mind. Obsequious 
+professions of loyalty arena€™ t just expected, theya€™ ve become a requirement for those who want 
+to
+stay in the partya€!. Kevin McCarthy, the House minority leader, enthused about Trumpa€™ s physical 
+vigor. (Hey, he drives a mean golf cart.)a€! Tomas Philipson, a Chicago economist who worked for a 
+time in the White House, returned to academia, his parting letter praised the famously non-reading
+Trump as someone whose a€oeeconomic instincts were on a par with many Nobel economists.a€D These 
+absurditiesa€! are proof of loyalty. Anyone can offer praise for qualities a man actually has; only 
+the truly subservient will humiliate themselves by offering flattery totally untethered from 
+realitya€!
+
+LINK: <https ://messaging-custom-newsletters .nytimes .com/template/oakv2>
+
+Dan Pfeiffer watches Republicans trying to replay their 2009-10 playbook: betting on a weak 
+recovery and then on blaming the bad policies of the Democratic President for it. Any unemployment 
+remaining in October 2022 will be the fault of enhanced U.I. This time, however, they do not have a 
+cautious President Obama who
+wants to undershoot the return to full employmenta€”to close only half the output gapa€”and who 
+will further water down his policies away from what is best for the country in a fruitless search 
+for bipartisan comity. If the Republicans win this one, it will not be because of any triangulation 
+by Biden, but rather because of
+Manchin and Sinemaa€™ s triangulation:
+
+Dan Pfeiffer: The Republicans Return to a€~47 Pere enta€™ Politics'. a€~The hottest trend in 
+Republican politics is taking money away from their constituents, presumably for the purpose of 
+owning the libs. Over the last couple of weeks, more than eleven states run by Republican governors 
+have
+ended their statesa€™ participation in the enhanced unemployment benefits programa€!. The most 
+important point to remember about the enhanced U.I. issue is that the Republican argument is almost 
+entirely bullshita€!. Republicans are dealing with a political paradox. The narrow Democratic
+majorities, the map. and history suggests that the 2022 elections should be a great opportunity for 
+Republicans. But President Biden is very popular, and his agenda is even more populara€!. Given an 
+array of bad options, the party has decided to once again run against a€oebig government,a€D If
+government   is seen by the voters as relief checks, vaccines, small business loans, and rebuilt 
+roads and bridges, the Democrats will succeed. The Republican obsession over the supposed 
+generosity of the unemployment benefits is part of a desperate effort to change the focus. This an 
+uphill battle for the
+ReDublicansa€!
+
+
+LINK: <https://messagebox.substack.eom/p/republicans-re-embrace-romnev-nomics>
+
+GAME & SET TO: Chris Best, Hamish McKenzie, and SubStack on their quest to <strike>relieve venture 
+capitalists of some of their excess money & burn it</strike> build the New Discursive Habermasian 
+Jerusalem & sleeve it in the flesh of the Second Coming of the Blogosphere!!
+
+Anne Trubek: Paying Writers & Pitying Men\ a€~People are continuing to talk about Substack, but few 
+are discussing what I find the most interesting part: people are paying! Individuals are choosing 
+to subscribe. Ita€™ s extraordinary a€ I. What startles me are not the advances the company pays, 
+but
+the sheer number of individuals who volunteer to become paid subscribers. More takes on this, 
+please! (About 10% of you reading this have elected to become paid subscribers, and I am very 
+grateful.1 If you want to join this lovely gang, herea€™ s the linka€”or waita€”leta€™ s do thisa€!
+
+LINK: <https://notesfromasmallpress.substack.eom/p/paying-writers-and-pitying-men>
+
+I thinka€”I hopea€”that in the end historians will conclude that America was so lucky that the 
+first fascist it had who tried to seize power was off-scale both in his grittiness, his 
+incompetence, and his clownishness. It could, already, have gone much, much worse:
+
+Jeet Heer: Two Paths to a Military Coup'. a€~On the one hand, Trump tried to use the military as 
+his personal toya€! surrounded himself with generalsa€l had big paradesa€l pardoned war 
+criminalsa€l wanted to use the military to crack down on protesters. Trumpa€™ s baneful effect 
+continues with a
+raft of retired generals (echoing their French counterparts) proclaiming conspiracy theories about 
+the electiona€l. The good news is that the military resisteda€!. But this resistance came at a 
+price. Because from the start the military leadership didna€™ t respect Trump and because he was 
+too ill-informed
+to shape policy, civilian-military relations broke down. The Pentagon carried out policy for four 
+years often in open defiance of the duly elected presidenta€l. Trump was foiled at every turn by 
+both the staff he himself assembled and also the national security establishments. The sabotaging of
+Trumpa€™ s agenda involved lying to hima€!. The Axios article should disturb anyone who believes in 
+democracya€!. Trumpa€™ s weak and buffoonish authoritarianism incited two competing types of 
+military coups: a coup by the military brass against Trump and a coup by Trumpists against the
+constitutional ordera€!
+
+LINK: <https://jeetheer.substack .com/p/two-paths-to-a-military-coup>
+
+Is the official CCP take on Mao still a€oetwo parts good, one part bada€U? Mitt Romney needs to 
+work harder to raise his a€oeparts gooda€D score. Just saying:
+
+Daniel Larison: No, China Is Not an a€~Existential Threata€™: a€~Romney likes to present himself as 
+something of a responsible elder statesman of the Republican Party, but with his alarmism about 
+China he is falling back into the same pattern of hawkish hyperbole that made him such a ridiculous
+presidential candidatea€l
+
+LINK: <https://daniellarison.substack.eom/p/no-china-is-not-an-existential-threat>
+
+Longer:
+
+I confess old Alexa€™ s confidence that a€oethe science of politics, however, like most other 
+sciences, has received great improvementa€D since the days when the Athenians could vote to execute 
+all the men and old women in Mytilene, and enslave the rest, and then on Tuesday overturn their 
+decision and send out another
+message ship, hoping that it would catch up before the massacre had been accomplished:
+
+Alexander Hamilton: The Federalist Papers No. 9: a€~It is impossible to read the history of the 
+petty republics of Greece and Italy without feeling sensations of horror and disgust at the 
+distractions with which they were continually agitated, and at the rapid succession of revolutions 
+by which they were
+kept in a state of perpetual vibration between the extremes of tyranny and anarchy. If they exhibit 
+occasional calms, these only serve as short-lived contrast to the furious storms that are to 
+succeed. If now and then intervals of felicity open to view, we behold them with a mixture of 
+regret, arising from the
+reflection that the pleasing scenes before us are soon to be overwhelmed by the tempestuous waves 
+of sedition and party rage. If momentary rays of glory break forth from the gloom, while they 
+dazzle us with a transient and fleeting brilliancy, they at the same time admonish us to lament 
+that the vices of
+government should pervert the direction and tarnish the lustre of those bright talents and exalted 
+endowments for which the favored soils that produced them have been so justly celebrated.
+
+From the disorders that disfigure the annals of those republics the advocates of despotism have 
+drawn arguments, not only against the forms of republican government, but against the very 
+principles of civil liberty a€ I. It is not to be denied that the portraits they have sketched of 
+republican government
+were too just copies of the originals from which they were taken. If it had been found 
+impracticable to have devised models of a more perfect structure, the enlightened friends to 
+liberty would have been obliged to abandon the cause of that species of government as indefensible.
+
+The science of politics, however, like most other sciences, has received great improvement. The 
+efficacy of various principles is now well understood, which were either not known at all, or 
+imperfectly known to the ancients. The regular distribution of power into distinct departments; the 
+introduction of
+legislative balances and checks; the institution of courts composed of judges holding their offices 
+during good behavior; the representation of the people in the legislature by deputies of their own 
+election: these are wholly new discoveries, or have made their principal progress towards 
+perfection in
+modern times. They are means, and powerful means, by which the excellences of republican government 
+may be retained and its imperfections lessened or avoideda€l
+
+LINK: <https://avalon.law.yale.edu/18th century/fed09 .asp>
+
+A very smart catch by Buce here:
+
+Buce: Kissinger Gazes into the Chinese Mirror. a€~I feel a warm personal relationship with Henry 
+Kissinger and China because he once got me kicked out of a hotel in Kashgar. Nothing personal, 
+really: apparently the rule is that when the Chinese elite want to move in a distinguished visitor, 
+everybody
+gets bumped, including the paying customersa€!. If you take time to read Kissinger on China, the 
+chances are that you already know something about China, and are hoping to learn something more 
+about Kissingera€™ s viewsS.
+
+What I suspect you get here is a lot of Kissinger on Kissingera€!. The point struck me early on 
+when I read Kissingera€™ s sketch of Li Hongzhang, who dominated what passed for foreign policy 
+under the decrepit Qing Dynasty late in the 19th Century. Herea€™ s Henry on Li:
+
+Ambitious, impassive in the face of humiliation, supremely well versed in Chinaa€™ s classical 
+tradition but uncommonly attuned to its peril, Li served for nearly four decades as Chinaa€™ s face 
+to the outside world. He cast himself as the intermediary between the foreign
+powersa€™ insistent demands for territorial and economic concessions and the Chinese courta€™ s 
+expansive claims of political superiority. By definition his policies could never meet with either 
+sidea€™ s complete approbation. Within China in particular Li left a controversial
+legacy, especially among those urging a more confrontational course. Yet his effortsa€’’rendered 
+infinitely more complex by the belligerence of the traditionalist faction of the Chinese courta€l
+
+When Henry says a€oe[a]mbitious, impassive in the face of humiliation, supremely well versed,a€D 
+surely he is thinking of himself? So also a€oehis policies could never meet with either sidea€™ s 
+complete approbationa€Da€”? And perhaps most: a€oecontroversiala€l especially among those urging
+a more confrontational course.a€Da€I
+
+Ita€™ s perhaps difficult to recall the shock and impotent rage Kissnger and his boss the Emperor 
+President withstood from their old allies on the right when they so shattered Cold War orthodoxies 
+by establishing as relationship with our great enemy. The only other betrayal of equal magnitude 
+would be
+when Ronald Reagan yanked the pins out from under the Neocons by sitting down to chat with Mikhail 
+Gorbacheva€l
+
+LINK: <https://underbellv-buce.blogspot.com/2011/09/kissinger-gazes-into-chinese-mirror.html>
+
+Why cana€™t I find MO AR articles like this one to read?:
+
+Howard Oakley: How Ml Macs Feel Faster than Intel Models: Ita€™s About QoS'. a€~Whether Intel or 
+ARM cores, macOS has to manage how tasks are run side-by-side on the same processora€!. The 
+developer puts the code and data into an Operation, like a task, which can then be run on one or
+more cores at a time. Two common features which they can specify are the maximum number of 
+concurrent operations, and their importance, or Quality of Service (QoS)a€!. Apple provides four 
+QoS levels, and a fifth which leaves it up to macOS to decidea€l.
+
+On an Intel Xeon W 8-core processor, when therea€™ s no competing processes, all QoS settings 
+result in the operation being performed as quickly as possible. My test 10 GB filea€l 5.6 to 6.6 
+secondsa€l. When there were competing operationsa€l running one compression at a QoS of 9 
+(background)
+and another at 33 (userlnteractive), the process with the higher QoSa€l completed in normal time, 
+and that with the lower QoSa€l taking as much as 24 secondsa€l. Hyperthreading was seen in Activity 
+Monitor, with virtual second cores taking some of the additional loada€!.
+
+Similar tests on an Mla€!. All operations with a QoS of 9 (background) were run exclusively on the 
+four Efficiency (Icestorm) cores, even when that resulted in their being fully loaded and the 
+Performance cores remaining idlea€l. With a QoS of 9 (background), the standard compression task 
+took
+38a€“43 seconds, changing little with loading of higher QoS operations. When two intensive 
+background tasks were run at the same time, one completed in that same time (40 seconds), while the 
+other took almost twice the time (77 seconds), both remaining constrained to using the Efficiency 
+coresa€!.
+With higher QoSa€l completed in much the same time as when run alone, and that with the lower QoS 
+extended to around 15.5 secondsa€!.
+
+The pattern of use of cores is that almost all the activities of macOS are run on the Efficiency 
+cores, with only the occasional blip on the Performance cores. Running apps and performing other 
+user tasks is the other way around, with the brunt borne on the Performance^I. User tasks are more 
+likely to
+run with QoS of at least 17, and in many cases 25 and 33. As far as the processor goes, an Ml Mac 
+is divided into two: the four Efficiency cores are there largely to run macOS and its many 
+background tasks, freeing the four Performance cores for the apps which you run. It feels so much 
+fastera€!.
+
+Few events give a worse impression to the user than the interface slowing down in the face of a 
+problem in the operating systema€!. Because those processes are handed over to the Efficiency 
+cores, all they do now is slow other macOS background tasks, to which wea€™re much less 
+sensitivea€!..
+Because Macs with Intel processors cana€™ t segregate their tasks onto different cores in the same 
+way, when macOS starts to choke on something it affects user processes tooa€!
+
+LINK: 
+<https://eclecticlight.co/2021/05/17/how-ml-macs-feel-faster-than-intel-models-its-about-qos/>
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€ I weblog-like newslettera€l here:
+
+
+presidential candidatea€!
+
+LINK: <https://daniellarison.substack.eom/p/no-china-is-not-an-existential-threat>
+
+Longer:
+
+I confess old Alexa€™ s confidence that a€oethe science of politics, however, like most other 
+sciences, has received great improvementa€D since the days when the Athenians could vote to execute 
+all the men and old women in Mytilene, and enslave the rest, and then on Tuesday overturn their 
+decision and send out another
+message ship, hoping that it would catch up before the massacre had been accomplished:
+
+Alexander Hamilton: The Federalist Papers No. 9: a€~It is impossible to read the history of the 
+petty republics of Greece and Italy without feeling sensations of horror and disgust at the 
+distractions with which they were continually agitated, and at the rapid succession of revolutions 
+by which they were
+kept in a state of perpetual vibration between the extremes of tyranny and anarchy. If they exhibit 
+occasional calms, these only serve as short-lived contrast to the furious storms that are to 
+succeed. If now and then intervals of felicity open to view, we behold them with a mixture of 
+regret, arising from the
+reflection that the pleasing scenes before us are soon to be overwhelmed by the tempestuous waves 
+of sedition and party rage. If momentary rays of glory break forth from the gloom, while they 
+dazzle us with a transient and fleeting brilliancy, they at the same time admonish us to lament 
+that the vices of
+government should pervert the direction and tarnish the lustre of those bright talents and exalted 
+endowments for which the favored soils that produced them have been so justly celebrated.
+
+From the disorders that disfigure the annals of those republics the advocates of despotism have 
+drawn arguments, not only against the forms of republican government, but against the very 
+principles of civil libertya€!. It is not to be denied that the portraits they have sketched of 
+republican government
+were too just copies of the originals from which they were taken. If it had been found 
+impracticable to have devised models of a more perfect structure, the enlightened friends to 
+liberty would have been obliged to abandon the cause of that species of government as indefensible.
+
+The science of politics, however, like most other sciences, has received great improvement. The 
+efficacy of various principles is now well understood, which were either not known at all, or 
+imperfectly known to the ancients. The regular distribution of power into distinct departments; the 
+introduction of
+legislative balances and checks; the institution of courts composed of judges holding their offices 
+during good behavior; the representation of the people in the legislature by deputies of their own 
+election: these are wholly new discoveries, or have made their principal progress towards 
+perfection in
+modern times. They are means, and powerful means, by which the excellences of republican government 
+may be retained and its imperfections lessened or avoideda€!
+
+LINK: <https ://avalon .law.yale .edu/18th century/fed09 ,asp>
+
+A very smart catch by Buce here:
+
+Buce: Kissinger Gazes into the Chinese Mirror. a€~I feel a warm personal relationship with Henry 
+Kissinger and China because he once got me kicked out of a hotel in Kashgar. Nothing personal, 
+really: apparently the rule is that when the Chinese elite want to move in a distinguished visitor, 
+everybody
+gets bumped, including the paying customersa€!. If you take time to read Kissinger on China, the 
+chances are that you already know something about China, and are hoping to learn something more 
+about Kissingera€™ s viewsa€!.
+
+What I suspect you get here is a lot of Kissinger on Kissingera€!. The point struck me early on 
+when I read Kissingera€™ s sketch of Li Hongzhang, who dominated what passed for foreign policy 
+under the decrepit Qing Dynasty late in the 19th Century. Herea€™ s Henry on Li:
+
+Ambitious, impassive in the face of humiliation, supremely well versed in Chinaa€™ s classical 
+tradition but uncommonly attuned to its peril, Li served for nearly four decades as Chinaa€™ s face 
+to the outside world. He cast himself as the intermediary between the foreign
+powersa€™ insistent demands for territorial and economic concessions and the Chinese courta€™ s 
+expansive claims of political superiority. By definition his policies could never meet with either 
+sidea€™ s complete approbation. Within China in particular Li left a controversial
+legacy, especially among those urging a more confrontational course. Yet his effortsa€’’rendered 
+infinitely more complex by the belligerence of the traditionalist faction of the Chinese courta€!
+
+When Henry says a€oe[a]mbitious, impassive in the face of humiliation, supremely well versed,a€D 
+surely he is thinking of himself? So also a€oehis policies could never meet with either sidea€™ s 
+complete approbation^ Da€”? And perhaps most: a€oecontroversiala€! especially among those urging
+a more confrontational course.a€Da€!
+
+Ita€™ s perhaps difficult to recall the shock and impotent rage Kissnger and his boss the Emperor 
+President withstood from their old allies on the right when they so shattered Cold War orthodoxies 
+by establishing as relationship with our great enemy. The only other betrayal of equal magnitude 
+would be
+when Ronald Reagan yanked the pins out from under the Neocons by sitting down to chat with Mikhail 
+Gorbacheva€!
+
+LINK: <https://underbelly-buce.blogspot.com/2011/09/kissinger-gazes-into-chinese-mirror.html>
+
+Why cana€™t I find MO AR articles like this one to read?:
+
+Howard Oakley: How Ml Macs Feel Faster than Intel Models: Ita€™ s About QoS'. a€~Whether Intel or 
+ARM cores, macOS has to manage how tasks are run side-by-side on the same processora€!. The 
+developer puts the code and data into an Operation, like a task, which can then be run on one or
+more cores at a time. Two common features which they can specify are the maximum number of 
+concurrent operations, and their importance, or Quality of Service (QoS)a€!. Apple provides four 
+QoS levels, and a fifth which leaves it up to macOS to decidea€!.
+
+On an Intel Xeon W 8-core processor, when therea€™ s no competing processes, all QoS settings 
+result in the operation being performed as quickly as possible. My test 10 GB filea€! 5.6 to 6.6 
+secondsa€L When there were competing operationsa€! running one compression at a QoS of 9 
+(background)
+and another at 33 (userlnteractive), the process with the higher QoSa€! completed in normal time, 
+and that with the lower QoSa€! taking as much as 24 secondsa€!. Hyperthreading was seen in Activity 
+Monitor, with virtual second cores taking some of the additional loada€!.
+
+Similar tests on an Mla€!. All operations with a QoS of 9 (background) were run exclusively on the 
+four Efficiency (Icestorm) cores, even when that resulted in their being fully loaded and the 
+Performance cores remaining idlea€L With a QoS of 9 (background), the standard compression task took
+38a€“43 seconds, changing little with loading of higher QoS operations. When two intensive 
+background tasks were run at the same time, one completed in that same time (40 seconds), while the 
+other took almost twice the time (77 seconds), both remaining constrained to using the Efficiency 
+coresa€!.
+With higher QoSa€! completed in much the same time as when run alone, and that with the lower QoS 
+extended to around 15.5 secondsa€!.
+
+The pattern of use of cores is that almost all the activities of macOS are run on the Efficiency 
+cores, with only the occasional blip on the Performance cores. Running apps and performing other 
+user tasks is the other way around, with the brunt borne on the Performance^!. User tasks are more 
+likely to
+run with QoS of at least 17, and in many cases 25 and 33. As far as the processor goes, an Ml Mac 
+is divided into two: the four Efficiency cores are there largely to run macOS and its many 
+background tasks, freeing the four Performance cores for the apps which you run. It feels so much 
+fastera€!.
+
+Few events give a worse impression to the user than the interface slowing down in the face of a 
+problem in the operating systema€!. Because those processes are handed over to the Efficiency 
+cores, all they do now is slow other macOS background tasks, to which wea€™re much less 
+sensitivea€!..
+Because Macs with Intel processors cana€™ t segregate their tasks onto different cores in the same 
+way, when macOS starts to choke on something it affects user processes tooa€!
+
+LINK: 
+<https://eclecticlight.co/2021/05/17/how-ml-macs-feel-faster-than-intel-models-its-about-qos/>
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

@@ -1,0 +1,247 @@
+Subscribe now
+
+The internal workings of Chat-GPT visualized as a Tron-style animation with lots of bright lights, 
+colors, grids, and lens flares, by Stable Diffusion via NightCafe
+
+I think: this is an occasionally hallucinatory conventional-wisdom generator:
+
+I gave Chat-GPT a prompt:
+
+Write a 1000 word New York Times-style op-ed in the style of Brad DeLong about productivity growth, 
+making four points:
+
+• First, worldwide productivity growth was relatively stable at an average of about 2% per year 
+from 1870a€“2010 as a tremendous expansion in the STEM research-and-development workforce was 
+offset by the harvesting of the low-hanging
+technological fruit.
+
+•  Second, the ramping up of the STEM research-and-development workforce is likely to soon reach 
+its limits without a major reconfiguration of what world governments do, hence, the rate of growth 
+is likely to decline.
+
+•  Third, the 2% per year, productivity growth of1870 to 2010 was not enough to lead us to focus 
+effectively on living wisely and well. Rather, the problems of equitably distributing and 
+beneficently utilizing our material wealth continue to flummox us.
+
+• Fourth, the arrival of global warming will derange economies and societies. Hence the next 50 
+years are likely to see a world much richer than the last 50, but one that is significantly less 
+happy and suffers significantly more in the way of human-caused
+catastrophe.
+
+Its response, with the pieces that it added in bold:
+
+In recent years, there has been much discussion about productivity growth and its role in driving 
+economic development. While it is true that productivity growth has been a key driver of economic 
+growth over the past century, it is
+important to understand that this growth has not been constant or evenly distributed. In fact, 
+worldwide productivity growth has been relatively stable at an average of about 2% per year from 
+1870 to 2010, with a tremendous expansion in the
+STEM research-and-development workforce offset by the harvesting of the low-hanging technological 
+fruit.
+
+The first point to consider is that the 2% per year productivity growth seen from 1870 to 2010 was 
+driven largely by the expansion of the STEM research-and-development workforce. This expansion was 
+made possible by the growth of
+educational institutions and the rising number of people with advanced degrees in science, 
+technology, engineering, and mathematics. As a result, new technologies and innovations were 
+developed at a rapid pace, driving productivity
+growth.
+
+However, as the second point to consider, this expansion of the STEM workforce is likely to soon 
+reach its limits without a major reconfiguration of what world governments do. In order to continue 
+to drive productivity growth, we will need to
+
+
+• Fourth, the arrival of global warming will derange economies and societies. Hence the next 50 
+years are likely to see a world much richer than the last 50, but one that is significantly less 
+happy and suffers significantly more in the way of human-caused
+catastrophe.
+
+Its response, with the pieces that it added in bold:
+
+In recent years, there has been much discussion about productivity growth and its role in driving 
+economic development. While it is true that productivity growth has been a key driver of economic 
+growth over the past century, it is
+important to understand that this growth has not been constant or evenly distributed. In fact, 
+worldwide productivity growth has been relatively stable at an average of about 2% per year from 
+1870 to 2010, with a tremendous expansion in the
+STEM research-and-development workforce offset by the harvesting of the low-hanging technological 
+fruit.
+
+The first point to consider is that the 2% per year productivity growth seen from 1870 to 2010 was 
+driven largely by the expansion of the STEM research-and-development workforce. This expansion was 
+made possible by the growth of
+educational institutions and the rising number of people with advanced degrees in science, 
+technology, engineering, and mathematics. As a result, new technologies and innovations were 
+developed at a rapid pace, driving productivity
+growth.
+
+However, as the second point to consider, this expansion of the STEM workforce is likely to soon 
+reach its limits without a major reconfiguration of what world governments do. In order to continue 
+to drive productivity growth, we will need to
+reconfigure our research and development systems, invest in new and emerging technologies, and 
+encourage more collaboration between the private sector and government. This is not only a task for 
+government but also for
+companies and private organizations. Without these changes, we can expect productivity growth to 
+decline.
+
+The third point to consider is that even with 2% per year productivity growth, we have not been 
+able to effectively focus on living wisely and well. While the growth in productivity has certainly 
+brought many material benefits, it has also
+created significant challenges in terms of equitably distributing and beneficently utilizing our 
+wealth. We still struggle with poverty and inequality, despite having more resources than ever 
+before. Additionally, the growth in productivity
+has not necessarily led to greater happiness or well-being for individuals and communities.
+
+Finally, the fourth point to consider is that the arrival of global warming will derange economies 
+and societies in the next 50 years. Climate change is already causing significant disruption to 
+weather patterns and ecosystems, and it is likely to
+only get worse in the coming years. This will have severe economic and social consequences, 
+affecting everything from food production to infrastructure and human health. As a result, the next 
+50 years are likely to see a world much
+richer than the last 50, but one that is significantly less happy and suffers significantly more in 
+the way of human-caused catastrophe.
+
+In conclusion, productivity growth has been a key driver of economic development over the past 
+century, but it is important to understand that this growth has not been constant or evenly 
+distributed. To continue to drive productivity
+growth and to address the many challenges facing our societies today, we must reconfigure our 
+research and development systems, invest in new and emerging technologies, and encourage more 
+collaboration between the private
+sector  and government. Additionally, addressing the problems of equitably distributing and 
+beneficently utilizing our material wealth, and tackling the global warming challenge, must be our 
+priorities for the next 50 years.
+
+Share
+
+But it had not gotten up to a full 1000 wordsa€”it had only gotten up to 500. So I nudged it again:
+
+continue your discussion to a full 1000 words:
+
+And it essentially freestyled:
+
+While productivity growth has been a key driver of economic development, it is important to 
+recognize that it is not a panacea for all of our problems. In fact, it has created some of its own 
+challenges, and it is unclear whether it will be able to
+continue driving economic growth in the future.
+
+One of the biggest challenges created by productivity growth is the issue of income inequality. As 
+productivity has increased, the benefits have not been evenly distributed across society. Instead, 
+they have been concentrated in the hands of a small
+elite, leading to a widening gap between the rich and the poor. This has led to increased social 
+unrest and political polarization, as well as a host of other social problems. Additionally, It can 
+lead to an unhealthy society where people who dona€™ t
+have access to resources and opportunities to participate in economic growth, can have negative 
+externalities on the overall economy.
+
+Another challenge created by productivity growth is the issue of job displacement. As automation 
+and other technological advances have increased productivity, they have also led to the 
+displacement of millions of workers. This has led to increased
+unemployment, underemployment, and a host of other social problems. Additionally, the changes in 
+the economy, such as gig-working and short-term contracts, have resulted in a less secure 
+employment for a significant part of the population.
+
+Ita€™ s important to consider how the government and private organizations can address and mitigate 
+these issues, for example, through retraining programs and policies that support secure employment.
+
+A third challenge created by productivity growth is the issue of environmental degradation. As 
+economies have grown and productivity has increased, we have seen a corresponding increase in 
+carbon emissions and other forms of pollution. This
+has led to global warming and other environmental problems that threaten to undermine economic 
+growth and human well-being. Tackling this issue will require a concerted effort by governments, 
+the private sector, and individuals to reduce our
+carbon footprint and invest in cleaner, more sustainable technologies.
+
+In order to continue to drive productivity growth and address these challenges, we will need to 
+rethink our approach to research and development. As we have already seen, the expansion of the 
+STEM research-and-development workforce has been
+a key driver of productivity growth in the past. However, it is unclear whether we can continue to 
+rely on this model in the future. Instead, we may need to reconfigure our research and development 
+systems to focus on areas like renewable energy,
+green technologies, and other forms of clean innovation.
+
+Additionally, governments have a key role in setting up policies and regulations that encourages 
+companies to invest in research and development, and to facilitate the technology transfer and 
+commercialization. For example, tax incentives or
+subsidies for research and development, intellectual property rights protections, or research 
+collaboration agreements can incentivize the private sector to invest in research and development.
+
+Another important step that governments can take is to invest more in education and training 
+programs. As more and more jobs are automated, it will be essential to ensure that workers have the 
+skills and knowledge they need to succeed in the new
+economy. Additionally, investing in education can have positive externalities in the overall 
+economy by increasing the number of people with advanced degrees and increasing the number of 
+people working in STEM fields.
+
+In conclusion, productivity growth has been a key driver of economic development over the past 
+century, but it is important to recognize that it is not a panacea for all of our problems. It has 
+created some of its own challenges and it is unclear
+whether it will be able to continue driving economic growth in the future. In order to continue to 
+drive productivity growth and address these challenges, we will need to rethink our approach to 
+research and development, invest in education and
+training programs, and consider the role of government in driving innovation and mitigating the 
+negative effects of productivity growth.
+
+Give a gift subscription
+
+As I said: an occasionally hallucinatory conventional-wisdom generator. After all, what else could 
+it possibly be? Chat-GPT looks back at up to 4000 tokens (maybe 3000 words?) in the prompt(s), and 
+then, probabilistically, it selects the next token to output. It was trained
+on half a trillion words, and it has 175 billion connection weights between nodes.
+
+And yet how it is wired together is not obvious to me, and it is not obvious why its wiring is the 
+right wiring for us to be trying to build.
+
+For example, when I feed it the quick brown fox jumped over the lazy, its response is not 
+a€oedoga€D, period, followed by something else. It is:
+
+The phrase "the quick brown fox jumped over the lazy" is a well-known sentence that is used to test 
+the quality of typefaces. The sentence uses every letter of the English alphabet, making it a good 
+sentence to test thecompletenessof a typeface.
+The sentence is also commonly used as a typing test and as a sentence that can be used to test the 
+autocomplete function of a word processing program.
+
+First, this is wrong. a€oeThe quick brown fox jumped over the lazya€D is not a sentence. It is not 
+well-known. It is not used to test the quality of typefaces. All of those are true not of the 
+prompt but of a€oeThe quick brown fox jumped over the lazy dog.a€D
+What isright is that a€oeThe quick brown fox jumped over the lazya€D can be used to test the 
+autocomplete function of a world processing program. And, as autocomplete, Chat-GPT has just 
+flunked.
+
+It is pretty clear to me what Chat-GPT did here:
+
+•  It thought a€oeThe quick brown fox jumped over the lazya€D is almost the same as a€oeThe quick 
+brown fox jumped over the lazy doga€D, so I will say the things that usually follow a€oea€oeThe 
+quick brown fox jumped over the lazy doga€D
+
+•  Thee are some occurrences of a€oeThe quick brown fox jumped over the lazya€D which are then soon 
+followed by aCcetest the autocomplete functiona€D and aCceword processing programa€D, so I will 
+output that as well.
+This seems to me to be too word-cloudy to be likely to be successful. But, then, I also think that 
+most oral and written communication is too word-cloudy to be well-designed for its purposesa€!
+
+Chat-GPT Prompt Book: <https://docs.google.eom/presentation/d/17b_ocq-GL51h 
+V_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/edit#slide=id.gc6f83aa91_0_79>
+Leave a comment
+
+Subscribe now
+
+
+It is pretty clear to me what Chat-GPT did here:
+
+•  It thought a€oeThe quick brown fox jumped over the lazya€D is almost the same as a€oeThe quick 
+brown fox jumped over the lazy doga€U, so I will say the things that usually follow a€oea€oeThe 
+quick brown fox jumped over the lazy doga€D
+
+• Thee are some occurrences of a€oeThe quick brown fox jumped over the lazya€D which are then soon 
+followed by a€oetest the autocomplete functiona€D and a€oeword processing programa€D, so I will 
+output that as well.
+This seems to me to be too word-cloudy to be likely to be successful. But, then, I also think that 
+most oral and written communication is too word-cloudy to be well-designed for its purposesa€!
+
+Chat-GPT Prompt Book: <https://docs.google.eom/presentation/d/17b ocq-GL51hV 
+bYSShzUgxL02mtWDoiw9xEroJ5m3Q/edit#slide=id.gc6f83aa91 0 79>
+Leave a comment
+
+Subscribe now
+

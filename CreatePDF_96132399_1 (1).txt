@@ -1,0 +1,319 @@
+Subscribe now
+
+CONDITION: I Am Significantly Dismayed by A34e Harvard Administrationa€™s Denial of a Fellowship to 
+Kenneth Roth of HRW:
+
+Using Ken Whitea€™ s terminology, Kenneth Rotha€™ s speech is not illegal or unrightful. It does 
+not tend to erode the free speech community. And while some might call him indecent in using 
+hyperbole in calling Israel today an apartheid state, I certainly would nota€’’although I would say 
+that that hyperbole is not likely to be a constructive contribution. So I see absolutely zero case 
+for fellowship denial. (And I thought the administrative denial of a
+fellowship to Chelses Manning was extremely dismaying as well.
+
+That said, I cannot sign on to the Open letter to Harvard Kennedy School Dean Douglas Elmendorf, 
+Harvard President Lawrence Bacow, and Incoming Harvard President Claudine Gay. To claim that 
+a€oewelcoming Ehud Barak and Tzipi Livnia€D is part of a€oea long history of anti-Palestinian bias, 
+discrimination, and racism at the Harvard Kennedy Schoola€D is not a statement that anyone who 
+wants to contribute to a free-speech or an academic culture
+can make.
+
+But do not take the absence of my signature from the letter as evidence that I am not significantly 
+dismayed.
+
+The Popehat Report
+
+Hamline University And Cancel Culture
+
+Last March I wrote a self-indulgently long post airing my grievances about the term a€oecancel 
+culturea€D and how ita€™ s used in an unprincipled, unproductive way that discourages good 
+discussions rather than encouraging them. My thesis was this: (1) any productive discussion of 
+cancel culture needs a workable definition of it, (2) any principled discussion a€!
+
+Read more
+
+a month ago A- 276 likes A- 118 comments A- Ken White
+Share
+
+FOCUS: Chat-GPT: What Is It Good For?:
+
+
+The internal workings of Chat-GPT visualized as a Tron-style animation with lots of bright lights, 
+colors, grids, and lens flares, by Stable Diffusion via NightCafe
+I was playing with Chat-GPT this morning, instead of doing real work:
+
+
+rad DeLong's Grasping Reality
+
+Playing wiA34 Chat-GPT
+
+I think: this is an occasionally haa€!
+
+Read more
+
+a month ago A- Brad DeLong
+
+I think I am converging towards an assessment. I think my assessment is going to be something like 
+this: an occasionally hallucinatory conventional-wisdom generator.
+
+After all, what else could it possibly be? Chat-GPT looks back at up to 4000 tokens (maybe 3000 
+words?) in the prompt(s), and then, probabilistically, it selects the next token to output. It was 
+trained on half a trillion words, and it has 175 billion connection weights between nodes. And yet 
+how it is wired together is not obvious to me, and it is not obvious why its wiring is the right 
+wiring for us to be trying to build. It seems to me to be too word-cloudy to be
+likely to be successful. But, then, I also think that most oral and written communication is too 
+word-cloudy to be well-designed for its purposes.
+
+The worrisome thing is that what has made it viral is that it speaks with much too much authority, 
+it is too convincing at conveying the false illusion that there is actually a human mind back 
+there. And that is likely to mislead us.
+For example, I fed it the quick brown fox jumped over the lazy. Its response was not a€oedoga€D, 
+period, followed by something else. Its response was:
+
+The phrase "the quick brown fox jumped over the lazy" is a well-known sentence that is used to test 
+the quality of typefaces. The sentence uses every letter of the English alphabet, making it a good 
+sentence to test the completeness of a typeface. The sentence is also commonly used as a typing 
+test and as a sentence that can be used to test the autocomplete function of a word processing 
+program.
+
+1. This is wrong.
+
+2. a€oeThe quick brown fox jumped over the lazya€d is not a sentence.
+
+3. a€oeThe quick brown fox jumped over the lazya€d is not well-known.
+
+4. a€oeThe quick brown fox jumped over the lazya€d is not used to test the quality of typefaces.
+
+5. All of those are true not of the prompt, but rather of a€oeThe quick brown fox jumped over the 
+lazy dog.a€D
+
+6. What is right is that a€oeThe quick brown fox jumped over the lazya€D can be used to test the 
+autocomplete function of a world processing program.
+Do note that, as autocomplete, Chat-GPT has just flunked.
+
+It is pretty clear to me what Chat-GPT did here: It thought:
+
+•  a€oeThe quick brown fox jumped over the lazya€d is almost the same as a€oeThe quick brown fox 
+jumped over the lazy doga€D.
+
+
+• So I will say the things that usually follow a€oea€oeThe quick brown fox jumped over the lazy 
+doga€D.
+
+•  There are some occurrences of a€oeThe quick brown fox jumped over the lazya€D which are then 
+soon followed by a€oetest the autocomplete functiona€D and a€oeword processing programa€D.
+
+• So I will output that as well.
+
+No, the issue is complicated by the fact that a lot of the timea€”95%?a€”hen we speak or write, we 
+are stochastic parrots giving the conventional or conventional wisdom tokens in response to a 
+prompt. But there is that very meaningful extra 5%. That is what GPT-Chat lacks.
+
+Perhaps what we are learning is (a) how much of language is social, reinforcement, blue rather than 
+information, transmission, and (b) how much of language it is information transmission is, indeed, 
+the transmission of useful and relatively straightforward conventional wisdom that Chat-GPT can 
+grok by essentially averaging the corpus of human language instances? Perhaps not. Perhaps I am off 
+base herea€!
+Share Brad DeLong's Grasping Reality
+
+MUST-READ: Sell A%e Bonds!
+
+Selling bonds for more than par is less stupid and less goofy than a€oedisinvestinga€n the Social 
+Security trust fund and then claiming that the trust fund balance is not part of the debt subject 
+to limit. And that has been semi-routinely done for 28 years now:
+
+Matt Yglesias: A new plan to get around the debt ceiling hostage: a€~If the platinum coin is too 
+weird, meet high-yield bondsa€L Ita€™ s debt ceiling time againa€!. Instead of selling a $100 bond 
+that has a low interest rate for $100 dollars, they can offer a $100 bond that has a high interest 
+rate and see how much money people will give them for ita€!. The Treasury could raise more than 
+$100 while only issuing $100 worth of debta€!
+stupid, buta€! less goofy than a platinum coin. Anda€l stupid in a manner that is perfectly 
+suitable to the underlying stupidity of the statutory debt ceiling, which purports to limit the 
+face value of debt that the Treasury can issue separate from all the legislation that specifies how 
+much money the Treasury has to spenda€!
+
+Leave a comment
+
+ONE IMAGE: A little inflation is a much better problem to have A%an an economy depressed for a 
+decade:
+
+
+FRED
+
+21,000
+
+— Real Gross Domestic Product
+
+20,000
+
+19,000
+
+18,000
+
+17,000
+
+16,000
+
+
+Give a gift subscription
+
+BRIEFLY NOTED:
+
+Very Briefly Noted:
+
+•  Ethan Mollick: How to... use Chat-GPT to boost your writing: a€~The key to using generative AI 
+successfully is prompt-craftinga€! very elaborated! abstracta€! almost poetica€!. More elaborate 
+and specific prompts work bettera€! appears to me that the conversational interface is leading 
+people to use the tool badly.
+
+• David Dayen: Regulators Prevented a Crypto-Fueled Economic Downturn: a€~The most important 
+regulation has already been done. Keeping crypto out of the broader financial system was the most 
+important regulatory action of the past decadea€!. If we manage to get out of this cycle without a 
+recession, we will have the banking regulators, primarily Gary Gensler at the Securities and 
+Exchange Commission, to thanka€! A100% correct analysis
+from David Dayan!
+
+•  Simon Wren-Lewis: Did 2010 austerity permanently reduce UK output?: a€~ There is evidence that 
+austerity, in creating an unusually protracted recovery in aggregate demand from the GFC recession, 
+did have a negative impact on productivity growth and therefore a persistent negative impact on 
+output supplya€! There is very, very strong evidence.
+
+•  Ian Buruma: Chinaa€™ s Autocracy in Crisis: a€~Top-down decisions, often implemented by 
+competent technocrats, have enabled China to build high-quality infrastructure and achieve rapid 
+economic growth. But President Xi JinpingaC™ s handling of the CO VID-19 crisis and his erratic 
+decision-making have highlighted the flaws in ChinaaC™ s one-party regimea€! Was the PRC always 
+imperial, with a mask of collective leadership in the
+same way that the Julio-Claudians preserved the mask of the republic and of the authority of the 
+Senate? Right now it looks like we had three good emperors, and now have one very erratic one.
+
+
+•  Tyler Cowen: China & the Risk of Great Power War: a€~If something has not happened for a long 
+time, most people simply forget about ita€!. I think a major war between great powers falls into 
+that categorya€! But I have no idea what a war between great powers would look like today. "War" 
+covers an extremely broad range of levels of violence.
+
+• JA^rgen Osterhammel: The Transformation of the World: A Global History of the Nineteenth 
+Centurya€ 1A great great book.
+
+• K.P.: Turning the Page on 2022: ^“SLOUCHING TOWARDS UTOPIA: An Economic History of the Twentieth 
+Century, by J. Bradford DeLong. A masterful analysis of the extended 20th century (1870-2020) U.S. 
+economy, by the former Treasury official now at the University of California, Berkeleya€! 
+d€oeMasterfuld^2.1 like that. Very much.
+
+• Mark Galeotti: a€~Putin's decision to appoint Chief of the General Staff Gerasimov as new overall 
+commander of Ukraine op is significanta€!. For Gerasimova€! it isa€! the most poisoned of chalices. 
+It's now on him, and I suspect Putin has unrealistic expectations againa€!. There will be spring 
+offensivesa€! demonstrating to the West that Russia is in this for the long haul, and hoping that 
+we will lose the will and unity to continue to support
+Kyiva€! "Supporting Kyiv" is not a heavy burden for the NATO alliance. And what with North American 
+shale and LNG tankers, the costs for the European civilian economy will be low. The primary 
+economic burden of continued war will fall upon the poor of Nigeria and Egypt. This makes no sense 
+for Russia.
+
+•  Dave Guarino: a€~One of the most dangerous feedback loops is narrative resonance. Much of the 
+opportunity operating in complex systems is understanding the gap between 1. what those fed info 
+via summary (synoptic lenses) understand the problems to be, and 2. ground trutha€!. Adjusting 
+conclusions in response to what resonates with the former will tend towards convergence back tothe 
+(partial) epistemic modelwhich is already  a source of
+disconnect/problemsa€! This is why directors and such should spend a month in the trenches. Of 
+course, it is important that they spend the month in a not atypical trench.
+
+•  Chris Hayes: a€~FIRE really is one of the only consistent voices in the academic free speech 
+discourse, with a genuinely principled commitment that spans different ideological controversies^! 
+I confess I have probably been undervaluing FIRE.
+
+Get 33% off a group subscription
+
+AJs:
+
+What to do when a person I know to be smart, careful, and well-informed talks things that seem to 
+me to be, well, bonkers? I can read the Feda€™ s credibility with the bond market off of the 
+numbers. The Fed has immense credibility as an inflation fighter with the bond market. And the 
+consequences for being at the zero lower bound, and thus having the market rate of interest 
+well-above the neutral rate are immensea€’’not just economic consequences, but
+eroding democracy, and aiding rising fascism as well. So where does all this come from?
+
+Ragu Rajan: Central banks cana€™ t win when it comes to credibility on inflation: a€~Institutions 
+are scrambling to rebuild their toolkits to deal with the new regime: The kind of credibility 
+needed to escape a regime of overly low inflation, which we had until recently, is different from 
+the kind needed to curb high inflation, which we have now. And by its very nature, credibility does 
+not turn on a dimea€!. Should the Fed work once
+more to regain credibility as an inflation hawk? Credibility takes a long time to build, and 
+inflation regimes could switch againa€!. [But] central banks will probably be most effective if 
+they rebuild their commitment to combating high inflation. And if inflation falls too low, perhaps 
+we should learn to live with ita€!
+
+How is it that Poland and Malaysia have managed to successfully utilize FDI for growth in ways that 
+other countries have not?
+
+Noah Smith: The Poland/Malaysia model: a€~The richer you get, the harder it is to grow, so by 
+reaching the ~$30,000 range, Poland and Malaysia have accomplished an impressive feata€! not quite 
+as impressive as South Korea, but then again, who is?a€! They relied heavily on foreign direct 
+investments I. Poland and Malaysia are both very export-intensive economiesa€”as much or more so 
+than South Koreaa€!. Ha-Joon Chang
+and some other industrial policy fans think that FDI is not the basis of a sound development 
+strategya€!. Developing the South Korean way, by building a bunch of world-beating high-tech 
+manufacturing companies from scratch, is incredibly hard. An FDI-centric strategy, on the other 
+hand, is simple and straightforwarda€!
+
+A good example of the evil mindset of the Washington press corps back in the day and, indeed, 
+today. Reporters who are flattered as peers by government officials willing to cut corners, and 
+tell lies are than willing to go the extra mile to excuse such a government officials. I assure you 
+that Cap Weinberger did not look at Richard Cohen as a a€oebasic sort of guya€D and a sort-of peer, 
+but as a mark:
+
+Richard Cohen (1992): Without Candor: a€~Back when Caspar Weinberger was secretary of defense, he 
+and I used to meet all the time. Our a€oemeetingsa€na€! took place in the Georgetown Safeway.... 
+Once... he bought a turkey. I tell you this about the man President Bush just pardoned because it 
+always influenced my opinion of Weinberger.  Based on my Safeway encounters, I came to think of 
+Weinberger as a basic sort of guy,
+
+candid and no nonsensea€’’which is the way much of official Washington saw him. It seemed somehow 
+cruel that he should end his careera€”he's 75a€”either as a defendant in a criminal case or as a 
+felon. The man deserved better than that.... He may have lost his good sense when he allegedly 
+withheld evidence. That being said, I was pleased when he was pardoned...
+
+Kevin McCarthy plays Jim Fallows. As long as McCarthy has the guys to talk about stolen elections, 
+socialists, and Hunter Biden, he can appear to take the high road and thus store up street cred 
+with which he can gull Jim in the future. Thata€™ s my view, at least:
+
+James Fallows: OK, There Was Something Positive in the Speaker-Vote Debacle: a€~What Kevin McCarthy 
+didn't say is worth at least noticing as wella€!. Part of McCarthya€™ s speech was origin storya€! 
+and part of it was standard MAGA platforma€! swampa€! Afghanistana€! the origins of COVIDa€! the 
+weaponization of the FBIa€! Select Committee on China to investigate how to bring back the hundreds 
+of thousands of
+jobsa€!. But if youa€™d listened to thea€! general GOP rhetoric of the era, youa€™d notice the 
+things McCarthy did not saya€! a€cestolena€D electiona€! a€cesocialistsa€Da€! Hunter Bidena€! [no] 
+saber-rattl[ing] about raising the debt ceilinga€! not use a€ceDemocrata€D as an adjective (rather 
+than a€ceDemocratica€D), in the routinely insulting way pioneered by Newt Gingricha€! did not 
+disparage the man who gave him the
+gavel, Hakeem Jeffriesa€!. Will this make any difference in terms of votes or policy?a€! No. But it 
+could have been worsea€!. It will get worse, but for those few minutes it wasna€™t. For now leta€™ 
+s take the wina€!
+
+The failure of the Republican a€cemoderatesa€D to hold up the passage of the rules package for even 
+a day is a very bad sign:
+
+Robert Hubbell: Backroom deals, lies, and performative grift!: a€~The public version of the House 
+resolution containing the rules omitted a secret supplement that conceals the corrupt promises made 
+by McCarthy to purchase votes of reluctant GOP members who did not trust hima€!. A secret agreement 
+to a€cefreezea€D congressional spending! Sounds like something Americans deserve to know about, 
+doesna€™t it? Or how about
+a a€oedebt-ceiling strategya€D that was part of a quid-pro-quo to drag McCarthy over the line in 
+his ego-driven quest to become Speaker?a€! There are no innocent answers to that question, and we 
+are entitled to presume the worsta€!
+
+Donate Subscriptions
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Leave a comment
+Subscribe now
+

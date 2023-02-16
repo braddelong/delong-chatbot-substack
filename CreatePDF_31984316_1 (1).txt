@@ -1,0 +1,370 @@
+d€\e wrong?
+
+From <http ://.delongtoday.com>
+
+On Tuesday, January 26,2021, Tesla CEO Elon Musk tweeted out one worda€”GameStonk! !a€”with two 
+exclamation points, and with a link to a board on the internet discussion site Reddit, a board that 
+describes itself as: a€oe WallStreetBets: Like 4chan found a Bloomberg terminala€D. The word
+a€oeGameStonka€D is a mashup of a€cestonka€D, a misspelling of a€cestocka€D, and 
+a€ceGameStopa€Da€”the Dallas-headquartered U.S. bricks-and-mortar videogame retailer with 5000 
+stores, $1 million of annual revenue per store, and currently $200 million a year of losses. The 
+misspelling of
+a€cestocka€D means that Musk wants his readers to know that he is adopting a pose of enthusiasm and 
+excitement: the pose is that he must communicate, and cannot be bothered to spellcheck anything 
+before he sends his words out to the internet. a€oeGameStonk! !a€D could therefore be translated 
+thus:
+a€oeexcitement, enthusiasm, and approval for (or perhaps for what is currently going on with) the 
+stock of the company GameStop .a€D
+
+The price of GameStop (ticker $GME) immediately rose 60%.
+
+The stock had doubled earlier in the day. The supposed trigger was early Facebook executive and 
+current venture capitalist Chamath Palihapitiyaa€™ s tweeting that he had bought call options on 
+GameStop, betting the stock would go still higher than it had before. The total equity value of 
+GameStop was
+
+$5.5 billion Tuesday morning, $11 billion Tuesday afternoon, $17 billion Tuesday evening, a peak 
+(so far) of $26 billion Wednesday, and $18 billion Thursday as I am taping this.
+OK. So what is going on? And what does this mean?
+
+Wikipedia tells us that GameStop is headquartered in suburban Dallas, TX, near to a LEGOLAND:
+
+GameStop is an American video game, consumer electronics, and gaming merchandise retailer. The 
+company is headquartered in Grapevine, Texas, United States, a suburb of Dallas, and operates 5,509 
+retail stores throughout the United States, Canada, Australia, New Zealand, and
+Europe as of February 1,2020. The company's retail stores primarily operate under the GameStop, EB 
+Games, ThinkGeek, and Micromania-Zing brands. In addition to retail stores, GameStop also owns Game 
+Informer, a video game magazine.
+
+GameStop last made a profit in calendar 2017: $35 million. It lost $673 million in 2018, lost 20% 
+of its revenue in 2019 down to $6.46 billion for a loss of $471 million, looks to realize $5.26 
+billion in revenue and lose $200 million, and is forecasta€”but tracking analysts forecasts are 
+usually
+optimistica€”at revenues of $5.84 billion and break-even in 2022. Up until September, it was worth 
+some $5 per share, $350 million for the 70 million shares outstanding.
+
+The stock jumped in September and Octobera€’’roughly tripled, boosting the companya€™ s equity 
+valuation from about $350 million to about $1 billion. Why? Because of Ryan Cohen. Ryan Cohen had 
+founded online pet retailer MrChewy in 2011 at the age of 25. He had made a success of it, selling 
+it
+to PetSmart for $3.35 billion and stepping down from the CEO position in 2019. He had bought 10% of 
+GameStop. He hoped to turn it around: a€ceGameStop needs to evolve into a technology company that 
+delights gamers and delivers exceptional digital experiencesa€”not remain a video game retailer
+that overprioritizes its brick-and-mortar footprint and stumbles around the online ecosystema€!a€D 
+he wrote.
+
+Before Ryan Cohena€™ s appearance, the consensus was that GameStop would be closed in a decade. The 
+marketa€™ s valuation was that of the $50 billion in revenue the firm might collect before it 
+closed, it would be generous to think that 1% of that might be ultimately paid out to shareholders.
+Afterwards, the market was more optimistic: maybe with Ryan Cohen involved, there was a 20% chance 
+GameStop could, instead, become an internet property as valuable as MrChewy was when Cohen sold it 
+to PetSmart. Maybe Ms. Market was right here; maybe Ms. Market was wrong. I tend to think
+that   Ms. Market was being too enthusiastic about the ability of one charismatic 35er with 
+successful experience in an adjacent market segment to make a big difference. But I would not say 
+that I was at all sure that Ms. Market was wrong.
+
+One other thing happened in September-October: an extra 35 million shares or so were shorted. As of 
+August, there were 100 million shares in long positionsa€’’people who stood to gain if GameStop 
+went up or paid dividendsa€”and 30 million shares in short positionsa€’’people who stood to gain if
+GameStop went down. By the end of October there were 135 million shares in long positions in 65 
+million shares in short positions. And then nothing happens until January 12,2021.
+
+So what happens in the two weeks between the end of January 12 and dawn on January 26? The 
+stock-market valuation of the company then went from $1 to $5.5 billion. Why and how?
+
+One part of it is a a€cetechnicala€D story. The technical story has two parts. The first part is 
+the a€oeshort squeezea€D part. Suppose that you are a short seller. And suppose that the price of a 
+stock you have shorted goes upa€”goes way up. What do you do? On the one hand, the profits from 
+your short, if
+it comes in, are now much bigger, so you hold on to and may well increase your short position.
+
+On the other hand you are now poorera€’’perhaps a lot poorera€”and your tolerance for risk goes 
+down. Moreover, you are in this as a business: you cannot get yourself into a situation where one 
+bet going wrong will destroy your ability to make other bets in the future, no matter how big a 
+winner this one
+bet looks. And, in addition, the fact that the stock has moved against you is evidence that your 
+initial analysis of the situation was, to some degree at least, not accurate. Those will tend to 
+make you shrink your position.
+
+The net effect of these factors is that, for short sellers, their demand curve may well slope the 
+wrong way. Markets are stable because when price goes up demand tends to go down. But if 
+short-sellers decide to cover rather than increase their positions when the price rises, their 
+component of the demand
+curve does not slope down but slopes upa€’’unless and until much bigger short sellers with much 
+deeper pockets and much greater risk tolerances are attracted into the market.
+
+The second part of the technical story is the call option part. Suppose you want to bet on Ryan 
+Cohena€™ s successa€”or bet that it might look like he might possibly be a success. You could buy 
+the stock. Or you could amplify your potential winnings by buying a way-out-of-the-money call 
+option on the
+stock. That way you can make a bet that might come in really big, and make it cheaply. If you think 
+you have more knowledge than capital, and yet you want to limit your downside exposure by not 
+borrowing to buy stock and hence being on the hook if the stock goes bankrupt, a call option can 
+look
+attractive.
+
+The question is: who do you buy the call option from? If you can find somebody who wants to make 
+the opposite beta€”to bet that Ryan Cohen will not succeeda€”well and good. But odds are you will 
+buy the call option from somebody who does not have strong views about Ryan Cohen and GameStop.
+They simply want to collect some money for making a market up front, and then be out of the game. 
+They do not want to gamble. They want to hedge their position.
+
+How do they hedge their position? Well, they sell you a call option and then they buy a little bit 
+of the stock at the market price. If the call option price goes up, it must be because the stock 
+price has gone up. When the call option is way out-of-the-money, a $1 increase in the stock price 
+produces only a very
+small increase in the value of the option, so you do not need to buy much stock. But as the stock 
+price approaches the option strike pricea€”the price at which you get to buy the stock if you 
+a€oecalla€n your optiona€”the proper delta hedge requires more and more of the stock. And at the 
+limit, as the
+option comes into the money, the delta hedge amount becomes one.
+
+Thus as the stock price goes up, your counterparty who has sold you the option must increase his or 
+her long position in the stock in order to stay hedged. From your perspective, you are not doing 
+anything as the stock price rises. You have an option. You are just letting it ride as the stock 
+bounces around.
+But the combination of you-and-your-counterparty-who-has-hedged-their-position as a unit is another 
+positive-feedback trader: somebody else whose demand curve slopes the wrong way, with your 
+collective demand for the stock not falling but rising as the stock price rises.
+
+And, of course, as the stock price rises, it gains more mindshare. And some of those whom news 
+about the stock touches will decide to buy.
+
+So far we have three factors: short-sellers who can be squeezed, and thus turned into 
+positive-feedback traders; counterparties of call option purchasers, who are positive-feedback 
+traders as well; and the fact that news and buzz is a source of stock demand. There are also three 
+more factors: call them YOLO
+(as Matt Levine does), rage-against-the-(financial)-machine (as John Authers does), and 
+pump-and-dump.
+
+Let me quote from Matt Levine on YOLO:
+
+The people on the WallStreetBets subreddit sometimes all get into a stock at once. This is fun, a 
+nice social outing in an age of social distancing, a risky but potentially lucrative collective 
+entertainment. Recently they decided to do GameStop. Because, I dona€™ t know,
+theya€™re gamersa€! ita€™ s a little comical to pump the stock ofa€! mall video-game stores during 
+a pandemic, or becausea€! professional investors are short GameStop and they thought ita€™ d be 
+funny to mess with them. Or, especially, because their friends on Reddit were
+buyinga€!. Take one person whoa€™ s long for fundamental reasons, add 100 people who are long for 
+personal-amusement reasons like a€oelol gaminga€D or a€oeleta€™ s mess with the shorts,a€D and then 
+add thousands more who are long because they see everyone else long,
+and   the stock moves: a€oea€~It was a meme stock that really blew upa€™ , said WallStreetBets 
+moderator Bawsela€!. GameStop seemed so utterly doomed that the current situation was actually sort 
+of funny to the subreddita€™ s denizens. Banded together, WallStreetBets
+members bought in big enough to move the stocka€!. Here is a seven-hour YouTube video from Friday 
+in which a guy called a€oeRoaring Kittya€D dips a chicken tender in champagne to celebrate his 
+GameStop wins. a€oeThis is the thing, overbought can stay overbought, remain
+overbought, even get more overbought,a€D he says, which is as good a summary of the situation as 
+anything elsea€!
+
+And let me quote from John Authers on rage-against-the-(financial)-machine:
+
+I argued that it was misplaced to take pleasure at the pain for the short-sellers who had attacked 
+GameStop stock, and then been subjected to a a€oeshort squeezea€D for the ages by traders 
+coordinating on Reddit. I received a bumper crop of feedbacka€! leaving out many with
+unprintable expletives): a€oeHow much did [GameStop short-position hedge fund] Melvin pay you to 
+write this garbage? shill. Literally trying to protect an industry trying to fleece jobs from low 
+income workers. Sleep well chumpa€!a€D a€oeWatching entitled institutional shorts
+whinea€! that millennials equipped with margin accounts & zero fees are collaborating on Reddit to 
+target them is my new favorite sport. Looks perfectly healthya€! plus 1 for the little guys.a€D 
+a€oeNormal isn't putting the retail trader down for being independent while organized
+hedge funds force you to take their way or suffer in fear. Normal is the American dream and being 
+able to make your own way. This isn't a casino. This is a riota€!a€D
+
+We coordinated our purchases on Reddit, and we got rich, and in the process we made a bunch of 
+overrich institutional Wall Street plutocrats sad and poorer. What is not to like?a€”that seems to 
+be their view.
+
+Well, what is not to like is that ultimately all the money there is is the dividends that will be 
+paid by GameStop and the price that will be paid by its acquirer whenever the GameStop corporate 
+shell is dissolved and its assets are repositioned. At the moment those who have sold GameStop on 
+its ride up have
+collected perhaps $14 billiona€”$7 billion from the shorts and $7 billion from current GameStop 
+holders who were late into their long positions. The short-sellers have lost $7 billion. Current 
+stockholders of GameStop have an asset
+
+worth $14 billion that they paid $7 billion fora€”and so a paper profit of $7 billion right now. 
+But the only value to back GameStop is the money that will be flowing out of the firm as 
+distributed profitsa€”and that is likely to be $400 million only, or maybe $700 million, or maybe 
+$1 billion at best.
+Current GameStop shareholders are thus looking to lose at least $6 billion of the $7 billion they 
+have paid for the stocka€”unless they find greater fools willing to take their shares off their 
+hands at something like its current $14 billion paper-profit valuation.
+
+And here we get to the pump-and-dump question: How much do those who have already received $14 
+billion in profits from GameStonk so far overlap with those who currently hold a $14 billion paper 
+position in GameStonka€”a position that was $28 billion at one moment Thursday afternoon? And how
+much have those who have profited already dumped their positions? And what role did those who have 
+profited play in pumping up the stock in the first place?
+
+Combine pump-and-dump, rage-against-the-(financial)-machine, YOLO, hedged call options as strong 
+sources of positive-feedback trading, and the short squeeze with the excitement provoked by the 
+hope that Ryan Cohen could repeat his success with MrChewy, and you have the stage set for Elon Musk
+and Chamath Palihapitiya to trigger the quintupling of Tuesday and Wednesday. It is hard to know 
+why they did what they did. It seems likely to be YOLOa€”for if they had positions, they are likely 
+to spend the rest of their lives enmeshed in nets of lawsuits.
+
+
+The story is really reminiscent of the bad old days of Gilded Age Wall Streeta€”the Harlem corner, 
+the stats bearcat corner, the Northern Securities panic. (The family story is that one of my 
+great-great grandfathers killed himself with his revolver because he could not face telling his 
+family the scale of his
+losses in Northern Securities).
+
+There is, however one big difference. In previous search episodes of short squeezes, corners, and 
+massive immediate fast-moving bubble divergences of market prices from fundamentals, there was 
+considerable uncertainty about what those fundamentals really were. Was the stock being pumped 
+above its
+value by cynics who wanted to dump it later? Or were people who had learned that there was about to 
+be great news about the business trying to quietly buy it up in advance? And were the rumors that 
+there was a pump-and-dump going on false-flag diversions to keep the general public from getting in 
+on a
+good thing?
+
+Before there was always a universe to be understood and mastered, or Masters of the Universe who 
+you could profit be emulating. Knowledge either about what fundamental values really were or about 
+the plans of insiders. But this time there is no knowledge, there is no pattern.
+Just as Donald Trump was a reality-TV simulacrum of a president, so this feels like a reality-TV 
+version of financial Robber Barons. A going-through-the-motions for the camera, but, somehow, not 
+the real thing. Then there was a reason to think things might work out as planned.
+Now there is only: GameStonk!!
+
+Market Summary > GameStop Corp.
+
+NYSE: GME
+
+239.01 USD-107.36 (31.00%)
+
+Jan 28, 1:47 PM EST • Disclaimer
+
+1 day      5 days      1 month     6 months      YTD       1 year      5 years       Max
+
+500
+
+400
+
+300
+
+200
+
+Jan 25           Jan 26            Jan 27           Jan 28
+
+
+Open
+High
+Low
+Mkt   cap
+
+265.00
+
+483.00
+
+112.25
+
+16.60B
+
+Div yield
+Prev close
+52-wk high
+52-wk low
+
+0.64%
+
+346.37
+
+483.00
+
+2.57
+
+
+P/E ratio
+
+Market Summary > GameStop Corp.
+
+NYSE: GME
+
+237.42 USD-108.95 (31.45%) +
+
+Jan 28, 1:49 PM EST • Disclaimer
+
+1 day      5 days     1 month     6 months               1 year      5 years
+
+400
+
+300
+
+200
+
+100
+
+
+0—1
+
+2021
+
+
+Open
+High
+Low
+
+P/E ratio
+
+265.00
+
+483.00
+
+112.25
+
+16.60B
+
+Div yield
+Prev close
+52-wk high
+52-wk low
+
+0.64%
+
+346.37
+
+483.00
+
+
+100
+
+2021
+
+
+Open
+High
+Low
+Mkt   cap
+
+P/E ratio
+
+265.00
+
+483.00
+
+112.25
+
+16.60B
+
+Div yield               0.64%
+
+Prev close              346.37
+
+52-wk high              483.00
+
+52-wk low               2.57
+
+$GME GameStop short interest vs. share price - a story of
+console cycles
+
+Stocks
+
+GME Shan Pncmg : 16 9 GME Sharts Soid Short: 6745mm | GME Sharts Outstanding: 65 16mm | GME 
+Volume:8 97mm
+
+Ml 1 ■ *S
+
+

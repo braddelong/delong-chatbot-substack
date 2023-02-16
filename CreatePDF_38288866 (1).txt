@@ -1,0 +1,397 @@
+PS 00. Introduction to Python & Notebooks: Links: 
+<http://datahub.berkeley.edu/user-redirect/interact?account=braddelong&repo=delong-python-problem-se
+ts&branch=main&path=delong-jn-OO.ipynb> 
+<https://github.com/braddelong/delong-python-problem-sets/blob/main/delong-jn-OQ.ipynb> 
+<https://nbviewer.jupyter.org/github/braddelong/delong-python-problem-sets/blob/main/delong-jn-OQ.ip
+ynb>
+
+PS 01. Data Manipulation & Visualization: Links: 
+<http://datahub.berkeley.edu/user-redirect/interact?account=braddelong&repo=delong-python-problem-se
+ts&branch=main&path=delong-jn-01.ipynb> 
+<https://github.com/braddelong/delong-python-problem-sets/blob/main/delong-jn-01.ipynb> 
+<https://nbviewer.jupyter.org/github/braddelong/delong-python-problem-sets/blob/main/delong-jn-01.ip
+ynb>
+
+• •• E <          > El ft QU 0 A A                                     fi 
+nbvjewer.jupyter.org/github/braddelong/delong-python-problem-sets/bl C © [Jj + Cl
+
+:::: Daring Fireb...n Web Dingus TinyURL! Bullseye styleStealer Post with MarsEdit Search by ISBN 
+Add New Pos...— WordPress Launch Meeting - Zoom #inbox Blogtrottr bookmarklet Embed Acast podcast »
+
+
+^jupyter
+
+nbviewer
+
+JUPYTER FAQ </>
+
+@ Jupyter...
+
+Execute on Binder
+
+delong-python-problem-sets / delong-jn-01 .ipynb
+
+This is an interactive jupyter notebook document.
+Page down through it, following the instructions...
+
+With what looks to be a permanent and long-run partial moving-online of the university, the already 
+important topic of “data
+science” seems likely to become even more foundational. Hence this first problem set tries to 
+provide you with an
+introduction—to “data science”, and to the framework we will be using for problem sets that we hope 
+will make things
+much easier for you and for us...
+
+When you are finished, satisfied, or stuck, print your notebook to pdf, & upload the pdf to the 
+appropriate assignment
+bCourses page: http://bcourses.berkeley.edu/BCOURSES-URL-HERE
+
+Also, please include with your submission all of your comments on and reactions to this assignment 
+that you want us to
+know...
+
+
+5
+
+36
+
+221
+
+
+Paul Krugman
+@paulkrugman
+A-
+
+Jun 19
+
+Monetarisma€”the claim that monetary aggregates like Ml or M2 drive the economy, and that 
+stabilizing them is all policy needs to doa€”is dead, and should never have had the influence it 
+did. James Tobin was right in 1970: to the extent that there was a correlation between monetary 
+aggregates and GDP (there hasn't been much of one in recent decades), Friedman had the causation 
+reversed <https: //jstor.org/stable/1883016>.
+
+Brad DeLong: 'Live long, & prosper!1: The consumption function work was gooda€”albeit overstated. 
+"Incomes from Professional Practice" on the role played by the AMA and the state bar associations 
+in boosting doctors' and lawyers' incomes and keeping them high is very good. "Roofs or Ceilings?" 
+is at least half right: markets ration the available supply by (ability to pay) x (relative 
+intensity of demand); price controls ration available supply some other
+way, and send a signal to profit-seeking capital to shift investment resources elsewhere. I don't 
+think F&S have it right but their principal targets have it very wrong indeed. Cf. the "grain 
+supply" debate in France in the late 1700s, which is actually more sophisticated in elements than 
+F&S.
+
+It's the "Keynes was wrong: you don't need a 'somewhat comprehensive socialization of investment" 
+to balance the macroeconomy; all you need is a k% growth rule for M2" is where he went really 
+wronga€”he was smart enough to have thought up Goodhart's Law all by himself, but never did. And 
+the political-economy rent-seeking society posturing was much more embarrassing than insightful. In 
+my view, Milton Friedman has the defect of a hedgehog
+whose one big trick is not, in reality, a very good one. And there are grave dangers in trying to 
+do research when you know what the conclusions are, and the task is only how are you going to. 
+manage to get there.
+
+His work is best approached best the way I always approached Martin Feldstein's: we know what the 
+conclusion will be, and he has done us the useful service of laying out the strongest argument you 
+can make for that conclusion. But as a mode of training Friedman's way of proceeding turned a lot 
+of people who could have been second-rate economists into fourth-rate ones. Remember Jagdish 
+Bhagwati (no left-wingera€’’rather, a man who, appallingly, claimed
+TCJA would pay for itself!) on life at Friedman's Chicago...
+
+We have not mentioned that the a€oenight watchmana€D state is itself a very powerful enterprise, 
+able to make and enforce its own judgments about who a€oeownsa€D what against not just against 
+roving bandits, but local notables and even its own functionaries. Friedmana€™ s minimal state is 
+not so minimal, after all: It rips the economy out of society, and gives each individual control 
+over their economic resources rather than finding themselves tied down
+like Gulliver in what they can do with their "property" and so subject to the sociological network 
+of domination and hierarchy. Friedmana€™ s minimal state is not so minimal, after all.
+
+LINK: <https://gith.ub .com/braddelong/public-files/blob/master/2021 
+-Q6-29-twitter-milton-friedman-threadeader.pdf>
+
+2021a€“05a€“13 U.S. Inflation Outlook 
+https://podcasts.apple.com/kr/podcast/0514-in-focus-2-inflation-concerns-in-us-following/idl03882260
+9?i=1000521665790&l=en
+
+Per Krusell & Tony Smith (2014): _Is Pikettya€™ s a€oeSecond Law of Capitalisma€D Fundamental?_ 
+https://web.archive.org/web/20150529012920/http://www.econ.yale.edu/smith/piketty 1 .pdf
+
+Per Krusell (2014): Krusell och Smith: DA^rfAyr kAJper vi inte Pikettys prognos 
+<https://ekonomistas.Se/2014/05/29/krusell-och-smith-darfor-koper-vi-inte-pikettvs-prognos/#comments
+>
+
+VIDEO
+
+Author: public-files/lecture-notes-marx.pdf at master A- braddelong/public-files\ a€~a€! LINK: 
+<https://github.com/braddelong/public-files/blob/master/lecture-notes-marx.pdf>
+
+Paul Krugman: a€~Urp. I dona€™ t think economics is failing; in many ways I think ita€™ s better 
+than ever. But that aside, this gets the history of communication in the field all wrong. Tyler 
+conveys the impression that we went straight from The General Theory to Twitter. I was there for a 
+lot of the transition, and thata€™ s not how it went. The truth is that not much economic 
+discussion has taken place through books for a very long time. In fact, even
+journal articles have long been tombstonesa€’’things you had to publish for tenure, but lagging far 
+behind the discussion. Even pre-internet communication mainly took place via working papers, which 
+had completely taken over all the fields I worked in by the 1980s. No peer review, and obvious 
+privileging of people with known names and connections, but still an effective dissemination 
+system. Econoblogging in its heyday was also an effective system for
+disseminating ideas; it has been largely crowded out by Twitter, which is unfortunate, but many 
+have found workarounds. In particular, a lot of econ Twitter is summaries of and links to working 
+papers. So it isna€™ t actually casual and sloppy; more like abstracts for serious work. And the 
+work is indeed serious, with tough questions and debate, informed by data, taking place in real 
+time. Traditional peer review has fallen on hard times. But the quick back and
+forth  among people who know their field serves a similar purpose, and maybe better. Think of the 
+2010a€“13 debate over fiscal policy; Ia€™ d stack that against any great econ debates of the past. 
+And how anyone can look at the current arguments over fiscal policy, or minimum wages, or 
+unemployment benefits and say that economists have become too cautious and polite baffles mea€! 
+LINK: <
+
+Paul Krugman @paulkrugman
+
+And how anyone can look at the current arguments over fiscal policy, or minimum wages, or 
+unemployment benefits and say that economists have become too cautious and polite baffles me. 8/
+3:55 PM r™ May 24,2021
+
+183Likes26Retweets
+
+Paul Krugman: a€™ As I read it, there are two propositions being suggested. 1. The Fed cana€™ t 
+rein in an overheating economy without causing a recessio. 2. The Fed cana€™ t rein in the economy 
+without a recession if it waits until inflation is embedded in expectations and contracts. #1 is 
+clearly false. #2 is probably true. But LHS seems to elide them; if you press him he makes point 
+#2, but people reading his public pronouncements think hea€™ s saying
+#1.                                                                                                 
+                                                                                                    
+    And when that sort of thing happens, ita€™ s not the readersa€™ faulta€™ . Joseph Gagnon: a€™ 
+Agree. The history of Fed causing recessions to fight inflation occurred in the context of no clear 
+policy framework and unanchored inflation expectations. That is not going to happen again. Of 
+course, the Fed could still make a mistakea€! LINK: <
+
+Paul Krugman @paulkrugman
+
+#1 is clearly false. #2 is probably true. But LHS seems to elide them; if you press him he makes 
+point #2, but people reading his public pronouncements think he's saying #1. And when that sort of 
+thing happens, it's not the readers' fault 2/
+11:26 AM r™ May 25,2021
+
+440Likes54Retweets
+
+
+3:55 PM r™ May 24,2021
+
+183Likes26Retweets
+
+Paul Krugman: a€™ As I read it, there are two propositions being suggested. 1. The Fed cana€™ t 
+rein in an overheating economy without causing a recessio. 2. The Fed cana€™ t rein in the economy 
+without a recession if it waits until inflation is embedded in expectations and contracts. #1 is 
+clearly false. #2 is probably true. But LHS seems to elide them; if you press him he makes point 
+#2, but people reading his public pronouncements think hea€™ s saying
+#1.                                                                                                 
+                                                                                                    
+    And when that sort of thing happens, ita€™ s not the readers a€™ faulta€™ . Joseph Gagnon: a€™ 
+Agree. The history of Fed causing recessions to fight inflation occurred in the context of no clear 
+policy framework and unanchored inflation expectations. That is not going to happen again. Of 
+course, the Fed could still make a mistakea€l LINK: <
+
+Paul Krugman @paulkrugman
+
+#1 is clearly false. #2 is probably true. But LHS seems to elide them; if you press him he makes 
+point #2, but people reading his public pronouncements think he's saying #1. And when that sort of 
+thing happens, it's not the readers' fault 2/
+11:26 AM r™ May 25,2021
+
+440Likes54Retweets
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+There a€™ s a free email list. There a€™ s a paid-subscription list with (at the moment, only a 
+few) extras too.)
+
+https://www.milkenreview.org/articles/helicopter-money-when-zero-just-isnt-low-enough
+https://delong.typepad.com/delong_long_form/1995/05/low-marx-eric-hobsbawms-age-of-extremes.html
+https://delong.typepad.com/teaching_economics/macroeconomics-readings-optional.html
+
+https://www.bradford-delong.com/2017/10/early-monday-john-cochrane-arithmetic-is-for-losers-resmackd
+own.html
+
+https://www.bradford-delong.com/2018/04/do-we-really-care-whether-profits-from-american-slavery-were
+-reinvested-to-spur-faster-economic-growth-delong-morning-coffe.html
+https://www.bradford-delong.com/2017/01/three-four-many-secular-stagnations.html
+
+https://www.bradford-delong.com/2018/10/the-apallachian-and-other-trails.html
+
+https://www.bradford-delong.com/2020/08/slavery-power-and-cliometrics-a-brief-comment-on-rosenthal-t
+he-economic-historian.html
+
+https://www.bradford-delong.com/2020/07/holbo-this-maxim-is-patently-grossly-inadequate-for-governin
+g-a-blog-comment-box-let-alone-public-reason-a-public-3.html
+https://www.bradford-delong.com/2020/07/holbo-this-maxim-is-patently-grossly-inadequate-for-governin
+g-a-blog-comment-box-let-alone-public-reason-a-public-2.html
+https://www.bradford-delong.com/2020/07/popehat-the-problem-of-the-preferred-first-speakernoted.html
+
+
+https://www.bradford-delong.com/2020/07/the-obelisk-of-wokeness-the-dome-of-cancellation.html
+
+https://www.bradford-delong.com/2020/06/note-to-self-pre-kameron-hurley-uses-of-the-phrase-women-cat
+tle-slaves.html
+https://www.bradford-delong.eom/2020/04/lecture-the-rise-of-socialism-350-to-1917 .html
+
+https://www.bradford-delong.com/2020/03/lecture-notes-the-development-of-underdevelopment-and-w-arth
+ur-lewis.html
+https://www.bradford-delong.com/2020/03/sources-of-marxs-loathing-of-the-market.html
+
+https://www.bradford-delong.com/2020/01/weekend-reading-plutarch-norm-breaking-and-the-collapse-of-t
+he-roman-republic.html
+https ://w ww.bradford-delong .com/2019/12/feminism-1 .html
+
+https://www.bradford-delong.com/2017/ll/should-read-mark-koyama-the-end-of-the-pasthttpsmediumcommar
+kkoyamathe-end-of-the-past-2f028cb970ed-temin.html
+https://www.icloud.eom/pages/0yyHboa030OEohMkflwYElu5w#Econ%5F105-delong-smith-marx-keynes-cement
+
+https ://w ww.bradford-delong .com/2019/12/artificial-intelligence-threat-or-menace-charlies-diary 
+.html
+
+https://www.bradford-delong.com/2019/12/mitchell-carroll-_greek-women_-phryne-with-a-modesty-one-wou
+ld-not-expect-in-a-woman-of-her-class-was-very-careful.html
+https://www.bradford-delong.eom/2019/12/marxs-capital-the-capitalist-system-worsens-over-time.html#m
+ore
+
+https://www.bradford-delong.com/2019/ll/introduction-outside-of-the-charmed-magic-circle-of-western-
+and-central-europe-north-america-and-the-other-anglo-saxon.html
+https://www.bradford-delong.com/2019/10/how-different-technologies-affect-different-workers-vox-cepr
+-policy-portal.html
+
+https: //w ww.bradford-delong .com/2019/10/the- shado w-an-outtake .html
+
+https://www.bradford-delong.com/2019/08/ancient-economies-a-malthusian-model-markdown-notebook.html
+https ://w ww.bradford-delong .com/2019/08/why-i-was-wrong .html#more
+
+https://www.bradford-delong.com/2019/04/greenspan-micklethwait-long-version.html
+https://www.cfr.org/event/future-democracy-symposium
+
+https: //w ww.bradford-delong .com/2019/03/african-retardation .html
+
+https ://w ww.bradford-delong .com/2019/02/modes-of-market-failure .html
+
+https://www.bradford-delong.com/2016/10/draft-did-macroeconomic-policy-play-a-different-role-in-the-
+post-2009-recovery-introduction.html
+
+Journal Refereeing Practices and Polynomial Regression: Threat or 
+Menace?https://delong.typepad.com/sdj/2013/08/journal-refereeing-practices-and-polynomial-regression
+-threat-or-menace.html: A cubic of latitude!?!? So, other things being equal, it is really bada€”14 
+years lower life expectancya€“to live 5 degrees south rather than 10 degrees north of the Huai 
+River? And as good to live 15 degrees south of the Huai River as to live 10 degrees north? The
+feel (and I could well be wrong) as that at some point somebody said: a€oeThis is very important, 
+but it wona€™ t get published without a statistically significant headline finding. Torture the 
+data via specification search until we find a statistically significant effect so that this can get 
+published!a€da€l
+
+Niall Ferguson and the Avoidance of Personal Responsibility: Every Accusation a Confession 
+Department: (Early) Monday 
+Smackdownhttps://www.bradford-delong.com/2018/06/niall-ferguson-and-the-avoidance-of-personal-respon
+sibility-every-accusation-a-confession-department-early-monday-smackdo.html
+Niall Ferguson Is Wrong to Say That He Is Doubly Stupid: Why Did Keynes Write a€oeln the Long Run 
+We Are All Deada€U? 
+Weblogginghttps://delong.typepad.com/sdj/2013/05/niall-ferguson-is-wrong-to-say-that-he-is-doubly-st
+upid-why-did-keynes-write-in-the-long-run-we-are-all-dead-weblogging.html
+Niall Ferguson Sez: a€oeBut I Didna€™t Know Bush Was 
+Incompetent!a€nhttps://delong.typepad.com/sdj/2006/09/niall_ferguson_.html
+
+Misapplied Historya€! LINK: 
+https://www.bradford-delong.com/2018/03/niall-ferguson-fetch-the-purple-toga-emperor-trump-is-hereht
+tpswwwthetimescoukarticlefetch-the-purple-toga-e.html
+https://delong.typepad.com/files/econ-115-lecture-3 .pdf
+
+Author: Ben Domenech, Confedsymp: a€~Ben Domenech, Confedsymp The Washington Posta€™ s sekrit plan 
+to discredit the right by giving airtime to Ben Domenech continues to roll forward.
+Today we find that Ben Domenech of the Washington Post is pissed that George W. Bush went to the 
+funeral of that a€ceCommunista€D Coretta Scott King:
+
+II RedState: The President visits the funeral of a Communista€l and phones in a message to the 
+March for Life. I think we can get a little pissed about thisa€I
+And that Ben likes Jefferson Davis a whole lot:
+
+Bendomenech.com: June 26,2005 - July 02,2005 Archives: Shelby Foote begins his Civil War trilogy 
+with [a chapter on] the story of Jefferson Davisa€!. This all goes to explain why Foote ended his 
+[entire] trilogy this way:
+
+a€IJefferson Davis could never match [Lincolna€™ s] music, or perhaps even catch its tone. His was 
+a different style, though it too had its beauty and its uses: as in his response to a recent 
+Beauvoir visitor, a reporter who hoped to leave with something that would help explain to readers 
+the underlying motivation of those crucial years of bloodshed and division. Davis pondered briefly, 
+then replied. a€oeTell thema€“a€D He paused as if to sort the words.
+a€oeTell the world that I only loved America,a€d he said.a€! LINK: 
+https://delong.typepad.com/sdj/2006/03/ben_domenech_co.html
+
+https://www.bradford-delong.com/2005/08/why_oh_why_cant_5.html
+
+-Reasoning and Cogitationa€”by Individuals, by Social Groups, and by Societies_: 'I am all but 
+certain to never teach a course on: Reasoninga€”Indivdual, Social, and Societal. But if I were to 
+teach such a course, would this be the best reading list? And if not these readings, what would be 
+better replacements?a€l LINK: 
+<https://www.bradford-delong.com/2018/12/reasoningindividual-social-and-societal.html>
+Stephen S. Cohen & J. Bradford DeLong: Concrete Economics: The Hamilton Approach to Economic Growth 
+and Policy LINK: <https://books.google.com/books?id=BXoyBgAAQBAJ>
+
+
+https://www.bradford-delong.com/2016/10/draft-did-macroeconomic-policy-play-a-different-role-in-the-
+post-2009-recovery-introduction.html
+
+Journal Refereeing Practices and Polynomial Regression: Threat or 
+Menace?https://delong.typepad.com/sdj/2013/08/journal-refereeing-practices-and-polynomial-regression
+-threat-or-menace.html: A cubic of latitude!?!? So, other things being equal, it is really bada€”14 
+years lower life expectancya€“to live 5 degrees south rather than 10 degrees north of the Huai 
+River? And as good to live 15 degrees south of the Huai River as to live 10 degrees north? The
+feel (and I could well be wrong) as that at some point somebody said: a€oeThis is very important, 
+but it wona€™ t get published without a statistically significant headline finding. Torture the 
+data via specification search until we find a statistically significant effect so that this can get 
+published !a€da€ I
+
+Niall Ferguson and the Avoidance of Personal Responsibility: Every Accusation a Confession 
+Department: (Early) Monday 
+Smackdownhttps://www.bradford-delong.com/2018/06/niall-ferguson-and-the-avoidance-of-personal-respon
+sibility-every-accusation-a-confession-department-early-monday-smackdo.html
+Niall Ferguson Is Wrong to Say That He Is Doubly Stupid: Why Did Keynes Write a€oeln the Long Run 
+We Are All Deada€D? 
+Weblogginghttps://delong.typepad.com/sdj/2013/05/niall-ferguson-is-wrong-to-say-that-he-is-doubly-st
+upid-why-did-keynes-write-in-the-long-run-we-are-all-dead-weblogging.html
+Niall Ferguson Sez: a€oeButI Didna€™t Know Bush Was 
+Incompetent!a€Elhttps://delong.typepad.com/sdj/2006/09/niall_ferguson_.html
+
+Misapplied Historya€l LINK: 
+https://www.bradford-delong.com/2018/03/niall-ferguson-fetch-the-purple-toga-emperor-trump-is-hereht
+tpswwwthetimescoukarticlefetch-the-purple-toga-e.html
+https://delong.typepad.com/files/econ-115-lecture-3 .pdf
+
+Author: Ben Domenech, Confedsymp: a€~Ben Domenech, Confedsymp The Washington Posta€™ s sekrit plan 
+to discredit the right by giving airtime to Ben Domenech continues to roll forward.
+Today we find that Ben Domenech of the Washington Post is pissed that George W. Bush went to the 
+funeral of that a€oeCommunista€n Coretta Scott King:
+
+II RedState: The President visits the funeral of a Communista€! and phones in a message to the 
+March for Life. I think we can get a little pissed about thisa€l
+And that Ben likes Jefferson Davis a whole lot:
+
+Bendomenech.com: June 26,2005 - July 02,2005 Archives: Shelby Foote begins his Civil War trilogy 
+with [a chapter on] the story of Jefferson Davisa€l. This all goes to explain why Foote ended his 
+[entire] trilogy this way:
+
+a€ Jefferson Davis could never match [Lincolna€™ s] music, or perhaps even catch its tone. His was 
+a different style, though it too had its beauty and its uses: as in his response to a recent 
+Beauvoir visitor, a reporter who hoped to leave with something that would help explain to readers 
+the underlying motivation of those crucial years of bloodshed and division. Davis pondered briefly, 
+then replied. a€oeTell thema€“a€D He paused as if to sort the words.
+a€oeTell the world that I only loved America,a€D he said.a€l LINK: 
+https://delong.typepad.com/sdj/2006/03/ben_domenech_co.html
+
+https ://www.bradford-delong .com/2005/08/why_oh_why_cant_5 .html
+
+-Reasoning and Cogitationa€”by Individuals, by Social Groups, and by Societies_: 'I am all but 
+certain to never teach a course on: Reasoninga€”Indivdual, Social, and Societal. But if I were to 
+teach such a course, would this be the best reading list? And if not these readings, what would be 
+better replacements?a€I LINK: 
+<https://www.bradford-delong.com/2018/12/reasoningindividual-social-and-societal.html>
+Stephen S. Cohen & J. Bradford DeLong: Concrete Economics: The Hamilton Approach to Economic Growth 
+and Policy LINK: <https://books.google.com/books?id=BXoyBgAAQBAJ>
+

@@ -1,0 +1,414 @@
+First of All:
+
+Matt Yglesias: Vaccines Are Better than You Think'. a€~None of the people in the Pfizer/Moderna 
+treatment groups died or even fell seriously ill and had to be hospitalizeda€!. These days they 
+vaccinate kids against chickenpox, so kids mostly dona€™ t get chicken pox. But even more 
+remarkable, when they do get chickenpox these days ita€™ s a a€oesick for a few daysa€D kind of 
+thing not a€cemiss weeks of school while suffering in agony .a€D This is a
+really big deal with regard to the lower efficacy we are expecting from the AstraZeneca and Johnson 
+& Johnson vaccines. A vaccine thata€™ s only 70 percent effective at blocking infection would be 
+expected to generate a larger than that reduction in hospitalizations and an even larger reduction 
+in deathsa€! LINK: https://w w w.slowboring.com/p/good-vaccines
+
+Very Briefly Noted:
+
+•  Chris Buckett: Apple CEO sounds warning of algorithms pushing society towards catastrophe'. 
+a€~Tim Cook says there will be consequences to having a€™ rampant disinformation and conspiracy 
+theories juiced by algorithmsa€™ a€! LINK: 
+<https://www.zdnet.com/article/apple-ceo-sounds-warning-of-algorithms-pushing-society-towards-catast
+rophe/>
+
+• Jen Sorensen: For January 26, 2021: GoComics: Freedom LINK: <https://www.gocomics 
+.com/jen-sorensen/2021/0l/26>a€!
+
+• Model Economic History Papers LINK: <https://delong .typepad.com/teaching 
+economics/model-economic-history-papers .html>a€!
+
+• Congressional Record 202la€ “01a€ “06 LINK 
+<https://github.com/braddelong/public-files/blob/master/congressional-record-2021-01-06.pdf>a€!
+
+• K. N. Chaudhuri (1968): International Economy in the Nineteenth Century: An Historical Survey 
+LINK 
+<https://github.com/braddelong/public-files/blob/master/readings/article-chaudhuri-india-1800s.pdf>a
+€!
+
+• Economic History Society: The Long Run LINK: J<https://ehsthelongrun.net/>a€!
+
+• John Maynard Keynes (1924): A Tract on Monetary Reform LINK: 
+<https://delong.tvpepad.com/kevnes-1923-a-tract-on-monetarv-reform.pdf>a€!
+
+• Colonial Williamsburg: Mena€™ s Dress in the 1770s 
+LINK:<https://www.facebook.com/watch/?v=2875778182533255>a€!
+
+Two Notes:
+
+
+U.S. Investment
+
+Real Gross Private Domestic Investment/Potential National Product
+
+
+0.09
+
+0.08
+
+1960       1970       1980       1990       2000       2010      2020
+
+One of my favorite graphs: investment in America, showing the business cycle pattern, the 
+late-cycle weakness in the high-wage 1960s and the Reagan-deficit 1980s, the anemic Obama recovery, 
+and the large one-time jump in the real investment share in the Clinton yearsa€”one-third due to 
+Clinton budget policy, one-third due to the falling price of high-tech investment goods, one-third 
+due to the dot-com boom
+
+I would note the remarkable success of the Clinton administration program of 1993 in generating a 
+high-investment recovery: boosting the real/real share of investment in America from 13% to 17%. I 
+would note the failure of both the Bush-First-Hastert and the Trump-McConnell-Ryan tax cuts to do 
+anything analogousa€”even though they were sold as bigger deals. We Democratic economists are 
+professional economists: we know stuff. They Republican
+economists are professional^ I Republicans. Rely on them for anything about the world and you will, 
+more likely than not, wind up naked on the Moon.
+
+MacBookAirs, i-5s, & Mis
+
+Looks like a picked the wrong season (i.e., last spring, 2020) to update my MacBookAir
+
+In fact, if there was a worse moment that I could have decided to update my machine from the 
+perspective of the technological gradient missed by upgrading then as opposed to waiting six 
+months, I do not know what it could have been.
+
+All I can plead is that, at the time, it was (a) clear that to run zoom and its ilk effectively and 
+efficiently at the pace it then looked as though I would need to for at least the late spring and 
+summer of 2020,1 needed a processor with more horsepower than thea€! Intel core 14 
+nm-processi5-5350U Broadwella€! I then had; (b)Intel did not seem likely to be willing to offer 
+Apple much more and better soonin mobile processors, for the performance gap between the
+10 nm-process i5-1030NG7 I got and the top-line i7-1060NG7 seemed quite small; and (c) the 
+i5-1030NG7 Ice Lake was itself a very substantial bump up from the Broadwell. I had no idea back 
+then that the Ml would turn out to be the absolute beast it has turned out to be.
+
+So I went from a Geekbench multicore of 1355 to 2873a€”not too shabby for 2.5 years, even by a 
+old-days Moorea€™ s law standard. And do not get me wrong: it is a machine that does not choke and 
+die under the load of doing zoom and two other things. But, still, my CPU is always at more than 
+60% usewith the fan always running at high and, I bet, its power throttled back. And zoom, the 
+window server, the video-content sandboxer, and bird are reliably
+soaking up three of the four Ice Lake cores all be themselves.
+
+And I look to my left, and I see that if I had waited six months for the Ml, I could have gone not 
+from 1355 to 2873 but from 1355 to 7341a€!
+
+Process Name                       % CPU            CPU Time     Threads     Idle Wake Ups
+
+□ zoom.us                                               151.6     2:18:47.13         59             
+1946
+
+Windowserver                                            65.5     1:12:24.64         15              
+102
+
+VTDecoderXPCService                                      56.1      55:10.02          5              
+ 8
+
+bird                                                  42.9     1:16:30.98          9               
+23
+
+■ Activity Monitor                                           22.1      27:16.68          8          
+     3
+
+Skitch Helper                                            19.6        42.89         12               
+6
+
+aomhost                                                17.4      14:18.06          7               
+1
+
+routined                                                16.4      12:30.74          3               
+22
+
+
+kernel_task
+
+10.6
+
+26 51.81       235
+
+1664
+
+1AC
+
+MacBookAir Benchmarks
+
+Single-Core    Multi-Core
+
+Processor                                       Score
+
+
+MacBook Air (11 -inch Early 2015)
+
+Intel Core I7-5650U @ 2.2 GHz (2 cores)
+
+MacBook Air (13-inch Early 2015)
+
+Intel Core i7-5650U @2.2 GHz (2 cores)                        1526
+
+MacBook Air (Late 2018)
+
+Intel Core I5-8210Y @ 1.6 GHz (2 cores)                        1463
+
+MacBook Air (11 -inch Mid 2013)
+
+Intel Core I7-4650U @ 1.7 GHz (2 cores)                        1440
+
+MacBook Air (13-inch Mid 2013)
+
+Intel Core I7-4650U @ 1.7 GHz (2 cores)                        1403
+
+MacBook Air (Mid 2017)
+
+Intel Core I5-5350U @ 1.8 GHz (2 cores)                        1355
+
+Seven Short Chunks to Read:
+
+Will Wilkinson: Undefined Cancel Game: a€~Tendentious question-begging is the point. Slogans like 
+a€oecancel culturea€D and a€oepolitical correctnessa€D are used again and again to short-circuit 
+debate, avoid the underlying substantive controversy, and shift the entire burden of justification 
+onto advocates of the rival positional. [She] isna€™t given a fair chance to make her case for this 
+position. Instead, shea€™ s forced to earn the right to make the
+case by acquitting herself of the implicit charge that she is a petty tyrant policing mind-crimes 
+in the name of stultifying ideological conformity. Good-faith discussion of the gravity of racist 
+jokes never gets off the ground. Thata€™ s why a€oecancel culturea€D tends to strike me as more of 
+an evasive maneuver than a coherent ideaa€l.
+
+L.D. Burnetta€l. "There is no such thing as a€™ cancel culturea€™ a€”there is only culture. There 
+are social moresa€l. One of the sources of pressure that shape thesea€l are public denunciations 
+for shameful behavior. What else should we call the loud yelps about a€™ cancel culturea€™ 
+a€”coming from Harpera€™ s Magazine, coming from Fox News, coming from Congressman Jim Jordan as he 
+bellows against a second impeachment of President Trump,
+coming from Senator Josh Hawley as he whinges about his book contracta€’’except attempts to shame 
+others for their views?a€! LINK: https://modelcitizen.substack.eom/p/undefined-cancel-game
+
+Aleksandr Solzhenitsyn: On Ideology: a€~Macbetha€™ s self-justifications were feeblea€”and his 
+conscience devoured him. Yes, even Iago was a little lamb too. The imagination and the spiritual 
+strength of Shakespearea€™ s evildoers stopped short at a dozen corpses. Because they had no 
+ideologya€l. Ideologya€’’that is what gives evildoing its long-sought justification and gives the 
+evildoer the necessary steadfastness and determination^!. Thanks to
+ideology, the twentieth century was fated to experience evildoing on a scale calculated in the 
+millions. This cannot be denied, nor passed over, not suppressed. How, then, do we dare insist that 
+evildoers to not exist? And who was it that destroyed these millions? Without evildoers there would 
+have been no Archipelago"a€I LINK: https://www.solzhenitsvncenter.org/notable-quotations
+
+Richard North Patterson: The GOPa€™ s a€~Pre-Fascista€™ DNA: a€~The term a€cefascista€Ua€l can be 
+helpful in explaining the direction of the Republican partya€I. White antagonism toward the civil 
+rights revolution metastasized into a seething certainty that a liberal elite had stripped ordinary 
+Americans of their racial, cultural, and economic primacy a€’’fusing racial anxiety with resentment 
+of feminism, gay rights, secularism, immigration, and the
+genuine ravages of globalism, wage stagnation, and declining opportunitya€I. Making America great 
+again meant reasserting their dominance in a country degraded by diversity.
+
+Racial and political violence increased; firearms proliferated; disorder at Black Lives Matter 
+protests aroused a bigoted vigilantism which Trumpa€™ s rhetoric encouraged. The toxins of racial 
+and cultural animus suffused the would-be lynch mob which seized the seat of government in a 
+demented effort to restore Trumpa€”and themselvesa€”to their rightful place. So did a related 
+phenomenona€”a misbegotten fundamentalism which moved some attackers to
+conflate Trump with Jesus Christa€l. It is far too little to say that the GOP has lost its way. 
+Quite deliberately, it has become American democracya€™ s most dangerous enemya€l LINK: 
+https://thebulwark.com/the-gops-pre-fascist-dna/
+
+Dan Tompkins: Max Weber vs. Josef Schumpeter: a€~Cafe Landtmann, Vienna, 1918: The conversation 
+turned to the Russian revolution, and Schumpeter expressed his satisfaction that socialism is no 
+longer a paper discussion but had to demonstrate its viability. Weber grew rather excited and 
+declared that Communism at Russiaa€™ s stage of development was quite simply a crimea€! the road 
+would pass through untold human suffering and end in a terrible
+catastrophe. a€oeThat may be soa€D, Schumpeter said, a€oebut it will be a nice little experiment 
+for us.a€D a€oeA laboratory with heaps of human corpses,a€D Weber specified. a€oeAll anatomy is 
+like that,a€D Schumpeter came backa€l. Weber flared up and spoke more loudly. Schumpeter more 
+softly and sarcastically, while all around them the coffee-house customers interrupted their card 
+game and listened to them with curiosity, until Weber jumped up
+and  hurried out to the Ringstrasse with the words, a€oeThata€™ s more than anyone can takea€Ua€l 
+LINK: https://www.bradford-delong.com/2016/04/weber-vs-schumpeter-todavs-economic-history.html
+
+Andy Matuschak: Applying what you read; timeful texts; generalizing Quantum Country; writing good 
+spaced repetition prompts; reflections on being an independent researcher: a€™ Some people send 
+weekly newsletters. This, I suppose, has become an annual newsletter! Ita€™ s an anthology 
+editiona€l. I spent much of the last year building Orbit, a more flexible platform for building 
+experiments adjacent to the mnemonic medium.mOne aspirational
+description: When you read a text thata€™ s written with Orbit, you dona€™t just read it once and 
+then set it aside, perhaps forever. The review sessions keep you in contact with the ideas, 
+returning you to the material again and again over weeks and months. The ongoing practice changes 
+your relationship to what you read. It gives you a way to bring ideas into your orbit. a€!
+
+When something seems interesting, you can tie a string to it and throw it up in a lazy arc. Ita€™ 
+11 swing back around at some point, but youa€™ re not terribly concerned with when. Youa€™ 11 give 
+its string more or less slack over time. Floating above your head, then, is an ever-shifting 
+constellation of inklings, facts, questions, prompts, obsessions. Every day you stare up at the 
+slice of sky above you and respond to whata€™ s therea€l
+
+Jay Rosen: Two paths forward for the American press: a€~Powerful forces favor a restoration.... All 
+the old cliches will be within easy reach. Divided government. Partisan warfare. Gridlock in 
+Washington. The extremes on both sides. Democrats in disarray. Republicans being mean again. Why 
+cana€™t they compromise? Plus a new one: Dueling realities.  Party on the left, party on the right. 
+Each with an a€ceextremea€D and a a€cemoderatea€D wing that
+
+can come into confict. Savvy journalists sit in the middle, sizing up the state of play, posing 
+tough questions and checking fudged facts with equal aggression toward both sides.... You can hear 
+it in these thoughts from Dean Baquet, top editor of the New York Times, who was quoted in a recent 
+Vanity Fair article.... "Ia€™ m going to sit down. and say, a€~This was great. Leta€™ s be just as 
+aggressive on a Democratic administration.a€™
+
+Frankly, a Democratic administration doesna€™ t warrant as much fact-checking as Donald Trump did. 
+No politician has warranted as much fact-checking as Donald Trump did. But leta€™ s talk about 
+other ways to use this important journalistic tool.a€D Several things going on here. Baquet 
+recognizes Trump as an outlier.  But you can also hear the wish: for the opportunity to be just as 
+aggressive toward a Democratic administration, even though the facts,
+
+as it were, do not warrant it.  In reality, the Congresswoman from QAnon, Marjorie Taylor Greene, 
+didna€™t a€oemeeta€D Black Lives Matter any more than she a€cemeta€D mainstream liberalism or 
+movement conservatives, but setting it up this way feels right to Times people, just as the 
+criticism they got for a€oefalse equivalencea€D probably feels overblown.
+
+The a€oestudy in contrastsa€D I recommended to them was different: reality-based office holders vs. 
+the other kind, of which Marjorie Taylor Greene is a fine example. But that way of picturing the 
+political worlda€”reality-based vs. the denialistsa€”isna€™ t the regular order to which editors 
+like Baquet wish to returna€l LINK: 
+<https://pressthink.org/2020/11/two-paths-forward-for-the-american-press/>
+This was written in 1917. Weber was right. From todaya€™ s perspective of 1990 there is little to 
+add. One slogan of the late 1800s American labor movements was a€oeone big union.a€D The slogan of 
+twentieth-century really existing socialism might as well have been a€oeone big bureaucracya€D:
+
+Max Weber: Who Are the Tankies, and Why Do They Fight for Dystopia?: a€~History shows that wherever 
+bureaucracy gained the upper hand, as in China, Egypt, it did not disappear. A progressive 
+elimination of private capitalism is theoretically conceivable. What would be the practical result? 
+The destruction of the [dehumanizing] steel frame of modern industrial work? No! Simply that also 
+the top management of the socialized enterprises would become
+bureaucratic. There is even less freedom, since every power struggle with a state bureaucracy is 
+hopelessa€! State bureaucracy would rule alone if private capitalism were eliminated. The private 
+and public bureaucracies, which now check one another to a degree, would be merged into a single 
+hierarchy. This would be similar to the situation in ancient Egypt, but it would occur in a much 
+more rational[ized]a€’’and hence unbreakable-forma€l.
+
+Bureaucracy together with the machine is busy fabricating the shell of bondage which men will 
+perhaps be forced to inhabit as powerless as the fellahs of ancient Egypt. Who would want to deny 
+that such a potentiality lies in the womb of the future?a€l a€l LINK: 
+https://www.bradford-delong.com/2019/Q8/who-are-the-tankies-and-whv-do-thev-fight-for-dystopia.html
+
+
+Seven Short Chunks to Read:
+
+Will Wilkinson: Undefined Cancel Game'. a€~Tendentious question-begging is the point. Slogans like 
+a€oecancel culturea€D and a€oepolitical correctnessa€n are used again and again to short-circuit 
+debate, avoid the underlying substantive controversy, and shift the entire burden of justification 
+onto advocates of the rival positiona€!. [She] isna€™t given a fair chance to make her case for 
+this position. Instead, shea€™ s forced to earn the right to make the
+case by acquitting herself of the implicit charge that she is a petty tyrant policing mind-crimes 
+in the name of stultifying ideological conformity. Good-faith discussion of the gravity of racist 
+jokes never gets off the ground. Thata€™ s why a€oecancel culturea€D tends to strike me as more of 
+an evasive maneuver than a coherent ideaa€!.
+
+L.D. Burnetta€!. "There is no such thing as a€™ cancel culturea€™ a€”there is only culture. There 
+are social moresa€!. One of the sources of pressure that shape thesea€! are public denunciations 
+for shameful behavior. What else should we call the loud yelps about a€™ cancel culturea€™ 
+a€”coming from Harpera€™ s Magazine, coming from Fox News, coming from Congressman Jim Jordan as he 
+bellows against a second impeachment of President Trump,
+coming from Senator Josh Hawley as he whinges about his book contracta€’’except attempts to shame 
+others for their views?a€! LINK: https://modelcitizen.substack.com/pZundefined-cancel-game
+
+Aleksandr Solzhenitsyn: On Ideology. a€~Macbetha€™ s self-justifications were feeblea€”and his 
+conscience devoured him. Yes, even Iago was a little lamb too. The imagination and the spiritual 
+strength of Shakespearea€™ s evildoers stopped short at a dozen corpses. Because they had no 
+ideologya€!. Ideologya€’’that is what gives evildoing its long-sought justification and gives the 
+evildoer the necessary steadfastness and determination^!. Thanks to
+ideology, the twentieth century was fated to experience evildoing on a scale calculated in the 
+millions. This cannot be denied, nor passed over, not suppressed. How, then, do we dare insist that 
+evildoers to not exist? And who was it that destroyed these millions? Without evildoers there would 
+have been no Archipelago "a€! LINK: https://www.solzhenitsyncenter.org/notable-quotations
+
+Richard North Patterson: The GOPa€™ s a€~Pre-Fascista€™ DNA: a€~The term a€cefascista€Ua€! can be 
+helpful in explaining the direction of the Republican partya€!. White antagonism toward the civil 
+rights revolution metastasized into a seething certainty that a liberal elite had stripped ordinary 
+Americans of their racial, cultural, and economic primacy a€’’fusing racial anxiety with resentment 
+of feminism, gay rights, secularism, immigration, and the
+genuine ravages of globalism, wage stagnation, and declining opportunitya€!. Making America great 
+again meant reasserting their dominance in a country degraded by diversity.
+
+Racial and political violence increased; firearms proliferated; disorder at Black Lives Matter 
+protests aroused a bigoted vigilantism which Trumpa€™ s rhetoric encouraged. The toxins of racial 
+and cultural animus suffused the would-be lynch mob which seized the seat of government in a 
+demented effort to restore Trumpa€”and themselvesa€”to their rightful place. So did a related 
+phenomenona€”a misbegotten fundamentalism which moved some attackers to
+conflate Trump with Jesus Christa€!. It is far too little to say that the GOP has lost its way. 
+Quite deliberately, it has become American democracya€™ s most dangerous enemya€! LINK: 
+https://thebulwark.com/the-gops-pre-fascist-dna/
+
+Dan Tompkins: Max Weber vs. Josef Schumpeter: a€~Cafe Landtmann, Vienna, 1918: The conversation 
+turned to the Russian revolution, and Schumpeter expressed his satisfaction that socialism is no 
+longer a paper discussion but had to demonstrate its viability. Weber grew rather excited and 
+declared that Communism at Russiaa€™ s stage of development was quite simply a crimea€! the road 
+would pass through untold human suffering and end in a terrible
+catastrophe. a€oeThat may be soa€U, Schumpeter said, a€oebut it will be a nice little experiment 
+for us.a€D a€oeA laboratory with heaps of human corpses,a€D Weber specified. a€oeAll anatomy is 
+like that,a€D Schumpeter came backa€!. Weber flared up and spoke more loudly. Schumpeter more 
+softly and sarcastically, while all around them the coffee-house customers interrupted their card 
+game and listened to them with curiosity, until Weber jumped up
+and  hurried out to the Ringstrasse with the words, a€oeThata€™ s more than anyone can takea€da€l 
+LINK: https://www.bradford-delong.com/2016/04/weber-vs-schumpeter-todays-economic-history.html
+
+Andy Matuschak: Applying what you read; timeful texts; generalizing Quantum Country; writing good 
+spaced repetition prompts; reflections on being an independent researcher: a€™ Some people send 
+weekly newsletters. This, I suppose, has become an annual newsletter! Ita€™ s an anthology 
+editiona€!. I spent much of the last year building Orbit, a more flexible platform for building 
+experiments adjacent to the mnemonic medium.mOne aspirational
+description: When you read a text thata€™ s written with Orbit, you dona€™t just read it once and 
+then set it aside, perhaps forever. The review sessions keep you in contact with the ideas, 
+returning you to the material again and again over weeks and months. The ongoing practice changes 
+your relationship to what you read. It gives you a way to bring ideas into your orbit. a€!
+
+When something seems interesting, you can tie a string to it and throw it up in a lazy arc. Ita€™ 
+11 swing back around at some point, but youa€™re not terribly concerned with when. Youa€™ 11 give 
+its string more or less slack over time. Floating above your head, then, is an ever-shifting 
+constellation of inklings, facts, questions, prompts, obsessions. Every day you stare up at the 
+slice of sky above you and respond to whata€™ s therea€!
+
+Jay Rosen: Two paths forward for the American press: a€~Powerful forces favor a restoration.... All 
+the old cliches will be within easy reach. Divided government. Partisan warfare. Gridlock in 
+Washington. The extremes on both sides. Democrats in disarray. Republicans being mean again. Why 
+cana€™t they compromise? Plus a new one: Dueling realities.  Party on the left, party on the right. 
+Each with an a€ceextremea€D and a a€cemoderatea€D wing that
+
+can come into confict. Savvy journalists sit in the middle, sizing up the state of play, posing 
+tough questions and checking fudged facts with equal aggression toward both sides.... You can hear 
+it in these thoughts from Dean Baquet, top editor of the New York Times, who was quoted in a recent 
+Vanity Fair article.... "Ia€™ m going to sit down. and say, a€~This was great. Leta€™ s be just as 
+aggressive on a Democratic administration.a€™
+
+Frankly, a Democratic administration doesna€™ t warrant as much fact-checking as Donald Trump did. 
+No politician has warranted as much fact-checking as Donald Trump did. But leta€™ s talk about 
+other ways to use this important journalistic tool.a€D Several things going on here. Baquet 
+recognizes Trump as an outlier.  But you can also hear the wish: for the opportunity to be just as 
+aggressive toward a Democratic administration, even though the facts,
+
+as it were, do not warrant it.  In reality, the Congresswoman from QAnon, Marjorie Taylor Greene, 
+didna€™ t a€cemeeta€D Black Lives Matter any more than she a€cemeta€D mainstream liberalism or 
+movement conservatives, but setting it up this way feels right to Times people, just as the 
+criticism they got for a€oefalse equivalencea€D probably feels overblown.
+
+The a€oestudy in contrastsa€D I recommended to them was different: reality-based office holders vs. 
+the other kind, of which Marjorie Taylor Greene is a fine example. But that way of picturing the 
+political worlda€”reality-based vs. the denialistsa€”isna€™ t the regular order to which editors 
+like Baquet wish to returna€! LINK: <https://pressthink.org/202Q/11 
+/two-paths-forward-for-the-american-press/>
+This was written in 1917. Weber was right. From todaya€™ s perspective of 1990 there is little to 
+add. One slogan of the late 1800s American labor movements was a€oeone big union.a€D The slogan of 
+twentieth-century really existing socialism might as well have been a€oeone big bureaucracya€D:
+
+Max Weber: Who Are the Tankies, and Why Do They Fight for Dystopia?: a€~History shows that wherever 
+bureaucracy gained the upper hand, as in China, Egypt, it did not disappear. A progressive 
+elimination of private capitalism is theoretically conceivable. What would be the practical result? 
+The destruction of the [dehumanizing] steel frame of modern industrial work? No! Simply that also 
+the top management of the socialized enterprises would become
+bureaucratic. There is even less freedom, since every power struggle with a state bureaucracy is 
+hopelessa€! State bureaucracy would rule alone if private capitalism were eliminated. The private 
+and public bureaucracies, which now check one another to a degree, would be merged into a single 
+hierarchy. This would be similar to the situation in ancient Egypt, but it would occur in a much 
+more rational[ized]a€’’and hence unbreakable-forma€!.
+
+Bureaucracy together with the machine is busy fabricating the shell of bondage which men will 
+perhaps be forced to inhabit as powerless as the fellahs of ancient Egypt. Who would want to deny 
+that such a potentiality lies in the womb of the future?a€! a€! LINK: 
+https://www.bradford-delong.com/2019/Q8/who-are-the-tankies-and-whv-do-thev-fight-for-dvstopia.html
+

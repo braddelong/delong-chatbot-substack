@@ -1,0 +1,392 @@
+CONDITION: Slouching Towards Utopia
+
+The Full Slouching Tweetstorm:
+
+
+Slouching Tweetstorm:
+
+Read more
+
+a year ago A- Brad DeLong
+
+Thanks for readinga€”and please share with someone you think would learn from this...
+
+Share
+
+First: Yes, Hayeka€™s Macro Is Bonkers
+
+I must say that the von Hayekian view here has always struck me as completely bonkers, and I would 
+love someone who would elucidate it to me. And I dona€™ t think that the very sharp Nicholas 
+Wapshot does a good job here at characterizing it:
+
+Nicholas Wapshot: When Milton Friedman Sided With Keynes Over Hayek on Inflation'. a€~Friedmana€™ s 
+belief that the money supply should be controlled by the central bank to keep prices in check put 
+him firmly on the Keynesian side of the argument over whether governments should manage       the 
+economy. Hayekwould never forgive hima€!
+LINK: chttps://promarket.org/2022/01/23/milton-friedman-keynes-haven-inflation-wapshott/>
+
+Friedman thinks that a central bank should use the tools at its disposala€’’discount rates and 
+purchases, open-market operations, forward guidance, reserve requirements, other 
+safety-and-soundness regulationsa€”to keep the total flow of purchasing power in the economy        
+ growing smoothly at a rateconsistent with medium- andlong-term effective price stability. Friedman 
+takes this to be accomplished by setting and meeting a target growth rate for M2. But if the
+M2 target does not do the job, Friedman thinks the central bank should get the job done, and so 
+create a stable environment in which producers and consumers, buyers and sellers, can make their 
+plans and decisions and then carry them out.
+
+That, Friedman claims, is a a€ceneutrala€Da€”a pro-free-marketa€’’monetary policy.
+Von Hayek saysa€! nothing coherent. For example, in Prices and Production (page 23):
+
+It is perfectly clear that, in order that the supply and demand for real capital should be 
+equalised, the banks must not lend more or less than has been deposited with them as savings. And 
+this means naturally that they must never change the amount of their circulation. At the same time, 
+it is no less clear that, in order that the price level may remain unchanged, the amount of money 
+in circulation must change as the volume of production
+increases or decreases. The banks could either keep the demand for real capital within the limits 
+set by the supply of savings, or keep the price level steady; but they cannot perform both 
+functions at oncea€!
+
+I think I understand this. Hayek believes that there is income, which amount people divide between 
+their spending on consumption goods and their new deposits in banks; there are bank loans, which 
+banks fund out of new deposits plus the bank notes they print (or the balances they credit); and 
+then their is spending on capital goods, which is equal to bank loans. If banks thus ever expand 
+the a€oeamount of money in circulation^ □ (either by printing up bank
+notes or increasing balances they credit) they have created a distortion, fictitious capital, an 
+excess demand for new spending on capital goods which does not conform to either the preferences of 
+the people in the economy or the productive capacity of the economy.
+
+Then, Hayek goes on, what happens if there is technological progress? The prices of commodities 
+should fall. Suppose that the operations of the banking system are such as to keep the price level 
+stable. The only way that can happen is for the banks (or a central bank) to print up more bank 
+notes or to credit borrowers with amounts in excess of new deposits. That creates an excess of 
+demand for new capital goods over desired savingsa€”and that has to cause
+trouble in the long run.
+
+Hence the money supply must be constant, deflation must proceed at a rate equal to population plus 
+productivity growth, and nominal spending must be unchanged, or there will be big trouble.
+
+This big trouble will be inflation, hubris, which of necessity will be followed by inescapable 
+depression, nemesis, which must be accepted and suffered through lest there be even more trouble in 
+the future: the market giveth, the market taketh away: blessed be the name of the market. It does 
+not matter, in Hayeka€™ s schema, whether the money creation that powers the inflationary rise in 
+nominal spending is impelled by the actions of a central bank, the
+enthusiasm of bankers seeking extra profits by credit expansion, or a fortunate gold discovery: all 
+are bad, all are dangerous, all are destructive, and all area€”once you have embarked on thema€”the 
+source of inevitable and unavoidable future depression.
+
+Now, anybody not a great idiot will notice that this way of thinking was disapprobated, was in fact 
+totally demolished, by John Stuart Mill back in 1829. Behind Hayeka€™ s words lie a cash-in-advance 
+model with a constant, rigid velocity of money. But we dona€™ t have a pure cash-in-advance 
+economy. And we dona€™ t have a constant rigid velocity of money.
+
+
+<https: //github .com/braddelong/public-files/blob/master/2022-02-17-tooze-slides .pdf ,pdf>
+
+One Picture:
+
+Market implied Fed hikes, derived from futures market
+
+Mi imhor nf avnoHad OR hn hikac                          Iho novi AO mnnthc
+
+
+I 1 VII I I MV I Wl                      VI        UfJ I lirwu V¥VI II IV^ I IVAl I I I I W I I I1 
+I sJ
+
+Aug'21            Oct'21            Dec'21           Feb'22
+Source: Bloomberg. February 11,2022
+
+Very Briefly Noted:
+
+•  Sohee Kim: Samsung, Hynix & Micron Focus on a€~Protecting ProfitaC™: a€~Memory Chipmakers Dona€™ 
+t Want This Boom to End in Another Bust. a€oeProtecting profita€D is the new industry 
+mantraa€oeProtecting profita€D is the new industry mantraa€! 
+<https://www.bloomberg.com/news/newsletters/2022-02-15/samsung-hynix-and-micron-focus-on-protecting-
+profit?cmpid=BBD021522_TECH>
+
+•  Robert Armstrong and Ethan Wu: A Third Option in the Inflation Debate'. a€™ Todaya€™ s inflation 
+is weird. It is high, which is bad. But it is coming with fast growth, which is good. Weirder 
+still, it stems from pandemic disruptions to supply (bad) as well as surprisingly strong demand 
+(good). Ita€™ s a mixed baga€! <https://www.ft.com/content/41c62537-04ee-49f6-9e41-8248dc239a79>
+
+•  Lex: Apple: Tim Cook Is Worth Every Penny. a€~The chief executive has steered the company to a 
+record market valuation and stable balance sheeta€l 
+<https://www.ft.com/content/533deedl-7143-40b2-8854-84al38ele510>
+
+•  Casey Newton: Why You Cana€™ t Rebuild Wikipedia with Crypto'. a€~Q&A with Molly White of Web 3 
+Is Going Just Greata€!
+
+
+
+Platformer
+
+Why you can't rebuild Wikipedia with crypto
+
+Programming note: Ia€™ m planning to take Wednesday off the newsletter so I can focus on a panel 
+Ia€™ m moderating at Pivot Con in Miami. (Ia€™ 11 be interviewing Parler CEO George Farmer and 
+GETTR CEO Jason Miller about a€! a lot of things.) Ia€™ 11 be back Thursday a€ I
+Read more
+
+a year ago A- 25 likes A- 1 comment A- Casey Newton
+
+• Oliver Willis: Debunking Cana€™ t Defeat Disinformation
+
+Oliver Willis Explains
+
+Debunking Can't Defeat Disinformation
+
+Disinformation kills people. It isna€™ t just an inconvenience or a bother or merely a political 
+problem. Intentional lying and the promotion of falsehoods has killed thousands of Americans over 
+the past twenty years, ranging from thousands of lives lost to lies about weapons of mass 
+destruction to hundreds of thousands of Eves lost to falsehoods about COa€!
+
+Read more
+
+a year ago A- 41 likes A- Oliver Willis
+
+Paragraphs:
+
+Paul Krugman: Trumpa€™ s Big China Flop & Other Failures'. a€~Chad Browna€! a final assessment of 
+that deala€!. a€ce China bought none of the additional $200 billion of exports Trumpa€™ s deal had 
+promised.a€D So Trump was a chump; the Chinese took him to the cleanersa€!. Trumpa€™ s haplessness 
+in dealing with foreign leaders is actually a minor part of the story. Far more important is the 
+fact that the shocks wea€™ ve been experiencing since
+the pandemic began make the Trumpian view of trade look even more economically foolish than it did 
+when he took officea€!
+
+LINK: 
+<https://messaging-custom-newsletters.nvtimes.com/template/oakv2?CCPAOptOut=true&emc=edit_pk_2022021
+5&instance_id=53247&nl=paul-krugman&productCode=PK&regi_id=64675225&segment_id=82806&te=l&uri=nyt%3A
+%2F%2Fnewsletter%2Fa954b31c-lb0b-5a20-9c99-65edbf78932b&user_id=8a3fce2ae25b5435f449ab64b4e3e880>
+
+Gillian Tett: In Russia & elsewhere, the Fog of War Has Partially Lifted. But to What End? I 
+Financial Times'. a€~Thirty-something years ago, as a rookie reporter in the Soviet Uniona€!. The 
+emergence of films such as Putina€™ s Palace also reveals something uplifting about modern 
+information flowsa€!. [THEN] everyone, including journalists, lived in a profound information 
+foga€!. Today a veritable army of citizen journalists is producing and sharing
+texts, pictures and videos from Ukraine and the surrounding regions. Satellites are beaming details 
+about troop movements on to websites that ordinary citizens can access. Western governments are 
+trying to turbocharge this information flow in a bid to counter Russian misinformation. 
+Transparency has become not just the norm but a weapon of war, in a way that was inconceivable 
+three decades ago. Yet increased transparency does not always produce the
+results that we might like. One consequence of this tsunami of information and misinformation is a 
+rise in distrust and cynicisma€!. Yet even if we live in an age marred by misinformation and 
+cynicism, it is still better than the information fog that existed three decades agoa€!. Leta€™ s 
+also hope that the internet keeps working, even amid cyber hacks. It truly is a modern miraclea€!
+
+LINK: <https://www.ft.com/content/46f501db-974f-452f-9254-a91flf83b5a5>
+
+Colin Grabow: 5 Years Later the United States Is Still Paying for Its TPP Blunder. a€~The TPPa€l 
+was also an attempt by the United Statesa€’’along with likea€na€<minded alliesa€”to help shape the 
+rules governing trade in the As iaa€da€< Pacific region. As Asiaa€™ s center both geographically 
+and economically, China is already assured of having a significant say in such matters. The TPP was 
+meant to ensure the United States had a prominent seat at the
+table when such rules were being hammered outa€’’before it opted to push awaya€!. If the TPP was 
+deemed a useful tool in countering Chinaa€™ s influence during the years it was being negotiated, 
+it would be even more of an asset now given the bilateral relationships™ s increasingly acrimonious 
+natureS!. The United States should return to the TPP/CPTPP. That, however, will require both vision 
+and leadership, two commodities that are unfortunately
+currently lacking in Washingtona€!
+
+LINK: <https://www.cato.org/blog/5-vears-later-united-states-still-paving-tpp-blunder>
+
+Chad Orzel: Horseshoe Theorem'. a€~the worst Math Education Take of the past weeka€! Quillette, 
+which attempted to tap into Super Bowl traffic by running a piece with the title a€oelta€™ s Time 
+to Start Treating High School Math Like Football.a€D a€ceLike footballa€D in this case means making 
+it entirely optional, because some people just arena€™ t good at matha€!. I hate this so very, very 
+much. Ita€™ s really tempting to just say a€oeAll you
+assholes deserve each otheraCD and walk away from this, but unfortunately theya€™re doing this 
+a€oehorshoe theorya€D thing where both extremes converge on the same terrible solution: less math 
+for everyone. Which isna€™ t good for anyonea€!
+
+LINK:
+
+
+AN △ <*
+
+Counting Atoms
+
+Horseshoe Theorem
+
+On Monday, Inside Higher Ed ran a story about a new report (PDF) calling for less emphasis to be 
+given to calculus in college admissions. The rationale for this is, unsurprisingly, social justice: 
+rich, white, and Asian students are much more likely to take calculus in high school, while poor, 
+Black, and Hispanic students are less likely to even have tha€!
+
+Read more
+
+a year ago A- 3 likes A- 4 comments A- Chad Orzel
+
+Twitter:
+
+John-Baptiste Oduor: a€™ Writers new and seasoned, Ia€™m commissioning articles and book reviews 
+for ©Jacobin so dm or email me if you have any ideas you want to work on. Ia€™m particularly 
+interested pieces on global politics, political economy, and contemporary film and literaturea€!
+
+Senator Kantian-Leninist: a€™i have 4 articles: - kant was a socialist; - hegel was a socialist; - 
+marx was a kantian; - marx was a hegelian. we will write whichever one causes the most outage and 
+clicksa€!
+
+Liam Bright: a€oeWhen Aristotle talked about Natural Slaves He Meant White Mena€Da€!
+
+Brad DeLong: a€™ Actually, the womana€“Mnesarete of Thespiaia€“who was the consensus pick for the 
+most beautiful woman in Aristotlea€™ s Athens, was nicknamed a€oePhrynea€na€”a€oeToada€na€”because 
+of her highly attractive yellowish-brown skin, the color of a toada€™ s. It was much more beautiful 
+than the ghastly corpse-like skins of the melanin-deprived Thracian and Gaullish barbarians from 
+the north. Needless to say, nineteenth­
+century paintings of Mnesarete have beena€! whitewashed. <https://t.co/E901DzOZQR> <
+
+Brad DeLong dY— @ delong
+
+@ lastpositivist @olivertraldi @josh philosophy ...ghastly 
+corpse-likeskin^nh^nelaniiwlepnvecrDiraciai^nc^raullisMjarbanan^ron^h^iorth^Jeedles^osay, 
+nineteenth-century paintings of Mnesarete have been... whitewashed. 2/END
+
+
+12:28 AM r™ Feb 15,2022
+
+Leave a comment
+
+Give a gift subscription
+
+Become a subscriber to receive this a€~Stack in email; or pay, for extras-at-the-bottom and to 
+support this efforta€”I would like to collect enough from it to hire an RA...
+
+Type your emaila€|       Subscribe
+
+
+PAID SUBSCRIBER ONLY Content Below:
+
+Subject: a€oeGreatest of the Noldor, except FA«anor maybe, thougha€! wisera€! and her wisdom 
+increased with the long yearsa€!a€D
+
+Galadriel
+is tired
+of trying
+
+to reason
+
+with yc
+Deoole
+
+
+I accept as a gift that The Wheel of Time did not suck, and expect nothing more.
+
+
+If their task was not hard enough, they have amped up the difficulty of the dive by making their 
+protagonist Gatadriel^’’proud and iron-willed as Satan himself, second-mightiest of the sorcerers 
+and sorceresses of the Noldor (for of the Vanyar we know not, and Luthien was half-Maiar), more 
+lovely than the dawn itself (for the light of the Two Trees was caught in her hair), able to see to 
+the core of the souls of all she gazed upon, yet never judging them save
+with understanding and mercya€’’except for her forever-unfriend FA«anor.
+
+We wish Morfydd Clark and the rest of the team luck. They will need it. But I really do not see how 
+this is to be accomplisheda€!
+
+Galadriel was the greatest of the Noldor, except FA«anor maybe, though she was wiser than he, and 
+her wisdom increased with the long years.... FA«anor beheld the hair of Galadriel with wonder and 
+delight. He begged three times for a tress, but Galadriel would not give him even one hair. These 
+two kinsfolk, the greatest of the Eldar of Valinor, were unfriends for ever....
+
+She was proud, strong, and self-willeda€!. She had dreams of far lands and dominions that might be 
+her own to order as she would without tutelage. Yet deeper still there dwelt in her the noble and 
+generous spirit of the Vanyar, and a reverence for the Valar that she could not forget. From her 
+earliest years she had a marvellous gift of insight into the minds of others, but judged them with 
+mercy and understanding, and she withheld her
+goodwill from none save only FA«anor....
+
+She joined the rebellion against the Valara€! and once she had set foot upon that road of exile she 
+would not relent, but rejected the last message of the Valar, and came under the Doom of Mandos.... 
+Her pride was unwilling to return, a defeated suppliant.  At the end of the Elder Days after the 
+final overthrow of Morgoth, she refused the pardon of the Valar for all who had fought against him, 
+and remained in Middle-earth. It was not
+
+until two long ages more had passed, when at last all that she had desired in her youth came to her 
+hand, the Ring of Power and the dominion of Middle-earth which she had dreamed, that her wisdom was 
+full grown and she rejected it, and passing the last test departed from Middle-earth for evera€!.
+
+Or:
+
+Galadriel and her brother Finrod were the children of Finarfina€!. Her mother-name was Nerwen 
+(a€oeman-maidena€n), and she grew to be tall beyond the measure even of the women of the Noldor; 
+she was strong of body, mind, and will, a match for both the loremasters and the athletes of the 
+Eldara€!. Even among the Eldar she was accounted beautiful, and her hair was held a marvel 
+unmatcheda€! the light of the Two Treesa€!
+snared in her tressesa€!.
+
+The Exiles were allowed to returna€”save for a few chief actors in the rebellion, of whom at the 
+time of The Lord of the Rings only Galadriel remained. At the time of her Lament in LA3rien she 
+believed this to be perennial, as long as the Earth endured. Hence she concludes her lament with a 
+wish or prayer that Frodo may as a special grace be granted a purgatorial (but not penal) sojourn 
+in EressA«a, the solitary isle in sight of Aman,
+though for her the way is closed. Her prayer was granted a€“ but also her personal ban was lifted, 
+in reward for her services against Sauron, and above all for her rejection of the temptation to 
+take the Ring when offered to hera€!
+
+[ Celeborn] has dwelt in the West since the days of dawn, and I have dwelt with him years 
+uncounted; for ere the fall of Nargothrond or Gondolin I passed over the mountains, and together 
+through ages of the world we have fought the long defeat...
+
+Ah! like gold fall the leaves in the wind,
+long years numberless as the wings of trees!
+The long years have passed like swift draughts
+of the sweet mead in lofty halls
+
+beyond the West, beneath the blue vaults of Varda
+wherein the stars tremble
+
+in the voice of her song, holy and queenly.
+Who now shall refill the cup for me?
+
+For now the Kindler, Varda, the Queen of the stars,
+from Mount Everwhite has uplifted her hands like clouds
+and all paths are drowned deep in shadow;
+
+and out of a grey country darkness lies
+on the foaming waves between us,
+
+and mist covers the jewels of Calacirya for ever.
+Now lost, lost to those of the East is Valimar!
+
+Farewell! Maybe thou shalt find Valimar!
+Maybe even thou shalt find it! Farewell!
+
+Family tree T
+
+
+
+Eldarion
+
+Finwe --------- Miriel           Mahtan
+
+Feanor              Nerdanel
+
+Celebrimbor
+
+Finwe           Indis
+
+
+Findis         Fingolfin ---------  Anaire             Irime          Finarfin
+
+Fingon          Turgon ----------- Elenwe           Aredhel ----------- Edi               Argon
+
+Idril ------------- Tuor             Maeglin
+
+Earendil       Elwing
+
+Elrond           Elros
+
+
+Melian
+
+
+Earendil
+
+Elros               Elrond
+
+
+Dior                     Nimloth
+
+Elured and Elunn                 Elwing         -- Earendil
+
+Elros               Elrond
+

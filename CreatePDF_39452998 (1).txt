@@ -1,0 +1,256 @@
+Subscribe now
+
+Pol AntrA s has a nice paper <https://www.nber.org/papers/w28115> on globalization in the face of 
+Covid-19, although the truth is that his paper doesna€™ t have much to do with the pandemic; it is, 
+instead, about the forces that fueled the rapid growth in trade over the two decades prior to the 
+2008 crisis, and why theya€™ ve abated. Anyway, reading him inspired me to
+write up some thoughts of my own on the long-run history of globalization and its future prospects.
+
+Why do this now? To be honest, partly what Ia€™ m doing is taking a brief mental vacation from the 
+pandemic and the ugliness of the political scene. But Ia€™ ve also been wanting for a while to 
+write something challenging what I believe is a widespread view that the long-run trend must always 
+be toward greater global integration, that unless protectionism intervenes the
+world is always getting flatter.
+
+This is kind of the economic version of the Whig interpretation of history 
+<https://wwnorton.com/books/97803930Q3185>, in which liberal values and the middle class are always 
+rising. Ita€™ s a view that appealed to elite opinion in the heyday of Davos Man 
+<https://www.cnbc.com/2018/01/19/who-are-davos-man-and-davos-woman.html>. But it was never well 
+grounded
+either in history or in theory. Globalization isna€™ t necessarily the wave of the future; the 
+share of trade in world GDP could quite easily be significantly lower in 2040 than it is now. And 
+that might be OK!
+
+In what follows Ia€™ 11 briefly summarize the long-run history of globalization, then sketch out a 
+stylized model that I think makes sense of this history. Ia€™ 11 conclude with a few thoughts about 
+the future.
+
+1. History of the world, part I
+
+Early in John Maynard Keynesa€™ s The Economic Consequences of the Peace he offered an encomium to 
+the extraordinary degree of global integration that, he argued, prevailed on the eve of World War 
+I:
+
+The inhabitant of London could order by telephone, sipping his morning tea in bed, the various 
+products of the whole earth, in such quantity as he might see fit, and reasonably expect their 
+early delivery upon his doorstep; he could at the same moment and by the same means adventure his 
+wealth in the natural resources and new enterprises of any
+quarter of the world, and share, without exertion or even trouble, in their prospective fruits and 
+advantages; or he could decide to couple the security of his fortunes with the good faith of the 
+townspeople of any substantial municipality in any continent that fancy or information might 
+recommend. He could secure forthwith, if he wished it, cheap and
+comfortable means of transit to any country or climate without passport or other formality, could 
+despatch his servant to the neighboring office of a bank for such supply of the precious metals as 
+might seem convenient, and could then proceed abroad to foreign quarters, without knowledge of 
+their religion, language, or customs, bearing coined wealth
+upon  his person, and would consider himself greatly aggrieved and much surprised at the least 
+interference.
+
+Indeed, as I think most economists are aware, world trade grew hugely in the late 19th and early 
+20th century, and by 1913 reached a share of GDP that wouldna€™ t be surpassed again until the 
+1980s:
+
+It was only after the mid-1980s that trade surged to unprecedented levels. And as AntrA s says, at 
+this point a€cehyperglobalizationa€D looks like a one-time jump, mainly taking place over roughly 
+two decades before leveling off a€” a leveling-off that some are referring to as 
+a€ceslowbalization.a€D
+What drove these ups and downs in world trade? Protectionism is an important part of the story. 
+Clemens and Williamson have a summary measure of average world tariffs that, while Ia€™ m sure it 
+can be picked at (like the globalization measure), surely tells the main story:
+
+
+Value of exported goods as share of GDP, 1827 to 2014
+
+Estimates correspond to merchandise export-to-GDP ratios.
+
+0 Add country
+
+25%
+
+20%
+
+Our World
+in Data
+
+
+0%
+
+1827 1840     1860    1880    1900    1920    1940    1960    1980    2000 2014
+
+Source: Fouquin and Hugot (CEPII 2016)                                                          CC 
+BY
+
+Figure 1. Unweighted World Average Own Tariff, 35 countries, %
+
+30
+
+25
+
+20
+
+15
+
+10
+
+
+1860        1880        1900        1920        1940        1960        1980        2000
+
+That is, there was a surge in protectionism in the interwar years, then a gradual process of 
+liberalization a€” mainly through trade agreements a€” after World War II.
+
+Given this process of liberalization, ita€™ s not surprising that world trade grew steadily faster 
+than world GDP after 1950. What may seem surprising, if you believe that the world is always 
+getting flatter, is that even though the world was less protectionist in the 1980s than it had been 
+before World War I, trade as a share of output was basically the same as it had been 70
+years earlier.
+
+This failure of trade to grow between the 1910s and the 1980s is, you might say, the dog that 
+didna€™t bark. Wasna€™t the world supposed to be getting smaller, as the technology of 
+transportation and communication progressed?
+The analytical answer is that rising globalization requires more than technological progress in 
+transportation; it requires progress in transportation that is faster than technological progress 
+in domestic production.
+
+I think this point is most clearly made with a stylized little model a€” one that I worked out more 
+than a decade ago, before the globalization slowdown, but which seems even more relevant now. Let 
+me sketch this model out, then speculate about what this kind of thinking suggests for the future.
+
+2. Globalization: A toy model
+
+Assume, for a moment, that we have a can opener: the world consists of two symmetric countries, 
+each of which has only one factor of production, labor. This labor can be used in each country to 
+produce a single domestic good, which is an imperfect substitute for the good produced in the other 
+country; it takes a units of labor to produce one unit of the good.
+Alternatively, t units of labor can be used to transport one unit of the foreign good to domestic 
+consumers.
+
+Assume also, for the sake of even more simplicity, that there is a constant elasticity of 
+substitution If between the domestic and foreign good in each country.
+
+Given these assumptions, what is the share of imports in spending, which is also the share of world 
+trade in world GDP? A bit of algebra shows that it depends on the ratio of the c.i.f. price of 
+imports a€” i.e., including transport costs a€” to that of the domestic good, PM/PD:
+
+Import share =
+
+But given our simple assumptions about production, PM/PD = 1 + tla. That is, the trade share 
+depends on how much labor is required to transport a good relative to how much is required to 
+produce that good.
+
+Technological progress reduces both t and a\ e.g., container ships are a lot more efficient than 
+windjammers, but modern technology also makes it possible for around 1 laD„2 million farmers to 
+feed America and much of the rest of the world. Therea€™ s no obvious law saying that t will fall 
+faster than a, and hence no law saying that globalization must always rise.
+This is obviously a hugely simplified model, but I think it gets at the main point: trends in 
+globalization should be seen as the result of a race between the technology of transportation and 
+the technology of production, and ita€™ s by no means necessarily the case that transport 
+technology will always win that race.
+
+That said, there have been a couple of eras in which technological change was clearly biased in 
+favor of globalization. Steam engines had widespread economic impacts, but their most dramatic 
+effects came from steamships and railroads. During the era of hyperglobalization this process was 
+more subtle, but it seems that the widespread adoption of containerization, probably
+combined with the use of information technology to coordinate geographically dispersed value 
+chains, produced another relative productivity surge in transportation.
+
+
+Import share =
+
+CT—1
+
+But given our simple assumptions about production, PM/PD = 1 + tla. That is, the trade share 
+depends on how much labor is required to transport a good relative to how much is required to 
+produce that good.
+
+Technological progress reduces both t and a: e.g., container ships are a lot more efficient than 
+windjammers, but modern technology also makes it possible for around 1 laD„2 million farmers to 
+feed America and much of the rest of the world. Therea€™ s no obvious law saying that t will fall 
+faster than a, and hence no law saying that globalization must always rise.
+This is obviously a hugely simplified model, but I think it gets at the main point: trends in 
+globalization should be seen as the result of a race between the technology of transportation and 
+the technology of production, and ita€™ s by no means necessarily the case that transport 
+technology will always win that race.
+
+That said, there have been a couple of eras in which technological change was clearly biased in 
+favor of globalization. Steam engines had widespread economic impacts, but their most dramatic 
+effects came from steamships and railroads. During the era of hyperglobalization this process was 
+more subtle, but it seems that the widespread adoption of containerization, probably
+combined with the use of information technology to coordinate geographically dispersed value 
+chains, produced another relative productivity surge in transportation.
+
+On the other hand, the fact that globalization was no more extensive in the 1980s than it had been 
+in 1913, despite lower tariffs, at least suggests that over that 70-year period technological 
+progress in transport, although it obviously continued, didna€™ t outpace and may have lagged 
+progress in domestic production.
+There arena€™ t any obvious examples of hyper-deglobalization a€” eras in which rapid technological 
+progress outside transportation led to a sharp fall in world trade. But to see how ita€™ s 
+conceivable, let me invoke a whimsical example.
+
+Manu Saadiaa€™ s Trekonomics <https:Z/en.wikipedia,orgZwikiZTrekonomics> argues that the essential 
+feature of the fictional Federation economy is the replicator, which produces whatever you want 
+costlessly, on demand. Ita€™ s hard to see why a world possessed of such devices would engage in 
+much long-distance trade. If you can just say a€oeTea, Earl Grey, hota€D
+and be presented with a steaming cup, why bother shipping stuff from India?
+
+While nothing that drastic has happened, and the data dona€™t show a drastic turn away from trade, 
+there is substantial anecdotal evidence of a€oereshoringa€n a€” individual firms bringing 
+production from developing economies back to advanced countries. Nearly all of these anecdotes give 
+a central role to automation a€” to being able to produce with far fewer
+workers than in the past thanks to robots or a€cecobotsa€D (which work with human workers) that 
+greatly reduce labor costs. In these cases, in other words, higher domestic productivity a€” lower 
+a a€” leads to reduced trade in the absence of an offsetting rise in transportation productivity.
+
+So which way will technology push us over the next few decades? Nobody knows. Ita€™ s easy to 
+conjure up scenarios. Replicators arena€™ t coming anytime soon, but 3D printing is; will it 
+replace much trade in manufactured goods? On the other hand, will many services a€” perhaps 
+including much of health care a€” be delivered through telepresence by workers in
+other countries? (Ia€™ ve earned some fees during the pandemic by giving lectures in Europe and 
+Asia, all of them delivered from my home office via Zoom, Webex, etc. I guess these count as U.S. 
+service exports.)
+
+But should we care whether globalization trends up or down? Wea€™re talking about market responses 
+to technology, not trade war, so does it matter? Possibly.
+
+3. Upsides and downsides of slowbalization
+
+Suppose that the technology race tilts against globalization for the next few decades. In my 
+stylized model, this would be neither good nor bad, just the natural consequences of exogenous 
+technological change. But step outside the model a bit, and ita€™ s not hard to think of some 
+potentially serious consequences for both good and evil.
+
+The good consequences might be environmental. Global shipping is a significant emitter of 
+greenhouse gases; but potentially more important, ita€™ s probably one of the sectors where ita€™ s 
+hardest to eliminate fossil fuels. Running cars off electricity generated by wind and solar is 
+relatively easy; doing the same with container ships probably much more difficult. So
+deglobalization could be helpful in limiting climate change. In fact, if we ever do impose 
+something like carbon prices, this could in itself be a force for deglobalization.
+
+The most likely bad consequences would involve development. Think of Bangladesh, a poor country 
+that has nonetheless made significant progress, tripling real GDP per capita over the past 25 
+years, largely thanks to rising exports of apparel. What will happen to Bangladesh if robots lead 
+to reshoring of the apparel industry?
+
+At an even more fundamental level, ita€™ s probably not a coincidence that the surge in world trade 
+from the 1980s to the late 2000s coincided with substantial economic convergence, with rapid growth 
+in some developing countries. It seems highly likely that complex global value chains lead, as a 
+side consequence, to technological diffusion, aiding rapid development of
+poor nations.
+
+And deglobalization could therefore hurt the process of global convergence; it could, in 
+particular, hurt the prospects of countries, like much of sub-Saharan Africa, that got into the 
+game too late.
+But this is all loose speculation. The main point of this note is to debunk the Whig theory of 
+globalization: no, the world economy isna€™ t destined to become ever more integrated.
+
+Share
+
+Share Brad DeLong's Grasping Reality
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

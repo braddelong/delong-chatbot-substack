@@ -1,0 +1,43 @@
+Subscribe to get this a€~Stack in your email inbox. &/or become a paid subscriber to support my 
+hiring an RA for this, & to get the Directora€™ s Cut version of this a€~Stacka€!
+
+Type your emaila€|       Subscribe
+
+Paul Romer: Mathiness in the Theory of Economic Growth'. a€™ II. The Fork in Growth Theory: a€™ The 
+traditional way to include a scale effect in a growth model was [the external increasing-returns 
+framework] proposed by Marshall (1980). One writes the production ofa€! each of a large number of 
+firms in an industry as g(X)f(x) where the list x contains the inputs that the firm controls and X 
+is the list of inputs for the entire industrya€! [external
+increasing-returns] spillover benefits from the term g(X)a€\.
+
+If we split f(x) = f(a,z)a€! [with] nonrival input a and rival inputs z, and write output at an 
+individual firm as Af(a, z), a standard replication argument implies that f must be homogeneous of 
+degree 1 in the rival goods za€!. In a competitive equilibrium, for each firm, the value of output 
+equals the compensation paid to the rival inputs z so there can be no nonrival inputs a that an 
+individual firm can use whilst excluding other firms from using them. (For an
+elaboration of this argument, see Romer 1994b.) Hence, the nonrival inputs A must be 0% excludable 
+and output must take the form Af(z). No firm or person can keep a nonrival idea secret. No firm or 
+person will have any incentive to take advantage of the surplus noted above by encouraging the 
+diffusion of an idea like mobile telephony throughout the world. Discovery and diffusion have to 
+happen by accident.
+
+Ia€! switched to a model with monopolistic competition^ I with partially excludable nonrival 
+ideasa€! [so it became] logically possible for a firm to have an incentive to discover new ideas 
+(Romer 1990) or to encourage the international diffusion of an existing idea like mobile telephony 
+(Romer 1994a). In this framework, excludability offers a much more precise way to think about 
+spillovers. Non-rivalry, which is logically independent, is the defining
+characteristic of an idea and the source of the scale effects that are central to any plausible 
+explanation of the broad sweep of human history (Jones and Romer 2010).
+
+As part of the campaign of academic politics noted above, economists commitment to price-taking 
+persevered with the assumption of 0% excludability required for external increasing returns, even 
+when this forces mechanical models in which agents have no incentive either to discover ideas or 
+encourage their diffusion. To defend this approach, they too resorted to mathinessa€!
+LINK: <https://paulromer.net/mathiness/Mathiness .pdf>
+
+Leave a comment
+Share
+
+Subscribe now
+
+

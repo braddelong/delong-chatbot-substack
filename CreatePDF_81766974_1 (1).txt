@@ -1,0 +1,505 @@
+Subscribe now
+
+FOCUS: A Lesson on How I Should Read the Political News:
+
+
+After this just-past election, I double-down on my resolution to pay more attention to information 
+sources that (a) crunch numbers, (b) read reports, or (c ) think for themselves on their own 
+SubStacks, and less attention to information s
+The final election forecast from number-cruncher Nate Silver and company 
+<http://fivethirtyeight.com> at Monday-Tuesday midnight was:
+
+that (d) traffic in their a€ceaccessa€D, usually to sources that remain anonymous:
+
+UPDATED NOV. 8, 2022, AT 12:22 AM
+
+- - - - - - - - - - - - U.S. SENATE - - - - - - - - - - - - - - - - - - - - - -                     
+      - - - - - - - - - - - - - U.S. HOUSE - - - - - - - - - - - - - - - - - - - - - -
+
+
+Republicans are slightly
+favored to win the Senate
+
+The Deluxe version of our model simulates the election 40,000
+times to see which party wins the Senate most often. This sample
+of 100 outcomes gives you an idea of the range of scenarios the
+model considers possible.
+
+Republicans are favored to
+win the House
+
+The Deluxe version of our model simulates the election 40,000
+times to see which party wins the House most often. This sample of
+100 outcomes gives you an idea of the range of scenarios the model
+considers possible.
+
+
+Republicans win
+
+59 in 100
+
+Democrats win
+
+41 in 100
+
+Republicans win
+
+84 in 100
+
+Democrats win
+
+16 in 100
+
+
+56   55
+
+REP
+SEATS
+
+52   53   54   55   56
+
+DEM
+SEATS
+
+240
+
+255
+
+DEM
+SEATS
+
+MAJORITY                                                            MAJORITY
+
+•  Republicans win • Democrats win                                       •  Republicans win ® 
+Democrats win
+
+
+SEE THE SENATE FORECAST                                          SEE THE HOUSE FORECAST
+
+a€oeRepublicans are slightly favored to win the Senatea€D by a very small margin. And 
+a€oeRepubicans are favored to win the Housea€D with a a likely result of fifteen more seats than 
+needed for a bare majority.
+
+That is what the polls showed. Perhaps there was some reason to suspect a systematic polling error, 
+but Nate Silver and company think about that and try to factor it in. There was reason to think 
+that if there were substantial polling errors that it would understate Republican supporta€”and 
+thus that a a€oered wavea€D was not beyond the bounds of possibility. But the atmospheric factors 
+for such a wave were not obvious, and it seemed to me to be a possibility,
+not a likelihood.
+
+And yet, and yet, and yet, that was not the access-journalism a€cevibea€D last weeka€!
+
+Last weekend I read an article that seemed to me not an uncommon one for the moment, but still 
+bizarre. I stuck a pin in. It was the New Yorkera€™ s Benjamin Wallace-Wells (who wrote many very 
+good articles at New York and elsewhere), writing as the midterm election got down to the wire that 
+a blowout, indeed a Democratic bloodbath, was not a possibility but a likelihood:
+
+Benjamin Wallace-Wells: Why Republican Insiders Think the G.O.P. Is Poised for a Blowout: The 
+consensus among pollsters and consultants is this Tuesdaya€™ s election will be a a€cebloodbatha€D 
+for the Democratic Partya€!
+
+The article starts with unclarity: (a) does the a€oeRepublicana€D adjective in the headline 
+continue to modify the a€oepollsters and consultantsa€D, who are thus subclasses of a€oeRepublican 
+insidersa€D, or (b) are the a€oepollsters and consultantsa€D a broader group who agree with the 
+a€oeRepublican insidersa€D? Since many consultants are not true insiders, and since pollsters are 
+in general not insiders, I read the sub-head as telling me that the grouips
+that expects a a€cebloodbatha€D with high probability is a broader one. But I agree you can read it 
+either way.
+
+But let us go on to the text, which, I believe, names none of its sources other than Stan 
+Greenberg. The text opens:
+
+On Wednesday afternoon, I spoke with a leading Republican political consultant about the Senate 
+campaign in Georgiaa€!. The Republican consultant told me that Warnocka€™ s prospects were even 
+bleaker than many recent public polls suggest. a€oeThere isna€™ t a single private poll in America 
+that has Herschel Walker anything but ahead,a€D the Republican consultant told me. a€oeNot one.a€D 
+The consensus among a number
+of G.O.P. pollsters and operatives I spoke to this week is that in the Senate races that are 
+thought to be competitive, Republican candidates are heading for a clean sweep: Mehmet Oz will beat 
+John Fetterman in Pennsylvania, and not just by a point or two; Adam Laxalt looks pretty certain to 
+defeat the incumbent Democratic senator Catherine Cortez Masto in Nevada; even less regarded 
+candidates such as Blake Masters in Arizona will
+be carried into office by a predicted wavea€!. High-profile races in which G.O.P. candidates were 
+already favored now look like potential blowoutsa€”Kari Lakea€™ s campaign for governor in Arizona, 
+J. D. Vancea€™ s for Senate in Ohio. And some races that seemed out of reach, such as the Senate 
+campaign, in New Hampshire, of the election denier Don Bolduc, now look like possible wins. The 
+word that kept coming up in these
+conversations was a€cebloodbatha€Da€!
+
+At this point my reaction was: that is what they say, but is there any reason to take what they say 
+to be what they believe, rather than them simply talking their book? Wallace-Wells answers my 
+question in the next paragraph. It is what they believea€”for I spoke to Democrats as well a€oeto 
+provide a checka€D:
+My interesta€! wasa€! to collect prediction^! [and] hear the G.O.P.a€™ s story of the election. 
+(Ia€! spoke witha€! Democratic peersa€! to provide a checka€!
+
+So Wallace-Wells dove into answering the question his headline asks: Why did they believe in a 
+likely a€cebloodbatha€D for the Democrats? The answer was straightforward:
+
+I wanted to know what they thought earlier polls had missed, and how a race that had seemed like a 
+tossup for much of the year could turn into a Republican routa€!. Thea€! overturning of]a€! Roe v. 
+Wadea€! changed pollinga€!. [A] Republican strategist told me. a€oeAnswering a political poll 
+itself became a kind of expression of political identity.a€Da€l As much as sixty per cent of 
+Democratic poll respondents this summer
+werea€! super votersa€! who vote in every single election, even though such voters normally compose 
+about a third of the general electoratea€!. a€oeThis created an informational doom loop, where 
+Democratic candidates get told, You should talk about January 6th, democracy being on the ballot, 
+trans rights,a€™ a€D he said, a€oebecause their primary super voters are picking up the phone and 
+telling them this is what they care
+about.a€Da€! At the same time, the polls were likely underrepresenting certain segments of the 
+electoratea€!. One of the most visible groups in politicsa€! especially energized bya€! Dobbsa€! 
+had shifted toward Democratsa€!. One of the least visiblea€! toward Republicans. a€oeThe 
+fastest-moving portion of the electorate is Hispanic men, and the second-fastest-moving portion of 
+the electorate is Black men,a€D the Republican
+consultant told me. You want to get them on the phone? a€oeGood fucking luck.a€D
+
+But, once again, is this just Republican pollsters and consultants talking their booka€”what they 
+say, not what they believe! Wallace-Wells says: no. It is what they believea€”and it is also true:
+A Democratic pollster told me, a€oeArizona is, I think, like ground zero for that trend. I think 
+youa€™re [also] seeing a lot of Hispanic drift toward Laxalta€Da€!
+
+Why were the Democrats leaking support? Because, Wallace-Wells says, while:
+
+Republicans couldna€™ t wait to get away from the major social issuesa€!. Democrats continued to 
+focus on thema€L The Republican strategist told me, a€oeThe reason that Democrats have fucked this 
+up is that they wona€™ t stop talking about abortion. And the reason that they screwed it up with 
+Blacks is they wona€™ t stop talking about abortion.  Ita€™ s like theya€™re a two-issue party. 
+Ita€™ s this and Trump. They
+
+cana€™ t stop. I dona€™ t think they have anything elsea€Da€!
+
+By contrast:
+
+Republicans have tended to emphasize a simple story about inflationa€!. As the Republican 
+strategist put it to me, a€oelnflation is the big federal story, and a lot of blame belongs on the 
+White House, because the White House just wished this would goa€Ua€!. Republicans also moved to 
+capitalize on the flailing economy with declarations that the country was descending into chaosa€!
+
+And, Wallace-Wells says, there is a non-partisan judgment that the Republican message worked:
+
+Democratic consultant Stanley Greenberg wrotea€!. Candidates a€oefaced a barrage of ads on crime 
+starting in September and early October, a barrage aided by Fox News dramatically increasing its 
+crime reporting.a€D This offensive seems to have worked: when Greenberg asked voters what they most 
+feared about Democratic control of Congress, their top pick was a€oecrime and homelessness out of 
+control in cities and police
+coming under attack,a€D which ran thirteen points ahead of concerns about illegal immigration^!. By 
+Octobera€! Democrats were too trapped in issuesa€’’abortion and the threat to democracya€’’that 
+appealed to their most devoted and best-educated supporters, and had not done enough to reassure 
+voters that they were addressing material concernsa€!
+
+And at the end of the story Wallace-Wells sums up:
+
+The economy is not good, and the President is both a Democrat and unpopular. If you looked only at 
+those factors you might expect a result not unlike the Republican wave that these G.O.P. insiders 
+have predicted. Maybe the race was simple enough that it could be sketched on a napkin. a€oel can 
+show you the trajectory of all our races,a€D the Republican pollster told mea€!. Once we finally 
+got to October, we have enough money, the
+electorate becomes more fully engaged, and then the other side of the a€~Va€™ is straight back up. 
+I can show you the same story in probably twenty-five races.a€D
+
+The Needle: Senate and House Forecast
+
+We stopped updating these forecasts at 4 a.m. Eastern time on Wednesday, Nov. 9.
+
+Phonm of u/innina Qanain rnnirnl                                                                    
+  Phanra of tx/inninor Moiico oonfrol
+
+
+Leaning Dem.
+
+66% CHANCE OF CONTROL
+
+Jump to Senate forecast
+
+Probably Rep.
+
+83% CHANCE OF CONTROL
+
+Jump to House forecast
+
+LEANING
+
+
+LIKELY
+
+VERY LIKELY
+
+LIKELY
+
+VERY LIKELY
+
+LIKELY
+
+VERY LIKELY
+
+Turning Off Our Estimates                                                4:03 AM ET
+
+The “red wave” did not materialize, and election night ended with many close races that will be 
+decided
+by mail-in ballots. We expect the remaining vote that will decide control of Congress will take 
+days, if
+not weeks, to count. Follow the latest election results here >
+
+The thing about Wallace-Wellsa€™ s article is that today, five days after its pre-election weekend 
+publication, it is obvious that none of this is true:
+
+• Mehmet Oz did not win over John Fetterman a€oeand not just by a point or twoa€D: he lost.
+
+• Adam Laxalt was not a€oepretty certain to defeata€D Catherine Cortez Masto in Nevada: he is 
+behind.
+
+• Blake Masters in Arizona was not a€oecarried into office by aa€! wavea€D: she lost by five 
+percentage points.
+
+• Kari Lake in Arizona was not a a€oepotential blowouta€D: she is behind Katie Hobbs by a narrow 
+but durable margin.
+
+• Don Bolduc in New Hampshire was not a a€oepossible wina€D: he lost by ten percentage points.
+
+•  Of the six Republicans whom Wallace-Wells had anointed as winners, only J.D. Vance managed a 
+wina€’’albeit not a a€ceblowouta€D: a six percentage-point margin.
+
+What is Wallace-Wellsa€™ s reaction to the now-obvious fact that his article of five days ago was 
+bilgewatera€”that he was either tricked by Republicans talking their book, and trying to use a 
+media echo chamber to create a last-minute enthusiasm wave, or high on their own supply? What is 
+his reaction to the now-obvious fact that he spun a false story of Democrats massively losing the 
+election talking too much about abortion and too little about controlling
+inflation, deporting illegal immigrants, and putting trans people in their proper place?
+
+He starts by interpreting his pre-election recital of Republican spina€”the thing I did, remember, 
+think somewhat bizarre last weekenda€”as not him being spun into a fantasyworld, but as a 
+bipartisan consensus expectation that was validated by the first several hours of the vote count:
+
+Benjamin Wallace-Wells: The Midterm Elections Deliver a Stunning Return to the Status Quo: The red 
+wave never materialized, Trumpa€™ s handpicked candidates underperformed, some new faces 
+emergeda€”but the country appears as evenly divided as ever. As the first polls closeda€l 
+Republicans and Democrats shared an expectation that the basic structure of U.S. politics was about 
+to change, probably in a red wave, if not a
+tsunami. The nighta€™ s first meaningful resultsa€l suggested that might be happeninga€l [as] Ron 
+DeSantis won his race for governor by twenty pointsa€l not just in rural Florida but ina€l Tampaa€l 
+Miami-Dadea€l. [That] alone suggested that a tidal change was under way.
+
+But then, he writes, as the evening went on:
+
+That early breakthrough quickly gave way to uncertaintya€l. Where, exactly, was the wave?a€l Not 
+even in rural Pennsylvania, a symbolic heart of Trump country, wherea€l Fettermana€l was declared 
+the winner early Wednesday morning. As midnight passeda€l control of the Senate was still up for 
+grabs...
+
+And so he spins the failure of his own previous camping-out in Republican-spin fantasyworld to 
+reflect reality as a great mystery. That Senate control was not decided decisively for Republicans 
+on election night, and that the Republicans do not have a large House majority:
+
+qualifies as a medium-sized stunnera€l. Democrats lost sixty-three House seats in Barack Obamaa€™ s 
+first midterm, and fifty-two in Bill Clintona€™ sa€l. The public broadly disapproves of the job 
+that Joe Biden is doinga€l. Inflation is running at eight per centa€l. The economy, broadly, is 
+teeteringa€l. How could it be that the turn away from Biden was not more decisive than this?a€I
+Was there a turn away from Biden at all? The Democrats look to be more likely than not to be 
+gaining a Senate seat, no?
+
+Well, Wallace-Wells starts by saying that a bunch of things are true that are very different from 
+the things he said were true five days before:
+
+
+±nv iwpuunvaii pian nan uwn tu mn vn mv uvunuiiij, aim tu mini mvnioviwo ad an aiLuiiiauvu LV a 
+otauud LJUV mat mv puunv ownivn ivauj LV IVJWU uui mat io namvi wnvn a wnovi vauiw oupivniv wun nao 
+judtaxx [uvunuiiivuj ixw v. vvanvaxx ^aimj iiunip is OLIII nnvgiai tv uiv pvimvai iivwd, oajing 
+viaz^j uniigaaxx in\.v mug nvaivio vugnt LV UV ounnnainj VAWULVU. ±1 ZAIIIVI ivano uivauij uinuv 
+Liling^ aiv gving uamj, uivn wiiovi v an wo
+
+are still part of the reasona€!
+
+And then he stresses the closeness of results:
+
+Many elections remained very closea€!. No one could conclusively say where many of the 
+highest-profile races stooda€!. In the contested Western states that may decide control of the 
+Senate (Arizona, Nevada), the results were too tentative to say mucha€!
+
+That lowballs how much we know. John Fetterman flipped the Pennsylvania Senate seat to the 
+Democrats. For the Republicans to gain control of the Senate, they would have to win the 
+not-yet-counted votes in Arizona by enough to overcome a Democratic lead, and then get enough more 
+of their supporters to turn out for the Georgia runoff to overcome a Democratic lead. That looks to 
+me like a 25% shot. It is not the case that we cannot say much. We can say
+that you shouldna€™ t bet on Republican control of the Senate at less than 3-1 odds.
+
+And Wallace-Wells concludes with the observation that there has, perhaps, been a generational shift:
+Biden himself cut a diminished figure during this campaigna€!
+
+
+And:
+
+A sitting Republican senator told Politicoa€™ s Jonathan Martin that no more than five of his 
+partya€™ s fifty senators actually wanted to see Trump runa€!. The ex-President went out of his way 
+to undercut DeSantisa€!. a€oel will tell you things about him that wona€™ t be very flatteringa€”I 
+know more about him than anybody, other than, perhaps, his wife,a€D Trump said. a€oel think if he 
+runs, he could hurt himself very
+badly .a€Da€! In building his margin of twenty points, DeSantis swept the state of Floridaa€!. 
+DeSantis rather than Trumpa€™ s handpicked candidatesa€! delivered the signature Republican 
+victorya€!
+
+Back when I worked for the US Treasury, I learned many things from Bob Rubin. Among them were three 
+questions that a group of which I was a part should always be asking themselves:
+
+1. [At the end of a meeting:] What else will we, in one, three, or ten years, wish we had done 
+today?
+
+2. [After we win:] Were we smarta€”did we make the right decisions along the way that led us 
+herea€”or were we just lucky?
+
+3. [After we lose:] Were we unluckya€”did we just take risks and have the dice fall the wrong 
+waya€”or did we make analytical mistakes?
+Am I wrong in wishing that the New Yorker would have its staff clued-in to ask these questions as 
+well?
+
+A much better day-after take comes from the SubStack of Matt Yglesias:
+
+Matt Yglesias: Democrats pulled off one of the best midterms ever: I was wronga€\. Democratsa€™ 
+best issue was clearly abortion when the Supreme Court hung an albatross around Republicansa€™ 
+necks. Democrats ran lots of ads about abortion. Lots and lots and lots of ads. To the point where 
+a lot of people on both sides thought they were really fucking up by not doing more to be visibly 
+addressing the crime and inflation issues
+that voters said was more important. I always thought the abortion-centric ad strategy was the 
+right choice among the choices available, but I still didna€™ t really think it would work. Yet 
+looking around, I think you have to conclude that it dida€!
+
+Then comes the one sentence Matt wrote that annoyed me:
+
+Democratsa€! didna€™ t wildly outperform the polls or anything. But they did outperform the 
+vibesa€!.
+
+In Matta€™ s expressed view, the a€cevibesa€D consist of (a) the history of in-party midterm 
+performances, (b) the belief that Biden is unpopular and that the election would be a referendum on 
+Biden, and (c) skepticism that pollsters know how to obtain a sample. But (a) and (b) are things 
+that work through the pollsa€”not reasons to disbelieve them. And (c) was, as I said, a 
+possibility, not a likelihood. But I think he suppresses the most important part of
+a€cevibesa€D: the media echo-chamber as generated by those who do not crunch numbers or read 
+reports or think for themselves but who instead traffic in their a€ceaccessa€D. That was, mostly, 
+where the vibes were coming from. And there is no reason to believe in what you get from access 
+journalisma€’’after all, were Jared and Ivanka really horrified by what the Trump presidency was 
+doing, and trying to save us all?
+
+But this is more-than-balanced by the best line in the piecea€”the one that made me laugh out loud:
+
+Democrats outperformed a factional battle in which both moderates and progressives spent Tuesday 
+morning a€ceexplaininga€D why Democrats did so badly (it was the other factiona€™ s fault) only to 
+need to pivot once the results came ina€!.
+
+And so he reaches his main conclusion:
+
+People dona€™ t like having their rights taken awaya€!. A critical swathe of the public prefers not 
+to be represented in office by kooks and insurrectionistsa€!. While there was polling error in 2022 
+, it was random and uncorrelated, which is how ita€™ s supposed to work. I didna€™ t believe the 
+polls could possibly be right, because they suggested Democrats would do amazingly well in 
+historical context, which felt impossible given
+that Biden isna€™ t super-popular. But I was wronga€!
+
+And Matt has two other points that I see as exceptionally smart. First:
+
+Ia€! think that abortion is important toa€! Florida Exceptionalisma€!. There very much was a hard 
+red breaka€! ina€! Floridaa€!. Florida has a GOP trifecta that took up abortion legislation, passed 
+a 15-week ban, and then went no further. Fifteen-week ban is populara€! protects the overwhelming 
+majority of abortions that actually take placea€! show[s]a€! pro-choice Florida voters that they 
+could be trusted with political powera€!
+[which] GOP politicians elsewhere in the country couldna€™t demonstrated!
+
+Second:
+
+We have tentative evidence that the public rewarded the robust jobs growth under Biden more than 
+the tenor of media commentary might lead you to believed!. The idea that people would regard the 
+2022 economy as actually worse than the 2010 economy seemed extremely bleaka€! and I now think they 
+just didna€™ t. But having restored full employment, the central task continues to be not so much 
+a€oecurbing inflationa€D (which
+would be achieved through massive unemployment) but unlocking abundance and delivering on the 
+promise of ARP, IRA, IIJA, and the CHIPS Act with regulatory followthrougha€!
+
+And Matt concludes:
+
+I was wrong about the 2022 midterms, and Ia€™ ve never been so glad to be wronga€!
+
+Remember: Competent number crunchers, people who read reports, and people who think for themselves. 
+Those who traffic in their a€ceaccessa€D to anonymous sourcesa€’’especially those who are not 
+immediately on the horn to their sources asking them a€oewhy do you think you were so 
+wrong?a€da€”not so much.
+Share
+
+Very Briefly Noted:
+
+•  Amy Castor: Crypto collapse: J. Pierpont Moneygonea€”FTX rekt, bought by Binance: 
+a€~Bankman-Fried runsa€! Alameda Research, his crypto hedge fund; FTX, his unregulated offshore 
+crypto casinoa€!. FTX US, his exchange for US customers that purports to operate under US law and 
+accepts actual dollarsa€!. Ian Allison posted an explosive story on a partially leaked balance 
+sheet for Alamedaa€! super cashed-upa€! if you account for
+FTXa€™ s own FTT token at mark-to-market, and not what you could actually get for that much of 
+their private illiquid altcoina€!
+
+• Damian Cave: The Worlda€™ s Democracies Ask: Why Cana€™ t America Fix Itself?: a€~Conversations 
+across continents reveal alarm over the United Statesa€™ direction, as it slides away from ideals 
+it once pressed other nations to adopta€!
+
+•  Steve Randy Waldmann: Real inflation cycle theory: a€~Until February of this year, team 
+transitory was right. In 2022, the fiscal impulse of the COVID era was going to collapse as quickly 
+as it had arisen (and it has). That, and some monetary tightening,and unsnarling some temporary  
+supply-sideSNAFUs, would have ended the inflationa€!. Then shit happened. February and early Spring 
+broughta€! the Ukraine Wara€! Omicrona€! [in]
+COVID-Zero Chinaa€! accelerating mistrust and hostility between China and the Westa€!. Patterns of 
+sustainable specialization and trade that we have long depended upon are likely to be, well, no 
+longer sustainablea€!
+
+• Matthew Downhour: In defense of entitlement: a€~Every voter wants the governments™ s help to make 
+a living. Insisting that that help not be structured as an entitlement, however, drags the entire 
+economy downa€!
+
+• Casey Newton and ZoA« Schiffer: Twitter, Cut in Halfa€™: a€~Eight days into Muska€™ s ownership 
+of Twitter, many pundits have begun to predict that this is the beginning of the end. No one can 
+quite imagine a world without Twitter, but no  one canquite imagine this version of Twitter 
+surviving, eithera€!
+Share Brad DeLong's Grasping Reality
+
+AJs:
+
+Charlie Warzel: Elon Muska€™ s Twitter takeover, explained in 19 Elon Musk tweets: a€~I hopea€! you 
+lead a richer, more spiritually fulfilling life than I doa€!. But for those who want to catch 
+upa€!. SoeOctober 27: The Bird Is Freeda€!. October 28: Time to Form an Independent Committees! a 
+content moderation councils!. October 28 and 29: Rejoice! Comedy Is Now Legal!S!. October 30: 
+Conspiracy Theory SundayS!. October 30
+(continued): Never ApologizeS!. Wow, Still October 30: BrainstormingS! a good example of Elon Musk 
+and his Twitter advisers (like the investor Jason Calacanis) conducting market research via the 
+internets™ s least scientific tool: Twitter pollsS!. Brief Interlude: SoeHalloween with my MomSnS!. 
+November 1: Power to the Peasants: TwitterS™ s current lords & peasants system for who has or 
+doesnS™ t have a blue checkmark is
+bullshit.    Power to the people! Blue for $8/monthS!. November 2: More Twitter-Poll Market 
+ResearchS!. November 3: The Very Big Idea: Because it consists of billions of bidirectional 
+interactions per day, Twitter can be thought of as a collective, cybernetic super-intelligenceS!. 
+November 6: Beyond Parody: Going forward, any Twitter handles engaging in impersonation without 
+clearly specifying SoeparodySD will be permanently suspendedS!.
+Surround Yourself With Yes-MenS LSD
+
+Yesterday began the second workweek of Muska€™ s tenure. He celebrated it in the traditional way, 
+by tweeting an image of a Nazi soldier in a meme about birdsa€!. Followed by two separate 
+masturbation jokesa€! an endorsement of the Republican Partya€!.
+
+
+WhaUi?sinSTRiinoniorro^Drin^^eyoi^noi^naos^n^a!^a^a€;
+Donate Subscriptions
+
+Get 50% off a group subscription
+Give a gift subscription
+
+Leave a comment
+
+
+Read Brad DeLong s Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Subscribe now
+
+
+Read Brad DeLong s Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Subscribe now
+

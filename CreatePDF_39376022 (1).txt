@@ -1,0 +1,452 @@
+Subscribe now
+
+First:
+
+I had been thinking that mRNA vaccines gave you 1/8 the risk of catching the virus, 1/20 the risk 
+of passing it on, and 1/50 the risk of dying from it. But this appears to suggest that the numbers 
+are more like 1/8,1/8,1/25. And with the Delta variant having an R[0] of 7.5 suggests that the 
+epidemic is almost fully self-sustaining in a fully vaccinated population. And it also raises the 
+possibility that, unless infection-acquired immunity is stronger than mRNA
+vaccine immunity, it needs only one small mutation to become self-sustaining no matter what the 
+primed-immune-system status of the population:
+
+Greater risk of disease, hospitalization and death among
+unvaccinated vs. vaccinated people: National estimates
+
+At current incidence,
+35,000 symptomatic
+infections per week
+among  162 million
+vaccinated Americans
+
+Disease incidence              Hospitalization incidence               Death incidence
+
+■ Fully vaccinated ■ Unvaccinated
+
+Data from COVID Tracker as of July 24, 2021. Average incidence 100 cases per 100,000 persons per 
+week. Vaccine effectiveness against symptomatic illness = 88% (Lopez Bernal et al. NEJM 2021), 
+where risk is (1 - VE] or
+
+
+12%. vaccine effectiveness hospitalization (or death) = yb% (Stowe et al. FHt preprint), where risk 
+is (1 - vt] or 4%. Kate in unvaccinated = community rate/(( 1-ruiiy vaccinated coverage) + 
+(l-vtj’tuiiy vaccinated
+
+coverage). Rate in fully vaccinated=(l-VE)* Rate in unvaccinated. Fully vaccinated coverage 
+proportions were from COVID Data Tracker as of July 24, 2021 (50% for US,).
+
+Lower estimates of VE for mRNA vaccines among
+immunocompromised populations: Published evidence
+
+■ 71% (Cl 37-87%) against SARS-CoV-2 infection 7-27 days after 2nd dose of Pfizer-
+BioNTech vaccine among immunosuppressed* people vs. 90% (Cl 83-96%) overall1
+
+■ 80% against SARS-CoV-2 infection >7 days after 2nd dose of mRNA vaccine among
+people with IBD on immunosuppressive medication2
+
+■ 75% (Cl 44-88%) against symptomatic COVID-19 7-27 days after 2nd dose of Pfizer-
+BioNTech vaccine among immunosuppressed* people vs. 94% (Cl 87-97%) overall1
+
+■ 59% against COVID-19 hospitalization among immunocompromised >14 days after
+2nd dose of mRNA vaccine3 vs. 91% (Cl 86-95%) without immune compromise3
+
+immunocompromised conditions (e.g., recipients of hematopoietic cell or solid organs transplant, 
+patients under immunosuppressive therapy, asplenia, and
+chronic renal failure: advanced kidney disease, dialysis, or nephrotic syndrome)
+
+1. Chodick et al. Clinical Infectious Diseases, ciab438, https://doi.org/10.1093/cid/ciab438: 2. 
+Khan et al. Gastroenterology (2021). https://www.gast rojou rn a I. org/a rticl e/SW_l 6.-
+
+
+5085(21)03066-3/pdf; 3. Tenforde et al. medRxiv preprint: 
+https://doi.org/10.1101/2Q21.07.08.21259776
+
+Transmission of Delta variant vs. ancestral strain and
+other infectious diseases
+
+
+Fatality rate
+(log scale)
+100%-
+
+MERS
+
+20
+
+10-
+
+5
+
+Bird flu
+
+*  • Ebola
+
+Spanish flu Polio
+
+SARS
+
+• Smallpox                         r
+
+More
+
+deadly
+
+e he New JJorkeimes
+
+Original graph from 2/28/2020.
+
+Delta variant is more transmissible
+than:
+
+- MERS&SARS
+
+- Ebola
+
+
+0.1 -
+
+SARS-
+
+\ CoV-2
+
+Swine flu ancestral
+
+strain
+
+Seasonal
+
+flu
+
+Common
+cold
+
+SARS-CoV-2
+
+Delta variant
+
+Chickenpox
+
+Spreads faster —►
+
+Measles •
+
+- Common cold
+
+- Seasonal flu & 1918 ("Spanish") flu
+
+- Smallpox
+
+Delta variant is as transmissible as:
+
+- Chicken Pox
+
+0     1                     5                          10                         15
+
+Average number of people infected by each sick person
+
+Note: Average case-fatality rates and transmission numbers are shown. Estimates of case-fatality 
+rates
+can vary, and numbers for the new coronavirus are preliminary estimates.
+
+
+Delta variant vaccine breakthrough cases may be as
+transmissible as unvaccinated cases
+
+■ Breakthrough cases reported to national passive surveillance have lower Ct
+values by 3 cycles (~10-fold increase in viral load) for Delta (Ct=18, n=19)
+compared with Alpha (Ct=21, n=207) and other lineages (Ct=21, n=251)
+
+■ Barnstable County, MA, outbreak: No difference in mean Ct values in
+vaccinated and unvaccinated cases [median among vaccinated (n=80): 21.9;
+unvaccinated (n=65): 21.5]
+
+(CONFIDENTIAL - preliminary data, subject to change)                            17
+
+
+Delta variant may cause more severe disease than
+Alpha or ancestral strains: Published evidence
+
+■ Canada: Higher odds of hospitalization [aOR 2.20 (Cl 1.93-2.53)], ICU
+admission [aOR 3.87 (Cl 2.98-4.99)], and death [aOR 2.37 (Cl 1.50-3.30)]1
+
+■ Singapore: Higher odds of oxygen requirement, ICU admission, or death
+[aOR 4.90 (Cl 1.43-30.78)] and pneumonia [aOR 1.88 (Cl 0.95-3.76)]2
+
+■ Scotland: Higher odds of hospitalization [HR 1.85 (Cl 1.39-2.47)]3
+
+1. Fisman and Tuite, doi:10.1101/2021.07.05.21260050; 2. Ong et al. doi:10.2139/ssrn.3861566; 3. 
+Sheikh et al. doi:10.1016/S0140-
+6736(21)01358-1
+
+18
+
+
+Pfizer 2-Dose Vaccine Effectiveness for Alpha vs. Delta
+
+England/Scotland           Canada            Israel
+
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+100
+
+93
+
+64
+
+
+Confirmed Symptomatic Hospitaliz­
+
+10     Infection Disease          ation
+
+0
+
+Symptomatic Hospitalization
+Disease      Or Death
+
+Confirmed Symptomatic Hospitalization
+Infection Disease Or Death
+
+•Alpha A Delta       *Note two different time periods in Israel
+
+Sheikh et al. Lancet (2021): https://doi.org/10.1016/S0140-6736(21)01358-1; Lopez Bernal et al. 
+medRxiv preprint; https://doi.org/10.1101/2021.05.22.21257658; Stowe
+et al. PHE preprint: 
+https://khub.net/web/phe-national/public-library/-/document_library/v2WsRK3ZIEig/view/479607266; 
+Nasreen et al.medRxiv preprint:
+
+htlps://doi.org/10,l101/2021.06.28.21259420; https://www.gov.il/en/departments/news/06072021-04     
+                                                      19
+
+
+Given increased transmissibility, lower VE, and current vaccine
+coverage, NPIs needed to reduce transmission of Delta variant
+
+
+Model Assumptions:
+
+■ Vaccine effectiveness 75-85%
+
+■ 50% infections reported
+
+co  r
+
+as co _
+
+® o
+
+u
+
+Reported incidence 50 cases per 100,000 per week
+
+Natural immunity=5%           Natural immunity=35%
+
+3
+
+as co _
+
+® o
+
+u
+
+£
+
+o°
+
+A
+
+Given higher transmissibility and current vaccine coverage, universal masking is essential
+to reduce transmission of the Delta variant
+
+NO ADJUSTMENTS FOR OTHER
+INTERVENTIONS
+
+• e.g., no distancing, no isolation,
+no gathering restrictions
+
+21
+
+
+□u mm ary
+
+■ Delta is different from previous strains
+
+- Highly contagious
+
+- Likely more severe
+
+-  Breakthrough infections may be as transmissible as unvaccinated cases
+
+■ Vaccines prevent >90% of severe disease, but may be less effective at preventing
+infection or transmission
+
+-Therefore, more breakthrough and more community spread despite
+vaccination
+
+■ NPIs are essential to prevent continued spread with current vaccine coverage
+
+22
+
+
+Share
+
+Yasmeen Abutaleb, Carolyn Y. Johnson, & Joel Achenbach: a€~The War Has Changeda€™: Internal CDC 
+Document Urges New Messaging, Warns Delta Infections Likely More Severe'. a€~The delta varianta€l 
+cause[s] more severe illness than earlier variants and spreads as easily as chickenpox, according 
+to an internal federal health document that argues officials must a€oeacknowledge the war has 
+changed.a€D The
+documenta€l strikes an urgent notea€!. Vaccinationa€l the best defensea€l. Vaccinated individuals 
+infected with delta may be able to transmit the virus as easily as those who are unvaccinateda€!. 
+a€oel finished reading it significantly more concerned than when I began,a€D Robert Wachter, 
+chairman of the Department of Medicine at the University of California at San Francisco, wrote in 
+an emaila€l. There are 35,000 symptomatic
+infections  per week among 162 million vaccinated Americansa€l. On May 13, people were told they no 
+longer needed to wear masks indoors or outdoors if they had been vaccinated. The new guidance 
+reflects a strategic retreat in the face of the delta varianta€l. The CDCa€™ s revised mask 
+guidance stops short of what the internal document calls for. a€oeGiven higher transmissibility and 
+current vaccine coverage, universal masking is
+essential to reduce transmission of the Delta variant,a€O it statesa€!. The vaccines are not as 
+effective in immunocompromised patients and nursing home residentsa€l. A person working in 
+partnership with the CDC on investigations of the delta variant, who spoke on the condition of 
+anonymity because they were not authorized to speak, said the data came from a July 4 outbreak in 
+Provincetowna€l. The person said the data was
+a€oedeeply disconcertinga€D and a a€oecanary in the coal minea€D for scientists who had seen the 
+dataa€!
+
+LINK: <https ://github.com/braddelong/public-files/blob/master/cdc.pdf> 
+<https://github.com/braddelong/public-files/blob/master/readings/post-war-has-changed-2021-Q7-29.pdf
+>
+
+
+Share Brad DeLong's Grasping Reality
+
+Very Briefly Noted:
+
+•  James Politi & Mamta Badkar : US economic growth weaker than expected in second quarter. a€~GDP 
+advanced 6.5% on annualised basis as strong consumption was offset by lagging private investment. 
+Personal consumption was the most robust component of the GDP data, with spending increasing at an 
+annualised rate of 11.8%a€!. Strong consumption was partially offset by lagging property 
+investments and inventory drawdownsa€!
+
+<https://www.ft.com/content/b7730c9e-8e96-42d4-9b8f-ca0fde656f71>
+
+• Henry A. Kissinger (1968): The White Revolutionary: Reflections on Bismarck (Daedalus Vol. 97, 
+No. 3 (Summer), pp. 888a€“924 
+<https://github.com/braddelong/public-files/blob/master/readings/article-kissinger-bismarck.pdf>
+
+•  Sonal Chokshi: The Best of the al6z Podcast, Now on Future'. a€~Today, wea€™re releasing 
+transcripts from some of our most popular episodes of the al6z Podcast here on Futurea€! 
+<https://future .al 6z .com/the-best-of-the-al 6z-podcast-now-on-future/>
+
+•  Tommasso Scortino & al:. a€™ Keep in mind that truer are a lot of errors in [David Graebera€™ s 
+book] Debta€\ <https ://github.com/braddelong/public-files/blob/master/pdfmakerapp-graeber-2021 
+-07-29.pdf>
+
+
+Substack
+
+Letter joins Substack to help independent writers work together
+
+Clyde Rathbone, Monish Parajuli, and Dayne Rathbone of Letter. When we first saw Letter, a platform 
+for written debate, we immediately recognized it as a fellow traveler. Here was a platform that 
+encouraged thoughtful discussion among people who were incentivized to seek understanding rather 
+than internet points, to argue in good faith instead of droppina€!
+Read more
+
+2 years ago A- 71 likes A- 21 comments
+
+Paragraphs:
+
+
+Substack
+
+Letter joins Sub stack to help independent writers work together
+
+Clyde Rathbone, Monish Parajuli, and Dayne Rathbone of Letter. When we first saw Letter, a platform 
+for written debate, we immediately recognized it as a fellow traveler. Here was a platform that 
+encouraged thoughtful discussion among people who were incentivized to seek understanding rather 
+than internet points, to argue in good faith instead of droppina€!
+Read more
+
+2 years ago A- 71 likes A- 21 comments
+
+Paragraphs:
+
+Nathan Lane: Manufacturing Revolutions: Industrial Policy and Industrialization in South Korea'. 
+a€~South Korea dramatically altered its development strategy with a sector-specific industrial 
+policy: the Heavy Chemical and Industry (HCI) drive, 1973a€“1979a€!. I use the sharp introduction 
+and withdrawal of industrial policies to study the impacts of industrial policy a€’’during and 
+after the intervention perioda€!. (1) HCI promoted the expansion and
+dynamic comparative advantage of directly targeted industries. (2) Using variation in exposure to 
+policies through the input-output network, I show HCI indirectly benefited downstream users of 
+targeted intermediates. (3) I find direct and indirect benefits of HCI persisted even after the end 
+of HCI.. the eventual development of directly targeted exporters and their downstream counterparts. 
+Together, my findings suggest that the temporary drive shifted Korean
+manufacturing into more advanced markets and created durable industrial change. These findings 
+clarify lessons drawn from South Korea and the East Asian growth miraclea€!
+
+LINK: <https://osf.io/preprints/socarxiv/6tqax>
+
+Rumman Chowdhury: a€™ Friends, I am tired. I work hard to build good things and bring in the right 
+people. Parity is no different. For the second time in two weeks, I have to fight a major media 
+outlet for basic recognition of my work. The gaslighting is real. The erasure is real: a€oeTo set 
+the record straight: Parity 2.0 wouldna€™ t exist without @ruchowdh. In between Accenture and 
+Twitter, Rumman worked tirelessly on Parity for a year. She got
+customers, proved the model, validated the need, and invented a new way to identify bias in AI 
+beyond a€~just dataa€™ .a€D Both Liz and I interviewed with @CadeMetz for this piece. He is well 
+aware that (1) I was the CEO of Parity and incorporated it, and (2) I didna€™t just a€~build a 
+toola€™ and move from a (nameless) role at Accenture to a (nameless) role at Twitter. He 
+acknowledges this in the signal chats I am having with him. I explicitly asked
+him    if he agreed with the context of the article. His response was to have a conversation to 
+a€oeexplain how we put a story together and the (very careful) choices we make.aCD I will not 
+entertain a conversation where I have to convince someone that my work deserves credit. This is not 
+a matter of opinion, this is a matter of facts. I will also not entertain another conversation 
+where I prove my worth to someone AS THEY SHOWCASE MY WORK. This is
+how people get erased. The history of Parity, as codified by the NYT, is that someone else started 
+it. Ia€™ m a footnote that barely existed. This is what VCs will see. This is what potential 
+clients will see. This is what the amazing future press will talk about. Because, mark my words, 
+Parity is going to change an already stagnating industry by introducing new ideas and new modes of 
+working. The dilemma I am stuck with-do I take constant time out to validate
+my existence with people like Cade? Do I take the call with him at 6pm (my first calendar opening, 
+literally since 8:30am) to beg that he acknowledge my existence? Or, do I draw a line in the sand 
+and refuse to acknolwedge the gate keepers of the major media outlets who seem to think that my 
+work is good enough, but my name and my face arena€™t? Knowing full well that by doing so, I become 
+yet another person whose work is erased over time. I know
+that Liz will do everything to ensure that doesna€™ t happen. But a quick google search, and the 
+Times article, will do the damage. So what, friends, do i do?
+
+LINK:
+
+Rumman Chowdhury @ruchowdh
+
+Or, do I draw a line in the sand and refuse to acknolwedge the gate keepers of the major media 
+outlets who seem to think that my work is good enough, but my name and my face aren't? Knowing full 
+well that by doing so, I become yet another person whose work is erased over time 8/
+8:07 PM r™ Jun 30,2021
+
+356Likes27Retweets
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

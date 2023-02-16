@@ -1,0 +1,298 @@
+Subscribe now
+
+Worthy Reads from Equitable Growth:
+
+1) This remains the best single place to go to get an immediate, timely handle on what each 
+montha€™ s Bureau of Labor Statistics report brings us in the way of news about the state of the 
+American labor market and the American economy. This months report is especially puzzling. The 
+household survey unemployment rate down to 4.2%. Disappointing payroll employment growth at barely
+over 200,000. Private sector employment up. Public sector employment down. There should not be this 
+much divergence between a payroll survey that is close to comprehensive and a household survey that 
+is a very good near-random sample by all the standards of survey research. And yet there are these 
+differences. They arise from the fact that even though the payroll survey is near
+comprehensive, it has powerful and changing biases in its failure of full comprehension. I think we 
+badly need to spend more money figuring out exactly how these biases are evolving:
+
+Kathryn Zickuhr & Carmen Sanchez Cumming: Equitable Growtha€™s Jobs Day Graphs: November 2021 
+Report Edition'. a€™ On December 3, the U.S. Bureau of Labor Statistics released new data on the 
+U.S. labor market during the month of November. Below are five graphs compiled by Equitable Growth 
+staff highlighting important trends in the data. Total
+nonfarm employment increased by 210,000 in November, and the employment rate for prime-age workers 
+rose to 78.8 percent. The unemployment rate declined to 4.2 percent in November, remaining higher 
+for Black workers (6.7 percent) and Latinx workers (5.2 percent) compared to Asian American workers 
+(3.8 percent) and White workers (3.7 percent). The overall
+employment rate rose to 65.0 percent for men and 53.8 percent for women, still below pre-pandemic 
+levels for both groups. Private-sector employment continued to make gains in November, but 
+public-sector employment gains have faltered. Despite recent gains, the jobs recovery remains 
+fragile. Employment in many industries has increased more slowly than in recent
+months, and remains below pre-pandemic levelsa€l
+
+LINK: 
+chttps://equitablegrowth.org/equitable-growths-jobs-day-graphs-november-2021-report-edition-2/>
+
+2) I want to hoist this back again to the top. I think it is really, really important and really, 
+really good. Many employers have decideda€”and make sticka€”the principle that they simply do not 
+bargain: they post a wage for the job, and then even if they get a very good match for the 
+positioni/CE they would rather let a good worker well-matched walk then bargain over the wage with 
+somebody
+who has already taken the job. This economizes on administrative effort, yes. But it has always 
+seemed to me that it is more a matter of social power than of economic logic. One bargains with 
+equals or neither equals. One commands those who are subordinated!1/s
+
+Marta Lachowska, Alexandre Mas, Raffaele Saggio, & Stephen Woodbury: Wage Bargaining Is an 
+Important, Yet Unavailable, Tool for Many U.S. Workers to Increase Their Incomes'. a€™ This paper 
+examines the behavior of dual jobholders to test a simple model of wage bargaining and wage 
+posting. We estimate the sensitivity of wages and separation rates to
+wage shocks in a workera€™ s secondary job to assess the degree of bargaining versus wage posting 
+in the labor market. We interpret the evidence within a model where workers facing hours 
+constraints in their primary job may take a second, flexible-hours job for additional income. When 
+a secondary job offers a sufficiently high wage, a worker either bargains with the
+primary employer for a wage increase or separates. The model provides a number of predictions that 
+we test using matched employer-employee administrative data from Washington State. In the 
+aggregate, wage bargaining appears to be a limited determinant of wage setting. The estimated wage 
+response to improved outside options, which we interpret as bargaining, is
+precisely estimated, but qualitatively small. Wage posting appears to be more important than 
+bargaining for wage determination overall, and especially in lower parts of the wage distribution. 
+Observed wage bargaining takes place mainly among workers in the highest wage quartile. For this 
+group, improved outside options translate to higher wages, but not higher
+separation rates. In contrast, for workers in the lowest wage quartile, wage increases in the 
+secondary job lead to higher separation rates but no significant wage increase in the primary job, 
+consistent with wage posting. We also find evidence in support of the hours-constraint model for 
+dual jobholding. In particular, work hours in the primary job do not respond to wages
+in   the secondary job, but hours and separations in the secondary job are sensitive to wages in 
+the primary job due to income effectsa€l
+
+LINK: 
+<https://equitablegrowth.org/working-papers/wage-posting-or-wage-bargaining-a-test-using-dual-jobhol
+ders/>
+
+3) This a€oeVisual EconomyaCD is, I think, one of the greatest recent Equitable Growth initiatives:
+
+Equitable Growth: a€™ For the second month in a row, our top visual looks at how income impacts the 
+likelihood of voting in midterm AND presidential elections. Interested in seeing other key graphics 
+on 31 different economics topics? Check out A Visual Economy_ 
+<https://equitablegrowth.org/a-visual-economy/>a€!
+LINK:
+
+Equitable Growth @ equitablegrowth
+
+For the second month in a row, our top visual looks at how income impacts the likelihood of voting 
+in midterm AND presidential elections. Interested in seeing other key graphics on 31 different 
+economics topics? Check out a #VisualEconomy:
+
+High-income individuals are far more likely to vote, in both midterm
+and presidential elections
+
+Percent of individuals who voted in U.S. elections, 2014-2020, at three levels of income
+
+Midterm elections
+
+Source: U.S. Census Bureau, ’Current Population Survey Voting and Registration Supplement’ (n.d.).
+
+
+Note: Percentages omit respondents who did not answer the voting question.
+
+Q Equitable Growth
+
+9:02 PM a'™ Dec 1,2021
+
+Share
+
+Worthy Reads from Elsewhere:
+
+1) Paul Krugman continues to remain the paragon for not just useful and applicable macroeconomic 
+theory, not just for opening-up new literatures for research, not just for teaching students who 
+will be future professional economists, but for explining whatis going on in the economy to the 
+broad public sphere:
+
+Paul Krugman: Why Workers Are Quitting: a€~Unlike the a€oeskills gapa€D invoked to explain 
+persistent unemployment after the 2008 crisis, this time labor shortages seem to be real. Workers 
+are quitting at record rates, an indication that they feel confident about finding new jobsa€!. So 
+workers are clearly feeling empowered, even though many fewer Americans are
+employed than in the past. Why? Earlier this year many people insisted that enhanced unemployment 
+benefits were reducing the incentive to accept jobs. But those extra benefits were eliminateda€L 
+Another storya€! says that the extensive aid families received during the pandemic left manya€! 
+[with] the financial space to be choosier about their next job. A less upbeat
+story says that some employees are still afraid to go back to work, and/or that many cana€™ t go 
+back to work because their child care arrangements are still disrupted. But therea€™ s at least one 
+more possibilitya€!. The experience of the pandemic may have led many workers to explore 
+opportunities they wouldna€™ t have looked at previouslya€!. People have a
+strong status quo biasa€i. I can easily believe that there were many workers who should have quit 
+their lousy jobs in, say, 2019, but didna€™ t because they werena€™ t really considering the 
+alternatives. And ita€™ s at least possible that the disruptions of the pandemic led to a great 
+rethinka€!. [That] is actually a good thinga€”a small silver lininga€!
+
+LINK: <https://www.nytimes.com/2021/ll/05/opinion/great-resignation-quit-job.html>
+
+2) This is, I think, correct. The strong balance of the evidence is still on the side of a€oeteam 
+transitorya€D as far as the very moderate inflation of 2021 is concerned. If we still see moderate 
+inflation in late 2022, come back and talk to me then about the appropriate Federal Reserve 
+response:
+
+Michael Hiltzik: Why Do We Fear Inflation?: a€~Therea€™ s a right way and a wrong way to think 
+about inflation. Herea€™ s a right waya€!. There are no signs that the inflation surge showing up 
+in the latest statistics is caused by sustained overheating of the U.S. economy. The signs point to 
+several short-term factors coming together all at oncea€!
+
+LINK: <https://www.latimes 
+.com/business/story/2021-11-26/right-way-and-wrong-way-to-think-about-inflation>
+
+3) The very smart Nathan Newman is interesting here, but wrong. As a matter of fact, Republican 
+politicians do not have a plan for shifting more of the collective surplus from the globalized 
+economy to the United States and distributing it to blue-collar workers in export and 
+import-competing sectors:
+
+Nathan Newman: Education Polarization in Elections: People are Voting Their Class Interests: a€~Our 
+Two Parties Reflect Two Class Strategies for Addressing Stagnating Incomesa€!. Americans coulda€! 
+either seek to expropriate some of the burgeoning growth among emerging economies or go after the 
+wealth of the superelite, the global top 1% holding 43% of all
+global wealth in 2020. Arguably, our two political parties have increasingly sorted themselves 
+along the line of those two strategiesa€!. Workers who have found themselves directly in 
+competition with developing world workersa€! have allied with a portion of the economic elite 
+willing to help them extract some additional income and jobs from those emerging
+economies, including via trade wars, energy policy, agricultural policy, and other economic and 
+occasionally military actions, all in exchange for support for the Republican Party policies that 
+help that elite keep their wealtha€!. Workers whose industries are largely outside global 
+competition, such as service work or public employment, or in what has been dubbed the
+a€oecreative economya€Da€; require extracting some of the income of the economic elitea€!. As an 
+analysis by the Peterson Instituted™ s Marcus Nolan detailed, white voters in regions with 
+employment impacted by the doeChina shockdD seemed to adopt doeharsher attitudes towards immigrants 
+and racial minoritiesdn and even to gravitate towards more
+fundamentalist versions of Christianityd!
+
+LINK:
+
+
+Left Future
+
+Education Polarization in Elections: People are Voting Their Class Interests
+
+Why did so many non-college whites lurch towards Trump in the 2016 and 2020 elections - and 
+conversely why are more educated whites trending towards the Democrats? Many progressive analysts 
+are a bit anguished at what they perceive to be an inversion of traditional class politics in 
+voting, which for some means that the new split in voting has to be aboua€!
+
+Read more
+
+a year ago A- Nathan Newman dY§
+
+4) Just think: I all the right-wing grandees and worthies who have had their anti-Fox News 
+Road-to-Damascus moment ahadt all had that moment together back in the mida€“1990s. Think of how 
+much healthier and stronger and richer America would be:
+
+David French: The Fox News Distortion Field & Other Media Maladies'. a€~Ita€™ s now been a little 
+more than a week since my friends, colleagues, and Dispatch co-founders Steve Hayes and Jonah 
+Goldberg announced their resignations from Fox News. After days of online vitriol (and support), 
+the dust has settled a bit, and ita€™ s worth reflecting a bit on what
+they did and why it mattereda€!. Fox is the 800-pound gorilla of conservative mediaa€!. And of 
+course Fox doesna€™t just dominate online, it dominates on television^!. Fox is conservative media, 
+and almost everything that is not Fox is some variation on the Fox producta€!. That reality, 
+combined with Foxa€™ s own aggressive defense of its brand, is one reason
+why so very little right-wing a€oemedia criticisma€D is aimed at the largest, most powerful, and 
+most profitable cable network in the landa€!. The cultural and political consequences in the 
+right-wing grassroots are considerablea€!. Activists dona€™t know what they dona€™t know in part 
+because telling them the truth in right-wing spaces carries a costa€”and not
+just in reader disapproval. Fox, the most potent player in the market, will be displeased, and when 
+it is displeased the ceiling on your career gets a little bit lowera€!
+
+LINK:
+
+
+The French Press
+
+The Fox News Distortion Field and Other Media Maladies
+
+Ita€™ s now been a little more than a week since my friends, colleagues, and Dispatch co-founders 
+Steve Hayes and Jonah Goldberg announced their resignations from Fox News. After days of online 
+vitriol (and support), the dust has settled a bit, and ita€™ s worth reflecting a bit on what they 
+did and why it mattereda€!
+
+Read more
+
+a year ago A- 315 likes A- 514 comments A- David French
+
+5) my friend Noah Smith thinks that it is easy, nay trivial, to make massive, massive improvements 
+in Twittera€™ s ability to avoid misinformation and reduce generating polarization. I think he is 
+correct. It shows how very strong desire to scrape the last dollar from the bottom of the 
+advertising barrel is the Twitter has not made these changes yet:
+
+Noah Smith: How to Fix Twitter: a€~Three changesa€”l) dropping blocked usersa€™ tweets from thread 
+view, 2) allowing people more control over who can reply to their tweets, and 3) allowing people to 
+opt out of being quote-tweeteda€”will remove much of the platforma€™ s shoutiness and toxicity, 
+without restricting dissent or speech on the platform overall. In
+addition, Twitter should implement the dislike buttona€!
+
+LINK:
+
+How to fix Twitter
+
+Jack Dorsey is stepping down as CEO of Twitter, to be replaced by Parag Agrawal. Ita€™ s not clear 
+whether this will cause much of a change in the companya€™ s direction a€” Tim Cook and Dara 
+Khosrowshahi dona€™ t seem to have radically altered the courses charted by Steve Jobs and Travis 
+Kalanick, for instance. And ita€™ s an open question whether the companya€™ sa€!
+
+Read more
+
+a year ago A- 43 likes A- 63 comments A- Noah Smith
+
+6) Excellent on a€oepopularisma€n and a€oeSister Souljaha€D moments, from the brillian Jamelle 
+Bouie. I do, however, have a few quibbles of my own about the history, and our memory of it:
+
+
+
+Brad DeLong's Grasping Reality
+
+The "Sister Souljah" Moment, in Reality; & BRIEFLY NOTED: For 2021-12-03 Fr
+
+First: I find myself genuinely of two minds about this 
+<https://www.nytimes.com/2021/10/Q9/opinion/democrat-shor-politics-bill-clinton.html>, from the 
+very smart Jamelle Bouie. Yes, there is no such thing as idle presidential rhetoric. Yes, Bill 
+Clinton took a cheap shot at Sister Souliah. Yes, I do not expect the very smart Jamelle Bouie to 
+support the a€!
+
+Read more
+
+a year ago A- 1 like A- Brad DeLong
+
+Jamelle Bouie: Bill Clinton, Race & the Politics of the 1990s\ a€~Clinton concluded his remarks 
+with a now-notorious denunciation of the rapper and activist Sister Souljah, an attack by proxy on 
+Jackson, who had brought Souljah to the eventa€!. a€oeWhat Clinton got out of the Sister Souljah 
+affair ,a€D noted the historian Kenneth Oa€™ Reilly, a€oewere votes,
+particularly the votes of the so-called Reagan Democrats like the North Philadelphia electrician 
+who said a€~the day he told off that [expletive] Jackson is the day he got [mine].a€™a€na€! If 
+Shora€™ s analysis is correct, then this is what it could be like to change course. Progressives 
+would complain, as they did in 1992, buta€”a proponent of this approach might
+saya€”Clinton still won 85 percent of the Black vote. And once in office, he would try to reverse 
+course: to moderate and to show his commitment to the people who put him in the White Housea€!. But 
+there is no such thing as idle presidential rhetorica€!
+
+LINK: <https://www.nytimes .com/2021/10/09/opinion/democrat-shor-politics-bill-clinton.html>
+Share Brad DeLong's Grasping Reality
+
+Leave a comment
+
+Subscribe now
+
+
+a year ago A- 1 like A- Brad DeLong
+
+Jamelle Bouie: Bill Clinton, Race & the Politics of the 1990s\ a€~Clinton concluded his remarks 
+with a now-notorious denunciation of the rapper and activist Sister Souljah, an attack by proxy on 
+Jackson, who had brought Souljah to the eventa€!. a€oeWhat Clinton got out of the Sister Souljah 
+affair ,a€D noted the historian Kenneth Oa€™ Reilly, a€oewere votes,
+particularly the votes of the so-called Reagan Democrats like the North Philadelphia electrician 
+who said a€~the day he told off that [expletive] Jackson is the day he got [mine].a€™a€na€! If 
+Shora€™ s analysis is correct, then this is what it could be like to change course. Progressives 
+would complain, as they did in 1992, buta€”a proponent of this approach might
+saya€”Clinton still won 85 percent of the Black vote. And once in office, he would try to reverse 
+course: to moderate and to show his commitment to the people who put him in the White Housea€!. But 
+there is no such thing as idle presidential rhetorica€!
+
+LINK: chttps ://www.ny times .com/2021/10/09/opinion/democrat-shor-politics-bill-clinton,html>
+
+Share Brad DeLong's Grasping Reality
+
+Leave a comment
+
+Subscribe now
+

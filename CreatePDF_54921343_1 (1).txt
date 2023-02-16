@@ -1,0 +1,413 @@
+Subscribe now
+
+FIRST: Would Somebody Please Tell Me What Number I Should Pencil in for the a€oeNatural Rate of 
+Inflationa€d?
+
+What do you have to do to keep your philosophera€™ s license in good standing? Asking for Matt 
+Yglesiasa€!
+
+a€oeThe Feda€! should have started moving to tighter money sooner.a€D To get from a description of 
+what happened in the world to an evaluation of an actora€™ s actionsa€”to get to that s^ow/<Za€”you 
+need three things:
+
+1. A metric mapping outcome-states-of-the-world onto their desirability (either their desirability 
+in the eyes of the actor or in the eyes of some impartial spectator, depending on the scope of that 
+"should).
+
+2. A counterfactual as to what would have been the outcome-state-of-the-world had the actor in fact 
+done what you say they shouldhave done.
+
+3. A switch telling us whether this is a look-back or a look-forward should'. Is it an ex-ante 
+shoulda€”the actor had or did not have but could have gathered the information to let them conclude 
+that the counterfactual world would have been a better outcome-state than what actually happened? 
+Or is it merely a look-back ex-post should: given what was later revealed (but that the actor at 
+the time did not know and could not have learned then) it would
+have been better to take the counterfactual action?
+
+Matthew Yglesias: The Problem with Flexible Average Inflation Targeting: a€~What the Fed needs to 
+do nexta€!. Frankly, the Fed kind of dropped the ball on inflation. They were too slow to react 
+last year and should have started moving to tighter money sooner. But whata€™ s past is past, and 
+now the Fed has to thread the needle and bring inflation back down without triggering a recession. 
+Fortunately, Powell has acknowledged his
+oversight and the Fed raised rates by a quarter of a percentage point last week, with six more rate 
+hikes expected in 2022a€!
+
+LINK:
+
+
+Slow Boring
+
+The problem with flexible average inflation targeting
+
+You may not have noticed at the time, given everything else going on in the world, but back in 
+August of 2020, something very important happened: Jay Powell gave a speech in which he announced 
+that the Federal Reserve had updated its strategic frameworka€!
+Read more
+
+9 months ago A- 38 likes A- 49 comments A- Milan Singh
+
+I dona€™ t see any of those anywhere in Matta€™ s argument. It is true that he is not an economist, 
+and was not an economics major, and was not even a social studies major. But these counterfactual, 
+evaluation-framework, and potential-knowledge issues are philosophersa€™ bread-and-butter.
+As to the counterfactual, one possibility would be one in which inflation was still below 2%, and 
+in which the labor-market recovery from the Plague Recession of 2020 was as slow as the 
+labor-market recovery from the Great Recession of 2008:
+
+FRED  - Employment-Population Ratio • 25-54 Yrs./80.5*100
+
+
+Recovery of prime-age employment from recession, start of recession = 100, Great Recession of 2008 
+and Plague Recession of 2020
+Would that be a better world? Should the Fed have done that? I really do not think soa€!
+
+It is at this point that I do have to admit that the economists I most respect are not doing much 
+better:
+
+Emi Nakamura: Noah Smith: Interview. a€~The recent increase in inflation is much more than 
+historical experience would have predicted (which is about an increase in inflation of 1/3% for 
+every 1% decrease in unemployment)a€!. Supply shocks are back!a€! There has been a historic shift 
+in demand from services to goods: <https://fred.stlouisfed.org/graph/?g=LnYU>a€ 1 [and] secular 
+shifts in demand can lead to the same
+inflationary pressures as supply shocksa€L Thirda€! a very rapid recovery and a lot of government 
+supporta€!. Households have a huge buildup in savings chttps:Z/fred.stlouisfed.org/graph/?g=Lo 1 
+j>, and spending this down is no doubt contributing to demand. Conceptually, one might expect these 
+demand pressures to be captured by the unemployment ratea€!. One thing that hasna€™ t contributed 
+much to inflation so far is an
+unhinging                                                                                           
+                                                                                                    
+          of longer run inflation expectationsa€!. Market expectations are predicated on what the 
+market expects the Fed to do. There is a self-fulfilling prophecy element in this, as in many 
+things in macroeconomics. So long as the market expects the Fed will do what it takes to contain 
+inflation, we wona€™ t see much movement in longer run inflation expectations. The Fed is working 
+very hard to preserve this. But we cana€™ t take
+this for granteda€!
+
+LINK:
+
+Noahpinion
+
+Interview: Emi Nakamura, macroeconomist
+
+If you ask any macroeconomist to tell you who the stars of their profession are right now, Emi 
+Nakamuraa€™ s name will surely be at or near the top of the list. In 2019, Nakamura won the John 
+Bates Clark medal, one of econa€™ s two most prestigious awards a€” and one thata€!
+
+Read more
+
+a year ago A- 59 likes A- 23 comments A- Noah Smith
+
+One way to put it is this: There has been much discussion of the NAIRU or the a€oenatural rate of 
+unemploymenta€Da€”the unemployment rate below which you should not try to push the economya€”but 
+there has been little discussion of any a€oenatural rate of inflationa€Da€”the rate of inflation 
+below which you should not try to push the economy. All competent macroeconomists agree that there 
+is a positive natural rate of inflation: we have high costs of
+nominal wage cuts in terms of the destruction of worker-boss trust, very high costs of bankruptcy 
+workouts, and very very sticky nominal debts. Given those institutional-structural features of the 
+economy, a positive natural rate of inflation to grease the gears of the labor market and of the 
+debt market is an inescapable necessity. But how high is the natural rate of inflation in normal 
+times? And how does it alter in times of supply shocks and of sectoral­
+rebalancing demand shocks? Not enough economists have spent not enough time on these issues.
+
+My view is that there is noa€”nonea€”zeroa€”case for not accommodating supply and 
+sectoral-rebalancing shocks until they threaten to destabilize long-run inflation expectations. 
+After they threaten to do so, there is a trade-off to be dealt with. Before they threaten to do so, 
+there is not.
+Share
+
+
+One Image:
+
+ioon I                      1Q1Q
+
+
+
+Very Briefly Noted:
+
+• Bartosz Ciechanowski: Blog Archives <https://ciechanow.ski/archives/>
+
+• John Crace: Sociopathy & Stupidity Worn Like Badges of Honour in Cabinet of All the Talents'. 
+a€~PM and assorted underlings continue to astonish on another day in the life of a necrotic 
+governmental 
+<https://www.theguardian.com/politics/2022/may/12/sociopathy-and-stupidity-worn-like-badges-of-honou
+r-in-cabinet-of-all-the-talents>
+
+• James G. MacKinnon: Cluster-Robust Inference: A Guide to Empirical Practice'. a€~A thorough guide 
+on what to do and why, based on recently available econometric theory and simulation evidencea€! 
+<https://www.sciencedirect.com/science/article/pii/S030440762200Q7817via%3Dihub>
+
+• David Gauke: Why Britain Lacks an Emmanuel Macron: a€~The problem for UK centrists is that the 
+median voter in the median British constituency would have voted for Le Pen in Francea€! 
+<https://www.newstatesman.com/comment/2022/04/why-britain-lacks-an-emmanuel-macron>
+
+• Jennifer Chayes & Tsu-Jae King Liu: Californiaa€™ s Math Education Needs an Update, But Not the 
+One 
+Propo5e6/<https://www.latimes.com/opinion/storv/2022-05-12/california-math-education-framework-test-
+scores>
+
+• Zeke Faux: Crypto Mystery: WhereaC™ s the $69 Billion Backing the Stablecoin Tether?: a€~A wild 
+search for the U.S. dollars supposedly backing the stablecoin at the center of the global 
+cryptocurrency tradea€! 
+<https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-th
+e-stablecoin-tether>
+
+• John Dizard: Where the Next Financial Crisis Could Come From: a€~Private equity has become a 
+group of self-dealing oligarchsa€! 
+<https://www.ft.com/content/328bc269-d836-4ca6-991a-029ed25e9e82>
+
+• Carlos Javier Charotti & al. : American Treasure & the Decline of Spain <https ://voxeu 
+.org/article/american-treasure-and-decline-spain>
+
+• Matthew Boyle: Wall Street, Silicon Valley Return-to-Office Plans Unravel in Hot Job Market 
+<https://www.bloomberg.com/news/articles/2022-05-ll/wall-street-silicon-vallev-return-to-office-plan
+s-unravel-in-hot-job-market>
+
+•  Jonathan Malesic: My College Students Are Not OK: a€~In March 2020, essentially all of U.S. 
+higher education went remote overnighta€l. Students learn less online than they do in person, in 
+part because online courses demand considerable self-discipline and motivational 
+<https://www.nvtimes.com/2022/05/13/opinion/college-universitv-remote-pandemic.html>
+
+• Felix Salmon: Muska€™ s Endgame for Twitter May Be a Lower Buyout Price <https ://www.axios 
+.com/2022/05/14/the-musk-twitter-endgame>
+
+• David Gauke: The Economic Cost of Brexit Is Only Getting Worse 
+<https://www.newstatesman.com/comment/2022/05/the-economic-cost-of-brexit-is-only-getting-worse>
+
+Twitter & a€~Stack:
+
+• Project Syndicate: a€™ If the bond market is right, the US Federal Reserve should be taking a 
+victory lap, argues DeLong. It has done precisely what it is supposed to do. 
+<https://www.project-svndicate.org/commentarv/bond-market-medium-term-inflation-currently-on-target-
+bv-j-bradford-delong-2022-05>a€!
+
+Project Syndicate @ProSyn
+
+If the bond market is right, the US @federalreserve should be taking a victory lap, argues @delong. 
+It has done precisely what it is supposed to do.
+
+
+bit.lyGood Inflation News from the Bond Market I by J. Bradford DeLong - Project Syndicate!. 
+Bradford DeLong thinks the current medium-term outlook bodes well for the recovery and the US 
+Federal Reservea€™ s reputation.
+5:05 PM r™ May 13,2022
+
+7Likes2Retweets
+Leave a comment
+Give  a gift subscription
+Donate Subscriptions
+Subscribe now
+
+Directora€™s Cut PAID SUBSCRIBER ONLY Content Below:
+
+SUBJECT: John Kenneth Galbraitha€™s Eclipse
+
+Bob Reich at coffee rightly thwacked me for not making enough of John Kenneth Galbraith in my 
+Slouching Towards Utopia, forthcoming on September 6 <https://bit.ly/3pP3Krk>. So as a gesture in 
+partial atonement I republished my piece on John Kenneth Galbraith, written fifteen or so years 
+ago:
+
+
+HOISTED FROM AzE ARCHIVES: John Kenneth Galbraith
+
+Bob Reich at coffee rightly thwacked me for not making enough of John Kenneth Galbraith in my 
+Slouching Towards Utopia, forthcoming on September 6 <https://bit.lv/3pP3Krk>. So herea€™ s a 
+gesture in partial atonementa€l
+Read more
+
+
+HOISTED FROM AzE ARCHIVES: John Kenneth Galbraith
+
+Bob Reich at coffee rightly thwacked me for not making enough of John Kenneth Galbraith in my 
+Slouching Towards Utopia, forthcoming on September 6 <https://bit.ly/3pP3Krk>. So herea€™ s a 
+gesture in partial atonementa€!
+Read more
+
+9 months ago A- 1 like A- 8 comments A- Brad DeLong
+
+Andrei Shleifer once asked me why there were no Galbraithians among economists. My quip in response 
+was that he was too much a€oebe clevera€D and too little model-building, and that you neededa€”as 
+Harry Johnson once saida€”to offer a straightforward path to work your epigones could do, like 
+estimating another money-demand function, or consideringanother form of monopolistic-like 
+competitionin international trade. But John Maynard Keynes
+was also too much a€oebe clevera€D and too little model-building, and that did not hurt him. 
+Indeed, a€oemathing up Keynesa€D, as Larry Summers likes to put it, has been perhaps the largest 
+productive sector in macroeconomics for going on 80 years now. So what gives with Galbraith?
+
+Now an astute young economists’’many astute young economistsa€’’could devote themselves to 
+a€oemathing upa€D The Affluent Society and The New Industrial State chapter-by-chapter. Indeed, 
+that people are is one reading of pieces of the behavioral-economics and imperfect-competition 
+threads of articles appearing in journals today.
+
+Fifteen years ago I said that three things had robbed Galbraith of his political-economy relevance, 
+or perhaps effectiveness: (a) the faded memory of the Great Depression meant that the middle class 
+and high-wire entrepreneurs had forgotten that they and the working class had common interests in 
+the New Deal order, (b) small-government neo- and paleo-liberals prevent the legislativemajorities 
+that could fuel a newNew Deal oranother Great Society, and (c)
+while the solid, racist Democratic South could be populist, the solid, racist Republican South will 
+never be. Plus the extraordinary durability of the Horatio Alger myth means that even an economics 
+based on solidarity rather than enterprise by rugged individuals is received by too many Americans 
+as if it were pronounced in an incomprehensible foreign language.
+
+And so now I am actually more hopeful than I was fifteen years ago. The rise of what Jacob Levy 
+calls a€oethe multiculturalism of feara€D seems to me to have made Americaa€™ s people more likely 
+to understand, sympathize, and resonate with Galbraitha€™ s messagea€”if only they would read them.
+But if even I decide that I would rather have Karl Polanyi than John Kenneth Galbraith as my 
+rhetorical north star by which to steer, what are the chances that Galbraitha€™ s works will get 
+under peoplea€™ s noses again to any large degree?
+
+Paragraphs:
+
+A beautiful piece on a very important story. In 1500 Castile was at the center of a web of 
+economic, political, and military forcesa€”the conductor of an orchestra of the division of labor, 
+power, exploitation, and accumulation that stretched from Augsburg to Peru. In 1600 it was nearly 
+the hegemonic power in Europe. And by 1800 not only was it all gone, but Spain was much weaker than 
+if the Spanish Seaborne Empire had never been. Why? And how? This
+provides a very good knife to open that oyster:
+
+Carlos Javier Charotti & al:. American Treasure & the Decline of Spain: a€~Spain was one of the 
+worlda€™ s richest countries around 1500. Two centuries later, it was a backwater. This column 
+discusses the long-run impact of the influx of precious metals from the New World on the economic 
+development of Spain. Using an augmented synthetic control methodology, the authors show that in 
+the long run the growth and price level
+trajectories evolved dramatically different in Spain relative to other Western European nations. 
+Spain initially boomed but suffered from high inflation and became poorer as the result of a 
+resource curse which had economic and political dimensionsa€!
+
+LINK: <https://voxeu.org/article/american-treasure-and-decline-spain>
+
+Remote work is horrible for people who do not yet have a social network with which to do their job, 
+and bad for people who need to extend their social network to do their job. Ita€™ s only an 
+unmitigated good for people like me, over 60, for whom the sun has clearly passed the zenith and 
+for whom the task is not to expand but to hang on to an already existing social network. And yet 
+the pressures for remote worka€™ s permanence are turning out to be very
+strong indeed, for it turns out it is something that people with considerable social power value a 
+lot:
+
+Matthew Boyle: Wall Street, Silicon Valley Return-to-Office Plans Unravel in Hot Job Market: 
+a€~JPMorgan Chase & Co. chief Jamie Dimon has been one of the most vocal critics of remote work, 
+arguing that ita€™ s no substitute for the spontaneous idea generation that results from bumping 
+into colleagues at the coffee machine. But in his annual letter to shareholders last month, the 
+head of Americaa€™ s biggest bank allowed that
+working from home a€oewill become more permanent in American business,a€D and estimated that about 
+40% of his 270,000-person workforcea€!
+
+LINK: 
+<https://www.bloomberg.com/news/articles/2022-05-ll/wall-street-silicon-vallev-return-to-office-plan
+s-unravel-in-hot-job-market>
+
+See above: The people who do well with remote learning are also the people who can learn by simply 
+curling up with a textbook, using it to create a sub-Turing instantiation of the mind of the 
+author, run that sub-Turing instantiation on their wetware, and learn from it. I am one of those 
+people. But very few of my students are. They need the connection of real, live conversation 
+partners, and the motivation and ability to execute that comes with east-African-
+plains-apes-doing-things-in-groups. For most of my students, I think the past two years have been a 
+real disaster:
+
+Jonathan Malesic: My College Students Are Not OK: a€~In March 2020, essentially all of U.S. higher 
+education went remote overnight. Faculties, course designers and educational technology staffs 
+scrambled to move classes online, developing new techniques on the flya€!. Faculty members and 
+students across the Dallas-Fort Worth area, where I live, described a widespread breakdown in 
+learninga€!. Students learn less online than
+they do in person, in part because online courses demand considerable self-discipline and 
+motivation^!
+
+LINK: <https://www.nytimes .com/2022/05/13/opinion/college-university-remote-pandemic ,html>
+
+Hea€™ s trying to push the price down. I do not think he has had much successa€”I do not think that 
+he will be able to make a credible threat that a court would allow him to escape Specific 
+Performance. But IANAL:
+
+Felix Salmon: Muska€™ s Endgame for Twitter May Be a Lower Buyout Price: a€~Elon Musk has agreed to 
+pay $44 billion for Twittera€! much more than ita€™ s wortha€!. Will he end up buying the company, 
+and, if so, how much will he end up paying?a€! A lot of attention has focused on the $1 billion 
+termination fee in the short-form merger agreement. Fewer people have looked at the section on 
+a€oespecific performance^ □ in
+the long-form merger plan that basically says: a€oelf you try to back out of this, we can take you 
+to court in Delaware, and the court will force you to buy the company at the agreed price.a€Da€! 
+Such language is particularly germane in cases like this, where the buyer has the ability to pay in 
+fulla€!. University of Virginia law professor Mitu Gulati. a€oeSpecific performance promises are 
+very enforceable. Particularly in
+
+Delaw area€Da€!
+
+LINK: <https://www.axios .com/2022/05/14/the-musk-twitter-endgame>
+
+The Society of the Spectacle, as somebody or othera€”Baudrillard?a€”once wrote. That one is not 
+governing, but just pretending to govern for the cameras. It does not often go well:
+
+David Gauke: The Economic Cost of Brexit Is Only Getting Worse: a€~The worry for the present 
+governmenta€! is that there is no particular plana€!. The Thatcher government sought to conquer the 
+inflation that had blighted the country for most of the 1970s; the Cameron government sought to 
+stabilise the public finances. What is the economic mission of the Johnson government? One can draw 
+up a long list of economic challenges
+and opportunities but it is hard to identify a single case where there is a coherent response to 
+confront the challenge or exploit the opportunitya€!
+
+LINK: 
+<https://www.newstatesman.com/comment/2022/05/the-economic-cost-of-brexit-is-only-getting-worse>
+Subscribe now
+
+
+Matthew Boyle: Wall Street, Silicon Valley Return-to-Ojfice Plans Unravel in Hot Job Market. 
+a€~JPMorgan Chase & Co. chief Jamie Dimon has been one of the most vocal critics of remote work, 
+arguing that ita€™ s no substitute for the spontaneous idea generation that results from bumping 
+into colleagues at the coffee machine. But in his annual letter to shareholders last month, the 
+head of Americaa€™ s biggest bank allowed that
+working from home a€oewill become more permanent in American business,a€D and estimated that about 
+40% of his 270,000-person workforcea€!
+
+LINK: 
+<https://www.bloomberg.com/news/articles/2022-05-ll/wall-street-silicon-vallev-return-to-office-plan
+s-unravel-in-hot-iob-market>
+
+See above: The people who do well with remote learning are also the people who can learn by simply 
+curling up with a textbook, using it to create a sub-Turing instantiation of the mind of the 
+author, run that sub-Turing instantiation on their wetware, and learn from it. I am one of those 
+people. But very few of my students are. They need the connection of real, live conversation 
+partners, and the motivation and ability to execute that comes with east-African-
+plains-apes-doing-things-in-groups. For most of my students, I think the past two years have been a 
+real disaster:
+
+Jonathan Malesic: My College Students Are Not OK: a€~In March 2020, essentially all of U.S. higher 
+education went remote overnight. Faculties, course designers and educational technology staffs 
+scrambled to move classes online, developing new techniques on the flya€!. Faculty members and 
+students across the Dallas-Fort Worth area, where I live, described a widespread breakdown in 
+learninga€!. Students learn less online than
+they do in person, in part because online courses demand considerable self-discipline and 
+motivation^!
+
+LINK: <https://www.nytimes .com/2022/05/13/opinion/college-university-remote-pandemic .html>
+
+Hea€™ s trying to push the price down. I do not think he has had much successa€”I do not think that 
+he will be able to make a credible threat that a court would allow him to escape Specific 
+Performance. But IANAL:
+
+Felix Salmon: Muska€™ s Endgame for Twitter May Be a Lower Buyout Price: a€~Elon Musk has agreed to 
+pay $44 billion for Twittera€! much more than ita€™ s wortha€!. Will he end up buying the company, 
+and, if so, how much will he end up paying?a€! A lot of attention has focused on the $1 billion 
+termination fee in the short-form merger agreement. Fewer people have looked at the section on 
+a€oespecific performance^ □ in
+the long-form merger plan that basically says: a€oelf you try to back out of this, we can take you 
+to court in Delaware, and the court will force you to buy the company at the agreed price.a€Da€! 
+Such language is particularly germane in cases like this, where the buyer has the ability to pay in 
+fulla€!. University of Virginia law professor Mitu Gulati. a€oeSpecific performance promises are 
+very enforceable. Particularly in
+
+Delaw area€Da€!
+
+LINK: <https://www.axios .com/2022/05/14/the-musk-twitter-endgame>
+
+The Society of the Spectacle, as somebody or othera€”Baudrillard?a€”once wrote. That one is not 
+governing, but just pretending to govern for the cameras. It does not often go well:
+
+David Gauke: The Economic Cost of Brexit Is Only Getting Worse: a€~The worry for the present 
+governmenta€! is that there is no particular plana€!. The Thatcher government sought to conquer the 
+inflation that had blighted the country for most of the 1970s; the Cameron government sought to 
+stabilise the public finances. What is the economic mission of the Johnson government? One can draw 
+up a long list of economic challenges
+and opportunities but it is hard to identify a single case where there is a coherent response to 
+confront the challenge or exploit the opportunitya€!
+
+LINK: 
+<https://www.newstatesman.com/comment/2022/05/the-economic-cost-of-brexit-is-only-getting-worse>
+Subscribe now
+

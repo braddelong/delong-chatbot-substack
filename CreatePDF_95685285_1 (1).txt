@@ -1,0 +1,235 @@
+Subscribe now
+
+Now if only I can find a place for this in my book msa€!.
+
+The question is about how original Thomas Robert Malthusa€™ s argument isa€”that humanity is doomed 
+by fecundity to poverty, with patriarchy, monarchy, and orthodoxy being the only path to build not 
+a good but a not-totally-horrible society:
+
+Unleashing the Devil of Malthus, by Stable Diffusion via NightCafe
+Matthew Yglesias asks a questiona€!
+
+Ia€™ ve always wondered if [Malthus is] the conventional reference precisely because it was 
+becoming wrong a€” are there lots of random uncontroversial 16th century texts making the same 
+argument?a€! 1
+I think the answer is: Not really.
+
+On the one hand, there are enough people talking that you can pretty much find somebody saying 
+something that you can, from your perspective, retcon into an early crude expression of whatever it 
+is you want to find.
+The real question is: Did what they said immediately die out? Or was it re-transmitted and did it 
+have echoes, even in a relatively minor way, in its time and place?
+
+Then the next order questions here are: Was Malthus a genius, who put the points exceptionally 
+well? Or was the intellectual network environment then such that, this time, the idea would go not 
+just viral but globally viral?
+The answer to that question is: Yes.
+
+Malthus was an extremely sharp guy. His Essay on the Principle of Population 2 hit the world at a 
+moment in which the idea that Utopia might be fueled by material and moral progress, and might be 
+in our future, was gaining traction in a way that, to my knowledge, it never had before. It was, 
+however, debatable. And there were lots of people who had strong
+material and even moral attachment to the anti-progressive conservative case. And so, in the 
+network intellectual environment then, Malthusa€™ s Essay on Population was the very first 
+Slatepitch.
+
+I cannot, back before 1500, find anyone of even minor note and influencea€”Posidonios of Rhodes is 
+the closest I have come 3a€”arguing that Utopia may be in our future because there is an arrow to 
+material and moral knowledge. All the utopias I have found are either elsewhere, in the past, or a 
+matter of divine intervention: Morea€™ s Utopia on a distant island
+newly made accessible by the caravel; lots of stories of Golden Ages in the past; and, of course, 
+the new Jerusalem descending from the clouds. Utopias in some past Golden Age seem to me to be 
+especially common in Western Europe after the fall of the Roman Empirea€”when people could just 
+look arounda€”and perhaps in China after the fall of the Han Empire,
+when literati would weaponize the memory of the accomplishments of the ancients, when emperors were 
+just, counselors were wise, public order was maintained, and barbarian warriors were in their 
+place.
+
+
+Starting around 1600, however, we have a shift. We have Tommaso Campanellaa€™ s City of the Sun. 5 
+We have Francis Bacona€™ s New Atlantis. 6
+
+The first talks about how there has been more invention in the past century then in all of previous 
+history, and thus how the City of the Sun is in our future. Unfortunately for us, the effect is 
+rather ruined by his attribution of the shift to the astrological influence of Scorpio and of the 
+Moon.
+The second calls for large-scale government subsidization of scientific research and development in 
+the institutional form of Salomona€™ s House a€oeto the enlarging of the human empire, and the 
+effecting of all things possiblea€D.
+
+These books had their circulation at their time, and can mark a shift to an episteme in which 
+technology a€’’and, later, moralitya€’’did have an arrow of progress.
+
+Thereafter, in Western Europe at least, you have growing assertions that we moderns are more 
+accomplished in pretty much every way than those ancients. You have the coming of the 
+Enlightenment. You have the idea of Progress and of the Arc of History.
+
+But from 1600 to 1780 these ideas are clearly speculativea€”not something to base actual policies 
+or, indeed, much thought on. The Dutch Republic saw itself a, mostly, restoring its ancient feudal 
+privileges after their erosion by foreign absolutist monarchs. English Whigs were as likely to 
+appeal to the Ancient Constitution and to Anglo-Saxon liberty. You start to get
+things like Novus Ordo Seclorum 7a€”a new order of the agesa€’’inscribed by Charles Thompson, 
+Secretary of the U.S. Congress under the Articles of Confederation, on the Great Seal of the United 
+States, along with the eye and the unfinished pyramid. (And even there the reference is to a line 
+of Virgila€™ s about the restoration of the past Golden Age of Saturn.8)
+
+There is an active debate in Political A’conomy about the standard of living of the common people. 
+But it is a balanced argument about whether a good society is one in which the common people are 
+worse off or better off, other things equal. The argument that a society with a poorer commons is, 
+in fact, a better society, points to the fact that if the poor are really poor
+they are willing to work for peanuts, and thus a given amount of social power crystallized in the 
+form of wealth can command more work either for the military purposes of the government or to 
+satisfy the consumption desires of the rich. The counter-argument is that a society with a wealthy 
+commons has a middle class with assets and has strong commodity flows,
+both                                                                                                
+                                                                      of which can be taxed.
+
+In 1776 Adam Smith argues strongly that a better society has a richer commons:
+
+Is this improvement in the circumstances of the lower ranks of the people to be regarded as an 
+advantage, or as an inconveniency, to the society? The answer seems at first abundantly plain. 
+Servants, labourers, and workmen of different kinds, make up the far greater part of every great 
+political society. But what improves the circumstances of
+the greater part, can never be regarded as any inconveniency to the whole. No society can surely be 
+flourishing and happy, of which the far greater part of the members are poor and miserable. It is 
+but equity, besides, that they who feed, clothe, and lodge the whole body of the people, should 
+have such a share of the produce of their own labour
+as to be themselves tolerably well fed, clothed, and lodgeda€! 9
+
+But he does not go on to say that a€oeand technological and moral progress are leading us to that 
+better societya€D. Instead, Smith almost makes the Malthusian argument:
+
+Every species of animals naturally multiplies in proportion to the means of their subsistence, and 
+no species can ever multiply beyond it. But in civilized society, it is only among the inferior 
+ranks of people that the scantiness of subsistence can set limits to the further multiplication of 
+the human species; and it can do so in no other way than by
+destroying a great part of the children which their fruitful marriages producea€!
+
+Thus, Smith say, coming closest to Malthus it is only in countries in which the economy is growing 
+rapidly that wages can be above subsistence:
+
+It is not the actual greatness of national wealth, but its continual increase, which occasions a 
+rise in the wages of labour. It is not, accordingly, in the richest countries, but in the most 
+thriving, or in those which are growing rich the fastest, that the wages of labour are highesta€!. 
+Though the wealth of a country should be very great, yet if it has
+been long stationary, we must not expect to find the wages of labour very high in ita€!. If in such 
+a country the wages of labour had ever been more than sufficient to maintain the labourer, and to 
+enable him to bring up a family, the competition of the labourers and the interest of the masters 
+would soon reduce them to the lowest rate which is
+consistent with common humanity. China has been long one of the richest, that is, one of the most 
+fertile, best cultivated, most industrious, and most populous, countries in the world. It seems, 
+however, to have been long stationarya€!
+
+But Smith does not draw Malthusian conclusions from this. Rather, he denounces the cruel and 
+oppressive British East India Company:
+
+Want, famine, and mortality, would immediately prevaila€! till the number of inhabitants in the 
+country was reduced to what could easily be maintained by the revenue and stocka€! which had 
+escaped either the tyranny or calamitya€!. This, perhaps, is nearly the present state of Bengala€! 
+a fertile countrya€! where subsistence^! should not
+be very difficult, and where, notwithstanding, three or four hundred thousand people die of hunger 
+in one yeara€!. The difference between the genius of the British constitution, which protects and 
+governs North America, and that of the mercantile company which oppresses and domineers in the East 
+Indies, cannot, perhaps, be better
+illustrated than by the different state of those countriesa€!
+
+(Note that Smitha€™ s a€oecivilized societya€D reference here captures Smitha€™ s belief that the 
+rich are undergoing the Demographic Transition^’’although it does not sound as though he sees that 
+as an unambiguously good thing:
+
+A half-starved Highland woman frequently bears more than twenty children, while a pampered fine 
+lady is often incapable of bearing any, and is generally exhausted by two or three. Barrenness, so 
+frequent among women of fashion, is very rare among those of inferior station. Luxury, in the fair 
+sex, while it inflames, perhaps, the passion for
+enjoyment, seems always to weaken, and frequently to destroy altogether, the powers of 
+generationa€!
+
+The natural questions for us at this point would be: Is continuous improvement in the arts and 
+sciences that allows for a perpetual escape from the stationary state, and thus for a high, even if 
+not growing, level of wages for the commons possible? Or is humanity doomed in the long run to the 
+miserable stationary state, in which there are always a few rising societies
+where the commons are prosperous, and declining societies of mass famine?
+
+Smith simply drops these long run, historical destiny of the human race questions. Instead, he 
+veers off into various observations on short-term wage fluctuations.
+
+It is left to Malthus to highlight, put the pedal-to-the-metal, and focus on the Malthusian 
+argument proper: that material technological progress cannot help. And it is Malthus who goes on to 
+make Hirschmana€™ s a€ceperversitya€D argument 10a€”who goes on to say that what Godwin and 
+Wollstonecraft call moral progress is actually moral regress.
+What is needed, says Malthus, is simple: Patriarchy, Monarchy, and Orthodox.
+
+•  Patriarchy, so that daughters cannot get their fathersa€™ permission to marry until their 
+potential husband have prosperous farms of their own, which means until their late 20s, for 
+delaying childbearing until nearly 30 pushes down the birth rate and allows for a large wedge 
+between sociological and biological subsistence.
+
+•  Monarchy, by having the kinga€™ s figure as father of the people buttress the position of the 
+father as king of the family
+
+• Orthodoxy, so that women are convinced that premarital sex will send them to hell.
+
+Keep patriarchy, monarchy, and orthodoxy strong, says Malthus, and you can have a society in which 
+the commons are prosperous. Give wayy to the siren song of Enlightenment believers in 
+a€ceprogressa€D like Godwin, and that Harvey Wollstonecraft, and you doom humanity to starvation, 
+misery, and endemic famine.
+
+It is not so much that Malthus writes and the Malthusian argument comes to the forefront when it is 
+a€oebecoming wronga€D. It is, rather, that Malthus writes and the Malthusian argument comes to the 
+forefront when the counterargument, that there can be progress, becomes strongly and frequently 
+enough expressed to be irritating to right wingers. The environment
+has to be one in which people see a chance that the Enlightenment is going to win. And that does 
+not happen until the Age of Revolution starting in 1776.
+
+[1]: Matthew Yglesias: a€™I have always wondereda€!
+
+Matthew Yglesias @mattyglesias
+
+@StefanFSchubert Ia€™ ve always wondered if hea€™ s the conventional reference precisely because it 
+was becoming wrong a€” are there lots of random uncontroversial 16th century texts making the same 
+argument?
+2:05 PM r™ Jan 8,2023
+
+85Likes 1 Retweet
+
+[2]: Thomas Robert Malthus (1798): Essay on the Principle of Population chttps: //ww w.gutenberg 
+.org/ebooks/4239>
+
+[3]: Lucius AnnAIus Seneca Minor (64): On the Part Played by Philosophy in the Progress of Man
+
+
+
+Brad DeLong s Grasping Reality
+
+READING: Lucius Annaeus Seneca Minor (64): Moral Letters to Lucilius 90: On A34e Part Played by 
+Philosophy in A34e Progress of Man
+
+Lucius Annaeus Seneca Minor (64): Moral Letters to Lucilius 90: On the Part Played by Philosophy in 
+the Progress of Man: a€™ Who can doubt, my dear Lucilius, that life is the gift of the immortal 
+gods, a€!
+Read more
+
+2 years ago A- 1 comment A- Brad DeLong
+
+[4]: Aflius Aristides (co. 143): The Roman Oration chttps:Z/www.jstor.org/stable/1005702>
+
+[5]: Tommaso Campanella (1623): The City of the Sun <https ://ia904502.us .archive 
+.org/30/items/thecityofthesun02816gut/tcots 10 .txt>
+
+[6]: Francis Bacon (1627): The New Atlantis <https://www.gutenberg 
+.org/files/2434/2434-h/2434-h.htm>
+
+[7]: Wikipedia: Novus Ordo Seclorum <https://en.wikipedia.org/wiki/Novus ordo seclorum>
+
+[8]: Publius Vergilius Maro (ca. a€“38): Eclogues <https://gutenberg.org/ebooks/230>
+
+[9]: Adam Smith (1776): An Inquiry into the Nature & Causes of the Wealth of Nations <https 
+://www.gutenberg .org/cache/epub/3300/pg3300-images .html>
+[10]: Albert Hirschman (1991): The Rhetoric of Reaction: Perversity, Futility, Jeopardy <https 
+://archive .org/details/rhetoricofreactiOOOOhirs>
+
+Leave a comment
+Share
+
+Subscribe now
+

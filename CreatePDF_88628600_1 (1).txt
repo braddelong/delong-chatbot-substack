@@ -1,0 +1,243 @@
+Subscribe now
+
+FOCUS: I Am on Tracy Alloway & Joe Weisenthala€™s Great Odd Lots Podcast This AM!:
+
+And I think it went very well indeed:
+
+Tracy Alloway & Joe Weisenthal & Brad DeLong: : Odd Lots: Brad DeLong on the F TX Collapse & the 
+South Sea Bubble: a€~We're in the aftermath of an extraordinary bubble in cryptocurrencies and the 
+collapse of FTX is a defining chapter of the industry's turmoil. But what does history tells us 
+about the cycle of bubbles and busts? Which past manias are the most similar to
+
+what we've just seen? In this episode, we speak with Brad DeLong, an economic historian at the 
+University of California at Berkeley, who is also the author of the new book, Slouching Towards 
+Utopia: An Economic History of the Twentieth Century. He explains how the FTX saga shares shocking 
+similarities with the story of the South Sea Company, a British endeavor that was at the
+center of a massive mania of speculation in the early 1700sa€l
+
+MUST-READ: GPT-Chat:
+
+Ben Thompson: AI Homework: a€Tt happened to be Wednesday night when my daughter, in the midst of 
+preparing for a€oeThe Trial of Napoleona€D for her European history class, asked for help in her 
+role as Thomas Hobbes, witness for the defense. I put the question to ChatGPT, which had just been 
+announced by OpenAI a few hours earlier:
+
+Did Thomas Hobbes believe in separation of powers
+
+Yes, Thomas Hobbes believed in the concept of separation of powers. In his book
+"Leviathan," Hobbes argued that a strong, centralized government is necessary to
+maintain                                                    order and prevent conflict in society. 
+However, he also believed that a single ruler
+or group should not have complete control over all aspects of government. Instead, he
+advocated for the separation of powers into different branches, with each branch having
+specific responsibilities and powers.
+
+Hobbes believed that the legislative branch of government should be responsible for
+making laws, the executive branch should be responsible for enforcing laws, and the
+judicial branch should be responsible for interpreting laws. This separation of powers
+would prevent any one branch from becoming too powerful and would help to ensure that
+the government acts in the best interests of the people.
+
+Overall, Hobbes' views on separation of powers were influential in the development of
+modern systems of government. Many political philosophers and statesmen, including
+John Locke and the authors of the United States Constitution, were influenced by his
+ideas.
+
+This is a confident answer, complete with supporting evidence and a citation to Hobbes work, and it 
+is completely wronga€!. It was dumb luck that my first ChatGPT query ended up being something the 
+service got wrong, but you can see how it might have happened: Hobbes and Locke are almost always 
+mentioned togethera€!.
+
+It is an open question as to what jobs will be the first to be disrupted by AI; what became obvious 
+to a bunch of folks this weekend, though, is that there is one universal activity that is under 
+serious threat: homeworka€!. Who hasna€™ t had to write an essay about a political philosophy, or a 
+book report, or any number of topics that are, for the student assigned to write said paper
+theoretically new, but in terms of the world generally simply a regurgitation of what has been 
+written a million times before. Now, though, you can write something a€ceoriginala€D from the 
+regurgitation, and, for at least the next few months, you can do it for free. The obvious analogy 
+to what ChatGPT means for homework is the calculator: instead of doing tedious math calculations
+students could simply punch in the relevant numbers and get the right answer, every time; teachers 
+adjusted by making students show their work. That there, though, also shows why Ai-generated text 
+is something completely different; calculators are deterministica€l. AI output, on the other hand, 
+is probabilistic: ChatGPT doesna€™ t have any internal record of right and wrong, but
+rather  a statistical model about what bits of language go together under different contextsa€!
+
+On the other hand:
+
+Use of ChatGPT generated text for posts on Stack Overflow is temporarily banneda€l. Because the 
+average rate of getting correct answers from ChatGPT is too low, the posting of answers created by 
+ChatGPT is substantially harmful to the site and to users who are asking or looking for correct 
+answers. The primary problem is that while the answers which ChatGPT produces
+have a high rate of being incorrect, they typically look like they might be good and the answers 
+are very easy to produce. There are also many people trying out ChatGPT to create answers, without 
+the expertise or willingness to verify that the answer is correct prior to postinga€!
+
+Share Brad DeLong's Grasping Reality
+
+
+O A^er Things Azt Went Whizzing bya€:
+
+Very Briefly Noted:
+
+•  Oren Etzioni: a€~AI refers both to the fundamental scientific quest to build human intelligence 
+into computers and to the work of modeling massive amounts of data. These two endeavors are very 
+different, both in their ambitions and in the amount of progress they have madea€! Yes. Exactly. 
+But AI is also two more things: conversational computers that do not s-ck, and pumping money out of
+the pockets of naA~ve VCs.
+
+•  Rana Faroohar: a€~Wage inflation? What wage inflation?a€™ ask workers: a€~While inflation in 
+areas such as food and fuel hits the poor in every country hardest, the comparative decline in real 
+versus nominal wages has actually been sharpest in the rich worlda€!. It is a bitter irony thata€! 
+central bankers must now quash inflation, [but] they have no tools to fix whata€™ s truly broken in
+labour marketsa€! This is why I worry about those who are so confident that whacking the labor 
+market will diminish inflation efficiently. It seems to me that, since real wages are falling, 
+inflation is coming from supply-chain bottlenecks and such. And whacking construction and 
+tradeables with higher interest rates seems to me likely to be very inefficient at relieving 
+supply-chain
+bottlenecks.
+
+•  Claudia Sahm: Burden of proof is on the inflation hawks now: a€~Reality shows a "soft landing" 
+in 2023 in the United States taking shape. We avoid a recession, we keep the job-full recovery, and 
+inflation moves back down. Hawks, it's time to join us in realitya€! My reading is that the FOMC 
+agrees with this: that the pause is likely to start in January.
+
+•  Daniel Drezner: Emmanuel Macron is Kinda Sorta Right about Russia: a€~Much as the hard-working 
+staff here at Dreznera€™ s World wants to mock Macron some more, however, there is the inconvenient 
+fact that he might have a point. As noted in this space two months ago, NATO needs to communicate 
+that it does not pose an existential threat to Russia even as the war grinds ona€! But
+NATO is an existential threat to Putina€™s rAOgime, in the long run at least. And this is a 
+problem, especially as Putin continues to misbehave and hence raise NATOa€™s consciousness with 
+respect how better the world would be if he were simply gone.
+
+• Max Read: Halogencore: a€~Halogencore movies are stories of corporate intrigue and malfeasance, 
+told from the point of view ofa€! low-level apparatchiks, functionaries, subordinates, and middle 
+managersa€!. They are stories of beaten-down people acquiescing to or negotiating compromise with 
+power. The "victory" of a happy ending in a halogencore movie is not that power has been
+toppled but that our compromised hero has manage to survivea€! A whole genre that I had not known 
+existed!
+
+•  Ian Millhiser: A Trump judge seized control of ICE, and the Supreme Court will decide whether to 
+stop him: a€~Judge Drew Tiptona€™ s order in United States v. Texas is completely lawless. Thus 
+far, the Supreme Court has given him a passa€! I confess I had not expected Republican judges too 
+think that it was their job to let lawless court orders stand for a while just to gum up the
+workings of the Democratic-led executive.
+
+• Michael Slaby: Our Private Public Sphere: a€~What the Twitter upheaval might teach us about 
+private public goodsa€!. One of the great erosions of public intuitions by neoliberal technocrats 
+preaching market-based venture-philanthropy doublespeak over the last decade has been the quiet 
+background disinvestment in the actual public systems and public infrastructures capable of 
+providing
+public goodsa€! A very smart point.
+
+Leave a comment
+
+AJs:
+
+I confess that this has always been my reaction to the FaceBook. I used to think it was just 
+because I had been too lazy to invest the time to train the FaceBook to offer me the feed that I 
+would want to see. But Ted makes a very good case that the FaceBook's entire strategy has been to 
+degrade its feed as much as possible in the interests of profit, while still maintaining its 
+audience. It worked for a while
+because too many people had no place else on the internet they could go to. But now, I hope, the 
+tipping point has been passed:
+
+Ted Gioia: How Web Platforms Collapse: The Facebook Case Study: a€~But long before these fiascos, 
+Facebook decided to take control of what I get to see from my family, friends, and other accounts I 
+follow. In the early days of Facebook, I would simply scroll through my friendsa€™ posts in reverse 
+chronological ordera€! intuitive and easy to manage, but Facebook
+
+announced one day that it would improve the ordera€!. (They recently allowed for a chronological 
+option, but it took yearsa€”and a growing sense of desperation at the corporate HQa€”for them to 
+loosen up their restrictions.) The company claimed they would give me the most interesting stuff 
+firsta€”but the real story here was that priority on a feed can be monetized. Thata€™ s the
+same reason why Google fills up page one of the search results with so much crapa€!. This obsession 
+with monetizing usersa€™ access to information has hurt Facebook much more than they realize.a€! 
+Mr. Z. wants to get paid before anything goes viral, and thata€™ s the exact opposite of 
+Substacka€™ s successful formulaa€!. The speed of the collapse, however, was surprising.
+Facebook announced the launch of Bulletin on June 29,2021. Facebook announced the termination of 
+Bulletin on October 4,2022. Even King Henry VIIIa€™ s wives lasted longer than that. Of course, 
+Facebook has to let some things bypass the algorithm. They cana€™ t build the whole experience on 
+promoted posts. So they decided that top priority should go to key life events^.\
+
+Ellie Carina continues absolutely killing it with her "what if Galadriel and Sauron did fall in 
+love?a€D Rings of Power FanFic epic:
+
+
+
+Cf., also:
+
+Ellie Carina: The Trials of Mairon: Chapter 24: The Hundred Year Peacea€\
+
+Kage Baker: The House of the Stag: a€~a€ceNowa€! if you die tomorrow, you will still have seen the 
+fairest sight of your livesa€!. Free their eyes!a€Da€! She looked on them in horror and looked 
+white ragea€!. a€oeWhat have you done?a€D a€oeBrought you workmen, as I promised,a€D he said in 
+that same theatrical tone, meeting her eyes without flinching. She saw amusement
+there, and a covert purpose. a€oeWhy, madam, are you displeased? Shall I have them hanged?a€D 
+a€ceNo!a€D she cried. a€oeYou will have them released at once!a€Da€! a€oeThen I will spare your 
+livesa€!. But you will slave for me nonetheless, to make fair the rooms in which my lady lives ,a€D 
+a€oeThey will not slave!a€! If they choose to work, you will pay them in gold, and
+then youa€™ 11 let them go!a€Da€l a€oeWife, I will defer to your wishesa€!. For I am your slave in 
+all things. Should one of them displease you, however, his head shall look down sadly from a 
+pike.a€D a€oeMay I speak with you alone a moment?a€Da€!
+
+Andor is not a Star Wars story. Andor is a WWII or a post-war Eastern Europe storya€”and it is a 
+great one:
+
+Popula: What made 'Andor' so good?: a€~What made Andor so great and so relentlessa€! the question 
+of what it would actually be like to live under, or within, a Galactic Empire, day after day: the 
+material and moral experienced’’the bureaucracy and logisticsa€! [of] an interplanetary system of 
+dominationa€!. The character I found most memorable: Syril Karn, Cassian Andor's
+shadow double. If Cassian's peril and suffering are there to show us how death-defying rebels are 
+made, Syril devoutly hopes to answer the counter-question of where all those translucent-skinned, 
+tight-wound Imperial officers come froma€!. It's good to remember that, in the 1977 Star Wars, what 
+Luke was originally whining to Uncle Owen abouta€”his single, motivating dreama€”
+was his desire to get off Tatooine and go to the Academy. The Imperial Academy, that is. With a 
+more permissive uncle, or at least one who needed less help on the moisture farm, Luke Sky walker 
+could have been wearing a black helmet and flight suit, the most gifted killer in a TIE fighter 
+swarma€!
+
+In what sense is this the same playbook as Andrew Jackson or Louis Bonaparte?:
+
+Claire Berlinski: New Caesars, Hungary Edition: a€~Thirteen ways to destroy a liberal democracya€!. 
+Rule number one: Rewrite history, deliberately fostering nostalgia for an authoritarian pasta€!. 
+Heighten ethnic, racial, religious, and class divisionsa€!. Magnify fear of foreigners and 
+outsidersa€!. Enter Caesara€!. Conflate entertainment and politicsa€!. Create chaosa€!. Destroy
+confidence in the idea of objective trutha€!. Humiliate or destroy people who are better fit to be 
+leadersa€!. Gain control over the mediaa€!. Reward loyalistsa€! Punish the unsubmissive. Use 
+punitive taxes and spurious lawsuitsa€!. Stack the courtsa€!. Rejigger the constitutional
+
+Clearly, it is time to move. Eric Tarloffa€™ s new novel up to the very top of the pile:
+
+James Fallows: More on the book list: Tarloff and Kaplan: a€~Erik Tarloffa€™ s latest novel, Tell 
+Me The Truth About Lovett is very gooda€!. Erika€™ s books combine hold-your-attention plotting, 
+with elegant and droll dialogue and description, with insider awareness of their respective 
+settingsa€!. This onea€l set in the arts world of San Franciscoa€! is a comedy-of-manners
+about the world of philanthropy, and the endless dance between the people who must ask for money 
+and those who decide whether to give. From Evelyn Waugh onward, the Brits have been world champions 
+in mercilessly hilarious depictions of this sort of relations-among-unequals. Erik has a 
+Brit-worthy touch. The book is also about gender politics of all sorts, about parents and
+children, about love and loss. Ita€™ s quite risquA©. I enjoyed ita€!
+
+Give a gift subscription
+
+Get 50% off a group subscription
+Donate Subscriptions
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Leave a comment
+Subscribe now
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Leave a comment
+Subscribe now
+

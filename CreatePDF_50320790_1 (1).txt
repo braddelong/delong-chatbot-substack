@@ -1,0 +1,430 @@
+Subscribe to get this a€~Stack in your email inbox. Become a paid subscriber to get the Directora€™ 
+s Cut versions, anda€”if you think this is usefula€”to support me spending my time doing this 
+rather than something else.
+
+|Type your emaila€|       Subscribe
+
+First: No, the Fed Is Not (Far) Behind the Curve!
+
+Here is a reason I do not think that the Fed is (far) behind the curve:
+
+Goldman Sachs US Financial Conditions Index YoY% vs. ISM Manufacturing Index
+
+
+---------- 1-------- 1---------1---------1-------- i----------1---------1-------- 
+1---------1-------- 1---------1---------r- 30
+
+98     00     02     04     06     08     10     12     14     16     18     20     22
+
+- US Financial Conditions Index (inv)           ISM Mfg Index (rhs)         Recession
+
+It seems highly likely that at least the manufacturing part of the economy will slow markedly over 
+the next 1 1/2 years, no?
+
+And that is with what the Fed has already done (and is expected to do). Would one want more slowing 
+than the FC index tells us is already baking in the cake? If you think so, why?
+Yes, bottlenecks, oil shocks, wheat shocks, and China-lockdowns will do what they will do to 
+inflation in the short run.
+
+But over the medium and the long run, the bond market is still quite happy with the outlook as far 
+as inflation is concerned, at least if you believe the information in TIPS:
+
+1.5
+
+
+1.0
+
+0.5
+
+0.0
+
+2006      2008      2010      2012      2014      2016      2018      2020     2022
+
+So then why now do we have the extremely sharp Olivier Blanchard, commenting on Reifschneider and 
+Wilcox 
+<https://www.piie.com/publications/policv-briefs/case-cautiouslv-optimistic-outlook-us-inflation>, 
+writing 
+<https://www.piie.com/blogs/realtime-economic-issues-watch/whv-i-worrv-about-inflation-interest-rate
+s-and-unemployment>:
+
+Figure 1
+
+The last time the Fed fell this far behind the curve on inflation
+was in 1975 and it took 9 years to bring under control
+
+Core inflation and the real policy interest rate, percent
+
+
+17% gap 1
+
+Feb 1975 I
+
+12% gap 1
+
+Jan 2022 |
+
+
+1960                                                                                   2022
+
+Note:   Core inflation is consumer price index inflation excluding food and energy. The real policy
+interest rate is the federal funds interest rate minus core inflation over the previous 12 months.
+
+Sources:   US Bureau of Labor Statistics and Board of Governors of the Federal Reserve System,
+retrieved from Federal Reserve Bank of St. Louis (FRED).
+
+Moreover, he is far from alone:
+
+•  Neil Irwin: a€oeWhen did the Fed start getting behind the curve? I think it was one year ago 
+this week. Between December '20 and March '21 meetingsa€!a€n <https://twitter.com/Neil 
+Irwin/status/1503364672686280706>;
+
+• Irving Swisher: a€oeConsensus is that the Fed has fallen behind the curvea€!a€D 
+<https://twitter.com/IrvingSwisher/status/1503774531009363975>;
+
+•  Squawk Box: a€oea€~We are behind the curve. We have to movea€™ , says Former Dallas Fed 
+President Richard Fishera€!a€D <https://twitter.com/SquawkCNBC/status/1503340706731Q77641> (never 
+mind that Fisher made precisely zero correct calls his entire time at the Fed);
+
+•  Mohamed El-Erian: a€oeThe US Federal Reserve, the worlda€™ s most powerful central bank, is 
+already dealing with self-inflicted damage to its inflation-fighting credibility. With that comes 
+the likelihood of de-anchored inflationary expectationsa€!a€D 
+<https://www.ft.com/content/db9e3706-84dd-47bc-a943-90d7dfef6abe>;
+
+• Eric Rosenbaum: a€oeFed 'behind the curve' on inflation, says former Obama economist Jason 
+Furmana€!a€D 
+<https://www.msn.com/en-us/monev/markets/fed-behind-the-curve-on-inflation-savs-former-obama-economi
+st-iason-furman/ar-AAQvbLT>.
+
+a€oeSelf-inflicted damage to [the Feda€™s] inflation-fighting credibility a€ I a€D:
+
+
+0.8
+
+
+2016        2017        2018        2019        2020        2021        2022
+
+a€oeSelf-inflicted damage to [the Feda€™s] inflation-fighting credibility a€ I a€D:
+
+
+1.9
+
+2021-04              2021-07              2021-10              2022-01
+
+I simply do not see this a€oeself-inflicted damage to [the Feda€™ s] inflation-fighting 
+credibilitya€!a€D
+
+Now maybe there is an argument did the people treating in the bond market are weirdos, disconnected 
+from the inflation expectations embedded in the actors in the economya€’’those whose beliefs and 
+expectations really matter because they drive decisions. Maybe there is an argument that we need to 
+fear not bond-market vigilantes, but rather other actors and agents. Maybe it is their expectations 
+of inflation have become substantially
+de-anchored already. Maybe they are already taking steps that will produce a persistent inertial 
+inflationary spiral.
+
+But who are they?
+
+What are their expectations?
+
+How are their expectations now being translated into actions?
+And how are those actions not easily reversible?
+
+I have not seen any of those arguments made.
+
+Blanchard writes, apropos of the 200 basis-point increase in the Federal Funds rate we expect to 
+see over the next two years:
+
+Is it reasonable to think that a 200-basis-point increase in the policy rate, so only 1/6 of the 
+rate increase from 1975 to 1981, will do the job this time when the gap between core inflation and 
+the policy rate is 2/3 of what it was in 1975? And that unemployment will barely budge? I wish I 
+could believe ita€!
+
+But why is the rate increase from 1975-1981 relevant? We have a target: inflation from five to ten 
+years out. We have an instrument: the current level and planned forward path for the Fed Funds 
+rate. We have a reading on whether we are on a glide path to the targeta€”the bond marketa€™ s 
+5-year, 5-year forward expected inflation rate. That reading says we are.
+
+
+0.0
+
+2006      2008      2010      2012      2014      2016      2018      2020     2022
+
+Is there a better reading available as to whether we are on the glide path?
+If so, what is it?
+
+I believe that there is not. So why is the conclusion not: a€oePolicy is appropriate. The Fed is 
+not behind the curvea€U? This is, to me, a very genuine mystery.
+Blanchard writes:
+
+There are good reasons, however, to think that the Phillips curve will, as it has done many times 
+in the past, shift, and that the landing will be harder than Reifschneider and Wilcox conclude. 
+Part of the inflation will indeed go away on its own, but the Fed may have to increase interest 
+rates by more than 200 basis points to get back to its targeta€!
+
+Indeed. The Fed may have to raise interest rates by more than 200 basis points. The Phillips Curve 
+may well shift. And when there is evidence that the Fed is indeed behind the curve and not on an 
+appropriate glide path, it will be time for the Fed to use forward guidance that it has changed its 
+policy plans to shape expectations.
+But why is today that day?
+
+Especially since errors in not raising interest rates quickly enough are errors from which we can 
+recover, but at and near the zero lower bounda€’’which we area€’’errors in raising rates too 
+quickly are errors from which we cannot reasonably recover.
+Know someone who you think should read this? Please share!
+
+Share
+
+CONDITION: Tankies Gotta Tank:
+
+There was a certaina€! Mephistopheleana€! grandeura€’’doing evil that good may comea€”in shilling 
+for Stalin back in The Day, especially if you genuinely thought that British and French power 
+structures would reach an accomodation with or surrender to Hitler, that the U.S. would wash its 
+hands of Europe, and thus that Hitler and Stalin were your only choices.
+There is nothing good about shilling for Putina€’’asserting equivalence between the 
+a€oebrinksmanshipa€n of a U.S. saying a€oewe wona€™t fight for Ukraine, but please dona€™ ta€!a€D 
+and a Putin rolling the tanks:
+
+Wolfgang Streeck: Fog of War. a€~Accounting for the descent of the European state system into the 
+barbarism of wara€”for the first time since NATOa€™ s 1999 bombing of Belgradea€’’needs more than 
+lay psychiatrya€!. Nobody knows at the time of writing how the war over Ukraine will end, and after 
+what amount of bloodshed. What we can try to speculate about at this point is what the reasons may
+have beena€”and human actors have reasons, however crankish they may seem to othersa€”for the 
+uncompromising brinkmanship on the part of both the US and Russiaa€!
+
+LINK: <https://newleftreview.org/sidecar/posts/fog-of-wai>
+
+Plus bonus Milosevic whitewashing as well. But what can you expect from the thugs of the New Left 
+Review?
+
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+One Audio:
+
+Kai Wright & Corey Robin: Why the a€~Reagan Regimea€™ Endures'. a€™ Presidencies are rarely 
+transformational, and neither Biden nor Trump have lived up to their supportersa€™ dreams. So what 
+does it take to really change our politics? Host to confront that question, and take your calls 
+about Bidena€™ s first year in office: 
+<https://www.wnvcstudios.org/podcasts/anxietv/episodes/reagan-regime>
+Share Brad DeLong's Grasping Reality
+
+
+One Picture:
+
+Humanity today and humanity's past  Oᵘʳ Wᵒʳˡᵈ
+
+Fnrh vrnin of sand in this visualization
+
+
+represents 10 million people.
+
+140 million children are born every year.
+14 grains of sand enter the hourglass.
+
+You are here. These 795 grains represent the
+
+7.95 billion people who are alive today.
+
+In the following chart I am using this triangle
+shape to represent 7.95 billion people.
+
+60 million people die every year.
+
+6 grains of sand pass through the hourglass.
+
+About 109 billion people have lived and died.
+
+
+IU.TVAJ grains or sana.
+
+About half the people who ever lived
+lived in the last 2000 years
+
+Socrates, who was killed in
+399 BCE. lies about here.
+
+Half of the dead bodies here
+are the bodies of children.
+
+[ In pre modem times half of all children die
+
+the AcfK ultural Revolution
+
+B^cd on the historic al estimates from Toshiko Kaneda and Carl H auh (Population Reference Bur caul 
+and the UN Popul ation Division Based on a design hy (
+
+OurWorldinDataorg - Research and data to make progress against the world s largest problems      
+Lkcnsed under COBY by the author
+
+Very Briefly Noted:
+
+• Jean Pisani-Ferry: EuropeaC™ s Economic Response to the Russia-Ukraine War Will Redefine Its 
+Priorities & Future 
+<https://www.piie.com/blogs/realtime-economic-issues-watch/europes-economic-response-russia-ukraine-
+war-will-redefine-its>
+
+•  Laura Curti: Supply Chains Latest: China Lockdowns Have U.S. Ports Bracing for Effects'. a€~ust 
+as Americaa€™ s busiest ports are beginning to process some of the pandemic backloga€! 
+<https://www.bloomberg.com/news/newsletters/2022-03-15/supply-chains-latest-china-lockdowns-have-u-s
+-ports-bracing-for-effects?cmpid=BBD031522 TRADE>
+
+• Chad P. Bown: Russiaa€™ s War on Ukraine: A Sanctions 
+7zme/me<https://www.piie.com/blogs/realtime-economic-issues-watch/russias-war-ukraine-sanctions-time
+line>
+
+•  Julie Legrand: a€™Ita€™ s not just student housing the NIMBYs resist. The effort it took for a 
+small parish to tear down an crumbling, little used building and replace it with affordable, senior 
+housing was a nightmarea€! <https://twitter.com/Off_The Ground/status/1503496761846878208>
+
+• Sam Anderson: It Starts with Homer: Writing a Classics 
+CMmcMZMAn<https://antigoneiournal.com/2022/03/writing-classics-curriculum/>
+
+•  Bret Devereaux: a€™ Eyes have shifted from whether Putin will lose to if Ukraine can win. These 
+are, in fact, different questionsa€!
+
+
+Bret Devereaux @BretDevereaux
+
+If you are trying to keep track of the war in Ukraine and wondering why Ukrainian success hasn't 
+caused an outburst of optimism from a lot of experts, it's because eyes have shifted from whether 
+Putin will lose to if Ukraine can win. These are, in fact, different questions.
+7:46 PM r™ Mar 14,2022
+
+37 !Likes72Retweets
+
+Paragraphs:
+
+Ben Thompson: Substack Launches App, Substack & the Four Bens, In-App Purchase and the Substack 
+Bundle: a€~Substack, needless to say, is no longer a Faceless Publisher, but thata€™ s not a 
+surprise; that die was cast when Substack raised their Series A. In other words, a lot of the angst 
+about this announcement was better felt in 2019; still, ita€™ s worth diving into the specific 
+implications of this announcement, and I like how
+Substack distinguished between different categories of stakeholders in announcing their new appa€!. 
+The Substack app is a big win for Reader Ben: I was never reading these posts via emaila€!. Writer 
+and Publisher Bena€!. If I were just starting out, I would be a bit nervousa€! being in my 
+readersa€™ email inbox is really valuable, and I would be worried about being forgotten in yet 
+another app that my readers need to remember to
+checka€!. My contenta€! commoditized to just another item in a Substack-branded feeda€!. [But] 
+Stratechery as an independent publication which can be added to the Substack app by adding the RSS 
+feeda€! pretty happya€! [because] readers who make the deliberate choice to add Stratechery to the 
+Substack app wona€™ t forget about mea€!. Analyst Bena€!. There is no RSS feed for individual 
+Substacksa€!. Apple is a great friend
+to Aggregators and an obstacle for would-be platforms; the App Store and App Tracking Transparency 
+accentuate the advantages that flow to companies that command consumer attention and make things 
+much more difficult for companies that seek to operate in the background; faceless publishers face 
+just as many if not more obstacles than faceless e-commerce operators. Substack making itself a 
+consumer brand is a natural response
+both to its VC incentives as well as Applea€™ s preferencesa€!
+
+LINK: 
+<https://stratechery.com/2022/substack-launches-app-substack-and-the-four-bens-in-app-purchase-and-t
+he-substack-bundle/>
+
+Timothy B. Lee: Therea€™ s a Serious Risk of a Recession in 2022: a€~Surging oil prices have 
+economists worrieda€!. a€oePrior to the Ukraine war, it was already going to be difficult to 
+execute a soft landing,a€D said David Beckworth, an economist at the Mercatus Center. The war in 
+Ukraine a€oecomplicates matters a lot.a€Da€! The US actually became a net petroleum exporter back 
+in 2020a€’’arguably achieving a€oeenergy
+independence.a€Da€! But this hasna€™t insulated consumers from rising energy prices. 
+Producersa€’’including US oil companiesa€”can put oil on a tanker and ship it anywhere on the 
+planeta€!. American consumers are competing with consumers in Japan and Brazil for gas. If 
+theya€™re paying higher prices, we will be tooa€!
+
+LINK: <https://fullstackeconomics.com/theres-a-serious-risk-of-a-recession-in-2022/>
+
+Richard Russo: a€™ Wea€™re jolted but not surprised. Ita€™ s from my wifea€™ s sistera€! Fox News 
+and social media. Theya€™ ve believed from the beginning that the coronavirus has been overblown by 
+mainstream media, and that doctors are in on it because they somehow get paid more when they record 
+the death of somebody who died in, say, a car accident as having been caused by COVIDa€‘ 19a€!. 
+Vaccines are not
+about public health so much as personal freedoma€!. And now, the reckoninga€!. My sister-in-law 
+cana€™ t stop coughing, though she says her own case is relatively mild. Her husband, however, is 
+being put on a ventilator; his chances of survival, according to his doctors, are roughly 
+50a€“50a€!. The question she wants my wife to help her with isna€™ t a€oeHow could we have been so 
+stupid?a€D but rather a€oeWhy is this
+happening?,a€D and she asks this in all sincerity. The obvious answer is one she cana€™ t or wona€™ 
+t accepta€”in part, I suspect, because it naturally leads to another question that, even in this 
+excruciating moment, she refuses to entertain: a€oeWhat else have we been wrong about?a€Da€! I 
+ought to be able to summon a more sympathetic response than a€oeWhat on earth did you expect?a€D 
+but often I just cana€™ ta€!. When
+my     wife finally hangs up in the next room, I hear her let out a cry of pure exasperationa€!. 
+One of the problems with screaming a€oeHow could you be so stupid?a€D at people who behave stupidly 
+is that we too often think of the question as rhetorical when it isna€™ ta€!
+
+LINK:
+
+
+Russia's Logistical Nightmare Will Keep Getting Worse
+
+1. Logistics One of the truisms of military affairs is: Tactics are for amateurs. The professionals 
+understand that wars are won and lost through logistics. The great Tom Ricks has written a short, 
+but deeply informative, piece about logistics that everyone ought to reada€!
+
+Read more
+
+a year ago A- 40 likes A- 37 comments A- Jonathan V. Last
+
+Jeet Heer: Civil War Games: a€~Michael Anton has the Confederate delusion of victory in an 
+unwinnable conflicta€!. The civil strife America has to worry about is persistent terrorism from 
+so-called a€oelone wolvesaCD radicalized by the extremist ideology that the Antons of the world 
+promote. The return of conflicts modeled on the massed armies of the 19th century is virtually 
+impossible. But even more absurd is the presumption
+that Texas with its aCcemore robust embrace of the old virtuesa€O is likely to trounce California 
+with its a€oelong experiment with postmodern deracination and anti-masculinity.a€D The term 
+a€cederacinationa€D should set off alarm bells, and they should stay ringing at the idea that 
+Texans are tougher, more manly and thus likely to win a wara€!. Thata€™ s the very illusion 
+southerners had on the eve of the Civil Wara€!. James
+McPherson delineated this thinkinga€! a€oeSoutherners invented a genealogy that portrayed Yankees 
+as descendants of the medieval Anglo-Saxons and southerners as descendants of their Norman 
+conquerors. These divergent bloodlines had coursed through the veins of the Puritans who settled 
+New England and the Cavaliers who colonized Virginiaa€!. If matters came to a fight, therefore, one 
+Norman southerner could doubtless lick
+ten                                                                                                 
+                                                                                                    
+        of those menial Saxon Yankees.a€D These ideas were tested on the killing fields of the 
+Civil Wara€!. Anton should consider himself lucky. The Civil War he dreams of will never happen, so 
+hea€™ 11 be spared the ignominy experienced by his precursorsa€!
+
+LINK:
+
+
+7he TIME of MONS TERS
+
+The Time of Monsters
+
+Civil War Games
+
+Michael Anton is no ordinary crank. His 2016 essay a€oeThe Flight 93 ElectionaCD was singularly 
+influential in solidifying right-wing support for Donald Trump. He was rewarded by being named 
+Deputy Assistant to the President for Strategic Communications on thea€!
+Read more
+
+2 years ago A- 14 likes A- 6 comments A- Jeet Heer
+
+Leave a comment
+Give a gift subscription
+
+Type your emaila€|       Subscribe
+
+
+TIME of MONS TERS
+
+The Time of Monsters
+
+Civil War Games
+
+Michael Anton is no ordinary crank. His 2016 essay a€oeThe Flight 93 Electiona€D was singularly 
+influential in solidifying right-wing support for Donald Trump. He was rewarded by being named 
+Deputy Assistant to the President for Strategic Communications on thea€!
+Read more
+
+2 years ago A- 14 likes A- 6 comments A- Jeet Heer
+Leave a comment
+
+Give a gift subscription
+
+Type your emaila€|       Subscribe
+

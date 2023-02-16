@@ -1,0 +1,242 @@
+Subscribe now
+
+CONDITION: Filibuster Elimination Threat:
+
+When I arrived in Washington, in the spring of 1993, the very wise then-Assistant Secretary of the 
+Treasury for Legislative Affairs Mike Levy told me that things would pass the senate only under 
+three conditions:
+
+1. They were Republican priorities that enough Democrats thought were on balance good for the 
+nation, or
+
+2. They were done via the Reconciliation process, or
+
+3. Republicans would go along because Democrats would credibly threaten to use Reconciliation to 
+pass something less good for the country that Republicans would dislike even more.
+He was wise.
+
+Now we need to add:
+
+(4) Things pass because if they dona€™ t Manchin and Sinema will be really pissed, and might vote 
+to get rid of the filibuster.
+This is how I think it will be in the Senate, for a while.
+
+The House over the next two years will be weird: it will be almost impossible for McCarthy to 
+control the Republican caucus, so the things that will pass the House will be:
+
+1. Republican priorities where Speaker McCarthy will induce and Hakeem Jeffries will allow enough 
+Democrats to join the coalition to make up for Republican defections.
+
+2. Democratic priorities that moderate Republicans think are good for the nation where 
+Shadow-Speaker Jeffries will convince ten or so moderate Republicans to tell McCarthy to go f*** 
+himself.
+
+Joseph Zeballos-Roig: Big scandal, weird scandal: a€~Sen. Todd Young, the Indiana Republican who 
+helped author one of this yeara€™ s highest-profile bipartisan bills, recently offered his 
+theorya€!. Working across the aisle helped Republicans keep the filibuster alive in a 50-50 Senate 
+by givinga€l Manchina€l anda€l Sinemaa€l winsa€l. a€oe [Republican] leadership [did not] try to 
+blow up
+deals,a€D Young saida€l McConnella€l. a€oeWe wanteda€l center-right or center-left deals that had 
+broad appeala€l but as importantly, kept Sinema and Manchin happy so they didn't join the 
+'eliminate the filibuster' crowd. It was a wise calculation.a€D McConnell said much the samea€l. 
+Passing the bipartisan bills was in the a€oebest interest of the country,a€D it also a€oemay have
+reassureda€D Manchin and Sinemaa€l. Young also suggested CHIPS would have drawn more GOP support 
+under a Republican administration. a€oel had countless colleagues approach me and say that they 
+believed in this investment and believed it was important to national security and economic 
+security ,a€d he said. a€oeBut they shared with me this was a very hard argument for some
+constituentsa€Da€!
+
+Share
+
+FOCUS: Perhaps Some Stochastic Parrots Are Intentional?:
+
+a€oeTell me a storya€D, I prompt Chat-GPT:
+
+Tell me a story...
+
+Once upon a time, in a small village nestled in the rolling hills of the
+countryside, there lived a young girl named Maria. She was a bright and
+curious  child, always eager to explore the world around her and learn new
+things.
+
+One dav. while wanderina throuah the fields near her home. Maria came
+
+
+across a strange and beautiful flower. She had never seen anything like it
+before, with its bright purple petals and delicate, fragrant scent.
+
+Intrigued, Maria plucked the flower from the ground and took it home with
+her. She spent the afternoon studying it, marveling at its intricate structure
+and trying to learn as much as she could about it.
+
+As the sun began to set, Maria decided to plant the flower in a pot on her
+windowsill, where it could receive plenty of sunlight. She watered it carefully
+and tended to it every day, watching as it grew and bloomed into a stunning
+display of color.
+
+Over time, the flower became a source of joy and inspiration for Maria. She
+would sit for hours, lost in thought as she gazed at its beauty and tried to
+capture its essence in her drawings and paintings.
+
+
+As the years passed, Maria grew into a talented artist, her love for the
+magical flower fueling her creativity and passion. And even as she moved on
+to                                                             new adventures and experiences, the 
+flower remained a constant source
+of inspiration and wonder, a symbol of the beauty and magic that can be
+found in the world if we only take the time to look.
+
+What is Chat-GPT doing here? We are told:
+
+Murray Shanahan: Talking About Large Language Models <https://arxiv.org/pdf/2212.03551 
+.pdf?ref=the-diff> a€~[It] has no communicative intenta€l no understanding^! does nota€! have 
+beliefsa€!. All it does, at a fundamental level, is sequence predictiona€!. Knowing that the word 
+a€oeBurundia€n is likely to succeed the words a€oeThe country to the south of Rwanda isa€d is not 
+the
+
+same as knowing that Burundi is to the south of Rwandaa€l. A compelling illusiona€!. Yeta€! such 
+systems are fundamentally not like ourselvesa€! presenta€! a patchwork of less-than-human with 
+superhuman capacities, of uncannily human-like with peculiarly inhuman behavioursa€!. It may 
+require an extensive period of interacting with, of living with, these new kinds of artefact before 
+we learn
+how best to talk about them. Meanwhile, we should try to resist the siren call of 
+anthropomorphismaC!
+
+Does this really get it right? Yes, we should resist aCcethe siren call of anthropomorphismaCD. But 
+is it right to say that there is no intentionality here?
+My punchline: I disagree with Shanahan. There is intentionality. But we have to be precise about 
+just whose.
+
+Consider: Yes, what Chat-GPT has done in response to my prompt is to predict a sequence of tokens. 
+But what sequence did it predict?
+
+It took all of the sequences of tokensa€”wordsa€”it has available, all of those in which a human 
+being responded to "tell me a storya€D in some way, plus some others. It then took those sequences, 
+put them, in a bag, shook them, and printed what came out. Chat-GPT had no intention of a€oetelling 
+me a storya€D.
+But each of the sequences of tokens that went into Chat-GPT had, attached to it, a human who did 
+intend to tell a story. Thus all the intentions of all the people who ever told a storya€”they lie 
+behind the token sequences are its raw material. Each of the sequences in its database as 
+intentionality.
+
+Can there be a sense in which averaging a huge number of speech acts, each of which has 
+intentionality, removes the intentionality?
+
+Well, noa€! and yes. Yes, in that what makes things intentional is precisely the individuality of 
+the thought process, and that is what is averaged away.
+But also noa€!
+
+Remember the a€oeChinese-Speaking Rooma€D?
+
+Wikipedia: Searlea€! supposes that he is in a closed room and has a book with an English version of 
+the computer program, along with sufficient papers, pencils, erasers, and filing cabinets. Searle 
+could receive Chinese characters through a slot in the door, process them according to the 
+program's instructions, and produce Chinese characters as outputa€!. Searle himself would not be 
+able to
+understand the conversation. ("I don't speak a word of Chinese," he points out)...
+
+It is true that if you accept Searlea€™ s framinga€”a sentence in Chinese comes into the room, and 
+he then consults the books in the room to decide how to responda€”then to have the complexity of a 
+human brain, the a€ceChinese-Speaking RoomaCD would have to be the size of the globe, and managed 
+by 50,000 robots traveling at lightspeed. The system that is the room understands Chinese just as 
+well (or poorly) as a
+human speaker of Chinese does,
+
+My view is that Chat-GPT already has that branch of intentionality that humans have when they think 
+a€oel am going to write a grammatical sentencea€D, because that intentionality was shared by 
+virtually everyone whose writings have gone into the bag. And, similarly, if we can elicit 
+responses from GPT that are derived from a community of humans every one of which used that 
+response with the same intention, I have
+no problem ascribing intention to Chat-GPT.
+
+For example:
+
+Could you remind me what is the sentence that linguists most often
+use to demonstrate that there is a strong divide between syntax and
+
+
+semantics'
+
+The sentence that linguists often use to demonstrate the divide
+between syntax and semantics is "Colorless green ideas sleep
+furiously."  This sentence was famously used by Noam Chomsky in
+his                                                         book "Syntactic Structures" to 
+illustrate the distinction between
+syntax and semantics. Syntax is concerned with the structure and
+arrangement of words in a sentence, while semantics is concerned
+with the meaning of words and how they relate to each other. The
+sentence "Colorless green ideas sleep furiously" is grammatically
+correct, but it does not make sense semantically because the words
+"colorless," "green," and "furiously" do not typically go together in a
+way that conveys a meaningful idea. This example demonstrates that
+
+it ic nnccihln fnr a cpntpnro tn ho Qvntartirallv rnrrnrt hi it
+
+
+semantically nonsensical.
+
+Every human who has ever used the sentence a€oeColorless green ideas sleep furiouslya€n has done so 
+not to assert that colorless green ideas sleep furiously, but to illustrate the huge gulf between 
+syntax and semantics.
+So I have no problem ascribing that intention to Chat-GPT, just as I have no problema€”at least 
+adopting the intentional stancea€”with saying that Chat-GPT intends to write grammatical sentences.
+
+On the other hand:
+
+What is the right conclusion to draw from seeing a black swan?
+
+The phrase "seeing a black swan" is often used as an example of a rare and
+unexpected event, and it is derived from the saying "all swans are white,"
+which was traditionally used to denote the idea that all members of a
+particular category or group have certain characteristics. The phrase "black
+swan" was coined by the philosopher and scientist Francis Bacon to refer to
+an event that is both rare and has a major impact, and the idea has since
+been popularized by the philosopher and statistician Nassim Nicholas Taleb
+
+in his book "The Black Swan: The Impact of the Highly Improbable."
+
+
+If you see a black swan, it would be reasonable to conclude that the saying
+"all swans are white" is not necessarily true, and that it is possible for a
+member of a group or category to exhibit characteristics that are
+unexpected     or unusual. It would also be reasonable to conclude that the
+occurrence   of a black swan could have a significant impact on your
+understanding    of the world and your expectations about what is possible or
+probable.
+
+where in his work does francis bacon discuss black swans
+
+Francis Bacon did not use the phrase "black swan" in his writing. The phrase "black swan"
+was coined by Nassim Nicholas Taleb in his book "The Black Swan: The Impact of the
+Highly Improbable," published in 2007. The concept of a "black swan" event, however, can
+
+
+Francis Bacon did not use the phrase "black swan" in his writing. The phrase "black swan"
+was coined by Nassim Nicholas Taleb in his book "The Black Swan: The Impact of the
+Highly Improbable," published in 2007. The concept of a "black swan" event, however, can
+be traced back to the work of Francis Bacon, who wrote about the idea of rare and
+unexpected events in his book "Novum Organum," published in 1620. In this book, Bacon
+discusses the concept of "idola," or "idols," which refer to the biases and prejudices that
+can influence our thinking and understanding of the world. He argues that these idols can
+lead us to make false assumptions about the nature of reality and to overlook or
+underestimate the possibility of rare and unexpected events occurring. Bacon's ideas
+about         the influence of idols on our thinking and understanding of the world have been
+influential in the development of the concept of a "black swan" event.
+
+I remember reading about a€oeblack swansa€D in 1973 (p. 350 of Time Enough for Love <https 
+://archive .org/details/timeenoughforlovOOOOhein t4d7/page/350/mode/2up?q=swan>). The phrase was 
+certainly not coined by N.N. Taleb. And I very much doubt that it was coined by Francis Bacon.
+
+There is no intentionality here. We have a long, long way to go. Chat-GPT costs, I guess, $30 
+million to train and then $0.10 per 300-word answera€”$l for a full 3000-word chat. Unless there 
+are clever software improvements I cannot envision, perhaps we need a 100-fold increase in deployed 
+computrons for a truly satisfactory conversation: $100 per consultation. And I do not think that 
+Moorea€™ s Law is going to save
+us.
+
+There is at least the possibility that here we have a task where using wetware is going to always 
+be cheaper than using silicon hardwarea€l
+Share Brad DeLong's Grasping Reality
+
+Leave a comment
+

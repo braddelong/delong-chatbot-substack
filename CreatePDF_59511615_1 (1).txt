@@ -1,0 +1,573 @@
+Subscribe now
+
+FIRST: Aze Federal Reserve Will Move on Wednesday. What Will/Should It Do?
+
+Brad DeLong: Why the US Federal Reserved€™ s Options Are Limited'. The US Federal Reservea€™ s 
+Federal Open Market Committee ought to announce a rate increase that is large enough to bring its 
+policy rate to an      optimalneutral-plus level. But it has an even greater interest inadhering to 
+its own   forward guidance, implying that it will probably maintain its incremental  approach.
+BERKELEY a€“ What policy will the US Federal Reserve announce after the Federal Open Market 
+Committeea€™ s two-day meeting this week, and what policy should it announce?
+
+The first question is easy: There is a high probability a€“ 75% a€“ that the Fed will follow its 
+previous forward guidance and raise its target for the short-term safe nominal interest rates that 
+it controls by 50 basis points, from 0.75a€“l% to 1.25a€“L5%. By validating its previous 
+statements, the Fed hopes to steer the economy in the desired direction by shaping expectations of 
+future interest rates.
+
+Because this a€cejawboninga€D strategy is effective only insofar as the Feda€™ s forward guidance 
+is trusted, building and maintaining that trust is a major policy objective in itself. The Fed 
+should deviate from previous forward guidance only if there is substantial evidence that the 
+economy is on the wrong track. Currently there is no such evidence. Bond-market expectations of the 
+underlying long-run consumer
+price index inflation trend remain under 2.5% per year a€“ which is lower than in the prea€“2014 
+period, when no rational person had any reason to fear that CPI inflation would soon deviate upward 
+from its target.
+
+To be sure, the bond market expects the annual CPI inflation rate to be around 3% over the next 
+five years, before falling to its longer-run 2.5% annual trend. Wouldna€™ t that higher rate 
+justify additional steps to tighten       monetarypolicy more than was previously expected? No, 
+because the   Fed does not merely want to hit its inflationtarget on a year-by-year basis. Rather, 
+its primary task is to maintain confidence in the
+economya€™ s nominal price-level anchor over time. As long as it is doing that, it has the 
+short-run policy freedom to do whatever else is needed to maximize employment and growth.
+
+By contrast, if the Fed were to deviate from its own forward guidance by raising interest rates 
+faster than previously planned, it would reduce confidence in its word, and reduce employment and 
+growth in the construction, export, and import-competing sectors. A 0.75 percentage-point increase 
+carries palpable costs for little gain, implying that there is little chance that the Fed will go 
+this far.
+
+The question of what the Fed should do is more difficult. Bond-market expectations (after 
+accounting for duration-risk premiums) suggest that the federal funds rate will average about 2.75% 
+per year over the next two years, before falling to 2.5% per year over the next decade. In other 
+words, markets expect the Fed to raise its policy rate to 3.5% over the next year, and then move on 
+to a glide path back down to perhaps
+2% a€“ or until something else happens to the macroeconomy. This trajectory implies three 50-bps 
+interest-rate increases and four 25-bps increases over the next seven meetings.
+
+The least preferable path is for the Fed to dribble out interest-rate increases in a manner that 
+leaves people uncertain about how far it thinks it ultimately will need to go. The far better 
+option would be to move immediately to a neutral plus-or-minus federal funds rate a€“ choosing 
+a€ceplusa€D if demand seems too high for the Fed to maintain the credibility of the nominal 
+inflation anchor in the long run, and
+a€oeminusa€n if it thinks that demand is unsustainably low. Optimal control theory dictates that if 
+the nose of your sailboat is not pointing where you want to go a€“ if your control is not at the 
+optimal level a€“ you should turn the nose as fast as possible until you reach a bearing where you 
+can no longer tell whether your next course correction will need to be to the port or to the 
+starboard.
+
+What this means for monetary policy is that the Fed should change its target each month so that 
+people do not know whether the next move will be up or down. Yes, there is an argument that this 
+principle of optimal control theory does not apply to monetary policy: the Fed needs to avoid 
+disruptions in the money market. But such disruptions are feared precisely because the Fed never 
+makes larger moves.
+
+Moreover, the Fed must conduct monetary policy with the tools and procedures that it has. If it 
+raises its policy rate by only 0a€“25 bps this week, even though it wants the federal funds rate to 
+be considerably higher, it will have departed from its forward guidance. There is no argument for 
+doing that. But it has not prepared the ground for a rate hike larger than 50 bps. That is 
+unfortunate. Ideally, the ground would have
+been prepared for an increase as high as 200 bps, because that is what it would take to get the 
+federal funds rate to an optimal neutral-plus level. But, because that hasna€™t happened, and 
+because departing from forward guidance is almost never worth it, there is a 75% chance that the 
+Fed will increase its policy rate by 50 bps at its coming meeting a€“ and a 25% chance that it will 
+go as high as 75 bps.
+
+LINK: 
+<https://www.project-svndicate.org/commentary/federal-reserve-rate-hikes-limited-bv-forward-guidance
+-bv-j-bradford-delong-2022-06>
+
+Project Syndicate @ProSyn
+
+Ideally, the @federalreserve would announce an interest-rate hike of 200 basis points to put the 
+economy back on an optimal course. But it has not prepared the ground for such an increase, and 
+departing from forward guidance is too risky, notes @ delong.
+
+
+bit.lyWhy the US Federal Reservea€™ s Options Are Limited I by J. Bradford DeLong - Project 
+Syndicate!. Bradford DeLong sees the central banka€™ s own forward guidance preventing it from 
+raising interest rates as fast as it should.
+3:10 PM r™ Jun 14,2022
+
+Share
+
+One Audio:
+
+Eric Newcomer & Casey Newton: The State of SubStack
+
+Newcomer
+
+State of Substack (w/Casey Newton)
+Read more
+
+8 months ago A- 12 likes A- Eric Newcomer
+
+Share Brad DeLong's Grasping Reality
+
+
+One Image:
+
+FRED — S*Year Breakeven Inflation Rate
+4.0
+
+Ki
+1.0
+
+I -
+
+FRED — S*Year. S-Year Forward Inflation Expectation Ra
+
+
+VERY BRIEFLY NOTED:
+
+• Claudio Borio and Bob McCauley: The Anatomy of the Bond Market Turbulence of1994 <https://www.bis 
+.org/publ/work32 .pdf>
+
+• Katie Marin: The Truth Behind the Vomiting Camel Graph 
+<https://www.ft.eom/video/2452d265-ef0e-4f7f-b0b2-caldc076ff33#transcript>
+
+•  Charlie Hore: The Riots That Changed China: a€~Crowds gathered to mourn Zhou Enlaia€™ s death 
+during the 1976 Qingming Festivala€! 
+<https://socialistworker.org/2016/04/13/the-riots-that-changed-china>
+
+• Jonathan Sperber: Karl Marx: A Nineteenth-Century Life 
+<https://www.amazon.com/Karl-Marx-Nineteenth-Century-Jonathan-Sperber-ebook/dp/B007P9M0NE/ref=tmm_ki
+n_swatch_0?_encoding=UTF8&qid=1654779977&sr=l-3-catcorr>
+
+•  Steven Levitsky & Lucan Way: Americaa€™ s Coming Age of Instability. a€~The Republican Party a€! 
+has radicalized into an extremist, antidemocratic force that imperils the U.S.a€! 
+<https://www.foreignaffairs.com/articles/united-states/2022-01-20/americas-coming-age-instabilitv>
+
+• Paul Krugman: How America Lost Its Edge 
+<tops7/me^ging₂custoni2newsle1tei^ytimes₂com/t^pl<tte/oakv2?CCP/^ptQut^ta^^
+
+• Jonathan Schroden: Who Is to Blame for the Collapse of Afghanistana€™ s Security Forces? 
+<https://warontherocks.com/2022/05/who-is-to-blame-for-the-collapse-of-afghanistans-securitv-forces/
+?s=vvvm9al708ox0czut6oj>
+
+Twitter & a€~Stack:
+
+•  Adam Davidson: a€™ Elite institutionsa€”like some universities, museums, other nonprofits^'’a 
+product to disgraced men: reputation recovery. They call it a€oethe Halo effect.a€D In Jeffrey 
+Epsteina€™ s case it was more awful. It was a central piece in his grooming apparatusa€!. MIT, 
+Harvard, Interlochen, Edge sold something of enormous value to Epstein, something only they could 
+offera€!
+
+Adam Davidson @adamdavidson
+
+Elite institutions—like some universities, museums, other nonprofits—sell a product to disgraced 
+men: reputation recovery. They call it "the Halo effect." In Jeffrey Epstein's case it was more 
+awful. It was a central piece in his grooming apparatus. 1/
+12:45 PM r™ Jun 5,2022
+
+5,441 Like s 1,536Re tweets
+
+•  Adam Davidson: a€™Ifyou visited a childless acquaintances house and there were teenage girls all 
+around; some naked, some sitting on his lap. Would you stay? If you saw respected members of your 
+community enjoying the festivities, would you continue to respect them?a€!
+
+Adam Davidson @adamdavidson
+
+If you visited a childless acquaintances house and there were teenage girls all around; some naked, 
+some sitting on his lap. Would you stay? If you saw respected members of your community enjoying 
+the festivities, would you continue to respect them? #thisainthard
+10:10 PM r™ Jun 5,2022
+
+888Likes84Retweets
+
+•  Adam Davidson: a€™ It wasna€™ t meant as new news. Most of the key details were clear by 2016. 
+Just a remindera€!
+
+Adam Davidson @adamdavidson
+
+@ jkbjournalist It wasna€™ t meant as new news. Most of the key details were clear by 2016. Just a 
+reminder.
+7:15 AM r™ Jun 6,2022
+
+41 Likes4Re tweets
+
+• Aaron Rupar: aCoeThe Big RipoffdCd The J6 CommitteeaC™ s Revelation About a Fake Trump Election 
+Defense Fund, Explained<
+
+
+
+"The big ripoff": the J6 committee's revelation about a fake Trump election defense fund, explained
+
+It was a scam built on the big lie. The January 6 committee dropped a bombshell right at the end of 
+Mondaya€™ s hearing: The Trump campaign raised huge sums for a a€cedefensea€D fund during the 
+period between Election Day 2020 and the January 6 insurrection. That fund didna€™ t actually 
+exista€!
+Read more
+
+8 months ago A- 39 likes A- 1 comment A- Aaron Rupar
+
+• Don Moynihan: Why Is American Administrative Capacity in Decline? <
+
+Can We Still Govern?
+
+Why is American administrative capacity in decline?
+
+Ezra Klein recently wrote a provocative and thoughtful piece about administrative capacity in the 
+modern American state. The key claim is summarized here: Ia€™ ve spent most of my adult life 
+trawling think tank reports to better understand how to solve problems. When I go looking for ideas 
+on how to build state capacity on the left, I dona€™ t find much. Thea€!
+Read more
+
+8 months ago A- 25 likes A- Don Moynihan
+
+• Anton Howes: Why Wasna€™ t the Steam Engine Invented Earlier? Part I
+
+
+
+
+Anton Howes
+
+Age of Invention: Why wasn't the Steam Engine Invented Earlier? Part I
+
+Youa€™ re reading Age of Invention, my newsletter on the causes of the British Industrial 
+Revolution and the history of innovation. This edition went out to over 8,300 subscribers. If 
+youa€™ ve just been forwarded this, you can sign up here: As regular readers might have noticed, 
+ita€™ s been a long time since my last newsletter a€” far, far longer than usual. Although I 
+havena€™ t been posting, however, I have
+been hard at work researching. I had to translate a lot of primary sources from sixteenth-century 
+French, Italian, Dutch, German, and even Latin, so that was already going to cause a delay. But 
+then, the more I delved into the topic, the more I had to delay writing it up. Things I thought I 
+knew, and on which I agreed with a lot of other historians, turned out to be ever more 
+questionable. Perhaps even wrong. And so I had
+to delve ever deeper to get to the truth, and to reformulate what I knewa€!
+
+Read more
+
+8 months ago A- 1 like A- 4 comments A- Anton Howes
+
+• Zachary D. Carter: Haiti, Slavery & John Stuart Mill
+
+IN THE
+
+LONG
+RUN
+
+Age of Invention, by
+
+In The Long Run
+
+Haiti, Slavery and John Stuart Mill
+
+My next book will be a biography of John Stuart Mill. So far, Ia€™ m enjoying it very much. Mill 
+was an unusual man who lived an extraordinary life devoted to a set of problems that once again 
+dominate political thought in the 21st century. I try to be cautious about describing a long-term 
+project like a ba€!
+Read more
+
+8 months ago A- 13 likes A- 1 comment A- Zachary D. Carter
+
+• Jonathan Marks: The Right-Wing Outrage Machine Is Doing Campus Conservatives No Favors
+
+The Right-Wing Outrage Machine Is Doing Campus Conservatives No Favors
+
+University of Minnesota students protesting College Republicansa€™ display of President Trumpa€™ s 
+Build the Wall slogan on campus. Wikipedia, Creative Commons. For the bargain price of $5,000-$ 
+10,000, Matt Walsh, a columnist for The Daily Wire, a self-described conservative site, will 
+deliver his lecture a€oeTransgenderism Is a Ridiculous Mytha€D at your collegea€!
+Read more
+
+8 months ago A- 11 likes A- 13 comments A- Marks, Jonathan
+Leave a comment
+
+
+Give a gift subscription
+Donate Subscriptions
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Subscribe now
+
+Directora€™s Cut PAID SUBSCRIBER ONLY Content Below:
+
+Paragraphs:
+
+Convincing argument that, had the stars and the factor prices been aligned, the steam engine could 
+have been invented in 1600. Now I want Anton to teach me about the hydraulic machines of Byzantium:
+
+Anton Howes: Why Wasna€™ t the Steam Engine Invented Earlier? Part I: a€~The technological path to 
+the steam engine didna€™ t really have to do with steama€™ s expansive forcea€!. Steam wasa€! 
+condensed with a spray of cold water, forming a partial vacuum under the piston. It was the 
+suddenly massive relative weight of the atmosphere above this partial vacuum that did all the work.
+Ita€™ s why the Newcomen engine is also referred to as an atmospheric enginea€!. The thing that so 
+shocked me when reading Salomon de Causa€™ s 1615 work was thata€! he describes in great detail a 
+solar-powered steam enginea€! that exploited the expansionary force of steama€! [and] atmospheric 
+pressure tooa€i. It may sound like de Causa€™ s machines were trivial amusements, only
+operating at a certain time of day, as a sort of trick for fountains and music. True. But he was 
+certainly interested, in more general terms, in industrial applications for machinesa€! drainage 
+pumps, a way to put out fires, machines to bore wooden pipes, and an astonishingly sophisticated 
+lathea€!. So we have a conundrum. A machine with the same core concept as Saverya€™ s steam 
+enginea€”
+but   far too early to have been influenced by the science of Torricelli, von Guericke, Huygens, 
+Boyle, or Papin. Where did de Caus get the idea? And did anyone take them further in the 80 years 
+between him and Savery?a€!
+
+LINK:
+
+
+
+Age of Invention, by
+
+Anton Howes
+
+Age of Invention: Why wasn't the Steam Engine Invented Earlier? Part I
+
+Youa€™ re reading Age of Invention, my newsletter on the causes of the British Industrial 
+Revolution and the history of innovation. This edition went out to over 8,300 subscribers. If 
+youa€™ ve just been forwarded this, you can sign up here: As regular readers might have noticed, 
+ita€™ s been a long time since my last newsletter a€” far, far longer than usual. Although I 
+havena€™ t been posting, however, I have
+been hard at work researching. I had to translate a lot of primary sources from sixteenth-century 
+French, Italian, Dutch, German, and even Latin, so that was already going to cause a delay. But 
+then, the more I delved into the topic, the more I had to delay writing it up. Things I thought I 
+knew, and on which I agreed with a lot of other historians, turned out to be ever more 
+questionable. Perhaps even wrong. And so I had
+to delve ever deeper to get to the truth, and to reformulate what I knewa€!
+
+Read more
+
+8 months ago A- 1 like A- 4 comments A- Anton Howes
+
+Now looking forward with great eagerness to Zack Cartera€™ s forthcoming book on John Stuart Mill:
+
+Zachary D. Carter: Haiti, Slavery & John Stuart Mill: a€~Mill essentially called the Edinburgh 
+editors a bunch of rich sellouts who were too selfish to think straight. His most damning piece of 
+evidence was an Edinburgh article that had defended Francea€™ s claims on Haiti. The Edinburgh, 
+Mill noted with palpable disgust, had implored the people of Britain to support France against the
+Haitian Revolution, on the grounds that a new, self-governing Black nation would be dangerous to 
+nearby British coloniesa€!. The persuasive force of his rhetoric comes from simply restating the 
+Edinburgha€™ s position and declaring (correctly) that it is morally horrendous. The great 
+Edinburgh Review, Mill jeered, had been ready to condemn an entire nation a€oeto the alternative of 
+death, or
+of  the most horrible slavery a€D in order to protect the profits of a few plantation owners. This 
+tells us at least four important things about the intellectual climate of the early 19th century. 
+First, there were people who regarded what France was doing to Haiti as a great crime, and said so. 
+Second, for a substantial population, merely reciting what France had done to Haiti was enough to 
+generate
+moral outrage. You didna€™ t have to explain to this crowd that it was wrong to enslave human 
+beings, or that it was wrong to fight wars in defense of slavery. They knew. Third, there was a 
+very detailed spectrum of opinion in 19th century Europe on human rights. Even Milla€™ s targets at 
+the Edinburgh explicitly acknowledged a€oethe unmerited sufferings of the unhappy negroesa€D in
+Haitia€”they simply denied that righting those wrongs trumped the commercial interests of British 
+colonistsa€!. Fourth, and perhaps most important, Milla€™ s missive helps demonstrate the political 
+limits of intellectual discourse in the early Liberal era. Some of the most famous minds in Europe 
+decried the plundering of Haiti, and it was plundered anyway, and then plundered again, and
+again.     Not because nobody knew any better, or because plundering was inevitable, but because 
+people with power really wanted to do it. Therea€™ s much more that could be said, of course, but 
+thata€™ s what the book is fora€!
+
+LINK:
+
+IN THE
+
+LONG
+RUN
+
+In The Long Run
+
+Haiti, Slavery and John Stuart Mill
+
+My next book will be a biography of John Stuart Mill. So far, Ia€™ m enjoying it very much. Mill 
+was an unusual man who lived an extraordinary life devoted to a set of problems that once again 
+dominate political thought in the 21st century. I try to be cautious about describing a long-term 
+project like a ba€!
+Read more
+
+8 months ago A- 13 likes A- 1 comment A- Zachary D. Carter
+
+America does seem, more and more, to be different societiesa€”each of them practicing in how to be 
+cruel with respect to outsiders:
+
+Paul Krugman: How America Lost Its Edge: a€~Traffic safety. Back when I was starting my 
+professional career, roads in the United States were much safer than roads abroada€!. It wasna€™ t 
+our imagination: Driving in Portugal back then really was unsafe. But traffic fatalities per capita 
+are now much lower there than they are in the United Statesa€!. America has been forgetting how to 
+be a
+society. Wea€™ ve gotten worse at acting in ways that protect ourselves and others, in everything 
+from getting vaccinated to driving at responsible speedsa€!
+
+LINK: <https://messaging-custom-newsletters.nvtimes.com/template/oakv2?CCPAOptOut=true&emc=edit_pk 
+20220614&instance_id=64020&nl=paul-krugman&productCode=PK&regi_id=64675225&segment_id=95099&te=l&uri
+=nyt%3A%2F%2Fnewsletter%2Fa4c59974-0501-504d-921c-3a0c65481f9b&user_id=8a3fce2ae25b5435f449ab64b4e3e
+880>
+
+We have seen this before, with left-wing Stalinists and right-wing Nazisa€”and, in an earlier age, 
+with the Papacy that condemned Galileo and Giordano Bruno. People who are not committed to 
+a€oeseeking truth from factsa€D as Deng Xiaoping put seeking truth, not laying down doctrine; and 
+investigating to determine facts, not laying down dogmaa€”do not belong in a university. Yes, some 
+such dogmatic and
+doctrinaire people who come to the university to learn nothing will get in. But to complain that a 
+university does not have enough such people is to call for its destruction. Tolerance is a 
+treatya€”and if it is not to self-destruct, must restrict itself to extend itself only to those 
+willing to be tolerant, and to change their minds upon evidence, themselves:
+
+Jonathan Marks: The Right-Wing Outrage Machine Is Doing Campus Conservatives No Favors: a€~Matt 
+Walsha€! as described President Biden as a a€oedemented perverta€D spoke his mind at UWS. A win for 
+free speech on campus, right? Wrong, according to some conservatives^!. Campus Reforma€! barked: 
+a€oeREPORT: Leftist students angry that Matt Walsh spoke on campus.a€D
+Young Americans for Freedom (YAF)a€! whose UWS chapter invited Walsh, accused the administration of 
+co-planning the protest. It shared a video of the small meeting, a€oeEngaging in Civil 
+Discourse,a€D at which administrators answered questions and discouraged aggression. The protestors 
+asked the administration to move the event off campus, but were turned down. Therea€™ s
+nothing there. But that didna€™ t stop other outlets, including The Daily Wire, from amplifying 
+YAFa€™ s spina€!. J.D. Vance echoes that universities are a€oededicated to deceit and liesa€D and 
+a€oecontrol our livesa€D and conservatives must a€oehonestly and aggressively attack the 
+universities.a€Da€! Such attacksa€! undermine campus conservative voices in convincing sensible 
+people
+within universities that there is a problem with ideological one-sidednessa€!, when such attacks 
+can be so patently dishonesta€!. Sensible peoplea€! thinka€! Carlsona€! [and] Vancea€! [are] bigger 
+threat[s] to higher educationa€!
+
+LINK:
+
+
+IN THE
+
+LONG
+RUN
+
+In The Long Run
+
+Haiti, Slavery and John Stuart Mill
+
+My next book will be a biography of John Stuart Mill. So far, Ia€™ m enjoying it very much. Mill 
+was an unusual man who lived an extraordinary life devoted to a set of problems that once again 
+dominate political thought in the 21st century. I try to be cautious about describing a long-term 
+project like a ba€!
+Read more
+
+8 months ago A- 13 likes A- 1 comment A- Zachary D. Carter
+
+America does seem, more and more, to be different societiesa€”each of them practicing in how to be 
+cruel with respect to outsiders:
+
+Paul Krugman: How America Lost Its Edge'. a€~Traffic safety. Back when I was starting my 
+professional career, roads in the United States were much safer than roads abroada€!. It wasna€™ t 
+our imagination: Driving in Portugal back then really was unsafe. But traffic fatalities per capita 
+are now much lower there than they are in the United Statesa€!. America has been forgetting how to 
+be a
+society. Wea€™ ve gotten worse at acting in ways that protect ourselves and others, in everything 
+from getting vaccinated to driving at responsible speedsa€!
+
+LINK: <https://messaging-custom-newsletters.nytimes.com/template/oakv2?CCPAOptOut=true&emc=edit_pk 
+20220614&instance 
+id=64020&nl=paul-krugman&productCode=PK&regi_id=64675225&segment_id=95099&te=l&uri=nyt%3A%2F%2Fnewsl
+etter%2Fa4c59974-0501-504d-921c-3a0c65481f9b&user_id=8a3fce2ae25b5435f449ab64b4e3e880>
+
+We have seen this before, with left-wing Stalinists and right-wing Nazisa€”and, in an earlier age, 
+with the Papacy that condemned Galileo and Giordano Bruno. People who are not committed to 
+a€oeseeking truth from factsa€D as Deng Xiaoping put seeking truth, not laying down doctrine; and 
+investigating to determine facts, not laying down dogmaa€”do not belong in a university. Yes, some 
+such dogmatic and
+doctrinaire people who come to the university to learn nothing will get in. But to complain that a 
+university does not have enough such people is to call for its destruction. Tolerance is a 
+treatya€”and if it is not to self-destruct, must restrict itself to extend itself only to those 
+willing to be tolerant, and to change their minds upon evidence, themselves:
+
+Jonathan Marks: The Right-Wing Outrage Machine Is Doing Campus Conservatives No Favors'. a€~Matt 
+Walsha€! as described President Biden as a a€oedemented perverta€n spoke his mind at UWS. A win for 
+free speech on campus, right? Wrong, according to some conservatives^!. Campus Reforma€! barked: 
+a€ceREPORT: Leftist students angry that Matt Walsh spoke on campus.a€D
+Young Americans for Freedom (YAF)a€! whose UWS chapter invited Walsh, accused the administration of 
+co-planning the protest. It shared a video of the small meeting, a€oeEngaging in Civil 
+Discourse,a€D at which administrators answered questions and discouraged aggression. The protestors 
+asked the administration to move the event off campus, but were turned down. Therea€™ s
+nothing there. But that didna€™ t stop other outlets, including The Daily Wire, from amplifying 
+YAFa€™ s spina€!. J.D. Vance echoes that universities are a€oededicated to deceit and liesa€D and 
+a€oecontrol our livesa€D and conservatives must a€oehonestly and aggressively attack the 
+universities.a€Ua€! Such attacksa€! undermine campus conservative voices in convincing sensible 
+people
+within universities that there is a problem with ideological one-sidednessa€!, when such attacks 
+can be so patently dishonesta€!. Sensible peoplea€! thinka€! Carlsona€! [and] Vancea€! [are] bigger 
+threat[s] to higher educationa€!
+
+LINK:
+
+The Right-Wing Outrage Machine Is Doing Campus Conservatives No Favors
+
+University of Minnesota students protesting College Republicansa€™ display of President Trumpa€™ s 
+Build the Wall slogan on campus. Wikipedia, Creative Commons. For the bargain price of $5,000-$ 
+10,000, Matt Walsh, a columnist for The Daily Wire, a self-described conservative site, will 
+deliver his lecture a€oeTransgenderism Is a Ridiculous Mytha€D at your collegea€!
+Read more
+
+8 months ago A- 11 likes A- 13 comments A- Marks, Jonathan
+
+Two trillion dollars spent on nation- and army-building in Afghanistan, and the forces opposing the 
+Taliban were weaker than the Northern Alliance had been in August, 2001:
+
+Jonathan Schroden: Who Is to Blame for the Collapse of Afghanistana€™ s Security Forces?'. a€~The 
+U.S. withdrawals! [was] the primary factor, mainly because it caused devastating degradations in 
+Afghan security forcesS™ morale and led many Afghans to conclude that the United States was 
+abandoning Afghanistana€!. Five other factorsS!. The marked reduction of U.S. support to
+Afghan security forces in the wake of the U.S.-Taliban agreements!. The United States never built 
+AfghanistanS™ s security forces to be self-sustaining. The special inspector general points out 
+that the United States and its allies built these forces largely in their own image, conferring 
+upon them sophisticated equipment such as Black Hawk helicopters and CS“130 transport planes, and
+complicated systems for maintenance, logistics, and personnel managements!. Ghania€™ s frequent 
+rotation of Afghan security force leaders and his marginalization of competent U.S.-trained 
+officers in favor of loyalistsa€!. The failure of the Afghan government to develop a national 
+security plana€!. The last major factora€! was the effectiveness of the Talibana€™ s military 
+campaigns I.
+The Taliban increasingly reached out to local Afghan security force leaders with a combination of 
+incentives for surrender (e.g., amnesty, money) and threats for not doing so (e.g., against their 
+families). This pressure, combined with the lack of strategy, guidance, logistics, and air support 
+from Kabul led many local commanders to take the TalibanS™ s offer. Once this dynamic started, it
+snowballed quicklyS!. The speed of their collapse strongly suggestsS! a precariously shaky 
+foundation^!
+
+LINK: 
+<https://warontherocks.com/2022/05/who-is-to-blame-for-the-collapse-of-afghanistans-security-forces/
+?S=vyym9al708ox0czut6oj>
+
+Subscribe now
+
+
+The Right-Wing Outrage Machine Is Doing Campus Conservatives No Favors
+
+University of Minnesota students protesting College Republicansa€™ display of President Trumpa€™ s 
+Build the Wall slogan on campus. Wikipedia, Creative Commons. For the bargain price of $5,000-$ 
+10,000, Matt Walsh, a columnist for The Daily Wire, a self-described conservative site, will 
+deliver his lecture a€oeTransgenderism Is a Ridiculous Mytha€D at your collegea€!
+Read more
+
+8 months ago A- 11 likes A- 13 comments A- Marks, Jonathan
+
+Two trillion dollars spent on nation- and army-building in Afghanistan, and the forces opposing the 
+Taliban were weaker than the Northern Alliance had been in August, 2001:
+
+Jonathan Schroden: Who Is to Blame for the Collapse of Afghanistana€™ s Security Forces?'. a€~The 
+U.S. withdrawals! [was] the primary factor, mainly because it caused devastating degradations in 
+Afghan security forcesS™ morale and led many Afghans to conclude that the United States was 
+abandoning Afghanistana€!. Five other factorsa€!. The marked reduction of U.S. support to
+Afghan security forces in the wake of the U.S.-Taliban agreements!. The United States never built 
+Afghanistana€™ s security forces to be self-sustaining. The special inspector general points out 
+that the United States and its allies built these forces largely in their own image, conferring 
+upon them sophisticated equipment such as Black Hawk helicopters and Ca€“130 transport planes, and
+complicated systems for maintenance, logistics, and personnel managements!. Ghania€™ s frequent 
+rotation of Afghan security force leaders and his marginalization of competent U.S.-trained 
+officers in favor of loyalistsa€!. The failure of the Afghan government to develop a national 
+security plana€!. The last major factora€! was the effectiveness of the Talibana€™ s military 
+campaigns I.
+The Taliban increasingly reached out to local Afghan security force leaders with a combination of 
+incentives for surrender (e.g., amnesty, money) and threats for not doing so (e.g., against their 
+families). This pressure, combined with the lack of strategy, guidance, logistics, and air support 
+from Kabul led many local commanders to take the TalibanS™ s offer. Once this dynamic started, it
+snowballed quicklya€!. The speed of their collapse strongly suggestsS! a precariously shaky 
+foundations!
+
+LINK: 
+<https://warontherocks.com/2022/05/who-is-to-blame-for-the-collapse-of-afghanistans-security-forces/
+? S=vyym9al708ox0czut6oj>
+
+Subscribe now
+

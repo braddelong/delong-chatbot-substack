@@ -1,0 +1,365 @@
+Subscribe now
+
+CONDITION: Nearby a€ceBomb Cyclonea€D:
+
+
+Jill Tucker: Will the Bay Area get hit by the imminent bomb cyclone?: a€~a€oehis one is going to 
+bomb out over the open oceana€D, said UCLA climate scientist Daniel Swain, adding he expects it to 
+hit 500 to 800 miles offshore. But the intense system will generate a strong atmospheric river and 
+cold front that will hit the Bay Area and other parts of Northern Californiaa€!
+Share
+
+FOCUS: Azis by Noah Smith May Well Be Better A%an Anything I Read in All 2022:
+
+
+I would say not a€oethree magicsa€D but fivea€”and maybe six:
+
+Noah Smith: The third magic: A meditation on history, science, and AI: More profound and 
+fundamental meta-innovationsa€! these are ways of learning about the world:
+
+The first magica€! history^} knowledgea€! recorded in languagea€!. Animals make tools, but they 
+dona€™ t collectively remembera€!. Historya€! is what allows tinkering to sticka€!.
+
+Our second magic tricka€! was science^} figuring outa€! principles about how the world worksa€!. 
+Controlled experimentsa€!. Ita€™ s pretty incredible that the world actually works that way. Ifa€! 
+in the year 1500a€! [you] tolda€! [someome] one kooky hobbyist rolling little balls down ramps 
+could be right about how the physical world works, when the cumulated experience of millions of 
+human beings around him was wronga€!
+they would have thought you were crazy. They did think that was crazy. And yet, ita€! workeda€!. 
+Buta€! complex phenomena have so far defied the approacha€!. Language, cognition, society, 
+economics, complex ecologies these things so far dona€™ t have any equivalent of Newtona€™ s Laws, 
+and ita€™ s not clear they ever willa€!.
+
+The Third Magica€L a€oeStatistical Modeling: The Two Culturesa€Da€! [a] split betweena€! 
+parsimonious modelsa€\ [and] predictive accuracy^}. Control^}. Generalized! without finding any 
+simple a€celawa€D to intermediated!. Halevyd! Norvig, andd! Pereirad! doeThe Unreasonable 
+Effectiveness of DatadDd!. doeRepresent all the data with a nonparametric modeld! with very large 
+data sources, the data holds a
+lot of detaild!. Trustd! languaged!. See how far you can go by tying together the words that are 
+already thered!. Now go out and gather some data, and see what it can dodUd!. Underlying 
+regularities that are difficult to summarize but which are still possible to generalize^}. 
+Black-box predictiond!. Wed™ re always in danger of overfitting and edge casesd!. The doethird 
+magica€D may be more like actual magic than the
+previous twod!. But even wild, occasionally-uncontrollable power is real powerd!.
+
+A number of subfields of economicsd! have largely resisted the natural experiment approachd!. Might 
+we apply AI tools?d! Khachiyan et al. arguesd! doeyesdU: doeDeep learningd! daytime satellite[s]a€! 
+predict changes in income and populationd! grid cells with lateral dimensions of 1.2km and 2.4km 
+(where the average US county has dimension of 55.6km)d!. Model predictionsd! exceed the accuracy of 
+existing
+modelsd! are 3-4 times larger than ford! nighttime lightsd!. In-period accuracyd! 0.90 to 0.94 for 
+levels predictions and 0.49 to 0.51 for time differencesd!. Predicting out-of-sampled! an R2 of 
+0.20 for the change in log population over 2010 to 2020d!. However, the income model is unable to 
+outperform the true mean (i.e., R2 = 0) when forecasting income changes over 2007 to 2017d!. R2 
+values are 0.50 for the 2000-2020
+population change and 0.42 for the 2000-2017 income change (with initial conditions), which are 
+similar to results for the 2000-2010 sample perioda€!a€D. Being able to predict the economic growth 
+of a few city blocks 10 years into the future with even 30% or 40% accuracyd!. And this is just a 
+first-pass attempta€!
+
+The first magic is at the individual level: eyes, hands, and brains that allow us, but just to use 
+and make but to plan for tool-use, and so the East African Plains Ape gains fangs, claws, fur, 
+levers, and much else. The second magic is at the small group-collective level: ears and mouths 
+that allow us to talk using language, and so the band of fifty of so East African Plains Apes 
+becomes an anthology intelligence: what one knows, soon all know.
+Then comes the third magic, which is Noahd™ s first: the artificial memory and communication device 
+that is writing, and all of a sudden it is not just the band of fifty that is an anthology 
+intelligence, but potentially all humanity in the present and the past.
+
+The fourth magic is a magic of coordination: How do you get us all in harness, pulling in the same 
+direction, but each doing our (relatively specialized) part? The fourth magic is gift-exchange, 
+that in its hypertrophied form turns into the market economy. Doing favors for one another, in a 
+social context in which there must br approximate balance, is what allows us to, collectively, not 
+just know things but do things.
+After that comes, as Noah correctly notes, the fifth magic of science: the experimental method, and 
+the exaltation of ideas not because they solidify the band or help some A©lite run a 
+force-and-fraud exploitation-and-domination game, but because the ideas are true and are a univeral 
+remote controld”they enable us to understand and hence control the universe.
+
+Those five magics have brought us where we are today.
+
+Now how likely is it that we are now at the cusp of a sixth magic: predictive accuracy, 
+generalization, and control without any simple intermediating laws, abstractions, or 
+encapsulations, based simply on the fact that we have a huge amount of data, and can thus classify 
+situations very finely by looking at what the situationsd™ nearby neighbors are?
+
+On the one hand, I feel that this must be trued”! find it very hard to imagine what our brains, or, 
+say, a dogsa€™ brains, are doing in wetware other than this. On the other hand, our computers are 
+still a lot less sophisticated than our brains, and it is unclear if Moorea€™ s Law will get us to 
+computers of sufficient complexity, and unclear if we can do as good a job of programming our 
+computers as evolution has done at programming us.
+But you really do need to subscribe to Noah Smitha€!
+
+Share Brad DeLong's Grasping Reality
+
+MUST-READ:
+
+I confess I was disappointed that nobody noticed this little microblog I did. Maybe SubStack Chat 
+is not the right venue?:
+
+There is an interesting debate between David Glasner 
+<https://uneasvmonev.com/2023/01/01/vou-sav-potato-i-sav-potahto-vou-sav-tomato-i-sav-tomahto-vou-sa
+v-distribution-i-say-expectation/> and Olivier Blanchard going on:
+
+
+Olivier Blanchard @ojblanchardl
+
+1/8. A point which is often lost in discussions of inflation and central bank policy. Inflation is 
+fundamentally the outcome of the distributional conflict, between firms, workers, and taxpayers. It 
+stops only when the various players are forced to accept the outcome.
+11:24 PM r™ Dec 30,2022
+
+3,888Likes 1,009Re tweets
+
+I think the easiest way to conceptualize what I think of as the major point is to set up a model in 
+which:
+
+• The central bank has a target rate of inflation.
+
+• The rate of inflation is a constant markdown applied to the rate of nominal wage increase.
+
+•  The rate of increase of nominal wages that workers are able to demand, and enforce, is a 
+declining function of the unemployment rate and of the real wage.
+
+In this model, there is a warranted rate of nominal wage increase: the central banka€™ s inflation 
+target, plus the wedge between price inflation and nominal wage increase. In this model, the 
+natural rate of unemployment is the rate at which the actual rate of nominal wage increase is equal 
+to the warranted rate, and thus depends on the level of the real wagea€”with a lower real wage 
+sustainable only with a higher natural rate of unemployment.
+You can understand this as a distributional conflict: total demands for production greater than 
+100% of supply, and so attaining a feasible equilibrium requires one of:
+
+1. diminishing other groupsa€™ claims on income and so pushing real wages up enough that nominal 
+wage increases demanded are at the nominal warranted rate of wage increase.
+
+2. raising the unemployment rate enough that nominal wage increases demanded are at the nominal 
+warranted rate of wage increase.
+
+3. accepting an inflation rate higher than the central banka€™ s target, and thus achieving 
+feasibility via the exploitation of workersa€™ short-run money illusion.
+If                                                                            you take this 
+approach, I think it becomes clear that Blanchard and Glasner are talking past each other, and are 
+not really disagreeinga€!
+
+Leave a comment
+
+BRIEFLY NOTED:
+
+ONE IMAGE: Slouchinga€::
+
+I continue to try to get stable diffusion to generate a truly striking and apposite Slouching 
+Towards Utopia cbit.ly/3pP3Krk> illustration. But it keeps going horribly wrong, and the things it 
+produces that I like are vastly too dystopian:
+
+• <•
+
+
+
+Give a gift subscription
+
+Very Briefly Noted:
+
+• Mary Weitzman: Prices vs. Quantitiesa€!
+
+•  Charlie Sykes: Kevin McCarthy's Hat-Trick of Humiliation: a€~a€oeYou're supposed to throw the 
+grenade after you pull the pin. They pulled the pin and passed the grenade around!" a€” James 
+Carvillea€!
+
+•  Matt Levine: Private Markets Dona€™ t Like to Go Down: a€~One cynical way to understand private 
+investing generally is that private investment firms a€” venture capital, private equity, private 
+real estate, etc. a€” charge their customers high fees for the service of avoiding the visible 
+volatility of public marketsa€!
+
+•  Patricia Marx: Hell on Two Wheels, Until the E-Bikea€™ s Battery Runs Out: a€~In 2020, Americans 
+bought more than twice as many electric bikes as electric cars. I test-drove a fleet of them and 
+lived to tell the talea€”and make recommendationsa€!
+
+•  Noah Millman: What Do The Republican Renegades Want?: a€~McCarthya€!. I cana€™ t see what he 
+could give them the insurgents that would be of comparable value to his scalpa€!. What they want to 
+prove is that they can veto a choice they dona€™ t approve of, [so] what can he possibly give 
+them?a€!
+
+•  Robert Minchin: a€~My hope for 2023 is that this will be the year when people start following 
+the advice of the National Institute of Standards and Technology that: a€oel2 a.m. and 12 p.m. are 
+ambiguous and should not be useda€D. Everytime you break this rule, a kitten criesa€!
+
+•  Alexandra Petri: a€~Little-known fact: if the speaker vote goes to a seventh ballot John Quincy 
+Adams rises from the sea astride a seahorse of enormous dimensions and the winner has to fight 
+hima€!
+
+• Jake Sherman: a€~Interesting momenta€”Kat Cammack said Democrats have been drinking during the 
+speaker vote. Dems ask to a€oetake down her wordsa€Da€”a mechanism to formally erase her words from 
+the record. There are no rules, so there's no mechanism to do thisa€!
+Get 33% off a group subscription
+
+AJs:
+
+Jacob Levy: a€~Cammack's speech is pretty entertaining, and not primarily for her a€oethe House is 
+not in order so Ia€™ m allowed to stay stuff I would be forbidden to say under normal rules of 
+decoruma€D. Therea€™ a€~ standard pablum about unity and working togethera€” which only applies 
+intra-party, so it alternates sentence by sentence with a€oeand we are united in hating THEMa€D. 
+And there are appeals to the authority of Ronald Reagan, as if
+it were 1993 or 2003 or 2013. a€oeAre we Reagan Republicans?a€D doesn't work in 2023a€!
+
+
+Mark Gongloff: Kevin McCarthy falls victim to the GOP rebellion about nothing: a€~The American 
+voting public, in its infinite wisdom, handed the Republican Party the gavel to the House of 
+Representatives. The party took the gavel this week and promptly began smashing itself in the face 
+with it, again and again. Sometimes, when the partya€™ s smashing arm got tired, from all the 
+smashing, it chewed on the gavel. At one point the House sergeant at arms
+had to pry the gavela€™ s handle from one of the partya€™ s nostrils. Everythinga€™ s going great, 
+in other wordsa€!. McCarthy has already done almost everything to appease the extremists short of 
+renaming both of his children a€oeDonald Trump.a€D Nothing has workeda€!. Like Robert Redford in 
+a€ceThe Candidate,a€D after it won the House, the GOP more or less said, a€oeSo what do we do 
+now?a€D It campaigned without a plan for governance
+and forgot to develop one between November and January, Bloomberga€™ s editorial board writes. Its 
+Rebellion About Nothing is par for the course, reallya€!
+
+Josh Barro: When Does the House Need a Speaker?: a€~Republicans have good reasons to want to get 
+this speaker election mess over witha€!. But theya€™re not excellent reasons, and theya€™re not 
+urgenta€!. If you think waiting will get you leadership and rules that are more to your liking, and 
+especially if youa€™re someone like Matt Gaetz whose whole purpose in office is to gain attention, 
+which becomes easier rather than harder with this mess going
+on.                                                                                                 
+                                                                                                    
+          And thata€™ s why I have trouble seeing how this thing ends
+
+Timothy Snyder: Life as a Lie: Trump, Santos, and Putin: a€~After he lost, Trump was lying to 
+extend his political life. It wasn't that he labored under a misapprehension about the election. He 
+knew that he had lost. But he was lying not so much to deny the truth to invite people into an 
+alternative realitya€!. Trump knew that he had lost the election, and also knew that his also knew 
+that his specific claims of fraud were untrue. And that is all made
+abundantly clear. Yet there is a deeper point to be made about the nature of politics, which is 
+that it can be transformed by big lies issued from positions of authority.a€! Big Lies demand 
+violence, since they command the faith of some, but cannot overcome the common sense or lived 
+experience of others. The smaller lies within the Big Lie, by generating distrust of institutions, 
+create a sense that only violence can restore the righteous order of thingsa€!. The
+striving                                                                                            
+                                                                                                    
+                 for an all-embracing fiction explains the deep affinity between Trump and 
+Putina€!. Putin also tells big lies, for example that Ukraine does not exist, that there is no 
+Ukrainian society, no Ukrainian nationa€!. Once factual truth is no defense in politics, all that 
+remains is spectacle and forcea€!
+
+Donate Subscriptions
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Leave a comment
+Subscribe now
+
+Henry Farrell, Hugo Mercier, & Melissa Schwartzberg: Analytical Democratic Theory: A 
+Microfoundational Approach: a€~Aa€! literature challenges the quality of democratic decision 
+making, drawing ona€! specific claims about the ubiquity of cognitive biasa€!. A competing 
+literaturea€! defends the wisdom of crowdsa€!. Wea€! demonstrate that the former literature is 
+based on outdated and erroneous claims and that the latter is overly sanguinea€!.
+a€oeInteractionista€D scholarship shows how individual-level biases are not devastating for group 
+problem solving, given appropriate conditions. This provides possible microfoundations fora€l 
+investigating how different group structures are associated with both success and failure in 
+democratic decision making. This agenda would have implications for both democratic theory and 
+democratic practicea€!
+
+Marcin Piatkowski: BA©la Tomkaa€™ s a€oeAusterities and Aspirations: A Comparative History of 
+Growth, Consumption, and Quality of Life in East Central Europe since 1945a€D: a€~While communist 
+countries lagged behind Western Europe in practically every facet of development, they nonetheless 
+scored much higher on education outcomes, mortality, gender equality and many other key elements of 
+development and well-being than what would be
+suggested by their levels of income.... By now all four countries... Poland, Czechia, Slovakia and 
+Hungary... [and]! the rest of the CEE region from Estonia down to Bulgariaa€”are all living through 
+their Golden Age, defined as the shortest distance in history between their levels of incomes and 
+quality of life and those in Western Europe... This is surprising in view of the booka€™ s 
+generally useful coverage of the
+
+Matt Levine (Feb 10,2021): Now... things are valuable not based on their cash flows but on their 
+proximity to Elon Musk: a€~It was a joke?... You might think that a€cedid Elon Musk tweet about a 
+thinga€D would be a simpler valuation metric than, like, a€oeestimate its cash flows in perpetuity 
+and apply an appropriate discount rate,a€D but I dona€™ t know, therea€™ s a lot going on.  Here is 
+a website called a€ceElon Stocks,a€D which promises to send
+
+you a text aCcewhen Elon mentions a stock in a tweet.a€D (I cannot advise you either on investing 
+strategy, or on the wisdom of typing your phone number into a random website, but I mention it here 
+purely for entertainment purposes.) I assume they are working on a premium high-speed direct feed 
+to alert high-frequency traders to Muska€™ s tweets microseconds before everyone else. I hope 
+Twitter Inc. is doing that, actually.  You dona€™t need
+
+economics anymore, you need memes, Ia€™ m so sorry...
+
+Maciej Ceglowski: Why Not Mars: a€~Going to Mars made sense, back when astronauts were a cheap and 
+lightweight alternative to costly machinerya€!. No one had been in space long enough to discover 
+the degenerative effects of freefall  But fifty years of progress in miniaturization and software 
+changed the balance between robots and humansa€! space probes improved by something like six orders 
+of magnitude, while the technologies of long-duration
+
+spaceflight did not.... As for that space station, the jewel of human spaceflight, it exists in a 
+state of nearly perfect teological closure, its only purpose being to teach its creators how to 
+build future spacecraft like ita€!. The idea of sending something like it on a three year journey 
+to Mars does not get engineersa€™ hearts racing, at least not in the good way.  When you hold on to 
+a belief so strongly that neither facts nor reason can change it, what you are doing
+
+is no longer science, but religion. So Ia€™ ve come to believe the best way to look at our Mars 
+program is as a faith-based initiative...
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Leave a comment
+Subscribe now
+
+Henry Farrell, Hugo Mercier, & Melissa Schwartzberg: Analytical Democratic Theory: A 
+Microfoundational Approach: a€~Aa€! literature challenges the quality of democratic decision 
+making, drawing ona€! specific claims about the ubiquity of cognitive biasa€!. A competing 
+literaturea€! defends the wisdom of crowdsa€!. Wea€! demonstrate that the former literature is 
+based on outdated and erroneous claims and that the latter is overly sanguinea€!.
+a€oeInteractionista€D scholarship shows how individual-level biases are not devastating for group 
+problem solving, given appropriate conditions. This provides possible microfoundations fora€l 
+investigating how different group structures are associated with both success and failure in 
+democratic decision making. This agenda would have implications for both democratic theory and 
+democratic practicea€!
+
+Marcin Piatkowski: BA©la Tomkaa€™ s a€oeAusterities and Aspirations: A Comparative History of 
+Growth, Consumption, and Quality of Life in East Central Europe since 1945a€D: a€~While communist 
+countries lagged behind Western Europe in practically every facet of development, they nonetheless 
+scored much higher on education outcomes, mortality, gender equality and many other key elements of 
+development and well-being than what would be
+suggested by their levels of income.... By now all four countries... Poland, Czechia, Slovakia and 
+Hungary... [and]! the rest of the CEE region from Estonia down to Bulgariaa€”are all living through 
+their Golden Age, defined as the shortest distance in history between their levels of incomes and 
+quality of life and those in Western Europe... This is surprising in view of the booka€™ s 
+generally useful coverage of the
+
+Matt Levine (Feb 10,2021): Now... things are valuable not based on their cash flows but on their 
+proximity to Elon Musk: a€~It was a joke?... You might think that a€cedid Elon Musk tweet about a 
+thinga€D would be a simpler valuation metric than, like, a€oeestimate its cash flows in perpetuity 
+and apply an appropriate discount rate,a€D but I dona€™ t know, therea€™ s a lot going on.  Here is 
+a website called a€oeElon Stocks,a€□ which promises to send
+
+you a text aCcewhen Elon mentions a stock in a tweet.a€D (I cannot advise you either on investing 
+strategy, or on the wisdom of typing your phone number into a random website, but I mention it here 
+purely for entertainment purposes.) I assume they are working on a premium high-speed direct feed 
+to alert high-frequency traders to Muska€™ s tweets microseconds before everyone else. I hope 
+Twitter Inc. is doing that, actually.  You dona€™t need
+
+economics anymore, you need memes, Ia€™ m so sorry...
+
+Maciej Ceglowski: Why Not Mars: a€~Going to Mars made sense, back when astronauts were a cheap and 
+lightweight alternative to costly machinerya€!. No one had been in space long enough to discover 
+the degenerative effects of freefall  But fifty years of progress in miniaturization and software 
+changed the balance between robots and humansa€! space probes improved by something like six orders 
+of magnitude, while the technologies of long-duration
+
+spaceflight did not.... As for that space station, the jewel of human spaceflight, it exists in a 
+state of nearly perfect teological closure, its only purpose being to teach its creators how to 
+build future spacecraft like ita€!. The idea of sending something like it on a three year journey 
+to Mars does not get engineersa€™ hearts racing, at least not in the good way.  When you hold on to 
+a belief so strongly that neither facts nor reason can change it, what you are doing
+
+is no longer science, but religion. So Ia€™ ve come to believe the best way to look at our Mars 
+program is as a faith-based initiative...
+

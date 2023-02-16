@@ -1,0 +1,513 @@
+Become a subscriber to receive this a€~Stack in email; or pay, for extras-at-the-bottom and to 
+support this efforta€”I would like to collect enough from it to hire an RA....
+
+Type your emaila€|       Subscribe
+
+First: Question: Have Harald Uhlig & Company Read Lisa Cooka€™s Paper at All? Answer: No
+
+Only somebody who has not read the paper, and does not care that they have not read the paper, 
+would say so.
+
+So last Wednesday I was peacefully working away, reached the end of one task, filed it away, 
+decided to check to see if any emails I needed to deal with had come in over the past eight hours, 
+and found:
+
+Chris Brunet <chrisbrunet@xxxxxxxxxxxxxxxxxxxxxxxxx.org>: I saw you signed this letter: 
+<https://www.banking.senate.gov/imo/media/doc/NEA%20support%20statement%20signatories%20in%20columns
+ril.pdf>. I am trying to find one person among the 500 of you who is brave enough to respond to 
+this blog post: 
+<https://haralduhlig.blogspot.com/2022/02/lisa-cook-has-been-nominated-to-federal.html>
+More specifically, I am looking for a comment on whether or not you think Cook's signature 
+publication, "Violence and economic activity: evidence from African-American patents, 1870-1940", 
+is fatally flawed as Uhlig suggests. Do you agree with Uhlig's assessment of this paper? Is this 
+paper fatally flawed? Why or why not? You have 24 hours to respond.
+
+So I wrote back, immediately: Ia€™ ve engaged with Harald before, and found it a waste of time. 
+Hea€™ s not a data persona€! When Lisa came to Berkeley to present this, we gave her a hard time on 
+the data point, and she convinced us that it was a real discontinuity in patenting, and not simply 
+a failure to identify patents by Blacks. People who had been patenting in the 1890s, and ought to 
+have been patenting in the 1900s, weren't, IIRC...
+
+Chris Brunet: Huh. When I hear that people who had been patenting in the 1890s, and ought to have 
+been patenting in the 1900s, weren't, My first instinct is to think "they must have stopped 
+harvesting data on those people", not, "Oh, those people must have become less innovative and 
+stopped wanting to patent"
+
+So I wrote back again: Her problem was not in finding patents patents are indexed by name Dash a€” 
+figuring out which names are those of African-American inventors. Once you find an inventor, you 
+can track his patents throughout his career whether or not they ended up in Bakera€™ s sample. That 
+said, my view was it is that some of the circa1900decline is very likelyto be a coverage issue. But 
+data work is very hard, andsniping at data imperfections is very easy.
+My rule-of-thumb has always been that it is those people who put in the work to try to make better 
+data have standing to criticize past efforts at data work a€” thus Christina Romer got her standing 
+to criticize Stan Lebergott. That rule of thumb has kept me from wasting a lot of time.
+
+You know, if someone were brought to you, and you were told that they had been deputy team lead for 
+financial regulation and such issues during a presidential transition, had been the point staff 
+economist for the White House on the Eurozone dimension of the 2008 to 2012 financial crisis, had 
+been a special advisor to the secretaryof the treasuryon finance anddevelopment, and had beena 
+Hoover Institution National Fellow, your reaction would not have been a€oethis is
+an unqualified person put forward to advance some sinister non-technocratic agendaa€D, let alone 
+someone put forward because she strokes the a€oeerogenous zones of progressivesa€D.
+
+I confess I did not think we would get to calling Lisa Cook a whore in the first week of this.
+
+Chris Brunet: I admit I had never heard of George Will before, since I am Canadian, and can only 
+keep track of so many pundits. I have no strong opinions on his "erogenous zones" analogy.
+
+At this point, I decided that I had spent enough time wading in this particular pool of 
+mucka€’’somebody who claims to have never heard of George F. Will and to have no opinion about 
+whether one should or should nota€”genteely, for George F. Will learned at Bill Buckleya€™ s knee 
+how to do this, so that he can pretend that was not what he meant, while leaving no real doubt in 
+anyonea€™ s mind that that was what he meanta€”call a Black woman a whore is just not
+worth engaging.
+
+But I did file this away, thinking that I really should reread Lisa Cook (2014) 
+<http://econ.msu.edu/papers/cook/Violence%20and%20Economic%20Activity.pdf>, and last night I did 
+so:
+
+1. I had failed to bring to mind that her responses to the data questions were not just that 
+a€oethere is a break not just in the aggregate series but in individual inventorsa€™ patenting 
+patterns around 1900a€D, but that also there was a broader sharp fall in entrepreneurial activity 
+by African-Americans: newspapers, for example. After checking, other people at the seminar I saw 
+say that they thought this figure did the most in putting to rest fears that all of the
+ca.-1900 decline was a data artifact. If it is all a data artifact, it is a very broad one:
+
+
+T
+
+1860            1880            1900            1920            1940
+
+Application year
+
+-----•----- Black patents   —♦—Newspapers
+
+Fig. 3 African American newspapers and patents, 1870-1940. Source Author’s calculations; see data 
+appendix
+
+2. I had failed to bring to mind that her firsta€”her very firsta€”set of regression results, in 
+Table 6, dummies out the pre-1900 dataa€”the computer is looking for patterns in the 20th century 
+and patterns in the 19th century, and is paying no attention to the sharp drop at the century 
+boundary:
+
+Table 6 Difference-in-differences regressions dependent variable: log patents per capita
+
+
+Explanatory variable
+Lynchings per capita, log
+
+Major riots
+Segregation laws (1)
+
+Full
+
+-0.342
+
+(0.216)
+
+-0.085***
+(0.021)
+
+0.013
+
+(0.010)
+
+Whites
+
+0.136**
+(0.069)
+
+-0.021***
+(0.007)
+
+-0.003
+
+(0.004)
+
+Blacks
+
+-0.908**
+(0.461)
+
+-0.132*
+(0.070)
+
+0.036
+
+(0.026)
+
+I? 'irn                                         _n 1 A i
+
+
+i\nw
+
+W. 1 ~T A
+
+(0.284)
+
+Year = 1921                       0.172                  -0.002                 -0.538***
+
+(0.114)                (0.038)                (0.180)
+
+Race x Year= 1921                 -0.829***
+(0.076)
+
+All models are estimated as pooled OLS models in first differences. Driscoll-Kraay standard errors 
+are in
+parentheses in Column 1. Heteroscedasticity-robust standard errors are in parentheses in Columns 2 
+and 3.
+A linear control for the break year is included in each model. Additional controls for peak and 
+trough years
+and economic activity, the Miron-Romer Industrial Production Index (log), are included in each 
+model. The
+sample period is 1882-1940. See data appendix for variable descriptions. Coefficients marked with 
+an asterisk
+(***) are significant at the 1 % level of significance. (**) at the 5 % level, and (*) at the 10 % 
+level
+
+3. Her second, panel, set of regression results in Table 7 does, for the most part, use the 
+ca.-1900 decline as part of its identifying variance. But column 6, which looks only at the 
+1918-1940 sample, does not. It looks as though the computer does take the time-series dimension of 
+the absence of riots and the boom in inventive activity from 1880-1895 as its signal that white 
+violence in the form of race-riots is substantially correlated with low patenting, but even in
+the post-WWI sample there is plenty of cross-sectional state identifying variation for the computer 
+to judge that places where there are a lot of lynchings are places where it is very unhealthy to be 
+a Black inventor as well:
+
+Table 7 State regressions dependent variable: patents per state per year
+
+
+Explanatory variables   (1)          (2)          (3)          (4)
+
+(5)^6)
+
+
+Lynchings, per
+100,000
+
+-0.058*** -0.055***       -0.031*      -0.028*
+
+(0.022)      (0.020)       (0.017)       (0.016)
+
+-0.035** I —0.069**
+
+(0.017) I (0.031)
+
+
+Major riots
+
+Segregation laws
+(1)
+
+Illiteracy rate
+
+Number of firms,
+per capita
+
+Industry
+participation
+
+Number of states
+
+—u.4zy***                   —U..W***
+
+(0.077)      (0.111)      (0.056)
+
+-0.100       -0.131       -0.053
+
+(0.101)      (0.101)      (0.121)
+
+-0.105       -0.407       -1.284***
+
+(0.400)      (0.416)      (0.478)
+182.054***
+(45.812)
+
+0.685
+
+(0.552)
+
+430         428         425
+
+49          49          49
+
+—UJM”’
+
+(0.074)
+
+-0.081
+
+(0.127)
+
+-1.526***
+(0.515)
+179.098***
+
+(45.177)
+
+0.623
+
+(0.529)
+
+423
+
+49
+
+_ (j q. ।
+
+(0.149)
+
+-0.037
+
+(0.178)
+
+-2.028**
+(0.696)
+166.454**
+
+(58.878)
+
+0.498
+
+(0.602)
+
+276
+
+49
+
+U.U1 7
+
+(0.295)
+
+-0.081
+
+(0.163)
+
+-4.053*
+(2.160)
+204.407*
+
+(122.791)
+
+0.369
+
+(1.639)
+
+147
+
+49
+
+
+R2
+
+Region
+
+0.105       0.112       0.173
+
+Yes         Yes         Yes
+
+0.179
+
+Yes
+
+0.185         174
+
+Yes
+
+
+Share African
+American in
+state
+
+Yes         Yes         Yes
+
+Yes
+
+Yes
+
+Yes
+
+
+Peaks and troughs
+
+Yes         Yes         Yes
+
+Yes         Yes         Yes
+
+All models are estimated as random-effects models using patents issued to African American 
+inventors.
+Standard errors robust to clustering on state and year are in parentheses. Column 5 is estimated 
+for the period
+
+
+One Picture:
+
+The woman in the centera€”Mnesarete of Thespiai, the favored model for Aphrodite in Athens in the 
+age of Aristotlea€”is, in the historical record, nicknamed a€oePhrynea€n, a€ceToada€D, for her 
+attractive yellowish-brown skin, so unlike the corpse-like pallor of Thracian or Gaulish barbarians 
+from the north:
+
+
+19th-century whitewashing, much?
+
+Very Briefly Noted:
+
+
+Irin Carmon: Whata€™ s Actually in the Harvard Sexual Harassment Complaint Against Harvarda€™ s 
+John    
+<https://nymag.com/intelligencer/2022/02/whats-actually-in-the-harvard-sexual-harassment-complaint.h
+tml>
+
+Kate Riga: In Alabama Case, Kavanaugh Emits Lengthy Whine In Response To Kagana€™ s 
+D^5ent<https://talkingpointsmemo.com/news/alabama-supreme-court-kavanaugh-kagan-alabama-redistrictin
+g>
+
+Mark Borello & David Sepkoski: Ideology as Biology. a€~E. O. Wilsona€! correspondence witha€! J. 
+Philippe Rushtona€! <https://www.nybooks.com/daily/2022/02/05/ideology-as-biology/>
+
+Max Weber: Science as a Vocation 
+<https://www.soc.upenn.edu/sites/default/files/Weber-Science-as-a-Vocation.pdf>
+
+Katie Martin: The a€~Zuck Shocka€™ Is a Cautionary Tale for Equities'. a€™ Big Techa€™ s dominance 
+leaves investors heavily exposed to risk of a company stumbling as market froth recedesa€l 
+<https://www.ft.com/content/6ad7b79e-e606-4daa-baa3-9bf219aad3cf>
+
+Barry Ritholtz & Rebecca Patterson: Transcript 
+<https://ritholtz.com/2022/Q2/transcript-rebecca-patterson/>
+
+Matthew Yglesias: Leta€™ s Build Back Better&€\
+
+
+Slow Boring
+
+Let's build back better
+
+Build Back Better is officially dead. Joe Manchin has made it clear he wants nothing to do with the 
+legislation that was passed by the U.S. House of Representatives and that Chuck Schumer allegedly 
+tried to pass through the Senate. And to the extent that any of its components can be resurrected, 
+he clearly wants to characterize the process as drafting a whole new billa€!
+
+Read more
+
+a year ago A- 111 likes A- 218 comments A- Matthew Yglesias
+
+Arys: a€™ An incredible artifactd€\ This device, consisting of a sundial and geared mechanical 
+calendar, is the second oldest known of its kind. The earliest known example is the 
+#AntikytheraMechanism. It dates around 400a€“600 Byzantine Empirea€!
+
+ArysdYUdY^ @ArysPan
+
+An incredible artifact... This device, consisting of a sundial and geared mechanical calendar, is 
+the second oldest known of its kind. The earliest known example is the #AntikytheraMechanism. It 
+dates around 400-600 BCE, Byzantine Empire.
+
+
+5:56 PM r™ Feb 12,2022
+
+1,569Likes315Re tweets
+
+Paragraphs:
+
+Katharine Abraham & al.: Fed Nominees Letter. a€~Wea€! urge you, for the growth and stability of 
+our economy, to swiftly confirm President Bidena€™ s nominees for the Federal Reserve System Board 
+of Governors. While we do not all agree on monetary policy or how the Federal Reserve should 
+respond to the current economic environment, we believe that all five currently pending 
+nomineesa€’’Jerome Powell (Chair), Lael Brainard (Vice Chair), Sarah Bloom-
+Raskin (Vice Chair for Supervision), Lisa Cook, and Philip Jeffersona€’’are highly qualified to 
+serve and would bring a critical set of perspectives and skills to the joba€!
+
+LINK: 
+<https://equitablegrowth.org/wp-content/uploads/2022/02/Federal-Reserve-Nominees-Economists-Support-
+Letter.pdf>
+
+Ezra Klein: Can Democrats See Whata€™ s Coming?: a€~Picking winners and losers means picking some 
+losers. Venture capitalists can brag about their failures, but bureaucrats are flayed for them. 
+That the Obama administration funded Solyndra is canon. That the same program threw a lifeline to a 
+struggling electric car manufacturer named Tesla is trivia. Democrats have run scared from 
+accusations of big government for decades, and so they continue to try to show
+that they will leave the market to its magic, the scientists to their beakers, and confine 
+government to cushioning the blows or looking after the childrena€!. Bidena€! promised a 
+a€oewartime efforta€D to fight Covid, but thata€™ s not what wea€™ ve seena€l. But if Democrats 
+dona€™ t always admit how much government can do to help, they also dona€™ t always admit how much 
+it can do to hurt. The market would build more housing if local zoning czars would let
+them. Companies were clamoring to sell more rapid tests earlier, but the F.D.A. wouldna€™ t let 
+them. All across the country, nuclear and solar and wind projects are being tied up in red tapea€!. 
+If Democrats want to claim a bigger role for government in shaping our future, they need to be the 
+ones who are most outraged when it is government that is holding us backa€!
+
+LINK: <https://www.nytimes .com/2022/02/12/opinion/yellen-supply-side-liberalism.html>
+
+Duncan Black: d€oeLast Vestigesa€L3 a€~Our coverage is all wrong, but we cana€™t be faulted for 
+discounting the 57% who are in a cargo cult: Sam Stein: a€oeA notable poll number that may be 
+capturing the last vestiges of the pro mask sentiment but maybe also shows that the online 
+discourse is not totally connected to the larger discoursea€D [parents polled on school masks: 57% 
+required, 36% optional, 7% not allowed]a€!
+LINK: <https://www.eschatonblog .com/2022/02/last-vestiges .html>
+
+Jan-Peter Kleinhans & Julia Hess: Understanding the Global Chip Shortages: a€~The global 
+semiconductor value chaina€! is highly efficient and innovative but prone to be disrupted by 
+external shocks, and it does not adapt well to skyrocketing demand due to diverging long-term 
+business interests of fabs and their customers. This is nothing new to the semiconductor market; in 
+fact, this is neither the first nor the last boom-and-bust cyclea€!. Any supply chain that
+depends on chips, such as the automotive supply chain, will also need to invest in substantial 
+inventory on their own and better supplier relationships^!
+
+LINK: <https://www.stiftung-nv.de/sites/default/files/understanding the_global_chip shortages .pdf>
+
+Evie Liu: 4 Lessons from ARKa€™ s Rapid Risea€”and Fall: a€~Outspokena€! Cathie Wood was the 
+biggest success story of 2020. Last year, however, was a very different story. ARK Innovationa€! is 
+down 52% from the peaka€!. Funds that shoot up considerably in a short period of time are typically 
+making very concentrated bets, which means their downfall could be similarly dramatica€!. 
+Investorsa€™ actual returns (known as dollar-weighted returns) are often
+worse than the stated returns of the fund itself, because investors tend to go in after many gains 
+have been made and get out too latea€! LINK: 
+<https://www.barrons.com/articles/cathie-wood-ark-fund-rapid-rise-fall-51643763966>
+
+Benji Jones: How Migratory Birds Use EarthdC™ s Magnetic Field: a€~The mysteries of magnetic 
+perception in birds have intrigued scientists for decades. Now we have some fresh clues into this 
+astonishing ability. A new study in the journal Science suggests that Eurasian reed warblers a€” 
+and likely other migratory songbirds a€” sense a specific aspect of Eartha€™ s magnetic field, 
+called the angle of inclination, to know where to roost on their journey north. It
+functions as a kind of magnetic address or a€oestop sign,a€D the researchers write, that tells the 
+birds when theya€™ ve arriveda€!
+
+LINK: <https://www.vox.com/down-to-earth/22901324/birds-migration-navigation-earth-magnetic-field>
+Share Brad DeLong's Grasping Reality
+
+Leave a comment
+Give a gift subscription
+
+
+Jan-Peter Kleinhans & Julia Hess: Understanding the Global Chip Shortages: a€~The global 
+semiconductor value chaina€! is highly efficient and innovative but prone to be disrupted by 
+external shocks, and it does not adapt well to skyrocketing demand due to diverging long-term 
+business interests of fabs and their customers. This is nothing new to the semiconductor market; in 
+fact, this is neither the first nor the last boom-and-bust cyclea€!. Any supply chain that
+depends on chips, such as the automotive supply chain, will also need to invest in substantial 
+inventory on their own and better supplier relationships^!
+
+LINK: <https://www.stiftung-nv.de/sites/default/files/understanding the_global_chip shortages.pdf>
+
+Evie Liu: 4 Lessons from ARKa€™ s Rapid Risea€”and Fall: a€~Outspokena€! Cathie Wood was the 
+biggest success story of 2020. Last year, however, was a very different story. ARK Innovationa€! is 
+down 52% from the peaka€!. Funds that shoot up considerably in a short period of time are typically 
+making very concentrated bets, which means their downfall could be similarly dramatica€!. 
+Investorsa€™ actual returns (known as dollar-weighted returns) are often
+worse than the stated returns of the fund itself, because investors tend to go in after many gains 
+have been made and get out too latea€! LINK: <https://www.barrons 
+.com/articles/cathie-wood-ark-fund-rapid-rise-fall-51643763966>
+
+Benji Jones: How Migratory Birds Use Earthd€™ s Magnetic Field: a€~The mysteries of magnetic 
+perception in birds have intrigued scientists for decades. Now we have some fresh clues into this 
+astonishing ability. A new study in the journal Science suggests that Eurasian reed warblers a€” 
+and likely other migratory songbirds a€” sense a specific aspect of Eartha€™ s magnetic field, 
+called the angle of inclination, to know where to roost on their journey north. It
+functions as a kind of magnetic address or a€oestop sign,a€D the researchers write, that tells the 
+birds when theya€™ ve arriveda€!
+
+LINK: <https://www.vox.com/down-to-earth/22901324/birds-migration-navigation-earth-magnetic-field>
+Share Brad DeLong's Grasping Reality
+
+Leave a comment
+Give a gift subscription
+

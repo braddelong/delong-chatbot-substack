@@ -1,0 +1,650 @@
+This is the DeLongTODAY Briefing.
+Subscribe now
+
+
+I am Brad DeLong, an economics professor at the University of California at Berkeley, and a 
+sometime Deputy Assistant Secretary of the U.S. Treasury. This is the weekly DeLongToday briefing. 
+Here I hold forth here on the Leigh Bureaua€™ s vimeo platform on my guesses as to what I think you 
+most need to know about what our economy is doing to us right now.
+I promised Wes Neff when he agreed to provide the infrastructure for this that I and my briefings 
+would be: lively, interesting, curious, thoughtful, and relatively brief.
+
+Relatively.
+
+I promised I would provide briefings on a mix of: forecasting, politics, macroeconomic analysis, 
+history, and political economy.
+Today is a political economy briefing.
+
+Share
+
+But first, Friday morning saw a very good employment report.
+
+
+FRED
+
+8,000
+
+All Employees, Total Nonfarm
+
+4,000
+
+
+0
+
+-4,000
+
+-8,000
+
+-12,000
+
+-16,000
+
+-20,000
+
+-24,000
+
+Jan 2020          Mar 2020          May 2020          Jul 2020           Sep 2020          Nov 2020 
+         Jan 2021          Mar 2021
+
+FRED • All Employees, Total Nonfarm
+
+5,000
+
+4,000
+
+
+-1,000
+
+May 2020 Jun 2020 Jul 2020 Aug 2020 Sep 2020 Oct 2020 Nov 2020 Dec 2020 Jan 2021 Feb 2021 Mar 2021
+
+Six more months of this, and I will start to think that maybe Larry Summers and Olivier Blanchard 
+have a point with their fears that perhaps Bidena€™ s $1.9 trillion Rescue plan was a bit too large 
+to be optimal.
+
+The U.S. labor market added 916,000 jobs, seasonally adjusted, comparing March to February. The 
+prime-age employment-to-population rate increased by 0.3 percentage points and is now back to where 
+it was in 2014, halfway through the anemic post-2009 recovery. Inadequate. But no longer totally 
+disastrous. Employment growth in March was led by leisure and hospitality and education services, 
+as in-person activity was able to resumea€’’alongside a
+notable increase in construction. Wages fella€”but that is a good sign: it means that low-wage 
+employment is coming back as herd immunity approaches. Perhaps, if anything, it is coming back too 
+fasta€’’reopen prematurely, and we could have another excessive and avoidable 100,000 deaths from 
+the COVID-19 plague.
+
+Employment rotes for U.S. prime age-workers have not recovered after
+falling sharply since the onset of the coronavirus recession
+
+Share of 25- to 54-year-olds who are employed, 2000-2021. Recessions are shaded.
+
+82.5%
+
+80.0
+
+
+72.5
+
+70.0
+
+67.5
+
+2007      2009       2011      2013      2015       2017      2019      2021
+
+Source: Bureau of Labor Statistics, U.S. Department of Labor, data series LNS12300060
+
+Equitable Growth
+
+It had been a Latin-cession to a remarkable degree: Latin unemployment rose by' 15%-points while 
+white unemployment rose by 11%-points at the nadir, but now Latin unemployment is close to back to 
+having its a€cenormala€D elevation over whitea€’’things are no worse than they are usually.
+
+Unemployment remains up for everyone, but rates of recovery differ
+
+U.S. unemployment rote by race, 2000-2021. Recessions are shaded.
+
+20%
+
+15
+
+Black
+
+10
+
+I ntinv
+
+
+January 2019               October 2019                July 2020                  April 2021
+
+Source: Bureau of Labor Statistics, U.S. Department of Labor, data series LNS14000003, LNS14000006, 
+LNS14000009, and
+LNS14032183
+
+Equitable Growth
+
+As I said, six more months of this of favorable employment reports like this, and I will start to 
+think that maybe Larry Summers and Olivier Blanchard have a point with their fears that perhaps 
+Bidena€™ s $1.9 trillion Rescue plan was a bit too large to be optimal.
+But the $1.9 trillion Rescue plan is now law. And now the Biden administration has moved on, to 
+a€oejobs"a€”the a€ce American Jobs Plan". It is infrastructure and corporate taxesa€”what I call 
+a€ceRebuilda€D, in an attempt to find alliteration here.
+
+What does it hope to do?
+
+Let me focus first on the corporate tax parta€”on the international corporate tax parta€”since that 
+is the area on which my views are somewhat better developed. Biden calls it the a€oeMade in America 
+Tax Plana€d. And, yes, as a card-carrying neoliberal globalist, the a€oemade in Americaa€D part 
+makes me wince. Economic nationalism, in my experience, turns what ought to be a 
+win-win-countries-cooperate discussion frame into a win-lose-countries-
+struggle-for-position discussion frame which winds up with lose-lose policies.
+
+Yet when I look at the substance, it looks good. The Biden administration says that a€cethe 
+President is proposing to fix the corporate tax code so that it incentivizes job creation and 
+investment here in the United StatesaCD. I would say that a€oethe President is proposing to fix the 
+corporate tax code to remove provisions that destructively and improperly incentivize job creation 
+and investment outside the United Statesa€Da€”because that is what it does. And I
+have no quarrel whatsoever with the other two objectives as they are stated:
+
+a€oestops unfair and wasteful profit shifting to tax havens, and ensures that large corporations 
+are paying their fair sharea€la€D
+
+Let me back up to 2017. The 2017 Ryan-McConnell-Trump corporate tax cut reduced the average rate 
+that corporations paid in half from 16 percent to less than 8 percent in 2018. It created 
+remarkably powerfula€”and stupida€”new incentives to shift profits and jobs overseas. The economist 
+shills shilling for it claimed that it would ignite another boom like the 1990sa€’’generate as 
+large a shift in American spending away from current consumption and toward
+investment for the future as we saw had been unleashed by and came in the wake of the Clinton 1993 
+fiscal-rebalancing Reconciliation bill.
+
+It did not deliver.
+
+To first order, it had zero effect on investment in America. Before the COVID-19 plague hit, the 
+share of national income devoted to investment spending had already begun to fall. To the extent 
+that companies subject to American taxes responded to Ryan-McConnell-Trump by increasing 
+investment, they did so overseas. At home, they did share buybacks and acquisitions. Nearly 
+exclusively.
+
+
+0.18
+
+0.15
+
+0.14
+
+0.13
+
+0.12
+
+Potential Gross Domestic Product/1.06
+
+Clinton-Mitchell-
+Foley delivered
+the investment
+boom its
+advocates had
+hoped   for
+
+Ryan did not
+deliver what its
+shills promised
+
+0.10
+
+0.09
+
+2000                 2010               2020
+
+
+And yet the Republican shill economistsa€”from George Shultz to John Taylor, from Mike Boskin to 
+Kevin Hassett, from Casey Mulligan and John Cochrane to Jagdish Bhagwati and Douglas 
+Holtz-Eakina€”all trumpeted that the bill would boost investment in America and economic growth by 
+enough for the tax cut to a€oepay for itselfa€D: an extra 0.5%-points of GDP growth per year, and 
+not a higher but a lower federal debt. And others who werena€™t
+willing to go that fara€”the Robert Barros and the Greg Mankiwsa€”were still enthusiastic 
+cheerleaders for how it would raise growth and raise after-tax wages because the growth effects 
+would outweigh the adverse redistribution effects.
+
+Of course, none of this happened.
+It was never going to happen.
+
+And now Joe Biden and his administration are trying to fix it. And they are trying to fix it in a 
+smart way: not just to roll things back to how they were in 2016, but to make important tweaks to 
+significantly improve the workings of the corporate tax code and system.
+
+Biden wants to: (1) set the corporate tax rate at a moderate 28%, (2) impose a country-by-country 
+minimum tax on U.S. corporations to 21 percent to capture profits in tax havens, (3) eliminate 
+allowance of zero taxes on the first 10 percent of return for investments in foreign countries.
+More important, and in fact the key part of Bidena€™ s proposal, is international tax 
+harmonization. Cooperate with German and Japanese proposals that have already been made for 
+international minimum corporate tax harmonization through multilateral negotiations.
+
+And if a country is an international scofflawa€”if it refuses to play by the new multilateral rules 
+of the game? Then any payments to corporations headquartered in such tax-haven counties will be 
+denied deductions: they will be deemed as profit, and taxed as profits.
+And,                                                                                                
+                     of course, Biden wants to fund the corporate tax division of the IRS at a 
+level so that it can do its job.
+
+Will this all work? This all will work if the Biden administration is, in fact, able to actually 
+find the Holy Grail in this issue area: able to achieve multilateral international minimum tax 
+harmonization. The stars appear to be aligned: the other major industrial powersa€’’Germany, Japan, 
+and so fortha€”are tired of being played for saps. The tax-haven countriesa€’’Ireland, Luxembourg, 
+et ceteraa€”have no bargaining power, and depend on complaisant U.S.
+legislators blocking legal provisions to enable enforcement. The only loose cannons on the deck are 
+Boris Johnsona€™ s Britain, and the ability of tax-haven countries and plutocrats who benefit from 
+them to block the international-negotiation process. We will see how it will work. But this time 
+the stars do appear aligned: this time Democratic legislators appear to understand that it is 
+important for their long-run ability to govern that Biden enact good policies
+that actually work, and that they be seen to support Biden.
+
+The problem is that Biden needs them alla€”all the Democrats. If any of them decide that they would 
+rather satisfy plutocrat or tax-haven lobbyists at the expense of good policy and at the cost of 
+doing significant damage to the Democratic Partya€™ s reputation as an effective party for 
+responsible governance, then the Made-in-America tax act fails. It fails unless there are 
+Republican legislators more interested in good policy and in reducing the deficit than in
+confronting Biden with a united anti-every-tax Republican Party. As for that getting of Republican 
+votes, good luck.
+
+In my view, the best way to get Republican votes is not to need thema€”to have a clear road to 
+enactment that does not require them. Recall Senator Harry Reida€™ s description of Senator Susan 
+Collins: a€oealways there for a vote when you do not need hersa€D.
+The stars on the Made-in-America tax act are aligned, but not very aligned. It would be a very good 
+thing for America, and for the world, if it were to pass. I put its chances at no more than 50%.
+
+Now let me turn to the a€ceinfrastructurea€D parta€!
+
+On his SubStack weblog Friday morning, Matthew Yglesias wrote that 
+<https://www.slowboring.eom/p/ioe-bidens-next-big-plan>:
+
+I would have quietly sent an emissary to Roger Wicker and Sam Graves, the ranking members on the 
+Senate and House transportation committees, and told them that Biden is really eager to get a 
+bipartisan infrastructure bill done. He has a few specific priorities related to clean electricity 
+and clean water that hea€™ d like to get in there, buta€! [since] a bipartisan infrastructure bill 
+is a win for Bidena€! if he wants that win he needs to
+defer to Republicans on the substancea€!. [Bidena€™ s] a€oeraise taxes on the rich [via their 
+ownership of corporations] to fund infrastructure spendinga€Da€! means your infrastructure bill has 
+to be highly partisan. And I think a highly partisan infrastructure bill is tougha€l
+
+The big problem I see with Matt Yglesiasa€™ s alternative is that it was what Obama proposed for 
+ObamaCare, the ACA: since a bipartisan universal healthcare bill was a big win for Obama, he 
+decided that he needed to give a lot of ground on the substance, and so wound up enactinga€! 
+nationwide RomneyCare. And he wound up enacting nationwide RomneyCare with 100% Democratic votes. 
+And then partisan Republicans on the Supreme Court and in the
+Congress kneecapped it. And they were only kept from killing it when they realized that it had been 
+in place long enough that they would then own the destructive substantive policy fallout.
+
+What is different now than in 2009-10 that would make the Matt Yglesias strategy work for 
+infrastructure now when it did not work for healthcare then? Anybody? Anybody? Bueller?
+
+Panin RAAIYK Rinth
+
+
+Certificates and the Birth of
+GOP Paranoia
+
+How America’s center-right party started to lose its mind, as told by the man who tried to keep it 
+sane.
+
+Now you can make the argument that this time things are different. After all, also Friday morning, 
+former Speaker of the House John Boehner wrote:
+
+I also had not anticipateda€! the extent to which this new crowd hateda€”and I mean hateda€’’Barack 
+Obamaa€!. When I was first elected to Congressa€! there was no Drudge Report. No Breitbart. No 
+kooks on YouTube spreading dangerous nonsense like they did every day about Obama. a€oeHea€™ s a 
+secret Muslim!a€D a€oeHe hates America!a€D a€oeHea€™ s a communist!a€D And of course the truly 
+nutty business about his
+birth certificate. People really had been brainwashed into believing Barack Obama was some 
+Manchurian candidate planning to betray America. Mark Levin was the first to go on the radio and 
+spout off this crazy nonsense. It got him ratings, so eventually he dragged Hannity and Rush to 
+Looneyville along with him. My longtime friend Roger Ailes, the head of Fox News, was not immune to 
+this. He got swept into the conspiracies and
+the paranoia and became an almost unrecognizable figurea€!. Murdocha€! cared about ratings and the 
+bottom linea€! wanted to make sure he was ahead of any political or policy developmentsa€!. If he 
+entertained any of the kooky conspiracy theoriesa€! tak[ing] over his network, he kept it a secret 
+from me. But he clearly didna€™ t have a problem with them if they helped ratingsa€!
+
+Of course, Boehner wants to say a€oeboth sidesa€D:
+
+Obama didna€™ t help himself much either. He could come off as lecturing and haughty. He still 
+wasna€™ t making Republican outreach a prioritya€!
+
+But he cannot maintain ita€”after all, Obama outreached to Boehner just fine. As Boehner admits:
+
+On the other handa€”how do you find common cause with people who think you are a secret Kenyan 
+Muslim traitor to America?a€!
+
+Are things different now than they were then? The argument that they are is that things are 
+different because Joe Biden is a white man and not a Black man, and that Obamaa€™ s failure to 
+elicit Republican cooperation was overwhelmingly because of Republican racist-adjacency. The 
+arguments against are (a) it needs to be a€oeoverwhelminglya€n and not a€oesubstantiallya€n, (b) 
+that ceding substantive policy ground to the Republicans is making bad,
+destructive policies, and (c) that Fox News is working as hard as possible to Obamaize Biden. Look 
+at its front page as of the taping:
+
+
+Exclusive Clips                HISTORIC CRISIS
+
+Pope Francis
+
+
+delivers remarks at
+Good Friday service
+
+U.S. projects number of unaccompanied migrant kids crossing
+border in 2021 will double 2019 surge
+
+
+AMERICA'S
+NEWSROOM
+
+Tucker talks Biden's
+infrastructure plan,
+church membership
+ahead of Easter
+
+San Diego teachers instruct migrant kids with higher COVID
+rates than own students stuck learning virtually
+
+Here's how a Mexican cartel smuggled 1100 lbs of meth
+
+Cartel 'gatekeepers' controlling all illegal activity on border
+amid migrant crisis: Former US marshal
+
+Migrants being released into US without court dates
+
+POX NATION        Join Now
+
+
+AMERICA'S
+NEWSROOM
+
+Gingrich on H.R. 1,
+corporate criticism
+on GOP election
+laws: Ifs all 'corrupt*
+
+FOX & FRIENDS
+
+Gen. Keane says it
+will be strategic
+
+tucker
+carlson
+
+today
+
+ADDICTED TO JUNK
+
+r
+
+NEW EPISODE
+
+
+failure* if Biden
+admin returns to old
+Iran deal
+
+EXCLUSIVE: Picture of girls abandoned by
+smugglers, rescued by Border Patrol
+
+Hunter Biden suggests laptop purported to
+show foreign deals came from Russia
+
+America tackles a pandemic but is it food
+that's killing you? One man says the food
+industry is putting out products that are
+more addictive than drugs.
+
+Hunter Biden. Democrats trying to steal elections. Crisis at the border. Democrats surrendering to 
+Iranian Muslim terrorists. Pope Francis celebrates Good Friday. Tucker Carlson says that tobacco is 
+an effective anti-obesity medication. And below the fold Sean Hannity claiming that Joe Biden is 
+a€oewaging a€~all-out assaulta€™ on American principlesa€la€D
+As Boehner says of the Republican members of Congress who entered in the 2010s:
+
+Incrementalism? Compromise? That wasna€™ t their thing. A lot of them wanted to blow up Washington. 
+Thata€™ s why they thought they were elected. Some of them, well, you could tell they werena€™ t 
+paying attention because they were just thinking of how to fundraise off of outrage or how they 
+could get on Hannity that nighta€l. They didna€™ t really want legislative victories. They wanted 
+wedge issues and conspiracies and
+crusadesa€l. [A] power base thanks to fawning right-wing media and outrage-driven fundraising cash. 
+Anda€l a new head lunatica€l. There is nothing more dangerous than a reckless asshole who thinks he 
+is smarter than everyone else. Ladies and gentlemen, meet Senator Ted Cruza€l
+
+Without a very different set of Republican legislators in the Congressa€”ones who work for their 
+constituents rather than for Fox News and their fundraising firmsa€”no, things have to be done via 
+Reconciliationa€”or under threat of Reconciliation^’’and via the Democratic caucus alonea€”or under 
+threat of doing it via the Democratic caucus alone.
+So what is the problem that Infrastructure Week wants to solve? This:
+
+
+FRED
+
+0.075
+
+Gross government investment/Gross Domestic
+Product
+
+
+0.070
+
+0.065
+
+0.060
+
+0.055
+
+CD
+
+0.050
+
+CD
+
+0.045
+
+
+0.040
+
+0.035
+
+0.030
+
+1960         1970         1980         1990        2000         2010       2020
+
+With the end of the space race to the moon and of the massive spurt of interstate highway 
+construction, plus a few other factors, U.S. government investment in America fell from its 
+Eisenhower-Kennedy-Johnson norm of 6.5% of national income down to 4.75%, where it remained until 
+the early 1990s. Then Clintonian austeritya€”the belief in the early 1990s that the U.S. had 
+reached the edge of its debt capacity, and needed to stop borrowings’’pushed U.S.
+governments’’all levelsS”down to 4% of national income. Back in 1993 I would have told you that 
+this austerity was certainly the right thing to do. Now I will only say that it was probably the 
+right thing to doS”for the time. And then after 2010 ObamaS™ s searching for a Soegrand bargainSD 
+on entitlements with the Republicans opened the way to a further downward salami slice of public 
+investment in America, down to only 3.5% of national
+
+income.
+
+This fifty-year policy move away from investment has been a horrible mistake.
+
+
+FRED^
+
+0.22
+
+— Gross Private Domestic Investment/Gross
+Domestic Product
+
+0.21
+
+0.20
+
+
+o
+
+o
+
+
+0.12
+
+1960         1970         1980         1990         2000         2010       2020
+
+This mistake was mitigated by the fact that, for the most part, private investment in America has 
+remained healthy. Yes, the Reagan deficits switched savings from funding investment in America to 
+buying government bonds and so putting substantial downward pressure on private investment, but 
+Clinton reversed that and boosted private investment spending by 5%-points of national income back 
+to healthy levels. But, unfortunately, the failure to prioritize full
+employment generated the anemic recovery from the Great Recession which has left the private 
+nominal investment share of national income once again well-short of historical norms. If we are 
+continuing to invest at a healthy rate, it is not because of the flow of spending into investment 
+but because of reduced prices of products in the investment-goods sector.
+
+Biden wants to boost investment in America back not to its 1950s and 1960s share but at least to 
+its 1970s and 1980s share. Note that while Biden says that a€oepublic domestic investment as a 
+share of the economy has fallen by more than 40 percent since the 1960a€D, he does not promise to 
+boost it all the way back. All he says is that the a€oeAmerican Jobs Plan will invest in America in 
+a way we have not invested since we built the interstate highways and
+won the Space Racea€D to the moona€”note the since, not a€ceasa€D but a€cesincea€D.
+
+Nevertheless, this strikes me as a highly good thing. Fix highways, rebuild bridges, upgrade ports, 
+airports and transit systems. Deliver clean drinking water, a renewed electric grid, and high-speed 
+broadband to all Americans. Build, preserve, and retrofit more than two million homes and 
+commercial buildings, modernize our nationa€™ s schools and child care facilities, and upgrade 
+veteransa€™ hospitals and federal buildings. Solidify the infrastructure of our
+care economy by creating jobs and raising wages and benefits for essential home care workers. 
+Revitalize manufacturing, secure U.S. supply chains, invest in R&D, and train Americans for the 
+jobs of the futurea€”$2 trillion dollars over 8 years, 1%-point of national income switched to 
+public investment, that is not nearly enough to attain all of these goals. It will, however, be a 
+start. Turning a supertanker is a lengthy process. And this infrastructure deficit has
+been built up over two generations now.
+
+Perhaps the most interesting thing here is the reaction of the Republican Party to Bidena€™ s 
+laundry list here. Rising a€cestara€Ua€”in quotation marksa€”Republican Governor Kristi Noem: a€oel 
+was shocked by how much doesna€™t go into infrastructure. It goes into research and development, it 
+goes into housing and pipes and different initiatives, green energy, and ita€™ s not really an 
+honest conversation wea€™re having about what this proposal
+isa€!a€D
+
+As the very sharp Greg Sargent writes:
+
+Thea€l distinction Noem drewa€l between a€oeinfrastructurea€n on one hand, and a€oeresearch and 
+developmenta€D and a€oegreen energya€Da€l. Republican lawmakers have increasingly equated 
+infrastructure with new highways that connect rural communities and promote exurban sprawla€l. They 
+see most of what Biden proposed as a€oeDemocratic infrastructurea€Da€!
+
+Things used to be very different. After the launch of Sputnik, for example, for the federal 
+government to spend whatever it took to produce universities and scientists and high technology 
+became priority No. 1 of the Republican Party. Education and engineering in high technology became 
+the key piece of lacking American infrastructure that the Eisenhower administration wanted to 
+create. IT was essential to America achieving its national purposes
+
+Look inside i Concrete Economics: The Hamilton
+
+
+STEPHEN S. COHEN
+
+J. BRADFORD l)i:L()NG
+
+I Economics
+
+The Hamilton I Approach to
+
+Approach to Economic Growth and
+Policy Kindle Edition
+
+by Stephen S. Cohen v (Author), J. Bradford DeLong (Author)
+
+Format: Kindle Edition
+
+* * * * 'if v 54 ratings
+
+> See all formats and editions
+
+Economic I Growth I and Policy                  Kindle                 Hardcover
+
+7 R7 crime
+
+
+Look inside 4,
+
+STEPHEN S. COHEN
+
+J. BBADEORD DKLONG
+
+concrete economics: i ne Hamilton
+
+Approach to Economic Growth and
+Policy Kindle Edition
+
+by Stephen S. Cohen v (Author), J. Bradford DeLong (Author)
+
+Format: Kindle Edition
+
+* * * * 'if v 54 ratings
+
+> See all formats and editions
+
+
+Kindle
+
+$15.39
+
+Read with Our Free App
+
+Hardcover
+
+$17.87 vprime
+
+25 Used from $2.75
+14 New from $10.68
+
+Thata€™ s from my book, written five years ago with Stephen S. Cohen, Concrete Economics: The 
+Hamilton Approach to Economic Policy. It was a plea for pragmatism rather than ideology in 
+political economya€”and a sotto voce word of advice to Republicans to return their party to what it 
+was before Goldwater cursed them and enslaved them to the demons of racism. Back then they thought 
+the point was to make the American economy stronger, more
+dynamic, and more rapidly changing, because we are a frontier people and today a€™ s frontiers are 
+technological. And, yes, there would be some big winners, but (a) that was a positive point and (b) 
+in the long run nearly everyone would be a winner.
+
+Alas, nowa€”and more and more with each passing day, at least if you listen to John Boehner or with 
+the Lincoln Project peoplea€”the Republican Party has become a party of plutocrats and white 
+racist-adjacents who greatly fear change and dynamism, because for the plutocratsa€’’especially the 
+heirs and heiressesa€’’growth, dynamism, and change are their enemies because it is their wealth 
+that dynamic Schumpeterian capitalism creatively destroys, and
+because for the racist-adjacents growth, dynamism, and change brings the possibility that people 
+who look different will not bow heads but instead will look them in the eye.
+
+So, once again, what ought to be an easy bipartisan lifta€’’restore Americaa€™ s public investment 
+to boost productivity growth and lift all votesa€”will be a heavy lift that will have to be 
+accomplished by the Democratic legislative caucuses alone, or possibly it will gain bipartisan 
+support only after the Democrats demonstrate that they could do it alone.
+And so, once again, I give it chances of only 50-50.
+
+I wish I were more confident that America is getting back on track than I can convince myself that 
+it is.
+This is the DeLongTODAY Bradcast Briefing. Ia€™m Brad DeLong. Thank you very much for watching.
+Share Grasping Reality Newsletter, by Brad DeLong
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+
+
+And so, once again, I give it chances of only 50-50.
+
+I wish I were more confident that America is getting back on track than I can convince myself that 
+it is.
+This is the DeLongTODAY Bradcast Briefing. Ia€™m Brad DeLong. Thank you very much for watching.
+Share Grasping Reality Newsletter, by Brad DeLong
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

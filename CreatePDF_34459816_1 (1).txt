@@ -1,0 +1,73 @@
+Subscribe now
+
+1870 GDP per Work Hour
+In 1970 US $ Relative Prices
+
+FIGURE 2. PRODUCTIVITY GROWTH RATE, 1870-1979 vs. 1870 LEVEL
+
+These notebook assignments are a required part of the course.
+
+Collaborating on the notebooks is more than okaya€”it is encouraged! Seek help from a classmate or 
+an instructor or a roommate or a passerby when you get stuck! (Explaining things is beneficial, 
+tooa€”the best way to solidify your
+knowledge of a subject is to explain it.)
+
+But the work should be your own.
+
+No cutting-&-pasting from othersaC™ notebooks, please! We want you to learn this stuff, and your 
+fingers typing every keystroke is an important way of building muscle memory here.
+
+In this notebook, you will attempt to assess to what degree countries that were well-positioned, 
+economically, poiltically, culturally, educationally, and technologically, to a€ceconvergea€D to 
+the standards of living and productivity
+levels of the United States in 1870 have done soa€”or, rather, had done so as of 1979.
+
+Neoclassical and neoliberal economists believe they have a strong theoretical argument that there 
+should be a€ceconvergencea€D of economies. The first, less important, part is that economies should 
+converge in their savings­
+investment rates and in their population and labor force growth rates and thus in their capital 
+intensity levels. More importanta€”so the theoretical argument goesa€”is convergence in the level 
+of technology deployed. Development is
+easier   than discovery, and deployment is easier than development. Discovery must take place, 
+overwhelmingly, in the leading edge growth poles of the world economy. But development can take 
+place in any of a wide range of places
+with sufficiently developed communities of engineering practice. And deployment can take place 
+anywhere that people are literate, experienced with the use of modern technology, and confident 
+that their effort at deploying technologies
+in production will be satisfactorily rewarded. Once, therefore, countriesa€™ economies have 
+developed sufficient degrees of literacy and sufficiently strong communities of engineering 
+practice to begin to transfer technology from
+abroad and deploy it in their economiesa€”once they have made what Walt Rostow used to analogize as 
+the a€oetakeoffa€n into self-sustained growth, a€ceconvergencea€D should follow. That, at any 
+event, is the theory.
+
+Back in 1986 Will Baumol: Productivity, Convergence, & Welfare: What Does the Long-Run Data Show? 
+<http://pikettv.pse.ens.fr/files/Baumol1986.pdf> argued that the history since 1870 showed that 
+this had in fact happened.
+I disagreed.
+
+Was I right?
+
+Let us get started!
+
+Do the Notebook on Binder: 
+<https://hub.gke2.mybinder.Org/user/braddelong-econ-f-2021-ps-5.l.5-m5nf55c0/notebooks/ps-5.15.ipynb
+>
+
+See the file on Github: 
+<https://nbviewer.jupyter.Org/github/braddelong/econ-135-f-2021-ps-5.l.5/blob/main/ps-5.l.5.ipynb>
+
+Do the Notebook on Berkeley DataHub: 
+<http://datahub.berkeley.edu/user-redirect/interact?account=braddelong&repo=econ-135-f-2021-ps-5.15&
+branch=main&path=ps-5.15.ipynb>
+
+Note: Answers: <https://github.com/braddelong/private-teaching/blob/master/ps-5.15-answers.ipynb>
+
+Share
+
+
+Share
+
+Share Grasping Reality Newsletter, by Brad DeLong
+Leave a comment
+

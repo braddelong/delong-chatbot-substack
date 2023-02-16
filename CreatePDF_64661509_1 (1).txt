@@ -1,0 +1,300 @@
+I greatly enjoy and am, in fact, driven to write Grasping Realitya€”but its long-term viability and 
+quality do depend on voluntary subscriptions from paying supporters. I am incredibly grateful that 
+the great bulk of it goes out for free to what is now well over ten-thousand subscribers around the 
+world. If you are enjoying the newsletter enough to wish to join the group receiving it regularly, 
+please press the button below to sign up for a free subscription and get (the bulk of) it in your 
+email inbox. And if you are enjoying the newsletter enough to wish to join the group of supporters, 
+please press the button below and sign up for a paid subscription:
+
+Subscribe now
+
+
+Brad DeLonga€™s History of Economic Growth Catechism, Part I
+
+Where do you start?
+
+I start with a very crude global index of the value of the stock of human technology a€’’useful 
+ideas about manipulating nature and productively organizing humansa€”that have been discovered, 
+developed, and then deployed-and-diffused throughout the world economy.
+
+How do you construct this index?
+
+I calculate it as the average worldwide level of income per capita, times the square root of 
+population.
+
+Why a€cesquare roota€ET
+
+The square-root recognizes that there is resource scarcitya€’’hence generating income for more 
+people is burdensome, and so the technology level is not simply average output per capitaa€”but 
+also that each mouth comes with two eyes, two arms, and a brain, so that labor is 
+productivea€’’hence total world product is not the technology level either. a€oeSquare-roota€D is a 
+balance.
+
+Would you die on the hill that it is square-root, rather than some other power between 0 (which 
+gives average income per capita) or 1 (which gives total world product) multiplying population?
+
+No.
+
+What do your guessesa€”I wona€™ t call them numbersa€”then show, in terms of the annual average 
+proportional growth rates of technology deployed-and-diffused, worldwide?
+
+Roughly:
+
+• 2.1 %/yr., at least, after 1870; the Modern Economic Growth era
+
+• 0.45%/yr. 1770 to 1870; the Industrial Revolution era
+
+• 0.15%/yr. 1500 to 1770; the Imperial-Commercial era
+
+• 0.05%/yr. 800 to 1500; the High MediAIval era
+
+• 0.015%/yr. 150 to 800; the Late-Antiquity Pause era
+
+• 0.06%/yr. -1000 to 150; the Axial-Iron age
+
+• 0.03%/yr. -3000 to -1000; the Literacy-Bronze age
+
+• 0.018%/yr. -6000 to -3000; the Early Agrarian era
+
+• 0.009%/yr. -8000 to -6000; the Early Neolithic era
+
+• 0.003%/yr -48,00 to -8000; the Out of Africa-Upper Paleolithic and Mesolithic eras
+
+Basically, growth very slow for millenniaa€’’visible only in la longue JurA©ea€”then growth visible 
+over a human lifetime, barely, after 1500; growth substantial over a human lifetime after 1770; and 
+then growth so that humanitya€™s technological prowess doubles every generation after 1870.
+
+What do your guesses show, in terms of the levels of technology deployed-and-diffused, worldwide?
+
+Roughly:
+
+• 2020: 25.4, Today
+
+• 2010: 20.6, End of the Neoliberal era
+
+• 1870:1.0, Shift to the Modern Economic Growth age
+
+• 1770: 0.64, Industrial Revolution age
+
+• 1500: 0.43, Imperial-Commercial age
+
+•  800: 030, MediAIval age
+
+•  150: 0.27, Classical Antiquity
+
+• -1000: 0.136, Early Iron age
+
+• -3000: 0.074, Early Literacy-Bronze age
+
+• -6000: 0.043, Neolithic era
+
+• -8000: 0.036, Late Mesolithic era
+
+• -48000: 0.011, Out-of-Africa-Paleolithic era
+
+The proportional jump from 1870 to 2020 is larger than the proportional jump from -6000 to 1870. 
+Surely the jump from 1 to more than 20 deserves some intermediate steps?
+
+
+I am playing with:
+
+• 2035: High Information Age
+
+• 2002: Global Manufacturing Age
+
+• 1969: Mass Consumption Age
+
+• 1936: Mass Production Age
+
+• 1903: Industrial Age
+
+• 1870: Steampower Age
+
+• 1605: Imperial-Commercial Age
+
+• 135: High Classical Antiquity (ancient, asiatic, feudal)
+
+• -1300: Late Bronze-Literacy Age
+
+• -4000: Early Agrarian Age
+
+• -15000: Mesolithic Era
+
+with each a€cemode of productiona€D marking a rough doubling of the technology level. If you 
+believe that a€oethe hand-mill gives you society with the feudal lord; the steam-mill, society with 
+the industrial capitalists□, then the list above are what you would like to mark and reference: not 
+any of this a€oeasian-ancient-feudal-capitalist-socialista€D stuff.
+
+Do you really think that the technological-underpinning base and the corresponding superstructures 
+of human society really stayed the same in any meaningful sense from 200 to 1500?
+
+No. I take the point that back in the Before Times smaller quantitative changes in the level of 
+productivity had larger qualitative effects on how societies were runa€”that smaller changes in the 
+forces- and relations-of-production carried with them bigger effects on the superstructure, at 
+least in the long run
+If, before 1500 we move to dividing history up into a€oemodes of productions□ by marking an age 
+difference as a roughly a's2-ing in our valuation of the stock of deployed-and-diffused 
+SoetechnologySD:
+
+• 1125: High MediAIval Age (feudal, asiatic)
+
+• 135: High Classical Antiquity (ancient, asiatic)
+
+• -450: Early Classical Antiquity (bronze, axial)
+
+• -1300: Late Bronze-Literacy Age
+
+• -2400: Early Bronze-Literacy Age
+
+• -4000: Early Agrarian Age
+
+• -6000: Early Neolithic Age
+
+• -15000: Mesolithic Era
+
+• -30000: Upper Paleolithic Era
+
+Okay. Anything more to say about periodization?
+
+Not right now, no.
+
+Then let us move on: Why do you set the technology level proportional to the level of average 
+output per capita?
+
+That is just a normalization: it makes it easy to interprets’’double the technology level, and you 
+double the average income per capita level the worlda€™s resources can support at a fixed 
+population.
+
+What does this measure tell us about when the big, important quantitative change in the course of 
+human economic growth came?
+
+It tells us that the big leap upward in economic growthS”the bit watershed 
+boundary-crossingS’’comes in 1870, when the global rate of technological progress jumps up more or 
+less discontinuously from an average proportional growth rate of 0.45% per year to a rate of at 
+least 2.1% per year.
+
+Why the "at least"?
+
+Because the standard statistical measures disturb me: they assign very little economic value to a 
+huge range of activities, starting with the invention of radio, that absorb a huge proportion of 
+our leisure time, our attention, and our concert. An economy that sees advertising supported 
+information, entertainment, communication, and social network mediaa€’’television and cable and all 
+the resta€”not as a generator of wealth but as an
+intermediate-good resource-consuming subtraction from wealth has something wrong with it. How 
+wrong? I do not know. But that is why I say a€oeat leasta€D.
+
+What do you think about when the big, important qualitative change in the structures underlying 
+human economic growth came?
+
+There are various arguments, innumerable arguments madea€!
+
+Yes?
+
+Some date the Big, Important Change sometime in the 800 to 1500 time frame, with the formation of 
+"western culture". Others date it to the 1500 to 1750 time frame, either with the 
+Imperial-Commercial Revolution or through the coming of limited government. Then there are those 
+who place it in the 1750 to 1870 time frame, the age of the Democratic and Industrial Revolutions. 
+We are not going to resolve this.
+
+So what do you think?
+
+I have a very, very hard time dating the Big, Important Change that brings a€oemodernitya€D to any 
+moment before 1800.
+
+First of all, whenever I look around the world after, say, the Middle Bronze Agea€”after -2000 or 
+soa€”I see places around the world where the economies, societies, and polities of the urban 
+hotspots of the civilization look pretty damned a€oemoderna€D to me. I see urban, commercial, 
+intellectual, and political slices of society that have elite politics characterized by various 
+forms of checks and balances, bureaucratic military
+routinization, market economies, sophisticated divisions of labor, at least semi-rational inquiry 
+into causes and effects, and the application of knowledge to problems of production. These modern 
+sectors have a much lower information density and knowledge stock than did western Europe in the 
+1600s, and the upper class has a much lower scale of material power over nature, and they float on 
+top of an enormous exploitation-and-
+extraction apparatus that holds the farmers and the craftsmen in an iron fist. But political 
+institutions, cultural attitudes, market systemsa€”they are there, they are just not dominant.
+
+This means that when people look for a key watershed-boundary crossing, they have a hard time. They 
+pick a moment, any particular momenta€’’whether the first steam engine, or the Glorious Revolution 
+of 1688, or Abelarda€™s publication of Sic et Nona€”and say a€oethis switched us onto the track to 
+modernitya€D, and it is easy for critics to respond by pointing out precursors all the way back to 
+classical Athens, if not to the
+revolt after the death of Solomonof the North Kingdom of Israel against the House of David. So I 
+placer the Big, Important Change very latea€”to when the entire package comes together, sometime 
+after 1800.
+
+So when does the entire package come together?
+
+
+iviayoe it comes rogeiner aner law, witn me deployment or me steam engine ana automatic textile 
+macninery ana me consequent aeveiopment ot an engineering profession ana a macnine tool inaustry, a 
+tning mat orings us nrst me ranroaa ana men me aecona inaustriai Revolution ana everytning eise. 
+mat is aennneiy one possiniuiy. nut n is not me one i am most attraciea to ngnt now.
+
+So what view of when the entire package comes together are you most attracted to right now?
+
+I am most attracted to: after 1870, with the speed-up of technological growth to an average pace of 
+2.1%/year, and the consequent creation of a world rich enough and feminist enough to undergo the 
+demographic transition and release humanity from ensorcellment by the Devil of Malthus.
+Take all the changes and processes that had been going on before 1870, have them continue, and you 
+find that you do not have anything like our modern world today.
+
+Have technical change worldwide continue at its 1770 to 1870 pace after 1870, and you maybe have a 
+world that runs into substantial resource scarcity as the really easy coal is mined out quickly. 
+And even if you do not, well, an 0.45%/year rate of growth of technology is offset by an 0.9%/year 
+rate of growth of population, and you get that rate of growth of population at a typical living 
+standard of less than $5/day. Without the 1870
+speedup and the coming of Modern Economic Growth, odds are we would have a Malthusian steampunk 
+world today, with little sign of enough curbing of patriarchy and infant mortality to induce the 
+demographic transition. Women would still be focused on using marginal resources to boost 
+fertility, for a 1%/year population growth rate means that their number of surviving sons will be 
+roughly Poisson(13), which means that more
+than A1^ of women will experience the social degradation involved in having no surviving sons and 
+hence very little social power. Such a world is still, for more than half the worlda€™s population, 
+an Agrarian Age world.
+
+And if technical progress worldwide were to have continued at its 1500 to 1770 pace after 1770, or 
+its 800 to 1500 pace after 1500, we would be even worse off.
+
+Do tella€\?
+
+We would, today, be in a gunpowder-empire world. Figure a world today with the technology level of 
+1850a€”but with a much higher population than in 1850, or a world today with the technology level 
+of 1670a€”but with a higher population than in 1670. Such a world is not a€oemoderna€D, but is 
+still for the overwhelming bulk of people an Agrarian Age world.
+
+Share
+
+
+Brad DeLonga€™ s History of Economic Growth Catechism, Part II
+
+I greatly enjoy and am, in fact, driven to write Grasping Realitya€”but its long-term viability and 
+quality do depend on voluntary subscriptions from paying supporters. I am incredibly grateful that 
+tha€!
+Read more
+
+7 months ago A- 2 likes A- Brad DeLong
+
+Share Brad DeLong's Grasping Reality
+Leave a comment
+
+Give a gift subscription
+Donate Subscriptions
+
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+I greatly enjoy and am, in fact, driven to write Grasping Realitya€”but its long-term viability and 
+quality do depend on voluntary subscriptions from paying supporters. I am incredibly grateful that 
+the great bulk of it goes out for free to what is now well over ten-thousand subscribers around the 
+world. If you are enjoying the newsletter enough to wish to join the group receiving it regularly, 
+please press the button below to sign up for a free subscription and get (the bulk of) it in your 
+email inbox. And if you are enjoying the newsletter enough to wish to join the group of supporters, 
+please press the button below and sign up for a paid subscription:
+
+Subscribe now
+

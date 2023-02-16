@@ -1,0 +1,159 @@
+Share
+
+In the past three years the advance of technology has provided about one percentage point of 
+warranted real wage growth each yeara€”half, admittedly, of its pace in the Old Days, but still 
+something. Yet real wages right now are four percent below their values of the fall of 2018. Does 
+that sound like a a€cehigh-pressurea€D labor market to you?
+Believers that the labor market is in some sense a€cetighta€D respond by pointing to the Employment 
+Cost Index: up now some 4.5 percent from its value a year ago, 1.5 percentage points per year 
+faster than the 3 percent per year rate-of-growth it had settled into in the pre-plague Trump 
+administration years.
+
+
+FRED^
+
+5.0
+
+— Employment Cost Index: Wages and Salaries:
+Private Industry Workers
+
+
+Source: U.S. Bureau of Labor Statistics
+
+https://fred.stiouisfed.org/series/ECiWAG#o
+
+But the Consumer Price Index is up 5.4 percent from a year ago: the ECI-basis real wage has fallen 
+by 0.9 percent over the past year. Does that, really, sound like a a€cetighta€D and a a€oehigh 
+pressurea€D labor market to you?
+Share Brad DeLong's Grasping Reality
+
+
+nowcasting is extremely ditncuit, and hazardous. But tne afecenowafeU mat 1 see outside my window 
+ngnt now is me afecenowafeu mat 1 did torecast back two and tnree quarters ago: one in which we 
+would leave inflationary skidmarks on the asphalt, but in wnicn those should not concern us, 
+because afeceburning rubber to rejoin highway tratnc [at speed] is not me same thing as overheating 
+me engmeafeU <https://www.busiweek.com/is-tne-us-economy-
+
+recovering-or-overheating/>.
+
+We do not, right now, have too much money chasing too-few goods leading to an inflation 
+spiral-provoking overdemand for labor. This is the case even though the plague continues, and its 
+associated disruptions continue to give us a substantial undersupply of labor: women are 5, 
+African-Americans 4.5, blue-collar workers 4, and the economy as a whole 3 percentage-points below 
+what we used to see as the full-employment level of the employment-to-
+population ratio. In a high-pressure economy with a tight labor market, workersa€™ bargaining power 
+would be strong enough to get them real wage increases.
+
+
+FRED^
+
+62.5
+
+Employment-Population Ratio - Black or African
+American
+
+
+47.5
+
+1980            1990            2000            2010            2020
+
+Source: U.S. Bureau of Labor Statistics
+
+https://fred.stlouisfed.org/series/LNS12300006#0
+
+Yet economists I respect talk as if the economy is in serious inflationary trouble. Jason Furman 
+speaks of how the a€oeoriginal sin was an oversized [Biden] American Rescue Plana€D. In his view, 
+it would have been better to have been less aggressive and had a slower employment and growth 
+recovery this year, for the ARP he sees as oversized a€ recontributed both to higher output but 
+also higher pricesa€D, and Larry Summers thinks that, in Jim
+Tankersleya€™ s paraphrase, a€oeinflation now risks spiraling out of controla€D chttps 
+://www.nytimes.com/2021/10/26/business/economy/biden-inflation.html>.
+
+The next move in the argumentative chess game is to say that the plague years have permanently 
+damaged the supply-side of the economy: caused a lot of early retirements, and disrupted 
+permanently the lean-and-mean supply chains on which a good deal of productivity and prosperity had 
+depended. Perhaps. But the same arguments were made in the early 2010s, as an excuse justifying 
+policies that did not put the pedal-to-the-metal and attempt to rapidly
+reemploy those than called a€oezero-marginal-producta€n workers 
+chttps://marginalrevolution.com/marginalrevolution/2010/07/zero-marginal-product-workers.html>. One 
+consequence of not putting the pedal-to-the-metal was Donald Trump, his rise fueled by the rage of 
+those who saw the system as caring more about immigrants and minorities than it did out of 
+blue-collar workers whose opportunities had never recovered to the pre-2008 normal. Putting
+restoring full employment at the back of the bus of onea€™ s priorities is not just un-woke because 
+of its disproportionate effect on minorities, it adds to the dangers to and difficulties of 
+democracy as well.
+
+There is a last move in the argumentative chess game: the claim that whether or not the labor 
+market is a€retighta€D, inflationa€’’whether supply- or demand-side drivena€”is high and salient 
+enough that it will be rapidly incorporated into expectations. Thus the snake has to be scotched 
+now while it is small, rather than dealing with it postponed until it hath fed further upon meat. 
+Yet to date inflation has not been incorporated into the patterns of any of the
+a€oesticky pricea€D in the economy, at least not according to the measure constructed by the 
+Atlantic Federal Reserve chttps ://fred.stlouisfed.org/series/CORESTICKM 159SFRBATL>.
+
+
+o.o
+1970                                                                   1980           1990          
+ 2000           2010            2020
+
+Source: Federal Reserve Bank of Atlanta
+
+https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL#0
+
+And while the financial marketa€™ s 30-year inflation breakeven is more than half a percentage 
+point above where it settled in the second half of the 2010s 
+<https://fred.stlouisfed.org/series/T30YIEM>, it is still only at 2.35%: where it had settled in 
+the first half of the 2010s, and slightly below the level that would be consistent with the Federal 
+Reservea€™ s 2%/year PCE-Deflator inflation target.
+
+FRED — 30-year Breakeven Inflation Rate
+
+
+2.8
+
+<D
+
+CD
+
+1 7
+
+
+2012          2014          2016          2018          2020
+
+Source: Federal Reserve Bank of St. Louis
+
+https://fred.stlouisfed.org/series/T30YIEM#0
+
+With the inflation we see highly likely to bea€”perhaps others would say a€ceprobablya€D or even 
+a€cearguablya€D, but I call them as I see thema€”simply rubber-on-the-road from recovery, with no 
+sign that inflation has yet been incorporated into those prices in the economy that are sticky, 
+with the labor market still weak enough that workers are unable to demand substantial increases in 
+real wages, with financial markets blasA© about the possibility of
+rising inflation, and with a substantial fiscal contraction already in traina€”why would anybody 
+argue that they know that the a€oeoriginal sina€D was the a€oeoversized American Recovery Plana€D, 
+and that tightening monetary policy starting right now is the proper way to expiate this original 
+sin?
+
+Yet people do. People are. I cannot say that I follow the logic here.
+864 words
+
+Leave a comment
+
+Subscribe now
+
+Why So Much Premature Fear of an Inflationary Spiral?
+
+2021-11-02
+
+Video of my Project Syndicate column for November, 2021. Everything I see still points to our 
+inflation as not a durable and troubling spiral but simply proper and appropriate: rubber left on 
+the road as we rejoin highway traffic at speed. I do not understand what many who say otherwise are 
+thinking.
+(06:19)
+
+<https://watch.mmhmm.app/z KqcyWGXQ1WsXwOFbsRxO>
+
+<https://youtu.be/ 4VmsX4PFQU>
+
+<https://braddelong.substack.eom/p/project-syndicate-draft-why-so-much>
+

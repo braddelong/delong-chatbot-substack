@@ -1,0 +1,399 @@
+Subscribe now
+
+First:
+
+IN JANUARY I am, once again, appropriating the intellectual property of the brilliant Melissa Dell 
+chttps://dell-research-harvard.github.io>, and trying to teach my own version of her course 
+Economics 1342: The History of Economic Growth 
+<https://dell-research-harvard.github.io/teaching/econ1342>.
+
+Economics 1342: The History of Economic Growth
+
+Offered Fall 2019
+
+This course examines the history of economic growth, beginning with the divergence between human
+ancestors and other primates and continuing through the end of the 20th century. Topics covered
+include  the  Neolithic  Revolution;  economic  growth  in  ancient  societies;  the  origins  of  
+modern
+economic  growth;  theories  and  evidence  about  the  institutional,  geographic,  and  cultural
+determinants of growth; the East Asian Miracle; the middle income trap; the political economy of
+growth; growth and inequality; and theories and evidence about the persistence of poverty in the
+world's poorest regions.
+
+Here is what I am thinking of doing for the first lecture:
+
+Longest-Run Global Economic Growth
+
+
+Date
+
+Technological
+Ideas-Stock
+Growth        Rate h
+
+Technological
+Ideas Stock
+
+Level H (1870 = 1)
+
+Average Annual
+Real Income per
+Capita y
+
+Total Human    Total Real
+Population L World Income
+
+(millions)   Y (billions)
+
+
+-48000
+
+-8000
+
+-6000
+
+-3000
+
+-1000
+
+1
+
+0.0011 %
+
+0.011 %
+
+0.013%
+
+0.030%
+
+0.061 %
+
+0.0256
+
+0.040
+
+0.051
+
+0.074
+
+0.14
+
+0.25
+
+$1,200
+
+$1,200
+
+$900
+
+$900
+
+$900
+
+$900
+
+1
+
+2.5
+
+7
+
+15
+
+50
+
+170
+
+$1.20
+
+$3.0
+
+$6.3
+
+$14
+
+$45
+
+$153
+
+
+800
+
+1500
+
+1770
+
+1870
+
+2010
+
+2100
+
+0.022%             0.30           $900          240          $216
+
+0.052%             0.43           $900          500          $450
+
+0.149%             0.64          $1,100          750          $825
+
+0.442%              1.0          $1,300         1300        $1,690
+
+2.125%             19.6         $10,526         7600        $80,000
+
+2.000%            118.4         $58,518         9000       $526,665
+
+Take the square-root of what we think is the total world population and multiply it by our very 
+crude measures of average real income per capita, and call that a€cetechnologya€Da€”the value H of 
+the stock of useful ideas about manipulating nature and organizing humans discovered, invented, 
+developed, and deployed globally into the world economy. Normalize H by setting its value in 1870
+equal to 1.
+
+Why take the square-root? Well, if we just multiplied average income by populationa€’’called total 
+world real income a€cetechnologya€Da€”we would be implicitly assuming that labor is useless and 
+unproductive. But that cannot be right: each mouth comes with two eyes, two hands, and a brain. If 
+we just took average incomea€’’called that a€cetechnologya€Da€”we would be implicitly
+assuming that natural resources are unimportant, and that it does not matter how small population 
+growth has reduced the size of the average plot of land on which a typical persona€™ s food is to 
+be grown. That also cannot be right: resource scarcity, and attempts to compensate for it, are a 
+very real thing in our world, today and in our past.
+
+The square-root is a compromise. Is it the right compromise? We can argue about that. What would 
+you suggest?
+
+
+There is alsoa€”I must admita€’’worries about the average income estimates. Styles of life and the 
+relative prices of commodities are so different between the upper-middle class of the global north 
+today and Neolithic near-subsistence farmers and Paleolithic gatherer-hunters that a 
+one-dimensional a€oereal incomea€D measure may not have much income. Plus there is the fact that 
+our income
+
+measures add things up based on what they cost, but the measure we want is what we spend our income 
+on is worth to us. The difference is what economists call a€oeconsumer surplusa€D. (I think I have 
+a memory of economist Robert Barro saying or writing somewhere that for a rival-material good 
+consumer surplus was probably, on average, about equal to factor cost; but that for a non-rival
+attention-information good the ratio was likely to be much larger: perhaps five or ten to one. That 
+struck me as very smart, and likely to be true. But I have been unable to find this anywhere.)
+
+Nathan Mayer Rothschild, the richest man in the first half of the 1800s, died in his fifties of an 
+infected abscess in his butta€”something we would cure with a lancing and a single dose of 
+amoxicillin, followed by being yelled at by a medtech for having let it get so bad before asking 
+for help. Does that mean that every single one of us with access to modern antibiotics is, properly 
+assessed, richer
+than Nathan Mayer Rothschild was? In a profound sense, yes.
+
+I once got ten pounds of potatoes at Trader Joea€™ s for a dollar. Thata€™ s 0.005 cents per 
+calorie. At the California minimum wage, that is about 1 second of work for 100 calories. For a 
+Neolithic near-subsistence farmer, about half your work-time has to be devoted just to getting 
+calories, and your productivity is maybe 10000 calories for half-a-daya€™ s work: 2500 
+calories/hour, or 2
+minutes for 100 calories. Are we thus not the 12 times that the table above presents but rather 100 
+times richer on average than our predecessors? Perhaps. But there are also things we value that 
+take just as much of our labor-time to obtain today as 5000 years ago, the respect of our peers 
+high among them. And there are things we value today that our predecessors could not obtain at any
+pricea€”like amoxicillin. What is the proper average summary statistic of all of these 
+multi-dimensions of economic growth? Is there a proper average summary statistic?
+
+Return to the table with which I began:
+
+Longest-Run Global Economic Growth
+
+
+Date
+
+-48000
+
+Technological
+Ideas-Stock
+Growth        Rate h
+
+Technological
+Ideas Stock
+
+Level H (1870 = 1)
+
+0.0256
+
+Average Annual
+Real Income per
+Capita y
+
+$1,200
+
+Total Human Total Real
+Population L World Income
+
+(millions)Y (billions)
+
+1         $1.20
+
+
+-8000
+
+0.0011 %            0.040
+
+$1,200
+
+2.5          $3.0
+
+
+
+Share Brad DeLong's Grasping Reality
+
+One Picture:
+
+COVID Death Incidence Rate per 100,000 Population by 2020 Presidential Vote
+(14-day moving average)
+
+Data Sources:
+
+MIT Election Data and Science Lab
+https://electionlab.mit.edu/data
+
+Johns Hopkins Center for Systems Science and Engineering (CSSE)
+https://coronavirus.jhu.edu/about/how-to-use-our-data
+
+Dpm 60-79%
+
+
+10:42 AM • Dec 15, 2021 • Twitter Web App
+
+Very Briefly Noted:
+
+• Ben Thompson: The Great Bifurcation <https://stratechery.com/2021/the-great-bifurcation/>
+
+• Terry Crowley: Yuck, Office HTML'. a€~Who wouldna€™ t want to read about the challenges of how to 
+encode an empty paragraph in HTML?a€! 
+<https://terrvcrowley.medium.com/vuck-office-html-7a249c24e57f>
+
+• Elizabeth Heritage: Turns Out the Much-Maligneda€ce Mysteries of Udolphoa€£Ms Good, 
+AcrMaZZy/<https://www.tor.com/2021/12/14/turns-out-the-much-maligned-mysteries-of-udolpho-is-good-ac
+tuallv/>
+
+•  Brad DeLong: As Cosma Shalizi Says, a€o?The Singularity Is in Our    
+<https://delong.typepad.com/sdi/2013/Q3/as-cosma-shalizi-says-the-singularity-is-in-our-past-saturda
+y-twentieth-century-economic-history-weblogging.html>
+
+Paragraphs:
+
+Bryce Baschuk: a€™ The leading economies of the Asia-Pacific region are steadily moving forward 
+with trade liberalization initiatives that may ultimately leave the U.S. out in the colda€!. Japan 
+is apparently holding out for a better deal on steel and aluminuma€!. This isna€™ t particularly 
+surprising, though. Ever since Trumpa€™ s metal fight began in 2018, Japan has taken a higher road
+than other nations when it came to sparring with the U.Sa€!. Japan filed a complaint under the 
+WTOa€™s lengthy dispute settlement process and engaged in bilateral talksa€!. Japan has 
+consistently urged the U.S. to rejoin the 11-member Comprehensive and Progressive Agreement for 
+Trans-Pacific Partnership^!. This week, South Korea signaled its interest in joining the CPTPPa€!. 
+And in
+two weeks the 15-nation Regional Comprehensive Economic Partnership will enter into force, creating 
+a Chinese-backed partnership that encompasses 2.2 billion people with a combined GDP of about $26 
+trilliona€!
+
+LINK: <https://twitter.com/bbaschuk>
+
+Leszek Kolakowski: My Correct Views on Everything: Reply to E.P. Thompson'. a€~Your letter contains 
+some personal grievances and some arguments on general questions. I will start with a minor 
+personal grievancea€!. You seem to feel offended by not having been invited to the Reading 
+conference and you state that if you had been invited you would have refused to attenda€!. I 
+presume,
+consequently, that if you had been invited, you would have felt offended as wella€!. The moral 
+ground you cite is the fact that in the organizing Committee you found the name of Robert Cecila€! 
+[who] once worked in the British diplomatic servicea€!. Your integrity does not allow you to sit at 
+the same table with someone who used to work in British diplomacy. O, blessed Innocence! You and
+I,    we were both active in our respective Communist Parties in the 40s and 50sa€!. We supported, 
+within our modest means, a regime based on mass slave labour and police terror of the worst 
+kinda€!. Do you not think that there are many people who could refuse to sit at the same table with 
+us?a€!
+
+LINK: <https://socialistregister.com/index.php/srv/article/view/5323/2224>
+
+Luke Oa€™Neil: I Asked to Leave & They Told Me Ia€™ dBe Fired'. a€~The U.S. is the most special 
+nation in the history of the worlda€!. I dona€™ t really know what hell is but I dona€™t think 
+ita€™s a place where bad things happen to people randomly such as natural disasters and death 
+because thata€™s just what the regular world is. I think ita€™ s probably more accurate to say
+ita€™ s a place where bad things happen because someone wanted them to happen to you or just let 
+them happen out of negligence and indifference. Where bad things happen and they didna€™ t have to 
+but your life was less important to someone else than what they thought they had to gaina€!
+
+LINK:
+
+
+Welcome to Hell World
+
+I asked to leave and they told me Ia€™ d be fired
+
+The other day I wrote in here about civil asset forfeiture and I heard from a reader that worked in 
+that realm for a while. It was not a pleasant experience you wona€™ t be surprised to hear. a€oel 
+didna€™ t come from any line of attorneys (or any semblance of money) so my only option to get 
+resume building experienced!
+
+Read more
+
+a year ago A- 10 likes A- 2 comments A- Luke O'Neil
+
+Roy Edroso: The Stupid Party'. did™ ve talked here about how conservatives dond™ t really even seem 
+to try to argue convincingly anymore, because the success of the Trump movement has taught them 
+thered™ s no need for intellectual gymnastics or even, really, coherent thoughtd”they just have to 
+make bellicose MAGA noises and like-minded people will flock to the soundd!
+LINK:
+
+
+Edroso Breaks It Down
+
+The Stupid Party
+
+Youa€™ re probably familiar with the old adage that puns are the lowest form of humor. But thata€™ 
+s not quite true. It takes some brainpower to make a pun. Even eminent humorists are known for 
+them, like Dorothy Parkera€™ s a€oetoo fucking busy and vice versaa€D and S.J. Perelmana€™ s a€!
+
+Read more
+
+a year ago A- 29 likes A- 52 comments A- Roy Edroso
+
+Arthur Eckstein: READING: How Was It That Rome Conquered the Mediterranean & Created Its Pax 
+Romana, Anyway?'. a€~The abilitya€”nay the eagernessa€”to turn conquered peoples into Romans was 
+the keya€L Rome after 340a€“338 replaced ethnicity and geographical location as the basis of 
+membership in the polity with a ladder of legal status-groups not tied to eithera€!. non­
+Roman allies (the socii), halfway citizens (the cives sine suffagio), full citizens (cives)a€!. the 
+Romans werea€! generous in allowing non-Roman individuals and even (very occasionally) whole 
+non-Roman polities to climb up this status hierarchy, Rome gained an enhanced capacity to win 
+loyaltya€!. The capacity for inclusion and integration^!. The rewards Rome was culturally and
+politically capable of dispensinga€! local peacea€! [and] the inclusion of local elites in the 
+Roman state were much greater than any state in Greece could ever offera€!. It was the system of 
+inclusion, which was ultimately a diplomatic and political skilla€! that made Rome potentially the 
+most powerful state in the ancient Mediterranean^!
+
+LINK:
+
+
+Brad DeLong's Grasping Reality
+
+READING: How Was It That Rome Conquered the Mediterranean & Created Its Pax Romana, Anyway?
+
+Arthur Eckstein (2006): Mediterranean Anarchy, Interstate War, & the Rise of Rome (Berkeley: 
+University of California Press): a€~The fundamental question is not why Roman society was 
+militaristic and often at war, but why the Roman city-state was able to create a very large and 
+durable territorial polity when so many other city-states failed at that taska€!
+
+Read more
+
+a year ago A- Brad DeLong
+Leave a comment
+
+Subscribe now
+
+
+Brad DeLong's Grasping Reality
+
+READING: How Was It That Rome Conquered the Mediterranean & Created Its Pax Romana, Anyway?
+
+Arthur Eckstein (2006): Mediterranean Anarchy, Interstate War, & the Rise of Rome (Berkeley: 
+University of California Press): a€~The fundamental question is not why Roman society was 
+militaristic and often at war, but why the Roman city-state was able to create a very large and 
+durable territorial polity when so many other city-states failed at that taska€!
+
+Read more
+
+a year ago A- Brad DeLong
+Leave a comment
+
+Subscribe now
+

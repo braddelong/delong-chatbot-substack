@@ -1,0 +1,199 @@
+Share
+
+Very Briefly Noted:
+
+• Carola Frydman, Eric Hilt, & Lauren Mostrom: Ownership and Control of American Public 
+Corporations,
+
+1880a€ 
+“J920<https://ecgi.global/sites/default/files/Ownership%20and%20Control%20of%20American%20Public%20C
+orporations%2C%201880-1920.pdf>
+
+• Curio: Discover Podcasts <https://curio.io/discovei>
+
+• Blum Center: Innovation Chronicle'. a€~Big Ideas finalists, Infant Warmer, prize-winning PET 
+recyclinga€! 
+<https://mailchi.mp/berkeley/blum-center-innovation-chronicle-april-5032498?e=74b79a9d93>
+
+• Milton Friedman (1976): In South Africa 
+<https://github.com/braddelong/public-files/blob/master/readings/milton-friedman-in-south-africa.pdf
+>
+
+• Zach Carter: The End of Friedmanomics 
+<https://github.com/braddelong/public-files/blob/master/readings/carter-friedman.pdf>
+
+•  Paul Krugman: a€™ Zach Carter has a characteristically fascinating article on Milton Friedman 
+and his fading legacya€!. Monetarisma€l is dead, and should never have had the influence it did. 
+James Tobin
+was right in 1970: to the extent that there was a correlation between monetary aggregates and GDP 
+(there hasna€™ t been much of one in recent decades), Friedman had the causation reverseda€!
+
+<https://istor.org/stable/1883016> <https://twitter, com/paulkrugman/status/1406237371419566086>
+
+•  Zach Beauchamp : Benjamin Netanyahu is out of power in Israel. Herea€™ s what comes next'. 
+a€~a€oela€™ m not optimistic about Israel, ever,a€D says Hadas Aron, a professor at New York 
+University who
+studies Israeli politics. a€oeBut I do think ita€™ s not meaningless that someone else will be in 
+government, that something else could at least have the potential to risea€Da€! 
+<https://www.vox.com/policy-and-
+politics/2021/6/13/22464927/beniamin-netanyahu-prime-minister-vote-naftali-bennett>
+
+• Wikipedia: Croatia <https://en.wikipedia.org/wiki/Croatia>
+
+• Encinal Nursery <https: //encinalnursery.com/>
+
+• David Brin: The Ancient Ones, ch. la€“2 (Audio) <https 
+://westillread.com/2021/04/20/the-ancient-ones-ch-1 -2/>
+
+• Choose a License <https://choosealicense .com/licenses/>
+
+•  M.G. Siegler: Time Shifts: a€~In a time of a€~Return to Officea€™ a€!. We all knew and 
+understood that commute times add up, but it is different to five this reality again. A 30-minute 
+commute in the morning
+and a 30-minute commute at night is an hour of your day you had previously a€ceunlockeda€Da€! 
+<https://5ish.org/p/time-shifts>
+
+• The Rise of the Robots: Some Fairly-Recent Must- and Should-Reads: a€~As of September 2018a€! 
+<https://www.bradford-delong.eom/2018/09/the-rise-of-the-robots-some-fairlv-recent-must-and-should-
+reads .html>
+
+Share Brad DeLong's Grasping Reality
+
+
+• David Brin: The Ancient Ones, ch. la€“2 (Audio) 
+<https://westillread.com/2021/04/2Q/the-ancient-ones-ch-l-2/>
+
+• Choose a License <https://choosealicense.com/licenses/>
+
+•  M.G. Siegler: Time Shifts: a€~In a time of a€~Return to Officea€™ a€!. We all knew and 
+understood that commute times add up, but it is different to live this reality again. A 30-minute 
+commute in the morning
+and a 30-minute commute at night is an hour of your day you had previously a€ceunlockeda€Da€! 
+<https://5ish.org/p/time-shifts>
+
+• The Rise of the Robots: Some Fairly-Recent Must- and Should-Reads: a€~As of September 2018a€! 
+<https://www.bradford-delong.eom/2018/09/the-rise-of-the-robots-some-fairly-recent-must-and-should-
+reads ,html>
+
+Share Brad DeLong's Grasping Reality
+
+Paragraphs:
+
+Robert Farley: With Focus on China, US Senate Passes Major Industrial Policy Bill: a€™ If the bill 
+ultimately passes both houses of Congress, it will represent a major shift in how the United States 
+government manages its
+relations with the tech sectora€!. The bill is intended to foster the reinvigoration of the 
+manufacturing side of the U.S. technology sectora€!. The Senate version faces criticism regarding 
+the lack of significant oversight of the
+technology companies that will benefit from the bill. However, the extent of bipartisan support in 
+the Senate suggests a big enough coalition to survive negotiations between the House and Senate 
+versionsa€!. Both
+Republican and Democrats displayed an allergy to industrial policy after the 1970s; that both now 
+seem interested in government intervention is a huge change from the long-standing consensusa€!. 
+Whether this amounts to a
+new a€oeCold War Consensusa€D is altogether uncertain, but the fact that concern over China can 
+bridge one of the most poisonous political divides in U.S. history should probably cause some 
+concern in BeijingaCI
+
+LINK: 
+<https://thediplomat.com/2021/06/with-focus-on-china-us-senate-passes-major-industrial-policy-bill/>
+
+
+Shac Ron: a€™ Arm64 didna€™ t appear out of nowhere. Apple contracted ARM to design a new ISA for 
+its purposes. When Apple began selling iPhones containing arm64 chips, ARM hadna€™ t even finished 
+their own
+core design to license to others. Arm64 is the Apple ISA, it was designed to enable Applea€™ s 
+microarchitecture plans. ThereaC™ s a reason Applea€™ s first 64 bit core (Cyclone) was years ahead 
+of everyone else, and it
+isna€™ t just caches. ARM designed a standard that serves its clients and gets feedback from them 
+on ISA evolution. In 2010 few cared about a 64-bit ARM core. Samsung & Qualcomm, the biggest mobile 
+vendors, were
+certainly caught unaware by it when Apple shipped in 2013. Apple planned to go super-wide with low 
+clocks, highly OoO, highly speculative. They needed an ISA to enable that, which ARM provided. Ml 
+performance is not
+so because of the ARM ISA, the ARM ISA is so because of Apple core performance plans a decade 
+agoa€!
+
+LINK: <https://twitter.com/stuntpants/status/1346473074544181249>
+
+David Glasner: Whata€™ s so Great about Supply-Demand Analysis?: a€~This analysis is the bread and 
+butter of economicsa€!. There is much to be said for the analysisa€!. But ita€™ s also important to 
+understand its
+limitations, and, especially, the implicit assumptionsa€! It focuses attention on the idea of an 
+equilibrium price at which all buyers can buy as much as they would like, and all sellers can sell 
+as much as they would likea€!.
+That equilibrium price, aside from enabling the mutual compatibility of buyersa€™ and sellersa€™ 
+plans to buy or to sell, has optimal propertiesa€!. The chief problem with supply-demand analysis 
+is that it requires a strict
+ceteris-paribus assumption^!. But another implicit assumption underlies supply-demand analysis: 
+that the economic system starts from a state of general equilibriuma€l. Finally, and perhaps most 
+problematic, comparative
+statics    is merely a comparison of two alternative equilibria, neither of which can be regarded 
+as the outcome of a theoretically explicable, much less practical, process leading from initial 
+conditions to the notional equilibrium
+statea€!. Ita€™ s important to understand [that]a€! the relationship between the formalism and the 
+real world is tenuousa€!
+
+LINK: <https://uneasymoney.com/2021/06/16/whats-so-great-about-supply-demand-analysis/>
+
+Ezra Klein : Interviews Betsey Stevenson: a€™ "We got three months left of these extra $300 
+payments. I dona€™ t think anybody is sitting at home and thinking, aw, I just am going to live 
+high on the hog on these
+unemployment insurance payments. I think theya€™re thinking, my job is miserable and Ia€™m going to 
+take this nice time for a break. And Ia€™m going to look right now while I can for something 
+better. And I
+guarantee                                                                                           
+         you that we could get rid of all of unemployment insurance tomorrow, and we wouldna€™ t 
+put 7.5 million people back to work overnighta€!. It might even be OKa€! appreciate the fact that 
+people have had a
+really hard year. People who have white collar jobs with good incomes feel like theya€™ ve had a 
+hard yeara€!. Well, if youa€™re barely putting food on the table, your job became enormously more 
+miserable, and then you
+turn on the news and you see people yelling at you because youa€™ re not getting back to work fast 
+enough. Thata€™ s just a lack of appreciation of the humanity of lower wage workersa€! If UI is 
+having an effect, ita€™ s
+smalla€!. Do we really need to deny benefits to millions of people because wea€™re worried about 
+whether we might have had a few thousand more jobs?a€!
+
+LINK: <https ://www.nytimes 
+.com/2021/06/18/podcasts/transcript-ezra-klein-interviews-betsey-stevenson.html>
+
+Jeet Heer: Tucker Carlson Is a Made Man: a€~Fox News host loves to rail against the mainstream 
+press but enjoys the protection of media clubbinessa€!. Smith rightly notes that Carlsona€™ s 
+a€cedouble-gamea€D is
+hardly newa€!. Right-wing demagogues battling the media has always been akin to professional 
+wrestlina€!. Access journalism has always been morally dodgy but in the case of protecting a figure 
+like Carlson (not to
+mention Trump) shouldna€™ t it be seen as beyond the pale? And who are these journalists who are 
+shielding Carlson?a€!
+
+LINK: <https://ieetheer.substack.eom/p/tucker-carlson-is-a-made-man>
+
+Sheri Berman: Threats to American Democracy: a€~Even though Trump lost the election, American 
+politics has not returned to a€~normala€™ . Indeed, Trumpa€™ s removal has made clearer the nature 
+and severity of the
+threat to American democracy. We now have a two-party system where one of the two parties 
+prioritises partisanship over democracy and is accordingly willing to promote policies that would 
+seriously, if not fatally, impair
+the functioning and legitimacy of democracya€™ s core foundationa€”free and fair electionsa€!
+
+LINK: <https://socialeurope.eu/threats-to-american-democracy>
+
+Ezra Klein: AMA!: a€~Too much feedback about me and it gets in my head in bad ways. Compliments 
+roll off me, criticisms stick, and in both cases, ita€™ s all just weird exacerbations of my ego. I 
+already get more public
+feedback then I think human beings are tuned to absorb, so I try to limit all the additional stuff 
+about me that I can. But I appreciate that you all like or hate the show enough to be here!a€!
+
+LINK: <https://www.reddit.eom/r/ezraklein/comments/nxflib/im ezra klein host of the ezra klein show 
+ama/>
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

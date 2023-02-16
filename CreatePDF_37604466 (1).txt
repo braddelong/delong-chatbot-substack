@@ -1,0 +1,261 @@
+
+One set of lenses with which to view the technological core of modern economic growth brings into 
+focus General Purpose Technologies: those technologies where advances change, if not everything, a 
+lot, as they ramify across sector upon sector.
+
+Steampower was the first. Early machine tools which embodied in their design and construction so 
+much technological knowledge about how to shape materials was the second. Then came 
+telecommunications, materials science, organic chemistry, internal-combustion engines, the assembly 
+line, subsequent machine-tool generations, and electricity. We know that these are GPTs because, 
+eventually, it made no sense to speak of them as discrete a€oesectorsa€n
+apart from the rest of the economy.
+
+After the first two of these, the rest make up Robert Gordona€™ s a€oeone big wavea€D of 
+technological advance that he sees transforming the global north over 1870-1980, and then ebbing.
+Share
+
+In the 1950s there came another GPT. Electricity was no longer a sector, for it was everywhere. But 
+there emerged something called a€cemicroelectronicsa€D: electrons made to dance Not in the service 
+of providing power but rather of assisting and amplifying calculation^’’and communication.
+
+Take sand, which is mostly very finely grained particles of the rock quartz. Purify it by removing 
+things like pieces of shell. Heat it to more than 1700A°Ca€”that is 3100A°F. Add carbon. The carbon 
+will then pull the oxygen atoms out of the quartz to make carbon dioxide, and leave behind pure 
+silicon. Cool the silicon to about 1400A°Ca€’’that is, 2550A°F. Then drop a small seed crystal into 
+the barely liquid silicon, and pull up the seed crystal as the
+surrounding silicon cooling into solidity and attaches itself to it. If you have done this right, 
+you will then have a cylinder of pure monocrystalline silicon. Slice it finely. Each slice is a 
+a€cewafera€D of pure silicon crystal.
+
+A pure silicon crystal will not conduct electricity. Of the 14 electrons associated with each 
+silicon atom, two are tightly bound in the quantum states chemists call the Is orbital, one doing 
+something that our feeble East African Plains Ape brains metaphorically try to understand by saying 
+that it is a€oespinninga€D with its axis of rotation pointing up, one pointing down. (But that name 
+a€ceorbitala€D is wrong: they really do not really a€ceorbita€D, although
+Niels Bohr a century and more ago thought they did. But he did not have it right. SchrAJdinger put 
+him straight.)
+
+It is a fundamental property of electrons that they cannot crowd each other into the same quantum 
+state, and so there is only room for twoa€”one spin-up, one spin-do wna€”in the Is orbital. The 
+next eight electrons must find quantum states with higher energy: two electrons in the 2s 
+orbitalsa€”one spin-up, one spin-do wna€’’and six in the 2p orbitals. (Why six? Because p electrons 
+a€ cere vol vea€D in the same sense that all electrons a€cespina€D; because
+space is three-dimensional tending to revolve from front to back, from left to right, and from 
+side-to-side are different quantum orbital states; and because a spin-up electron can share the 
+rest of its orbital quantum numbers that specify its state with a spin-down one.)
+
+That leaves four electrons remaining. They, in a silicon crystal are in quantum states that 
+chemists call 3sp orbitals. They are all tightly shared by their home nucleus and the nuclei of the 
+four silicon atoms that are its close neighbors in the crystal. These electrons are locked into 
+their quantum orbital states: it requires a lot of energy to knock them out and make them move. 
+Thus silicon cannot conduct electricity. Being a conductor requires that it be easy to knock
+electrons out of their ground states and into conduction-band orbitals quantum states, in which 
+they are only very loosely bound to any one particular atomic nucleus.
+
+However, suppose you replace one of the silicon atoms in the crystal with a phosphorus atom, with 
+its not fourteen but fifteen electrons. If there are not too many such phosphorus atomsa€”one in 
+every 10,000 atoms is more than enougha€”each phosphorus nucleus will simply slot into and fill the 
+place of the silicon nucleus it replaces. Fourteen of the phosphorus atoma€™ s electrons will act 
+like the silicon atoma€™ s electrons: locked into place, Tightly
+bound in their 3sp orbital to both their home nucleus and to the four neighboring nuclei. But the 
+phosphorus atoma€™ s fifteenth electron cannot fit. It finds a higher energy band in which it is 
+only loosely bound to any one nucleus: the conduction band. Silicon doped with phosphorus thus 
+becomes a conductor. And if you do something to create a current that pulls those 19th electrons 
+away, it becomes a non-conductive insulator instead.
+
+Thus by applying or removing small voltages of electrical current and electromagnetic pressure to a 
+duped region of a silicon crystal, we can turn that region into a switch, and then we can turn the 
+switch on and off as we choose, and let the current flow or not as we choose.
+
+Right now, in the semiconductor fabricators of the Taiwan Semiconductor Manufacturing Company on 
+the island of Taiwan, the machines that it has bought from ASML and Applied Materials and 
+programmed are carving 13 billion such semiconductor solid-state switches with attached current and 
+control pathsa€”we call them a€”onto a crystal silicone chip About 2/5 of an inch wide and 2/5 of 
+an inch tall. TSMCa€™ s marketing materials imply that the
+smallest of the carved features is only 25 silicon atoms wide. (In actual fact, the features are 
+more like ten times that sizea€”but, still, that means that there are only about 1250 free 
+electrons able to move easily in a cross section.) These 13 billion transistor switches switch on 
+and off, synchronously, 3,200,000,000 times a second. If all 13 billion components of this small 
+chip of rock made from sand were carved correctly ,and the chip passes its tests, it will then
+be  an Apple Ml microprocessor, like the one at the heart of the machine I am typing these words 
+on.
+
+These small chips of silicon rock doped with phosphorus (and boron, and other things) carved into 
+microscopic paths are the single most essential pieces of our modern information-technology 
+industries.
+
+The electric telegraph is really the start of our information technology industries. In 1774 
+George-Louis Le Sage used electric wires to successfully send alphabetical signals from one room of 
+his house to another. In 1830 William Ritchie demonstrated that you could Use magnets to send weak 
+information-carrying electrical signals from one end of a lecture hall to another, making the use 
+of electricity for a near-instantaneous long-distance communication
+device not just a theoretical curiosity but a potentially practical possibility. And in May 1844 
+Samuel Morse sent his message a€oewhat hath God wrought?a€D over the Baltimore Washington DC 
+telegraph line.
+
+In 1906 Lee De Foresta€”who claimed that he never understood why it worked, he just knew that it 
+dida€”built the first triode: the first device in which, without relatively bulky magnets involved, 
+current would or would not flow through a circuit to another depending on whether or not another 
+control voltage was on or off. The era of vacuum tubes and radio and all of its spinoffs plus 
+stereo amplifiers and the earliest electronic computers had begun. But it was
+solid-state microelectronics that enabled the flowering.
+
+William Shockley, John Bardeen and Walter Brattain are the three credited with the first transistor 
+at Bell Telephone Laboratories in 1947. It was an industrial research lab: that means that in 
+reality hundreds if not thousands contributed. The hanging of individualsa€™ names on such 
+discoveries and inventions is much more a reflection of our being designed to think in personal 
+narratives then of the scientific and technological reality. Dawon Khang and
+Mohamed Attila (and the Bell Labs team) built the first metal oxide semiconductor field effect 
+transistora€”The one that works so much better than earlier concepts that as of now More have them 
+have been made by humans than any other device by past orders of magnitude. It was Jay Lasta€™ s 
+group building on the ideas of Robert Noyce and Jean Hoerni of Fairchild Semiconductor who, in 
+1960, Built the first operational solid state integrated circuit. By
+1964 General Microelectronics was making and selling a 120-transistor integrated circuit.
+
+Vacuum-tube electronic switching elements were four inchesa€”100 millimeters. Transistors in 1964 
+were packed 1 millimeter apart in early integrated circuits: 100 times smaller, enabling 10,000 
+times as much computation power to be packed into the same space, with orders of magnitude less 
+power consumption. They were made using a 50IUma€”50 micron, 1/20 of a 
+millimetera€’’photolithography process, etching boron- and phosphorus-rich regions onto
+the silicon substrate to make gates and circuits.
+
+In 1965 Fairchild Semiconductor^™ s Gordon Moore observed that the number of solid-state 
+microelectronic circuit elements in frontier integrated circuits had grown from 1 to 100 in the 
+seven years since 1958. He made a bold ten-year highly speculative forecast. He looked forward to 
+continued increases in density and a future of a€cecomponent-crammed equipmenta€D, projecting a 
+1975 in which a 100 square-millimeter silicon chip would have 65,000
+components on it. That would allow for a€oeelectronic techniques more generally available 
+throughout all of society, performing many functions that presently are done inadequately by other 
+techniques or not done at alla€D. Moore forecast, back in 1965:
+
+Home computersa€”or at least terminals connected to a central computera€’’automatic controls for 
+automobiles, and personal portable communications^! [plus] integrated circuits in digital filters 
+[to] separate channels on multiplex equipmenta€! telephone circuits anda€! data processing. 
+Computers will be more powerful, and will be organized in completely different waysa€! 
+chttps://newsroom.intel.com/wp-
+content/uploads/sites/11/2018/05/moores-law-electronics .pdf>
+
+By 1971 integrated-circuit semiconductor fabricators had taken four steps downward to a finer, SP/m 
+lithography process. The first microprocessor, the Intel 4004, packed 20,000 transistor into a 
+square milimetera€’’features were 200 microns apart. By 1985 the process node in the semiconductor 
+fab was down to LSPXm, and the Intel 80386 microprocessor had shrunk that average 
+feature-plus-separation distance down to 20. In 2005 the process node size was
+down to 90nma€”nanometesa€”and the Intel Pentium 4a€™ s average feature-plus-separation distance 
+was down to 0.7a€”700 nanometers. Todaya€™ s Apple-TSMC Ml packs 16 billion transistors onto a 133 
+square-millimeter silicon die, with an average feature-plus-separation distance of 90 nanometers, 
+and TSMCa€™ s labelling the process as the equivalent of 5nm. The 90 nanometers of average 
+feature-plus-separation distance are only 450 silicon atoms
+across. Todaya€™ s microelectronics are thus, in a sense, 115,000 times smaller than the 
+transistors of 1985, and can pack thirteen billion times as many possible switching elements into 
+the same space.
+
+In 1979 to execute 1 MIPSa€’’million instructions per seconda€’’required 1 watt of power. By 2015 1 
+watt could drive more than 1,000,000 MPIS. As components became smaller, they became faster, at 
+least up until the late 2000s. Halve the size of the feature, and you can run it twice as fasta€”up 
+to a point. Before 1986 microprocessor clock speed quadrupled every seven years. Then with the 
+coming of the simplicity of reduced instruction sets came seventeen
+years in which each quadrupling of speed took three years rather than seven. Then, after 2003, the 
+quadrupling time went back to seven years, until further speed improvements hit a wall around 2013.
+
+Share Brad DeLong's Grasping Reality
+
+At its most rapid pace during the information-technology revolution, the company at the heart of 
+the innovation economy, microprocessor designer and manufacturer Intel, was tick-tockinga€”tick, 
+improving the microarchitectural details of its microprocessors so programs can run faster; tock, 
+improving the fine resolution of its manufacturing so that it can make the features and thus the 
+microprocessor smallera€”and completing a full cycle in under three years.
+With microprocessors doubling in speed every two years, and with the information-technology sector 
+taking full advantage, measured economy-wide productivity growth after 1995 rose again, and came 
+close to its golden-age immediate post-WWII pacea€”until the Great Recession disruption came in 
+2008a€!
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+
+
+soiia-state microelectronics mat enabled me flowering.
+
+William Shockley, John Bardeen and Walter Brattain are the three credited with the first transistor 
+at Bell Telephone Laboratories in 1947. It was an industrial research lab: that means that in 
+reality hundreds if not thousands contributed. The hanging of individualsa€™ names on such 
+discoveries and inventions is much more a reflection of our being designed to think in personal 
+narratives then of the scientific and technological reality. Dawon Khang and
+Mohamed Attila (and the Bell Labs team) built the first metal oxide semiconductor field effect 
+transistora€”The one that works so much better than earlier concepts that as of now More have them 
+have been made by humans than any other device by past orders of magnitude. It was Jay Lasta€™ s 
+group building on the ideas of Robert Noyce and Jean Hoerni of Fairchild Semiconductor who, in 
+1960, Built the first operational solid state integrated circuit. By
+1964 General Microelectronics was making and selling a 120-transistor integrated circuit.
+
+Vacuum-tube electronic switching elements were four inchesa€”100 millimeters. Transistors in 1964 
+were packed 1 millimeter apart in early integrated circuits: 100 times smaller, enabling 10,000 
+times as much computation power to be packed into the same space, with orders of magnitude less 
+power consumption. They were made using a 50IUma€”50 micron, 1/20 of a 
+millimetera€’’photolithography process, etching boron- and phosphorus-rich regions onto
+the silicon substrate to make gates and circuits.
+
+In 1965 Fairchild Semiconductor^™ s Gordon Moore observed that the number of solid-state 
+microelectronic circuit elements in frontier integrated circuits had grown from 1 to 100 in the 
+seven years since 1958. He made a bold ten-year highly speculative forecast. He looked forward to 
+continued increases in density and a future of a€oecomponent-crammed equipmenta€D, projecting a 
+1975 in which a 100 square-millimeter silicon chip would have 65,000
+components on it. That would allow for a€oeelectronic techniques more generally available 
+throughout all of society, performing many functions that presently are done inadequately by other 
+techniques or not done at alla€D. Moore forecast, back in 1965:
+
+Home computersa€”or at least terminals connected to a central computera€’’automatic controls for 
+automobiles, and personal portable communications^! [plus] integrated circuits in digital filters 
+[to] separate channels on multiplex equipmenta€! telephone circuits anda€! data processing. 
+Computers will be more powerful, and will be organized in completely different waysa€! 
+chttps://newsroom.intel.com/wp-
+content/uploads/sites/ll/2018/05/moores-law-electronics.pdf>
+
+By 1971 integrated-circuit semiconductor fabricators had taken four steps downward to a finer, 81Um 
+lithography process. The first microprocessor, the Intel 4004, packed 20,000 transistor into a 
+square milimetera€’’features were 200 microns apart. By 1985 the process node in the semiconductor 
+fab was down to LSPXm, and the Intel 80386 microprocessor had shrunk that average 
+feature-plus-separation distance down to 20. In 2005 the process node size was
+down to 90nma€”nanometesa€”and the Intel Pentium 4a€™ s average feature-plus-separation distance 
+was down to 0.7a€”700 nanometers. Todaya€™ s Apple-TSMC Ml packs 16 billion transistors onto a 133 
+square-millimeter silicon die, with an average feature-plus-separation distance of 90 nanometers, 
+and TSMCa€™ s labelling the process as the equivalent of 5nm. The 90 nanometers of average 
+feature-plus-separation distance are only 450 silicon atoms
+across. Todaya€™ s microelectronics are thus, in a sense, 115,000 times smaller than the 
+transistors of 1985, and can pack thirteen billion times as many possible switching elements into 
+the same space.
+
+In 1979 to execute 1 MIPSa€’’million instructions per seconda€’’required 1 watt of power. By 2015 1 
+watt could drive more than 1,000,000 MPIS. As components became smaller, they became faster, at 
+least up until the late 2000s. Halve the size of the feature, and you can run it twice as fasta€”up 
+to a point. Before 1986 microprocessor clock speed quadrupled every seven years. Then with the 
+coming of the simplicity of reduced instruction sets came seventeen
+years in which each quadrupling of speed took three years rather than seven. Then, after 2003, the 
+quadrupling time went back to seven years, until further speed improvements hit a wall around 2013.
+
+Share Brad DeLong's Grasping Reality
+
+At its most rapid pace during the information-technology revolution, the company at the heart of 
+the innovation economy, microprocessor designer and manufacturer Intel, was tick-tockinga€”tick, 
+improving the microarchitectural details of its microprocessors so programs can run faster; tock, 
+improving the fine resolution of its manufacturing so that it can make the features and thus the 
+microprocessor smallera€”and completing a full cycle in under three years.
+With microprocessors doubling in speed every two years, and with the information-technology sector 
+taking full advantage, measured economy-wide productivity growth after 1995 rose again, and came 
+close to its golden-age immediate post-WWII pacea€”until the Great Recession disruption came in 
+2008a€!
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

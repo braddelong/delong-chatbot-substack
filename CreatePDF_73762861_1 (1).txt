@@ -1,0 +1,338 @@
+Paul Krugman: Twitter Thread: a€~As they say in the Patrick O'Brian novels, I give you joy of your 
+victory!
+
+I am extremely gratified to find myself at #6 on the NYT nonfiction bestsellers after launch week! 
+And today is the UK launch for a€oeSlouching Towards Utopiaa€D: <fal.cn/3rUOr>. (In US: 
+<bit.ly/3pP3Krk> I am almost as gratified that Martin Wolf likes it. Soa€! 1/
+
+MwiHiruJ PK (RKI4I
+
+
+‘No book has explained the
+successes and failures of this
+extraordinary period with
+comparable insight’
+
+MARTIN WOLF
+
+                          I
+
+SLOUCHING
+
+■L Al BOM           j
+
+1TOPI<
+
+AN ECONOMIC HISTORY
+OF THE TWENTIETH CENTORY
+
+J. BRADFORD DELONG
+
+3:08 PM r™ Sep 15,2022
+
+197Likes23Re tweets
+
+A few FRED-based thoughts on one of Brad's big insights: that the world didn't really break out of 
+the Malthusian trap until 1870. As it happens, my friend FRED includes the Bank of England dataset 
+with estimates of some UK variables going back to the Middle Ages. And it allows me to make a few 
+pictures of real wages versus population.
+Up through 1600 the world was Malthusian pure and simple. Real wage in 2015 pounds versus 
+population (inverted): just sliding up and down the curve with the rise and fall of plagues:
+
+— 100*Average Weekly Earnings Per Person in the United Kingdom/Consumer Price Index in the United
+Kingdom (left)
+
+-  Population In England (right)
+
+70                                                                                -800
+
+I
+
+zr
+O
+
+c
+co
+
+o
+"O
+
+CD
+
+co
+c
+z
+
+CO
+
+
+10                                                                                -5,600
+
+1250       1300       1350       1400       1450       1500       1550       1600
+
+Source: Bank of England                fred.stlouisfed.org
+
+Fast forward to 1870, and real wages were no higher than they had been in the 15th centurya€’’but 
+the population was much larger, so evidence of technological progress:
+
+FRED — 100*Average Weekly Earnings Per Person in the United Kingdom/Consumer Price Index in the 
+United
+Kingdom (left)
+
+-  Population in England (right)
+
+70                                                                               0
+
+
+10
+
+1300
+
+1400         1500         1600         1700         1800
+
+-24,000
+
+Source: Bank of England                fred.stlouisfed.org
+
+Only after 1870 do we see a huge improvement in working-class living standards:
+
+FRED — 100*Average Weekly Earnings Per Person in the United Kingdom/Consumer Price Index in the 
+United
+Kingdom (left)
+
+-  Population in England (right)
+
+600                                                                               0
+
+§
+
+II   500                                                                               •10,000
+
+400                                                                               -20,000
+
+
+-30,000
+
+-40,000
+
+-50,000
+
+-60,000
+
+1300       1400       1500       1600       1700       1800       1900       2000
+
+Source: Bank of England                fred.stlouisfed.org
+
+The question is how we should think about the century or so before 1870 when real wages were rising 
+moderately despite a growing population. Brad argues that the pace of technological progress was 
+still glacial by modern standards. And there had been previous eras of significant economic growth 
+a€” the Dutch Republic? The early Roman Empire?a€”that never achieved escape
+velocity. So maybe the real break didn't come until 1870. By the numbers, this looks right.
+
+But maybe the economic numbers don't tell the whole story? It seems to me that between 1600 and 
+1870 there was a revolution in how people thoughta€”a rise in systematic thinkers from Newton to 
+Darwin, including, yes, Malthus himselfa€”that had no previous counterpart. Not just scientists, 
+either. I'm kind of a Civil War buff, and it has always seemed to be that people like
+Grant and Lincoln were modern in a way you couldn't find in earlier eras. For that matter, did the 
+ancient world have an Alexander Hamilton?
+
+I guess my point is that I suspect that the intellectual and maybe social foundations for the big 
+break were laid well before the big uptick in total factor productivity.
+
+This isn't a critique of Brad's work: It's an important and novel observation that the trends 
+didn't really break until circa 1870. And maybe it's just hindsight that makes the squishier 
+changes seem so important. But maybe not.
+
+To which I replied: Suppose that you are willing to accept my heroic assumption that 
+a€cetechnologya€D is proportional to average real income per capita times the square-root of 
+population, and suppose that you are willing to accept our guesses about past population and my 
+hard-Malthusian view of 1500 and before...
+Then you do indeed get an Axial Age -1000 to 150 technology proportional growth rate of 6% per 
+century; a Late-Antiquity Pause 150 to 800 growth rate of 1.4% per century; and then a MediAlval 
+800 to 1500 growth rate of 5% per century:
+
+Global Longest-Run Global Economic Growth
+
+
+Date
+
+Ideas     Ideas
+Growth    Stock
+Rate h Level H
+
+Real
+Income/
+Capita      y
+
+Popula­
+tion P
+(millions)
+
+Total
+Income Y
+(billions)
+
+Population Efficiency-
+Growth n Growth g
+
+
+-48000
+
+-8000
+
+-6000
+
+-3000
+
+0.002%     0.011       $1,200       0.2      $0.24
+
+0.003%     0.036       $1,200        2       $2.4
+
+0.009%     0.043         $900        5       $4.5
+
+0.018%     0.074         $900       15        $14
+
+0.003%
+
+0.006%
+
+0.046%
+
+0.037%
+
+0.000%
+
+0.000%
+
+-0.014%
+
+0.000%
+
+
+-3000
+
+-1000
+
+150
+
+800
+
+1500
+
+1770
+
+1870
+
+2010
+
+2100
+
+0.018%     0.074         $900       15        $14         0.037%     0.000%
+
+0.030%     0.136         $900       50        $45         0.060%     0.000%
+
+0.060%     0.272         $900       200       $180         0.121%     0.000%
+
+0.014%     0.297         $900       240       $216         0.028%     0.000%
+
+0.052%     0.429         $900       500       $450        I 0.105%      0.000% r
+
+0.149% T    0.643        $1,100       750       $825         0.150%     0.074%
+
+0.442%      1.000       $1,300      1300     $1,690         0.550%     0.167% |
+
+2.159%    20.557       $11,600      6900    $80,040         1.192%     1.563%
+
+2.000%    108.893      $53,802      9000    $484,214  ?      0.295%     1.705%
+
+And it is pretty clear why. The aims of the A©lites who direct humanitya€™ s energies are devoted 
+to maintaining the force-and-fraud exploitation-extraction-&-domination machine that theya€”the 
+thugs-with-spears, their bosses, and their tame accountants, bureaucrats, and propagandistsa€”run 
+on the rest of humanity as the only way that A©lite members can have enough for
+themselves and their families. Ideas are judged primarily not by whether they are true or 
+productive but by whether they reinforce the force-and-fraud machine. There is progressa€’’coinage 
+in -600, after which you can construct a division-of-labor with more than your friends, neighbors, 
+and relatives without having to go through the kings and priestsa€”the moldboard plow, double­
+cropping rice, the merino sheep, and so forth. But it is slow as social energies are directed 
+elsewhere.
+
+And the 150 to 800 Late Antiquity Pause should make you doubt whether there was any arc of history 
+making for an increasing technology growth rate.
+Then with 1500 comes the Imperial-Commercial Revolution Age, and the rate of technology growth 
+triples to 15% per century. As I see it:
+
+• 1/3 of this is simply MediAlval (but now Gunpowder-Empire) business as usual,
+
+• 1/3 of this is the Columbian Exchange and such, and
+
+•  1/3 of this is a historically unique tinkering-inventing-recombining culture (Patrick WymanaC™ s 
+book aCceThe VergeaCD is, I think, very good on this) at the western edge of Eurasia.
+
+Is this a sea-change in thought and society? Maybe. But the builder of the Antikythera Device, the 
+inventor of coinage, and that guy Ish-baal who thought up the idea of using a stylized picture of 
+an ox to stand for a particular phoneme way back in the year -1000 might say you nay.
+Then from 1770-1870 we get the Industrial Revolution Century: an additional tripling of the 
+technology growth rate worldwide from 0.15% to 0.44% per century. Again I divide this into thirds:
+
+•  1/3 from the globalization benefits of concentrating the entire manufacturing of the globe in 
+the region most productive,
+
+•  1/3 the very lucky fact that the last glaciers scraping off the post-Permian rock had given us 
+access to mines of unbelievably cheap and accessible coala€”stored sunlight of an unbelievable 
+concentration and ease of use once you had unlocked its secreta€”and
+
+• 1/3 to a unique engineering-inventing culture in the 300-mile radius circle around Dover, England 
+(plus offshoots).
+The first two of these three tranches seem to me to have been overwhelmingly likely to have been 
+transient.
+
+And so, had technological progress continued after 1870 at 1/3 of the 1770-1870 ratea€”at 
+0.15%/yeara€’’humanity would still have been under the Malthusian harrow, with typical living 
+standards constant at the rate that supported population growth of 0.3%/yeara€”8% per 
+generationa€”and no demographic transition.
+Call this Permanent Steampunk World.
+
+2010 would then see the technologies of 1890 or so, but with a much larger and hence much poorer 
+human population than in actual 1890.
+Would that world have been a€oemoderna€n?
+
+It would have had its Marx and its Freud. It would know relativity and quantum mechanics. But we 
+are talking a typical world standard of living of $4 a daya€”not quite World Bank a€oedire 
+povertya€D, but damned close.
+
+But this no-Industrial Research Lab to rationalize and routinize discovery and development, and no 
+Modern Corporations to rationalize and routinize development and deployment of the Second 
+Industrial Revolution technologiesa€”does this make sense?
+
+Quite possibly not. Nate Rosenberg and David Mowery would say you could not have the market economy 
+of 1850 and the engineering profession and machine tool industry as they then stood and not go on 
+to develop the IRL and the MC. And then the economy of 1850 was immanent in the society created by 
+the early steam engine. And so on back to 1070 and the Investiture
+Crisis, which establishes the principle that law is more than the servant of the powerful but binds 
+even the most powerful. And possibly back before 1070 as well: you can find anticipations of the 
+shift from gemeinschaft to Gesellschaft, rational inquiry into the operation of the world, and so 
+on however far back you look, if you try hard enough.
+
+
+XA7AV WUU1U L11V11 OVV LI IV LVUllllVlU$lVd UI AU^V UI 3U, UUL WALII CL 111UV11 ACLAgVA CL 11VI 
+11V11W 111UV11 pUUlVl 11U111CL11 P^P U1CLL1VJ11 Lil CL 11 111 UUlUai AO^V.
+
+Would that world have been a€oemoderna€n?
+
+It would have had its Marx and its Freud. It would know relativity and quantum mechanics. But we 
+are talking a typical world standard of living of $4 a daya€”not quite World Bank aCcedire 
+povertya€D, but damned close.
+
+But this no-Industrial Research Lab to rationalize and routinize discovery and development, and no 
+Modern Corporations to rationalize and routinize development and deployment of the Second 
+Industrial Revolution technologiesa€”does this make sense?
+
+Quite possibly not. Nate Rosenberg and David Mowery would say you could not have the market economy 
+of 1850 and the engineering profession and machine tool industry as they then stood and not go on 
+to develop the IRL and the MC. And then the economy of 1850 was immanent in the society created by 
+the early steam engine. And so on back to 1070 and the Investiture
+Crisis, which establishes the principle that law is more than the servant of the powerful but binds 
+even the most powerful. And possibly back before 1070 as well: you can find anticipations of the 
+shift from gemeinschaft to Gesellschaft, rational inquiry into the operation of the world, and so 
+on however far back you look, if you try hard enough.
+

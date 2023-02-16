@@ -1,0 +1,118 @@
+Subscribe now
+
+There were some questions after the 2021'-08-26 Th Econ 115 lecture about one slide I put up:
+
+Growth of “Technology”
+
+—up to 1500: ,035%/year
+
+—1500-1770: 0.15%/year
+
+-1770-1870: 0.45%/year
+
+-1870-2012: 2.10%/year
+
+
+The background for this is material I am going to cover next semester in Econ 135, in particular 
+the construction of this table:
+
+Longest-Run Widest-View Global Economic Growth
+
+
+World Human Annual Ideas
+Income Y Numbers L Income per Level
+
+Date (billions) (millions) Capita y H
+
+Numbers
+Growth
+Raten
+
+Income
+Growth
+Rateg
+
+Idea-Stock
+Growth
+Rateh
+
+
+-68000
+
+-8000
+
+-6000
+
+-3000
+
+-1000
+
+800
+
+1500
+
+1770
+
+$0.12        0.10      $1,200 0.032
+
+$3.0         2.5       $1,200    0.16       0.005%  0.000%    0.003%
+
+$6.3          7        $900    0.20       0.051%  -0.014%    0.011%
+
+$13.5         15        $900    0.30       0.025%  0.000%    0.013%
+
+$45.0         50        $900    0.54       0.060%  0.000%    0.030%
+
+$153         170        $900    1.00       0.122%  0.000%    0.061%
+
+$270         300        $900    1.33       0.071%  0.000%    0.036%
+
+$450         500        $900    1.71       0.073%  0.000%    0.036%
+
+$825         750       $1,100    2.57       0.150%  0.074%    0.149%
+
+
+iw            <47 1 j 1 wv                  v.iw/u v.vi-r/u                  w. ITUZU
+
+
+1870
+
+2020
+
+$1,690       1300      $1,300      4.0       0.550%   0.167%     0.442%
+
+$93,600       7800      $12,000     90       1.195%   1.482%     2.079%
+
+The numbers on the slide are from the last column of the table. They are the benchmark-to-benchmark 
+guesstimated annual average growth rates of the value of the stock of useful economic ideas that 
+have been discovered, developed, and deployed into the world economy about how to manipulate nature 
+and organize humans. The last column is simply the guesstimated real-income growth rate plus 
+one-half the guesstimated (or maybe here I can say
+a€ceestimateda€D?) human population growth rate.
+
+Share
+
+If you want to learn more, take Econ 135. Or dip your toe in by taking a look at some of the Econ 
+135 materials:
+
+Share Brad DeLong's Grasping Reality
+
+Econ 135 Lecture Notes ms. DRAFT
+
+• History of Economic Growth: 1. Introduction 
+<https://github.com/braddelong/public-files/blob/master/—history%20of%20economic%20growth-introducti
+on.pdf>
+
+• Growth Theory 
+<https://nbviewer.jupyter.org/github/braddelong/history-of-economic-growth-theory-readings/blob/main
+/heg-growth-theory.ipynb>
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

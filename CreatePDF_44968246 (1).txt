@@ -1,0 +1,207 @@
+Subscribe now
+
+What we know now: (1) Substantial evasion of immunity from prior infection, which should carry with 
+it at least some evasion of immunity from vaccination:
+
+Juliet R.C. Pulliam & al.: Increased Risk of SARS-CoVa€ “2 Reinfection Associated with Emergence of 
+the Omicron Variant in South Africa: a€~Analysis of routine surveillance data from South Africa 
+suggests that, in contrast to the Beta and Delta, the Omicron variant of SARS-CoVa€“2 demonstrates 
+substantial population-level evidence for evasion of immunity from prior infectiona€!
+
+<https://www.medrxiv.org/content/10.1101/2021.11.11.21266068v2.full.pdf>
+
+(2) Omicron appears to be more infectious than early variants, even aside from its evasion of 
+immunity;
+
+Eric Topol: a€™ Omicrona€™ s doubling time in Gauteng exceeds the prior variants of concern, but 
+the question as to whether in can displace Delta as the dominant variant there and globally looms 
+<https://t.co/cMPX6RvuRR>
+
+Eric Topol @EricTopol
+
+Omicron's doubling time in Gauteng exceeds the prior variants of concern, but the question as to 
+whether in can displace Delta as the dominant variant there and globally looms 
+thelancet.com/journals/lancea€! @TheLancet
+
+
+2 o
+
+o o
+
+> o
+
+S Q.
+
+Eg I
+
+-3 f
+
+80-
+
+70-
+
+60-
+
+40-
+
+30-
+
+20-
+
+10-
+
+0-
+
+-  First wave
+
+-  Second wave
+
+-  Third wave
+
+-  Fourth wave
+
+Days
+
+Doubling time*
+
+Fourth wave (omicron)sl-2 days
+Thi rd wave (del ta )=1 S days
+Second wave (beta)«17 days
+First             wave (D614 G)= 1-3 days
+
+Figure: SARS-CoV-2 cases in first, second, third, and fourth waves, Gauteng Province of South 
+Africa
+
+2:04 PM y™ Dec 3. 2021
+
+474Likesl61Retweets
+Share
+
+(3) We can hope that it is less deadly, but hope is not a plan:
+
+Clive Cookson, Oliver Barnes, & John Burn-Murdoch: The Race to Decipher Omicron: Will It Take Days, 
+Weeks or Months?: a€~Labs around the world are scrambling to answer three fundamental questions: Is 
+Omicron more transmissible than previous variants? Can it evade the immunity conferred by previous 
+Sars-Cova€“2 infection or vaccination? And does it cause more severe disease? Peter Openshaw, a 
+professor of medicine
+at Imperial College London, says preliminary evidence suggests the answers to the first two 
+questions are, a€oeYes, but no one knows to what extenta€D. Though Omicron seems to transmit faster 
+than previous variants in South Africa, it is less clear that it can outcompete Delta across the 
+world. Soumya Swaminathan, the WHOa€™ s chief scientist, says it is a€~premature to draw any 
+conclusions about the efficacy of vaccines against
+Omicrona€™ As for symptoms, a€oetherea€™ s just not enough information about how severe Omicron 
+isa€U, he adds. a€oeMy assumption is that for now we treat it as if it is about as severe as 
+Deltaa€Da€l
+
+LINK: <https://www.ft.com/content/e742a4bf-3e72-4551-bf72-df73cb35436f>
+
+Andrew Meldrum: The AP Interview: Scientist Says Omicron Was a Group Find: a€~JOHANNESBURG (AP) a€” 
+The Botswana scientist who may well have discovered the omicron variant of the coronavirus says he 
+has been on a a€oerollercoaster of emotions,a€D with the pride of accomplishment followed by dismay 
+over the travel bans immediately slapped on southern African countries. a€oels that how you reward 
+science? By
+blacklisting countries?a€D Dr. Sikhulile Moyo, a virologist at the Botswana Harvard AIDS Institute 
+Partnership, said in an interview Thursday night with The Associated Press. a€oeThe virus does not 
+know passports, it does not know borders ,a€D he added. a€oeWe should not do geopolitics about the 
+virusa€!. We should be collaborating and understanding^Da€!
+
+LINK: 
+<https://apnews.com/article/coronavirus-pandemic-science-health-africa-botswana-f380ea458f0cle021955
+882a7145810a>
+Share Brad DeLong's Grasping Reality
+
+3 December 2021 Risk assessment for SARS-CoV-2 variant: Omicron VOC-21NOV-01 (B.1.1.529)            
+  UK Health Security Agency
+
+
+Indicator
+
+Transmissibility
+
+Red, amber or
+green status*
+
+Amber
+
+Confidence Assessment and rationale
+level
+
+Low At least as transmissible as currently circulating variants
+
+ie Ironemif+inn ranirlk/ ord ci                   ilk/ Inrrnocnd francmiecihiliK/ rnmnorod fn       
+                  io
+
+
+UKIWKKII IIUIIICIIIO
+
+Infection severity
+Naturally
+acquired
+
+immunity
+
+Vaccine-derived
+immunity
+
+Red          Low
+
+Low
+
+| | 11     | |    UI Vil IVI I HUH lU^/IVIIJT Vil IVJ UUUVVUUI VIII J • II IVI V/ViS^V/Vi UI Vil 
+1^1 I IIUUI kSIHUJ VrVT I I I V4 I V* Vi IV U^U^IlVi ISP
+
+biologically plausible with the presence of furin cleavage site and nucleocapsid changes
+associated in vitro with advantages for replication, as well as extensive changes to the RBD.
+Structural modelling suggests that the mutations present may increase human ACE2 binding
+affinity  to a much greater extent than that seen for any other variant.
+
+Phylogeny suggests a recent emergence. Data from South Africa suggests that Omicron has a
+pronounced growth advantage there. However, this may be due to transmissibility or immune
+escape related, or both.
+
+Insufficient data
+
+Mutations suggestive of reduced protection from natural immunity and limited supporting
+epidemiological evidence
+
+Based on experience with other variants, laboratory data on individual mutations, and structural
+
+modelling, the mutations present are very likely to reduce antibody binding and include changes
+in all 4 neutralising antibody binding sites in the RBD and also in antigenic sites in the S NTD. T
+cell epitope data is awaited. Analysis from South Africa suggests a reduction in protection from
+previous infection, including from recent Delta infection. There is no convalescent sera
+neutralisation                                                                   data and no 
+relative risk of reinfection analyses as yet.
+
+Mutations suggestive of reduced protection from vaccine derived immunity, no supporting
+evidence
+
+The mutations present are likely to reduce antibody binding and include changes in all 4 RBD
+neutralising antibody binding sites. T cell epitope data is awaited. There is no vaccinee sera
+neutralisation data and no epidemiological data on vaccine effectiveness.
+
+
+Therapeutics    Red
+
+Low
+
+Mutations suggestive of reduced effectiveness of a treatment in UK clinical use
+
+The mutations present are likely to reduce the binding of most available therapeutic monoclonal
+antibodies, based on structural modelling. On the same basis, they are unlikely to affect current
+small molecule antivirals. However, there is no laboratory or clinical data to support these
+predictions at present.
+
+* Refer to scale and confidence grading slide.
+
+
+* Refer to scale and confidence grading slide.
+
+small molecule antivirals. However, there is no laboratory or clinical data to support these
+
+predictions at present.
+
+Leave a comment
+
+Subscribe now
+

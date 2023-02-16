@@ -1,0 +1,259 @@
+Subscribe now
+
+FIRST: No. The Federal Reserve Did Not 'a€~Drink the Kool-Aida€™ in 2021:
+
+Let me enthusiastically endorse the second half of this from Olivier Blanchard.
+
+It seems to me to be completely right: The way to bet for the medium- and long-run is that we are 
+still in a rA©gime of secular stagnation. The demand for safe assets continues to be extremely 
+high, because so much wealth is being held and will continue to be held by actors that are not 
+pursuing a portfolio strategy of maximizing their real risk-adjusted expected return. (And do 
+remember that Steve Cohen and I noted this emerging trend and tried to grapple
+with understanding what it was going to mean back ina€! it was 2010: The End of Influence: What 
+Happens When Other Countries Have the Money chttps ://www.amazon 
+.com/End-Influence-Happens-Other-Countries/dp/0465018769/>.) As long as the demand for assets that 
+are a€cesafea€C in the sense that their nominal values track one of the global reserve currencies 
+is so high relative to supply as to be constantly pushing their values up to par, things are
+going to be really weird:
+
+But that consideration seems to me to make the first half of what he says wrong. Indeed, I do not 
+understand what argument could lead somebody to believe it:
+
+Olivier Blanchard: Economists Exchange'. a€~I didna€™ t anticipate the role of the goods market, 
+which is that in many sectors the strong demand led to supply disruptions and very large increases 
+in prices. In the end, inflation came first not from where I would have expected it to come, which 
+was wages, but rather from pricesa€!. I think that the increase in prices, the disruptions in 
+supply chains, are very much the result of strong
+demand hitting supply walls. So, I would claim that I should get a few points for being right in 
+February or March of 2021. Anybody could have come to the same conclusion. Ia€™ m happy I dida€!. 
+What should the Fed have done or said when the fiscal package was passed? I hope that Jay Powell 
+picked up his phone and told the administration that this was going to be an issue. His staff drank 
+the Kool-Aid, and he, not being a
+professional economist, could not easily second-guess them. They thought inflation expectations 
+would remain anchored and that the Phillips curve was flata€!.
+
+The question is, indeed, how much of this is a blip. I use the word bump, which I think has a 
+slightly longer length than a blip. But I believe we will then go back to low real interest rates. 
+So, on this, Ia€™ m going to do the Larry Summers thing. I am going to say, with probability 0.9, 
+wea€™ 11 return to something like that world. I think therea€™ s a tendency for markets to focus on 
+the current, on the present and extrapolate it forever.
+But if I look at the factors behind the decline in real interest rates since the mida€“1980s, none 
+of them seems about to turn around, except perhaps one, which is investment^!
+
+LINK: <https://www.ft.com/content/e63dab63-bf41-4c43-b827-lbl736fc518d>
+The point that in a rA©gime of secular stagnation the loss function is asymmetric is decisive.
+
+The Federal Reserve can deal with an overheated economy by raising interest rates, 
+sharplya€’’sharply !a€’’decreasing demand for construction investment, for exports, and for 
+domestic production of import-competing goods, and so freeing-up productive capacity to satisfy the 
+other components of domestic demand, thus removing inflationary pressures. The Federal Reserve 
+cannota€’’cannot !a€’’deal with a frozen economy at its zero nominal lower bound on
+interest rates. Forward guidance is simply not effective at the required scale: modern central 
+banks have inordinate difficulty in credibly committing to be a€oeirresponsiblea€n and inflationary 
+in the future. Quantitative easing is the closest thing to powerless that a monetary-management 
+tool can be. Therefore monetary policy needs to focus, unless doing so has the most dire 
+consequences, at avoiding situations in which nominal interest rates hit the zero
+nominal lower bound. And there was a definite, palpable risk in early 2021 that the economy without 
+the early 2021 fiscal package was going to stay at the zero nominal lower bound.
+
+Indeed. Blanchard says that he expected a€oeinflation [to] c[o]me firsta€! froma€! wagesa€na€”an 
+overheated labor market giving workers the power to bargain for substantial real wage increases, 
+which would then force businesses to raise their prices to try to recoup some of the costs. But 
+that is not what happened: instead, under the pressure of plague waves, supply chains broke and 
+bottlenecks emerged. Prices of bottlenecked goods spiked, and so the world
+economy turned its attention to the now-crowdsourced problem of figuring out how to get rid of 
+those bottlenecks and expand productive capacity.
+
+Price increases that focus crowdsourced attention on places in the economy where there are 
+constraining bottlenecks is usually seen as a good thing for a market economy to have: it is how we 
+become richer. Would it be a better world if we had not had that focus of attention on relieving 
+bottlenecks, and so expanding productive capacity? I really do not think so.
+
+After all, in any reasonable societal well-being function, short-run inflation has significant 
+costs only if it destroys the long-run inflation anchor. And it has not done so. So when Blanchard 
+says that Powella€™ s a€oestaff drank the Kool-Aida€! thought inflation expectations would remain 
+anchoreda€!a€D and so a failure to raise interest rates substantially was a policy mistake, I say: 
+a€ceHuh?!a€D
+
+Not passing the early 2021 fiscal package, or having the Federal Reserve immediately respond by 
+raising interest rates a year ago, would have slowed down the recovery: a serious loss. And it 
+would have produced nothing more than an infinitesimal gaina€”as long as the long-run inflation 
+anchor remains. Which it does. Long-term inflation expectations have remained anchored:. Should 
+they breakout above 2.5%, I will be calling on the Federal Reserve to do
+more, and do it faster. But they are still on track, still where they should be:
+
+FRED — 5-Year, 5-Year Forward Inflation Expectation Rate
+
+3.5
+
+10                                                     I                                            
+                                  I
+
+0.5                                           J
+
+0.0
+
+2004           2006           2008           2010           2012           2014           2016      
+     2018           2020           2022
+
+Share
+
+Vprv Rripflv Nntprl?
+
+
+• Matthew Belloni & al.: Dimond€™s d€ceHurricaned€m a€~Jamie Dimona€! is normally pretty measured 
+in his economic pronouncements^! <https://puck.news/dimons-hurricane-sheryls-wall-street/?_cio 
+id=f6c60600ef3 3f033>
+
+• Kristie L. Ebi: Surviving a Future of Extreme Heat 
+<https://www.project-syndicate.org/commentary/preparing-for-extreme-heat-climate-change-by-kristie-l
+-ebi-2022-06>
+
+• Ben Thompson: Apple WWDC, M2, Additional Notes: a€~What was striking about yesterdaya€™ s 
+keynote, though, wasa€! the unveiling of cross-platform featuresa€! 
+<https://stratechery.com/2022/apple-wwdc-m2-additional-notes/>
+
+•  Christopher Johnson: Rumours Xi Jinping Is Losing His Grip Are Greatly Exaggerated: a€~Evidence 
+is thin that past episodes of factional strife in Chinaa€™ s communist party are repeating 
+themselvesa€! <https://www.ft.com/content/5el4bfb2-f0a9-4259-9d4c-alb0ff607560>
+
+•  Paul Waugh: Johnson Is Now the Sick Man of No.10, Infecting Everyone Around Him: a€~A 
+double-whammy defeat in Wakefield and in Tiverton and Honiton would only confirm the terminal state 
+of the patienta€!. Faced with a Prime Minister who will never change his habits, or who cana€™ t be 
+trusted even if he promises to change, ita€™ s no surprise that backbenchers think ita€™ s time to 
+change leader insteada€!
+
+<https://link.news.inews.co.uk/view/61feal0c5501fe7b723832e5gnfdt.7h4/6b9f7a22>
+
+•  Chris Anstey: Whatd€™ s Happening in the World Economy: Team Transitory Still Warn on Big Hikes: 
+a€~Akey reason not to get spooked about surging prices is the evidence that expectations among 
+consumers and investors for inflation over the longer run remain well anchored. That means 
+theya€™re not baking in high inflation forevera€’’something that should in itself help to stabilize 
+pricesa€!
+
+<https://www.bloomberg.com/news/newsletters/2022-06-06/what-s-happening-in-the-world-economy-team-tr
+ansitory-still-warn-on-big-hikes?cmpid=BBD060622_NEF>
+
+•  Matthew Belloni & al.: Elond€™s Foot-in-Mouth Disease: a€™He has a a€oesuper bad feelinga€D 
+about the U.S. economya€! hard to square with the news, also on Friday, that payrolls surged by 
+390,000 in Maya€! <https://puck.news/dimons-hurricane-sheryls-wall-street/? cio 
+id=f6c60600ef33f033>
+
+Twitter & a€~Stack:
+
+• James Ledbetter: A Brief History of Fintechd€™ s Meltdown
+
+JAMES LEDBETTER’S
+
+
+
+A Brief History of Fintech's Meltdown
+
+James Ledbetter's FIN
+
+Number of the Week: 700,000 (explanation below) A Brief History of Fintech's Meltdown When we 
+started FIN in October 2020, fintech appeared to be setting the world on fire. There were so many 
+interlocking sectors: proptech, payments, crossborder payments, Buy Now Pay Later (BNPL), 
+insurtech, and of course cryptocurrency. PayPal was trading at nearly $200 a share, which would 
+grow to more than $300 by July 2021 before heading back to Earth
+(today ita€™ s at $86). The combination of user experience, loose regulation and a lockdown-driven 
+need for contactless payment seemed to be ushering in a new era in how people interact with money. 
+Private capital was flooding the sector, and even unrelated developments like government stimulus 
+payments propelled the machine forwarda€!
+
+Read more
+
+8 months ago A- James Ledbetter
+
+• Michael Pettis: The very smart Brad DeLonga€\ thinks there is a very good chance that China will 
+get caught in the middle-income trap. I am not sure what the middle-income trap is, but whatever it 
+is, I agree with hima€!
+
+in The very smart Brad DeLong (whose new book I am eager to read) thinks there is a very good 
+chance that China will get caught in the middle-income trap, I am not sure what the middle-income 
+trap is, but whatever it is, I agree with him. @delong
+
+1 O I
+
+'nTnTnnTFnnnn^^
+
+
+braddelong.substack.comChinaa€™ s Likely Trajectory in Xi Jinpinga€™ s Third Term, &BRIEFLY NOTED: 
+For 2022-06-03 Fr
+4:21 PM a~™ Jun 6,2022
+
+286Likes72Re tweets
+
+• Matthew Yglesias: Russiaa€™ s War on the Worlda€™ s Food Supply: a€~While the Russian government 
+would clearly like to exploit the havoc they are wreaking for gains in Ukraine, they have very 
+little leveragea€!. [In] a€cecereals,a€D some European countries do take a hit, but plenty of 
+others benefit from the grain shortagea€!
+
+
+Slow Boring
+
+Russia's war on the world's food supply
+
+Russiaa€™ s war in Ukraine is taking a terrible toll on Ukrainians and promoting hardship within 
+Russia and throughout the developed world. But the biggest economic casualties are almost certainly 
+the poorer countries that arena€™t involved in the proxy conflict at all but are facing potential 
+devastation due to the run-up in global food prices deliberately provoked by Russian policya€!
+Read more
+
+8 months ago A- 90 likes A- 157 comments A- Matthew Yglesias
+
+• Noah Smith: The Japan that Abe Shinzo Made'. a€~The expansion of the labor force, the rise of 
+immigration and diversity, and the countrya€™ s willingness to assert itself in the international 
+security spherea€!
+
+Noahpinion
+
+The Japan that Abe Shinzo made
+
+This is the fifth and final post in my series of posts about Japan. In the first post, I lamented 
+Japana€™ s low-ish living standards and called for a cash-based welfare policy. In the second, I 
+suggested some industrial policies that Japan might use to boost growth. Ina€!
+Read more
+
+8 months ago A- 97 likes A- 27 comments A- Noah Smith
+Share Brad DeLong's Grasping Reality
+
+Paragraph:
+
+
+Matthew Levine is always a must-read. In fact, he is always a must-read to a frightening extent. 
+Here he is on the latest from Elon Musk:
+
+Matthew Levine: Elon Has a New Bot Excuse'. a€~This again. No, come on, stop ita€!. The merger 
+agreement does nota€! allow Musk to walk away because he changed his mind. He needed some 
+pretexta€!. He came up with what he thought was a good one: Twitter says, in its public filings, 
+that no more than 5% of its a€oemonetizable daily active usersa€D are a€oefalse or spama€Da€i. To a 
+non-lawyer I suppose this looked like a
+good pretext, but it was not. It was not for at least three reasons: Musk had not a shreda€! of 
+evidencea€!. Musk could not get out of the merger agreement unless the error was likely to have a 
+a€oematerial adverse effecta€D on Twittera€™ s business, and it absolutely would not. Musk has been 
+talking about Twittera€™ s bot problem forever, and in fact he originally said that he wanted to 
+buy Twitter in order to fix the bot problem, so
+no one could possibly believe him when he said that he wanted to walk away from the deal because he 
+just discovered that Twitter has a bot problema€!. He set his lawyersa€! to work finding a pretext 
+that they could stomach. And they found one, and today they filed it with the US Securities and 
+Exchange Commission, in the form of a letter to Twitter threatening to call off the deal. Their 
+pretexted is that, when Musk asks for
+information about the spam bots, Twitter doesna€™ t give him the information he wantsa€!. To be 
+clear, it isna€™ t a good pretexta€!. It is hard to imagine him winning if this ends up in court: 
+If he refuses to close because Twitter wona€™ t humor his bot-fishing expedition, it seems unlikely 
+that a Delaware court will side with him. But it does raise the risk for Twitter, which gives him a 
+bit more leverage to try to renegotiate the price.
+It     is all going to get so much dumbera€!
+
+LINK: <https://www.bloomberg.eom/opinion/articles/2022-06-06/elon-has-a-new-bot-excuse#xj4y7vzkg>
+Leave a comment
+
+Give a gift subscription
+Donate Subscriptions
+
+
+
+Order the book, please! <https://bit.ly/3pP3Krk>
+Subscribe now
+

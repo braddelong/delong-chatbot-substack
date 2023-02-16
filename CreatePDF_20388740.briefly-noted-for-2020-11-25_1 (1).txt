@@ -1,0 +1,208 @@
+Bibliotheca Augustana: Tapetum Bagianum http ://www.hs-augsburg.de/~harsch/Chronologia/Lspost 11 
+/Bayeux/bay _tama.html: a€~c. 1080a€!
+
+Bret Devereaux: Collections: Bread, How Did They Make It? Part I: Farmers! 
+https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/aC!
+
+Bret Devereaux: Collections: Iron, How Did They Make It? Part I, Mining 
+https://acoup.blog/2020/09/18/collections-iron-how-did-they-make-it-part-i-mining/aC!
+
+Wikipedia: Pioneer Hi Bred International https://en.wikipedia.org/wiki/Pioneer_Hi_Bred 
+InternationalaC!
+
+Wikipedia: DeKalb Genetics Corporation https://en.wikipedia.org/wiki/DeKalb Genetics CorporationaC!
+
+Steven Rattner: God Help Us if Judy Shelton Joins the Fed https ://www.nytimes 
+.com/2020/07/22/opinion/federal-reserve- judy-shelton .html?smid=tw-share: a€~Trumpa€™ s
+latest unqualified nominee to the Federal Reserve Board must be rejected...
+
+Jeremiah: 22 KJV https://biblehub.com/kjv/jeremiah/22.htm: a€~Thus saith the LORD: "Execute ye 
+judgment and righteousness, and deliver the spoiled out of the hand of the
+oppressor: and do no wrong, do no violence to the stranger, the fatherless, nor the widow, neither 
+shed innocent blood in this place. For if ye do this thing indeed, then shall there
+enter   in by the gates of this house kings sitting upon the throne of David, riding in chariots 
+and on horses, he, and his servants, and his people. But if ye will not hear these words, I
+swear by myself", saith the LORD, "that this house shall become a desolation." For thus saith the 
+LORD unto the king's house of Judah: "Thou art Gilead unto me, and the head of
+Lebanon: yet surely I will make thee a wilderness, and cities which are not inhabited. And I will 
+prepare destroyers against thee, every one with his weapons: and they shall cut
+down   thy choice cedars, and cast them into the fire. And many nations shall pass by this city, 
+and they shall say every man to his neighbour, 'Wherefore hath the LORD done thus
+unto this great city?' Then they shall answer, 'Because they have forsaken the covenant of the LORD 
+their God, and worshipped other gods, and served them'"a€!
+
+Duncan Black: Failed 4th Estate https ://www.eschatonblog .com/2020/11/failed-4th-estate .html: 
+a€~I think the very Trump-specific sin of the media (as opposed to their normal
+sinning) was confusing an understandable decision to "treat this lunatic freakazoid as we would 
+normally treat a president" with "go out of our way to portray this lunatic freakazoid
+as normal." I get it. It was difficult to do the first part without doing the second part. If the 
+scandal-o-meter goes up to 7 on a tan suit, then anything resembling normal practices
+can't cope when Trump makes it hit 11 by 7am most days. And, who knows, maybe they didn't even do 
+him any favors. Maybe The People love their lunatic freakazoid president.
+But the first draft of history has hardly been an accurate oneaC!
+
+Utah HERO Project: Covid-Research State Chart https: //marriner.eccles .Utah .edu/covid-research- 
+state-chart/a€!
+Joan Robinson (1962): Economic Philosophy a€!
+
+Bret Devereaux: Collections: Iron, How Did They Make It? Part I, Mining 
+https://acoup.blog/2020/09/18/collections-iron-how-did-they-make-it-part-i-mining/aC!
+
+Oliver Wyman: Model Projections for COVID-19 Cases 
+https://pandemicnavigator.oliverwyman.com/forecast?mode=country&region=United%20States&panel=baselin
+ea€!
+
+On 2017-12-17, Michael Boskin claimed the TMR tax cut would generate a big boom in equipment 
+investment. Perhaps a full percentage point or so. None of the model-builders
+agreed with him. And he was wrong: there was none such in 2018 or 2019; spending did not wheel from 
+consumption to investment; aCceunlockedaCD foreign earnings were paid
+out in dividends, not invested in equipment. He has never explained or analyzed why he was wrong. 
+Or why he was confident in the first place: Michael Boskin (29017): Another
+Look at Tax Reform and Economic Growth 
+https://www.proiect-svndicate.org/commentarv/republican-tax-plan-growth-effects-bv-michael-boskin-20
+17-12aC!
+
+100+ Economists (2017): Pass tax reform and watch the economy roar 
+https://www.businessinsider.com/trump-tax-reform-opinion-congress-pass-2017-11 a€!
+
+Stan Sakai: Usagi Yojimbo https://www.usagiyoiimbo.com/: a€~First published in 1984, [it] continues 
+to this day. Usagi Yojimbo is one of the longest independent serialized comic
+book series in existence. Stan Sakai, the sole creator, author, and artist who is best known for 
+his series Usagi Yojimbo, the epic saga of Miyamoto Usagi, a samurai rabbit living in
+late-sixteenth and early-seventeenth-century Japan. Since then, Stan Sakai has received numerous 
+awards for Usagi Yojimbo including the National Cartoonists Society Award,
+multiple  Eisner Awards, the Parents' Choice Award, and Harvey Award for Best CartoonistaC!
+
+An unprofessional beat sweetener about a Trumpism lobbyist who could neither plan nor execute a 
+successful trade war: Jim Zarroli (2019): China Trade Talks: USTR Robert
+Lighthiser Is Trump's Hardball-Playing Negotiator 
+https://www.npr.org/2019/02/21/696277594/expect-change-robert-lighthizer-is-trump-s-hardball-plaving
+-china-trade-negotiataC;
+
+John Gruber: One More Thing: The Ml Macs https://daringfireball.net/2020/ll/one more thing, the ml 
+macs: a€~The Ml. The new Ml-based MacBook Air, 13-inch MacBook
+
+Pro, and Mac Mini are... three different manifestations of the same computer... far faster machines 
+than the Intel-based Macs theyaC™ re replacing. But the big win, and clear focus
+from Apple, isnaC™ t speed but battery life.... This is the sellable bullet point for the mass 
+market consumer. The Ml really is an entire system on a chip. Everything is on the Ml.
+
+The various processors, of course: the CPU cores, the GPU cores, the Neural Engine cores. But 
+everything else is on the Ml too: the storage controller, the Secure Enclave, the
+memory controller, and, yes, the memory itself. The DRAM for Ml-based Macs is on the package 
+(aCoeon the substrateaCD, I believe, is the technical lingo). ThereaC™ s no
+
+separate aCoevideo memoryaCD and aCoesystem memorya€na€”just memory. AppleaC™ s chip team is really 
+proud of this UMA system and the integrated GPU on the Ml.
+
+ItaC™ s a design that increases performance and power efficiency. For over a decade, iPhones and 
+iPads have had Apple-designed chips the competition could not and still cannot
+
+match. Now the Mac does tooaC!
+
+Sara Gibbs: Everything I Never Wanted to Have to Know About Labour & Antisemitismm 
+https://medium,com/@sararoseofficial/everything-i-never-wanted-to-have-to-know-
+about-labour-and-antisemitism-649b5bcle576: a€~I want the last four years of my life back.  If 
+youa€™re new to this and listening, thank you. I know a lot of my fellow activists
+
+will be annoyed that Ia€™ m taking this tone but at this point I am so exhausted from four years of 
+begging people to listen on this subject that I am grateful for any new allies and
+support. If you are listening, youa€™re already doing more than most. One of the most devastating 
+aspects of LabouraC™ s antisemitism crisis has been seeing the sheer volume of
+people                                                                                I like, 
+respect, even consider friends, denying or minimising this issue which has caused me so much 
+personal devastation^I
+
+A huge amounta€”an absolutely huge amounta€”was lost when Harry Dexter White overrode John Maynard 
+Keynes at Bretton Woods and placed responsibility for closing
+"fundamental disequilibria" on deficit countries alone. This policy mistake still haunts us. And 
+odds are that it is about to haunt us again. Jeremy Bulow and Company sound the
+alarm: Jeremy Bulow & al.: The Debt Pandemic 
+https://www.imf.org/external/pubs/ft/fandd/2020/Q9/debt-pandemic-reinhart-rogoff-bulow-trebesch.htm:
+ a€~The COVID-19
+pandemic has greatly lengthened the list of developing and emerging market economies in debt 
+distress. For some, a crisis is imminent. For many more, only exceptionally low
+global interest rates may be delaying a reckoning. Yet new challenges may hamper debt workouts 
+unless governments and multilateral lenders provide better tools to navigate a
+
+wave of restructuringaC!
+
+*Neil Fligstein & Steve Vogel *: Political Economy After Neoliberalism 
+http://bostonreview.net/class-inequalitv/neil-fligstein-steven-vogel-political-economy-after-neolibe
+ralism:
+a€~First, then, governments and markets are co-constituted. Government regulation is not an 
+intrusion into the market but rather a prerequisite for a functioning market economy....
+Second, real-world political economy hinges on power, both political and market power. Specific 
+forms of market governancea€”of the kinds we just sketcheda€”do not arise
+naturally                                                                               or 
+innocently. They are the product of power struggles between firms, industries, workers, and 
+governments within particular markets and in the political arena.  Third,
+
+there is more than one way to organize society to achieve economic growth, equity, and access to 
+valued goods and services. The balance of power between government, workers,
+and firms differs greatly across countries and timea€!
+
+Rachel Reeves: Best for Britain https://twitter.com/BestForBritain/status/128882550533303Q923: 
+a€~The PM saida€! a trade deal would be secured by the end of July. Wella€! we
+dona€™ t have a trade deal. All we have is a blueprint for a giant lorry park in the middle of 
+Kenta€!
+
+Alan S. Blinder & Mark W. Watson (2016): Presidents & the US Economy: An Econometric Exploration 
+https://pubs .aeaweb.org/doi/pdfplus/10.1257/aer.2O 140913: a€~The US
+economy has performed better when the president of the United States is a Democrat rather than a 
+Republican, almost regard- less of how one measures performance. For many
+measures, includ- ing real GDP growth (our focus), the performance gap is large and significant. 
+This paper asks why. The answer is not found in technical time series matters nor in
+systematically more expansionary mone- tary or fiscal policy under Democrats. Rather, it appears 
+that the Democratic edge stems mainly from more benign oil shocks, supe- rior
+total factor productivity (TFP) performance, a more favorable international environment, and 
+perhaps more optimistic consumer expectations about the near-term futurea€!
+
+Wikipedia_: Cocoliztli Epidemics https://en.wikipedia.org/wiki/Cocoliztli epidemics: a€~A 
+mysterious illness characterized by high fevers and bleeding. It ravaged the Mexican
+highlands in epidemic proportions... often referred to as the worst disease epidemic in the history 
+of Mexico. Recent bacterial genomic studies have suggested that., a serotype of
+
+Salmonella enterica known as Paratyphi C, was at least partially responsible for this initial 
+outbreak.[3] It might have also been an indigenous viral hemorrhagic fever
+
+Paul Krugman: Why Did Trumpa€™ s Trade War Fail? 
+https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-
+Center/PDF/Programs/Economics/Qther%20docs/tradewarfail.pdf: a€~There used to be an extensive 
+literature on a€ceeffective protectiona€D. Tariffs on imported inputs
+
+provided negative effective protection to downstream activities. And thata€™ s what seems to have 
+happened with the Trump trade war. Tariffs were largely focused on
+
+
+intermediate rather than final goods. The net effect, then, may actually have been to discourage 
+manufacturing!a€.
+
+Plus: Kevin Drum: Why Are Republicans Being Such Assholes?s 
+https://www.motherones.com/kevin-drum/2020/Q7/why-are-republicans-being-such-assholes/: a€~Bonus
+unemployment payments... expire today. The main reason for extending them is because there are 
+millions of Americans who are out of work and they desperately need the
+
+money.... [Plus] if the payments are cut off it will devastate an already ravaged economy.... So 
+why are Republicans hemming and hawing?. From a purely selfish perspective,
+
+Republicans ought to be in favor of doing anything they can to keep the economy in decent shape 
+through the election.... The whole thing is a disgrace. Why are Republicans
+
+acting so contemptibly?a€!
+
+Andrew Edgecliffe-Johnson & Mark Vandevelde: Stephen Schwarzman Defended Donald Trump at CEO 
+Meeting on Election Results https://www.ft.com/content/558f2a68-
+7d42-4702-b86d-fae5458b3e64: a€~Mr Schwarzman, a Republican donor who has been one of Mr Trumpa€™ s 
+most energetic supporters on Wall Street, sought to assuage such
+fears,         saying the president was within his rights to challenge election results and 
+forecasting that the legal process would take its course. He asked whether other participants did 
+not
+find it surprising that early votes in Pennsylvania had favoured Mr Trump, only for later counts to 
+tip the state in Mr Bidena€™ s favour. Mr Schwarzman said there had been news
+reports stating that ballots continued arriving days after the election and that some of them may 
+not have been reala€’’issues, he said, that needed to be resolved by the courts, as the
+presidents™ s legal team has arguedS!
+
+.#brieflynoted #noted #2020-11-25
+

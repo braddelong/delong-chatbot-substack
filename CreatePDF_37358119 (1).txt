@@ -1,0 +1,262 @@
+Subscribe now
+
+The future of integrated electronics is the future of electronics itself. The advantages of 
+integration will bring about a proliferation of electronics, pushing this science into many new 
+areas.
+
+Integrated circuits will lead to such wonders as home computersa€”or at least terminals connected 
+to a central computera€’’automatic controls for automobiles, and personal portable communications 
+equipment. The electronic wristwatch needs only a display to be feasible today.
+But the biggest potential lies in the production of large systems. In telephone communications, 
+integrated circuits in digital filters will separate channels on multiplex equipment. Integrated 
+circuits will also switch telephone circuits and perform data processing.
+
+Computers will be more powerful, and will be organized in completely different ways. For example, 
+memories built of integrated electronics may be distributed throughout the machine instead of being 
+concentrated in a central unit. In addition, the improved reliability made possible by integrated 
+circuits will allow the construction of larger processing units. Machines similar to those in 
+existence today will be built at lower costs and with faster turn-around.
+Share
+
+I. PRESENT AND FUTURE
+
+By integrated electronics, I mean all the various technologies which are referred to as 
+microelectronics today as well as any additional ones that result in electronics functions supplied 
+to the user as irreducible units. These technologies were first investigated in the late 1950a€™ s. 
+The object was to miniaturize electronics equipment to include increasingly complex electronic 
+functions in limited space with minimum weight. Several approaches evolved,
+including microassembly techniques for individual components, thin-film structures, and 
+semiconductor integrated circuits.
+
+Each approach evolved rapidly and converged so that each borrowed techniques from another. Many 
+researchers believe the way of the future to be a combination of the various approaches.
+
+The advocates of semiconductor integrated circuitry are already using the improved characteristics 
+of thin-film resistors by applying such films directly to an active semi-conductor substrate. Those 
+advocating a technology based upon films are developing sophisticated techniques for the attachment 
+of active semiconductor devices to the passive film arrays.
+Both approaches have worked well and are being used in equipment today.
+
+Share Brad DeLong's Grasping Reality
+
+IL THE ESTABLISHMENT
+
+Integrated electronics is established today. Its techniques are almost mandatory for new military 
+systems, since the reliability, size, and weight required by some of them is achievable only with 
+integration. Such programs as Apollo, for manned moon flight, have demonstrated the reliability of 
+integrated electronics by showing that complete circuit functions are as free from failure as the 
+best individual transistors.
+Most companies in the commercial computer field have machines in design or in early production 
+employing inte- grated electronics. These machines cost less and perform better than those which 
+use a€ceconventionala€O electronics.
+
+Instruments of various sorts, especially the rapidly in- creasing numbers employing digital 
+techniques, are starting to use integration because it cuts costs of both manufacture and design.
+
+The use of linear integrated circuitry is still restricted primarily to the military. Such 
+integrated functions are ex- pensive and not available in the variety required to satisfy a major 
+fraction of linear electronics. But the first applications are beginning to appear in commercial 
+electronics, partic- ularly in equipment which needs low-frequency amplifiers of small size.
+
+HI. RELIABILITY COUNTS
+
+In almost every case, integrated electronics has demon- strated high reliability. Even at the 
+present level of productiona€”low compared to that of discrete componentsa€”it offers reduced 
+systems cost, and in many systems improved performance has been realized.
+
+Integrated electronics will make electronic techniques more generally available throughout all of 
+society, performing many functions that presently are done inadequately by other techniques or not 
+done at all. The principal advantages will be lower costs and greatly simplified designa€’’payoffs 
+from a ready supply of low-cost functional packages.
+
+For most applications, semiconductor integrated circuits will predominate. Semiconductor devices 
+are the only rea- sonable candidates presently in existence for the active elements of integrated 
+circuits. Passive semiconductor el- ements look attractive too, because of their potential for low 
+cost and high reliability, but they can be used only if precision is not a prime requisite.
+
+Silicon is likely to remain the basic material, although others will be of use in specific 
+applications. For example, gallium arsenide will be important in integrated microwave functions. 
+But silicon will predominate at lower frequencies because of the technology which has already 
+evolved around it and its oxide, and because it is an abundant and relatively inexpensive starting 
+material.
+
+IV. COSTS AND CURVES
+
+Reduced cost is one of the big attractions of integrated electronics, and the cost advantage 
+continues to increase as the technology evolves toward the production of larger and larger circuit 
+functions on a single semiconductor substrate. For simple circuits, the cost per component is 
+nearly inversely proportional to the number of components, the result of the equivalent piece of 
+semiconductor in the equivalent package containing more components. But as
+components are added, decreased yields more than compensate for the increased complexity, tending 
+to raise the cost per component. Thus there is a minimum cost at any given time in the evolution of 
+the technology. At present, it is reached when 50 components are used per circuit. But the minimum 
+is rising rapidly while the entire cost curve is falling (see graph). If we look ahead five years, 
+a plot of costs suggests that the minimum cost per component might
+be expected in circuits with about 1000 components per circuit (providing such circuit functions 
+can be produced in moderate quantities). In 1970, the manufacturing cost per component can be 
+expected to be only a tenth of the present cost.
+
+The complexity for minimum component costs has in- creased at a rate of roughly a factor of two per 
+year (see graph). Certainly over the short term this rate can be expected to continue, if not to 
+increase. Over the longer term, the rate of increase is a bit more uncertain, although there is no 
+reason to believe it will not remain nearly constant for at least ten years. That means by 1975, 
+the number of components per integrated circuit for minimum cost will be
+65000.
+
+I believe that such a large circuit can be built on a single wafer.
+
+io5
+
+IO4
+
+io5
+
+
+< IO h
+UJ
+
+< I ------------------ 1   .   1       I       I     
+
+w I 10 io2 io3 io4 io5
+
+NUMBER OF COMPONENTS PER INTEGRATED
+CIRCUIT
+
+Fig. 1.
+
+V. TWO-MIL SQUARES
+
+With the dimensional tolerances already being employed in integrated circuits, isolated 
+high-performance transistors can be built on centers two-thousandths of an inch apart. Such a 
+two-mil square can also contain several kilohms of resistance or a few diodes. This allows at least 
+500 components per linear inch or a quarter million per square inch. Thus, 65000 components need 
+occupy only about one-fourth a square inch.
+
+On the silicon wafer currently used, usually an inch or more in diameter, there is ample room for 
+such a structure if the components can be closely packed with no space wasted for interconnection 
+patterns. This is realistic, since efforts to achieve a level of complexity above the presently 
+available integrated circuits are already under way using multilayer metallization patterns 
+separated by dielectric films. Such a density of components can be achieved by present
+optical techniques and does not require the more exotic techniques, such as electron beam 
+operations, which are being studied to make even smaller structures.
+
+VI. INCREASING THE YIELD
+
+There is no fundamental obstacle to achieving device yields of 100%. At present, packaging costs so 
+far exceed the cost of the semiconductor structure itself that there is no incentive to improve 
+yields, but they can be raised as high as is economically justified. No barrier exists comparable 
+to the thermodynamic equilibrium considerations that often limit yields in chemical reactions; it 
+is not even necessary to do any fundamental research or to replace present
+processes. Only the engineering effort is needed.
+
+In the early days of integrated circuitry, when yields were extremely low, there was such 
+incentive. Today ordinary integrated circuits are made with yields comparable with those obtained 
+for individual semiconductor devices. The same pattern will make larger arrays economical, if other 
+considerations make such arrays desirable.
+
+
+LOGe OF THE
+NUMBER OF COMPONENTS
+PER INTEGRATED FUNCTION
+
+
+
+Fig. 3.
+
+YEAR
+
+VII. HEAT PROBLEM
+
+Will it be possible to remove the heat generated by tens of thousands of components in a single 
+silicon chip?
+
+If we could shrink the volume of a standard high-speed digital computer to that required for the 
+components themselves, we would expect it to glow brightly with present power dissipation. But it 
+wona€™t happen with integrated circuits. Since integrated electronic structures are two 
+dimensional, they have a surface available for cooling close to each center of heat generation. In 
+addition, power is needed primarily to drive the various lines and capacitances
+associated with the system. As long as a function is confined to a small area on a wafer, the 
+amount of capacitance which must be driven is distinctly limited. In fact, shrinking dimensions on 
+an integrated structure makes it possible to operate the structure at higher speed for the same 
+power per unit area.
+
+VIII. DAY OF RECKONING
+
+Clearly, we will be able to build such component-crammed equipment. Next, we ask under what 
+circumstances we should do it. The total cost of making a particular system function must be 
+minimized. To do so, we could amortize the engineering over several identical items, or evolve 
+flexible techniques for the engineering of large functions so that no disproportionate expense need 
+be borne by a particular array. Perhaps newly devised design automation
+procedures could translate from logic diagram to technological realization without any special 
+engineering.
+
+It may prove to be more economical to build large systems out of smaller functions, which are 
+separately pack- aged and interconnected. The availability of large functions, combined with 
+functional design and construction, should allow the manufacturer of large systems to design and 
+construct a considerable variety of equipment both rapidly and economically.
+
+IX. LINEAR CIRCUITRY
+
+Integration will not change linear systems as radically as digital systems. Still, a considerable 
+degree of integration will be achieved with linear circuits. The lack of large-value capacitors and 
+inductors is the greatest fundamental limitation to integrated electronics in the linear area.
+
+By their very nature, such elements require the storage of energy in a volume. For high it is 
+necessary that the volume be large. The incompatibility of large volume and integrated electronics 
+is obvious from the terms themselves. Certain resonance phenomena, such as those in piezoelectric 
+crystals, can be expected to have some applications for tuning functions, but inductors and 
+capacitors will be with us for some time.
+The integrated RF amplifier of the future might well consist of integrated stages of gain, giving 
+high performance at minimum cost, interspersed with relatively large tuning elements.
+
+Other linear functions will be changed considerably. The matching and tracking of similar 
+components in integrated structures will allow the design of differential amplifiers of greatly 
+improved performance. The use of thermal feedback effects to stabilize integrated structures to a 
+small fraction of a degree will allow the construction of oscillators with crystal stability.
+
+Even in the micro wave area, structures included in the definition of integrated electronics will 
+become increasingly important. The ability to make and assemble components small compared with the 
+wavelengths involved will allow the use of lumped parameter design, at least at the lower 
+frequencies. It is difficult to predict at the present time just how extensive the invasion of the 
+micro wave area by integrated electronics will be. The successful realization of
+such items as phased-array antennas, for example, using a multiplicity of integrated micro wave 
+power sources, could completely revolutionize radar.
+
+G. E. Moore is one of the new breed of electronic engineers, schooled in the physical sci- ences 
+rather than in electronics. He earned a B.S. degree in chemistry from the University of California 
+and a Ph.D. degree in physical chemistry from the California Institute of Technology. He was one of 
+the founders of Fairchild Semiconductor and has been Director of the research and development 
+laboratories since 1959.
+
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+
+
+Even in the micro wave area, structures included in the definition of integrated electronics will 
+become increasingly important. The ability to make and assemble components small compared with the 
+wavelengths involved will allow the use of lumped parameter design, at least at the lower 
+frequencies. It is difficult to predict at the present time just how extensive the invasion of the 
+micro wave area by integrated electronics will be. The successful realization of
+such items as phased-array antennas, for example, using a multiplicity of integrated micro wave 
+power sources, could completely revolutionize radar.
+
+G. E. Moore is one of the new breed of electronic engineers, schooled in the physical sci- ences 
+rather than in electronics. He earned a B.S. degree in chemistry from the University of California 
+and a Ph.D. degree in physical chemistry from the California Institute of Technology. He was one of 
+the founders of Fairchild Semiconductor and has been Director of the research and development 
+laboratories since 1959.
+Leave a comment
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

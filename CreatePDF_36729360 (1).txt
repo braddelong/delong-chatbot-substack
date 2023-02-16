@@ -1,0 +1,459 @@
+Subscribe now
+
+Opening Statement
+
+Will there be inflation?
+
+There will be inflation. Right now we are attempting to rejoin traffic at speed. Here in the United 
+States we are convincing 10 million workers to rejoin the labor force. Here in the United States we 
+are convincing 500,000 employers to employ them. Furthermore, we need to move 4% of the labor force 
+across sectors because we are going to have a much more online and more last-mile 
+distribution-heavy economy in the future than we had in the past. Significant
+relative wage differentials in favor of expanding sectors will be needed to pull workers in. 
+Because of the psychological impossibility of cutting nominal wages in modern economiesa€”this has 
+been the case for a century or soa€”higher real wages in growing sectors means rising wages 
+overall. Moreover, there are lots of reopening supply bottlenecks. Most of those bottlenecks will 
+kind of show up as supply shortages and much longer delivery times: the world
+auto companies are not paying other chip customers for their places in line for the chips coming 
+out of TSMC, Samsung, and company, but are waiting their turn, yelling for political help, and 
+smiling because the chip supply shortage with available chips parceled out in proportion to demand 
+has accidentally allowed them to collude and raise prices. Not all of the reopening bottlenecks are 
+showing up as delays and shortages. Some will show up in higher prices.
+
+And that will produce inflation.
+
+How much inflation? We do not know. We have never tried to do anything like this beforea€”so much, 
+so fast, perhaps five times the scale of the largest previous structural adjustment. Assuming that 
+relationships are linear is an extremely bad thing to assume when we are so far out of previous 
+experience. There will be inflation for the next year and a half.
+
+How persistent will the inflation be? Will it continue into 2023 and beyond? My guess, and it is 
+just a guess, is that it will not. It took many repeated substantial shocks to de-anchor inflation 
+expectations over 1965-75 to create the inflation we saw in the late 1970s. We are unlikely to have 
+such a series of shocks. And in the absence of such a series that de-anchors expectations, the 
+Phillips curve is and has been relatively flat.
+
+Economists have been going back over the experience of the 1960s and the 1970s. The most impressive 
+piece I have seen is by Emi Nakamura and John Steinsson, both of whom Berkeley stole from Columbia 
+three years ago. They took a look at whether the Phillips curve was flat or steep in the United 
+States in the 1970s and early 1980s. They came up with the somewhat paradoxical conclusion that 
+while the Phillips curve was quite steep at the macro level,
+with relatively small changes in employment and unemployment leading to substantial changes in 
+inflation, it was very flat at the micro state and the city level, with an excess supply or an 
+excess demand for labor in a particular city or a particular state having very little impact on the 
+prices of non-tradables and the wages of people in those states and cities.
+
+This points strongly to the nationwide formation of expectations and the impact of expectations of 
+inflation on inflation outcomes as the dominant factors. People mark up their demands for wages and 
+their plans for prices according to what they think the average rate of inflation is going to be. 
+And actual supply-and-demand pressure cause only small deviations from those plans. At the moment 
+it looks like inflation expectations have for a generation been very
+stablea€’’highly anchored. People see year-to-year movements in inflation, but they do not 
+incorporate those movements into their expectations. Rather, they expect inflation to revert to its 
+past mean value. Thus people have strong confidence in central banks. As long as that confidence in 
+central banks lasts, the inflation we will see over the next year and a half will not lead to 
+higher inflation in 2023 and beyond.
+
+We will be burning rubber, leaving skid marks on the road as we enter traffic at speed. We will not 
+boil over and melt our economic engine.
+
+Can the Fed stop inflation? It definitely can. And I think it will: it has ever since 1979. Before 
+then, it required a very strange concatenation of events for the Fed not to stop inflation from 
+1969 to 1979.1 have been powerfully influenced by Arthur Burns's late-1950s presidential address to 
+the American Economic Association. He contrasted the old business cycle in which governments did 
+not take strong action to boost the economy out of a recession with the
+new one. In the old business cycle, labor union demands for wage increases were always greatly 
+curbed by the fact that having high wages would make its members' jobs an obvious target when the 
+inevitable big recession came. But, Burns said, we live in this new business cycle in which people 
+expect the government to prevent large downturns, Thus there are no curbs on labor union wage 
+demands. Inflation is then not a problem that can be solved by
+economic means. It has to be solved by political meansa€’’congress has to do it.
+
+Moreover Arthur Burns thought, the independence of the Fed is a very important thing. It will not 
+survive if Congress believes that the Fed deliberately triggered a deep recession. These all are 
+the reasons that led Arthur Burns to make his 180-degree turn at the start of the 1970s, to oppose 
+his long-time patron, the guy who had appointed him, President Richard Nixon, and begin calling for 
+wage and price controls. That was a very surprising thing for a central
+banker to do.
+
+But you needed more than Burns to get the inflation of the 1970s. You also needed Richard Nixon and 
+John Connally, who broke the Bretton Woods system because, as their then-underling Paul Volcker 
+said, they were both strongly in favor of bold action but had no preferences as to what or in which 
+direction the action should be bold. You had to add a strong union movement both in the United 
+States and Britaina€”less so in the rest of Europea€”that did really
+not understand the stakes and did not realize that the continuation of a labor-relations system 
+quite congenial to them depended on their willingness to exercise wage restraint and so assist 
+governments keep inflation from rising.
+
+Add in the 2.5%-point/year slowdown in productivity growth in the early 1970s.
+Add in King Faisal of Saudi Arabia and Ayatollah Khomeini of Iran.
+
+All of those things had to be working against the normal culture of central banks and inflation 
+control for 1969-1979 to happen. I do not see the very same, a similar, very strange concatenation 
+of events coming in the next decade. I think in the medium run of three to four years, Fed 
+culturea€’’which Jay Powell is pushing the limits ofa€”will reassert itself inside the Eccles 
+building. The Federal Reserve will do what it takes to keep inflation from continually
+overshooting its targeta€”2%/year for the PCE deflator, which means something like 2.5%/year for 
+the core CPI.
+
+Share
+
+Slides:
+
+Will There Be Inflation? Yes.
+
+FRED^ — Consumer Price Index for All Urban Consumers: All
+
+
+You cannot rejoin traffic at
+
+speed without burning rubber...
+
+•  How much inflation?
+
+•  We do not know
+
+•  How much to move 4% of the labor
+force across sectors?
+
+A T T ^x y x x xx lx xx xx xx w y< xx xx ww y xx r xx<«ri 4* xx
+
+Items Less Food and Energy in U.S. City Average
+
+— 5-Year Breakeven Inflation Rate
+
+
+w JELUW L11UU11 LU UUllVlilUU WUiKUi^ tu
+
+rejoin?
+
+•  How much from bottlenecks?
+
+•  How persistent will the inflation be?
+
+•  Unlikely to be a lot: it took a huge number
+of shocks to de-anchor inflation
+expectations from 1965 to 1975...
+
+0
+
+-3
+
+2006     2008     2010     2012     2014     2016     2018     2020
+
+Slides: <https://github.com/braddelong/public-files/blob/master72021-05-20-inflation-slides.pptx> 
+:: J. Bradford DeLong @delong For 2021-05-20
+
+Takeaway: Phillips Curve Always Pretty Flat
+
+markus'academy
+
+Princeton Webinar                          Hosted from PRINCETON
+
+For EVERYONE, WORLDWIDE
+
+
+Is the Phillips Curve
+Getting Flatter? ■
+
+Emi Nakamura Markus Brunnermeier
+UC Berkeley
+
+No Time Effects
+
+1978-1990
+
+1991-2018
+
+
+22. April 2021
+
+State Unemployment (pp)
+
+FIGL RE: Scatterplots—Non-Tradeable Inflation and Unemployment
+
+J. Bradford DeLong @delong For 2021-05-20
+
+Can the Fed Stop Inflation? Yes
+
+
+Can Will the Fed stop inflation?
+
+•  It has, ever since 1979...
+
+•  It required a very strange concatenation of
+events for the Fed not to stop it from 1969-79:
+
+• An Arthur Burns, who did not think unions
+
+would believe he would...
+
+•  An Arthur Burns, who did not think congress
+
+FRED — 3-Month Treasury Bill: Secondary Market Rate
+
+— 10-Year Treasury Constant Maturity Rate
+
+12.5
+
+
+would let him...
+
+•  A Richard Nixon & a John Connally, who
+broke Bretton Woods...
+
+•  Unions, that did not understand the stakes...
+
+• A 2.5%-point/year productivity slowdown...
+
+•  A King Faisal & an Ayatollah Khomeini...
+
+•  A blocked response (Simon on
+Kissinger?)
+
+J. Bradford DeLong @delong For 2021-05-20
+
+Share Brad DeLong's Grasping Reality
+
+Rough Reconstruction of Other Things I Said:
+
+Let me offer a very brief precis of what I understood Professor Goodhart to be saying. He focused 
+on the structural factors driving inflationary pressures. Times of hyperglobalization, in which the 
+world's international division of labor changes and deepens, are times in which there are 
+deflationary pressuresa€”so many opportunities to lower costs are being grabbed. Times in which the 
+world economy's global division of labor is more or lessstatic tend to be
+times of inflationary pressures. Times in which demands on governments are relatively stable are 
+times of neutrality. But times in which demands on governments undergo structural 
+increasesa€’’inflation and seigniorage are ways of raising money, and inevitably as governments try 
+to meet the commitments that their electorates demand they resort to them at some point at some 
+time to some degree.
+
+For example, during the Second Hundred Years, from the coup of William of Orange in 1688 on up 
+through the defeat of Napoleon at Waterloo in 1815, the British government faced the extraordinary 
+demands from the financing required for the British Imperial fiscal-military state. And in the 
+years after World War II you had the expansion of the social-insurance state. Those were both 
+sources of structuralinflationary pressure. From 1980 on upto very recently,
+Goodhart is saying, hyperglobalization has been putting deflationary pressure on the world economy. 
+That is now coming to an end. And the aging of society is going to put enormous 
+structural-inflationary pressures on global-north governments. I agree with all of this.
+
+Buta€”even though it is always very intellectually hazardous to disagree with Charles Goodhart: 
+people who do so usually wind up embarrassed and apologizing three years latera€”I find myself 
+thinking that while these structural pressures on inflation are there, they are second-order. The 
+first-order factors for the next generation are much more the monetary and the macro and the 
+expectational. Why? Because in our age the inflation rate is an explicit target of
+central banks and governments in a way that it was not up until, say, 1980 or so. That makes a 
+difference: central banks focus on neutralizing the structural factors, and are able to do so.
+
+Even earlier, structural factors could be overwhelmed by substantial changes in monetary affairs. 
+The discovery of massive amounts of extremely low-quality gold in the Witwatersrand made a huge 
+difference, once that had triggered the construction of both a modern railroad from the Natal coast 
+to transport it and a world-class frontier organic chemistry industry in Johannesberg to process 
+it. The deflationary pressures of the late 1800s came to a sudden end,
+and from 1896 on the world economy shifted into an inflationary boom
+
+We economists are stuck now where we have been since the late 1930s, when Ragnar Nurkse looked back 
+over the preceding 50 years, and the concluded that much depended on whether expectations were 
+mean-reverting or extrapolative. Countries in which people thought that exchange rates and 
+inflation rates and price levels would return to normal had enormous freedom of action in their 
+policies, and could conduct extraordinary successful economic
+stabilization campaigns. Countries in which expectations became extrapolativea€”ones in which a 
+decline in the value of the currency now led people to think it is likely to decline further and we 
+need to sell, in which people think that inflation now means not just inflation but higher 
+inflation next yeara€”had no good options. I think Nurkse's insight is true. Our problem is that we 
+have nothing good coming from either psychology or economics as to when such
+expectational shift of rA©gime takes place. We can point to individual historical examples: 
+Franklin Roosevelt's inauguration, the Volcker disinflation, Francois Mitteranda€™ s declarations 
+that he was going to reflate the French economy which led to an outburst of inflation even before 
+he was elected, and left him with no good policy options in the late 1970s.
+
+One thought: we look at our financial markets, and we see that right now participation and 
+engagement appears to be, to put it politely, highly elastic. The comments of Elon Musk on Saturday 
+Night Live and of participants in Reddit forums can cause massive and immediate divergences between 
+prices and fundamental valuesa€’’divergences that shock investors and traders who Iwould 
+havethought were very well-informed and cautiousin their hedging. A
+market as "frothy" as the financial markets we seem to be building today on top of social 
+mediaa€”those are ones in which extrapolative expectations, and thus loss of the ability to 
+successfully stabilize, are more likely.
+
+It took a decade, starting with Lyndon Johnson's calling William McChesney Martin into the Oval 
+Office in 1966 to ask him not to raise interest rates just then, and ending with the very 
+overoptimistic decisions of the Ford Treasury and of the Burns Federal Reserve after the 1975 
+recession that expectations were normal and that reflation was appropriate. I feel as though things 
+areaboutas well anchored now as they were in 1965. That means that if weget
+through this wave by 2024, things are likely to go back to normala€’’except for all the structural 
+factors that Professor Goodhart emphasized.
+
+I would point out that there is an awful lot of inertia in nominal long rates. If there is a single 
+regularity in the long bond market over the United States over the past 70 years, it is that it is 
+very difficult to get bond traders as a group to very quickly revise their anchor points as to what 
+these things should be selling for. During the run-up of inflation from 1965 to 1981, bond traders 
+appear to have been at least half-oblivious to what was happening. After the
+Volcker disinflation, anchor points in bond markets kept long-term real interest rates at 
+extraordinarily high levels for a full generation. I think Professor Goodhart is right: tapering is 
+likely to be the first thing that centra. But even so, the nominal long bond rate is likely to 
+remain substantially anchored for a decadea€’’which would then lead one to expect a decade or so of 
+even lower real long rates than we have now, hard as that may be to believe.
+
+Yes, being a central banker is going to be very difficult over the next 10 years. But when has it 
+not been very difficult? In the 1990s, when Alan Greenspan and company had only either good options 
+or better options, because the world economy was stable and they had considerable help from the 
+U.S. administration headed by Bill Clinton which was aggressively interested in long-run fiscal 
+stabilization and solvency. Lloyd Bentsen and Robert Rubin were
+Secretaries of the Treasury, and were eager to make the Fed's job much easier, and worked hard and 
+spend political capital to accomplish that. That was about the only decade in which being a central 
+banker was a fun and a happy experience.
+
+Yes, debt levels area€”I won't say unprecedented, certainly Britain after the Napoleonic Wars had a 
+much larger debt overhang in proportion to GDPa€”. But counterbalancing that is the extraordinary 
+willingness of and in fact eager demand by investors around the world for safe assets, which they 
+define as the liabilities of governments that possess exorbitant privilege on a large 
+scalea€’’issuing their own debt to add to the world stock of reserves, and then
+rolling over that stock at interest rates less than the growth rate of the economy as a whole. It 
+is very close to being a free lunch for Britain, for the European Union, for Japan, for the United 
+Statesa€”and possibly soon for Chinaa€”to issue debt.
+
+Normally, when you borrow or when you accept deposits, you have to pay people interest for the use 
+of their money. But Britain, the EU, Japan and the US are instead, effectively charging their 
+lenders fees for keeping their money and wealth safe and liquid.That is and has been the situation 
+for the past 15 years. How long will this last? No one can tell. But as long as it lasts, the 
+market economy is telling us that, worldwide, investors regard the debts of the
+countries with exorbitant privilege as extraordinarily valuable assets. In a market economy you 
+have very strong incentives if you cana€”you become healthy and wealthy, and people think you wise 
+if you doa€”create incredibly valuable assets.
+
+What worries me is the extremely short duration of all of these governments' debts. I really wish 
+that the treasuries were testing the market by attempting substantial increases in average debt 
+maturity. I still do not understand why Janet Yellen isn't issuing both a nominal and a 
+inflation-indexed consol right now, and seeing what the market for those things are. That would 
+bring us a great deal of valuable information about what the available space for fiscal
+management is that we do not now have.
+
+
+J. Bradford DeLong @delong For 2021-05-20
+
+Share Brad DeLong1 s Grasping Reality
+
+Rough Reconstruction of Other Things I Said:
+
+Let me offer a very brief precis of what I understood Professor Goodhart to be saying. He focused 
+on the structural factors driving inflationary pressures. Times of hyperglobalization, in which the 
+world's international division of labor changes and deepens, are times in which there are 
+deflationary pressuresa€”so many opportunities to lower costs are being grabbed. Times in which the 
+world economy's global division of labor is more or lessstatic tend to be
+times of inflationary pressures. Times in which demands on governments are relatively stable are 
+times of neutrality. But times in which demands on governments undergo structural 
+increasesa€’’inflation and seigniorage are ways of raising money, and inevitably as governments try 
+to meet the commitments that their electorates demand they resort to them at some point at some 
+time to some degree.
+
+For example, during the Second Hundred Years, from the coup of William of Orange in 1688 on up 
+through the defeat of Napoleon at Waterloo in 1815, the British government faced the extraordinary 
+demands from the financing required for the British Imperial fiscal-military state. And in the 
+years after World War II you had the expansion of the social-insurance state. Those were both 
+sources of structuralinflationary pressure. From 1980on upto very recently,
+Goodhart is saying, hyperglobalization has been putting deflationary pressure on the world economy. 
+That is now coming to an end. And the aging of society is going to put enormous 
+structural-inflationary pressures on global-north governments. I agree with all of this.
+
+Buta€”even though it is always very intellectually hazardous to disagree with Charles Goodhart: 
+people who do so usually wind up embarrassed and apologizing three years latera€”I find myself 
+thinking that while these structural pressures on inflation are there, they are second-order. The 
+first-order factors for the next generation are much more the monetary and the macro and the 
+expectational. Why? Because in our age the inflation rate is an explicit target of
+central banks and governments in a way that it was not up until, say, 1980 or so. That makes a 
+difference: central banks focus on neutralizing the structural factors, and are able to do so.
+
+Even earlier, structural factors could be overwhelmed by substantial changes in monetary affairs. 
+The discovery of massive amounts of extremely low-quality gold in the Witwatersrand made a huge 
+difference, once that had triggered the construction of both a modern railroad from the Natal coast 
+to transport it and a world-class frontier organic chemistry industry in Johannesberg to process 
+it. The deflationary pressures of the late 1800s came to a sudden end,
+and from 1896 on the world economy shifted into an inflationary boom
+
+We economists are stuck now where we have been since the late 1930s, when Ragnar Nurkse looked back 
+over the preceding 50 years, and the concluded that much depended on whether expectations were 
+mean-reverting or extrapolative. Countries in which people thought that exchange rates and 
+inflation rates and price levels would return to normal had enormous freedom of action in their 
+policies, and could conduct extraordinary successful economic
+stabilization campaigns. Countries in which expectations became extrapolativea€”ones in which a 
+decline in the value of the currency now led people to think it is likely to decline further and we 
+need to sell, in which people think that inflation now means not just inflation but higher 
+inflation next yeara€”had no good options. I think Nurkse's insight is true. Our problem is that we 
+have nothing good coming from either psychology or economics as to when such
+expectational shift of rA©gime takes place. We can point to individual historical examples: 
+Franklin Roosevelt's inauguration, the Volcker disinflation, Francois Mitteranda€™ s declarations 
+that he was going to reflate the French economy which led to an outburst of inflation even before 
+he was elected, and left him with no good policy options in the late 1970s.
+
+One thought: we look at our financial markets, and we see that right now participation and 
+engagement appears to be, to put it politely, highly elastic. The comments of Elon Musk on Saturday 
+Night Live and of participants in Reddit forums can cause massive and immediate divergences between 
+prices and fundamental valuesa€’’divergences that shock investors and traders who I would 
+havethought were very well-informed and cautiousin their hedging. A
+market as "frothy" as the financial markets we seem to be building today on top of social 
+mediaa€”those are ones in which extrapolative expectations, and thus loss of the ability to 
+successfully stabilize, are more likely.
+
+It took a decade, starting with Lyndon Johnson's calling William McChesney Martin into the Oval 
+Office in 1966 to ask him not to raise interest rates just then, and ending with the very 
+overoptimistic decisions of the Ford Treasury and of the Burns Federal Reserve after the 1975 
+recession that expectations were normal and that reflation was appropriate. I feel as though things 
+are aboutas well anchored now as they were in 1965. That means that if weget
+through this wave by 2024, things are likely to go back to normala€’’except for all the structural 
+factors that Professor Goodhart emphasized.
+
+I would point out that there is an awful lot of inertia in nominal long rates. If there is a single 
+regularity in the long bond market over the United States over the past 70 years, it is that it is 
+very difficult to get bond traders as a group to very quickly revise their anchor points as to what 
+these things should be selfing for. During the run-up of inflation from 1965 to 1981, bond traders 
+appear to have been at least half-oblivious to what was happening. After the
+Volcker disinflation, anchor points in bond markets kept long-term real interest rates at 
+extraordinarily high levels for a full generation. I think Professor Goodhart is right: tapering is 
+likely to be the first thing that centra. But even so, the nominal long bond rate is likely to 
+remain substantially anchored for a decadea€’’which would then lead one to expect a decade or so of 
+even lower real long rates than we have now, hard as that may be to believe.
+
+Yes, being a central banker is going to be very difficult over the next 10 years. But when has it 
+not been very difficult? In the 1990s, when Alan Greenspan and company had only either good options 
+or better options, because the world economy was stable and they had considerable help from the 
+U.S. administration headed by Bill Clinton which was aggressively interested in long-run fiscal 
+stabilization and solvency. Lloyd Bentsen and Robert Rubin were
+Secretaries of the Treasury, and were eager to make the Fed's job much easier, and worked hard and 
+spend political capital to accomplish that. That was about the only decade in which being a central 
+banker was a fun and a happy experience.
+
+Yes, debt levels area€”I won't say unprecedented, certainly Britain after the Napoleonic Wars had a 
+much larger debt overhang in proportion to GDPa€”. But counterbalancing that is the extraordinary 
+willingness of and in fact eager demand by investors around the world for safe assets, which they 
+define as the liabilities of governments that possess exorbitant privilege on a large 
+scalea€’’issuing their own debt to add to the world stock of reserves, and then
+rolling over that stock at interest rates less than the growth rate of the economy as a whole. It 
+is very close to being a free lunch for Britain, for the European Union, for Japan, for the United 
+Statesa€”and possibly soon for Chinaa€”to issue debt.
+
+Normally, when you borrow or when you accept deposits, you have to pay people interest for the use 
+of their money. But Britain, the EU, Japan and the US are instead, effectively charging their 
+lenders fees for keeping their money and wealth safe and liquid.That is and has been the situation 
+for the past 15 years. How long will this last? No one can tell. But as long as it lasts, the 
+market economy is telling us that, worldwide, investors regard the debts of the
+countries with exorbitant privilege as extraordinarily valuable assets. In a market economy you 
+have very strong incentives if you cana€”you become healthy and wealthy, and people think you wise 
+if you doa€”create incredibly valuable assets.
+
+What worries me is the extremely short duration of all of these governments' debts. I really wish 
+that the treasuries were testing the market by attempting substantial increases in average debt 
+maturity. I still do not understand why Janet Yellen isn't issuing both a nominal and a 
+inflation-indexed consol right now, and seeing what the market for those things are. That would 
+bring us a great deal of valuable information about what the available space for fiscal
+management is that we do not now have.
+
+Share
+
+(Remember: You can subscribe to thisa€! weblog-like newslettera€! here:
+
+Subscribe now
+
+Therea€™ s a free email list. Therea€™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

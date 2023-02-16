@@ -1,0 +1,256 @@
+
+Eight Paragraphs:
+
+We do not realize how unbelievable the cumulative technological revolution in computer hardware 
+performance has been:
+
+Charlie Stross: Lying to the Ghost in the Machine: a€~In the 2000sa€! cheap high performance GPUs 
+put the processing power of a ten years previous supercomputer in every goddamn smartphone. Ia€™ m 
+not
+exaggeratinga€!. Modern CPU/GPU performance is ridiculous. Every time you add an abstraction layer 
+to a software stack you can expect a roughly one order of magnitude performance reduction, so 
+intuition
+would suggest that a WebAssembly framework (based on top of JavaScript running inside a web browser 
+hosted on top of a traditional big-ass operating system) wouldna€™ t be terribly fast; but the 
+other day I
+was reading about one such framework which, on a new Apple Ml Macbook Air (not even the higher 
+performance Macbook Pro) could deliver 900GFlops, which would put it in the top 10 world 
+supercomputers
+circa 1996a€“98. In a scripting language inside a web browser on a 2020 laptop)a€!
+
+LINK: <https://www.antipope.org/charlie/blog-static/index.html>
+
+An attention economy is an increasing-returns economy is a winner-take-all economy. This is 
+deranging, and destabilizing:
+
+Kyle Chayka: The Meme Economy. a€~I used to think that stability was formed by the slow gains of 
+promotions and work, the respect of my peers and the establishment of authority in some field or 
+another,
+even if not through salaried full-time jobs. My concept of a career has been replaced, however, 
+with the framework of a series of increasingly arcane gambles within the digital platforms that 
+contain our lives and
+our civilization. Any bet could outpace many years of work. We hope to land at the right startup, 
+to buy the right coin, to be an early adopter on a new platform just before the audience floods in, 
+to become a
+meme ourselves. For that is how it works: You go viral, thus you get a gig, get sponsorships, sell 
+subscriptions, sell a booka€!
+
+LINK: <https://kylechayka.substack.eom/p/essay-the-meme-economy>
+
+Is our Capitol Hill Democrats learning? They is. Is media organizations like The New York Times 
+learning? So far not a clue:
+
+Scott Lemieux: Chuck Schumer No Longer Interested in Playing 3-Card Monte with Susan Collins - 
+Lawyers, Guns & Money. a€~"Collins was not pleased to be singled out in such a manner. In an 
+interview, she
+called Schumera€™ s comments an a€~extraordinarya€™ backhanding of his most natural ally across the 
+aisle. And she said therea€™ s been zero contact with the Democratic leader since the election: 
+a€~He
+has  not spoken to me, no.a€™ a€oeShould we let Susan Collins make the bill substantially worse, or 
+just go ahead and pass a better onea€D is not actually a hard question if those are the choices. 
+And in terms of
+what this might mean going forward, I assume Schumer has also realized that, as his predecessor 
+allegedly remarked, Collins a€oeis always there for a vote you dona€™t need.a€Da€! [Now] even 
+relatively
+moderate Democrats [are willing] to ignore Republican pleas to spend months and months negotiating 
+before Susan Collins can announce that, in fact, her shop has no cheese at all and she was 
+deliberately
+wasting                                                                                             
+  your timea€!
+
+LINK: 
+<https://www.lawversgunsmonevblog.com/2021/03/chuck-schumer-no-longer-interested-in-plaving-3-card-m
+onte-with-susan-collins>
+
+I have long wondered whether individuals who write to inform their readers might be able to acquire 
+enough a brand to disintermediate newspapers and such that really work for their reportersa€™ 
+sources, and when they dona€™ t work
+for their sources work for their bosses, and when they dona€™ t work for their sources or their 
+bosses work for their advertisers. SubStack is once again launching the project of finding out why 
+this might become so into the breach:
+
+Elizabeth Spiers: Blogs vs. Substack vs. Legacy Media: a€~Self-publishing on Substack is good for 
+people who want to write commentary. And therea€™ s no chance of ever cannibalizing op-ed writers 
+from
+journalism because therea€™ s just no shortage of people who want to be op-ed writers. But it 
+mostly works well for people who already have a bit of a brand, either because theya€™ ve written 
+somewhere else
+or theya€™ ve already built up an audience from scratcha€“and the latter is really hard to do. But 
+if you can do it, the upsides of self-publishing are that you can write about whatever you want 
+with no
+institutional or stylistic constraints. I write for traditional outlets like the Washington Post as 
+well as on my personal Substack, but I have to pitch everything and I hate pitching. There are some 
+pieces Ia€™ d
+rather   just write on spec than write 450 words explaining what the piece is. And sometimes I get 
+rejections and want to write those pieces anyway, if only for myself. Substack is good for thata€!
+
+LINK: <https://www.pairagraph.com/dialogue/8e515294af6248bfb9114172b7b9af7e/2>
+
+A truly great paper:
+
+J. Vernon Henderson, Tim L. Squires, Adam Storeygard, & David N. Weil: The Global Spatial 
+Distribution of Economic Activity: Nature, History, & the Role of Trade: a€~We study the 
+distribution of
+economic activity, as proxied by lights at night, across 250,000 grid cells of average area 560 
+square kilometers. We first document that nearly half of the variation can be explained by a 
+parsimonious set of
+physical geography attributes. A full set of country indicators only explains a further 10%. When 
+we divide geographic characteristics into two groups, those primarily important for agriculture and 
+those primarily
+important for trade, we find that the agriculture variables have relatively more explanatory power 
+in countries that developed early and the trade variables have relatively more in countries that 
+developed late,
+despite   the fact that the latter group of countries are far more dependent on agriculture today. 
+We explain this apparent puzzle in a model in which two technological shocks occur, one increasing 
+agricultural
+productivity and the other decreasing transportation costs, and in which agglomeration economies 
+lead to persistence in urban locations. In countries that developed early, structural 
+transformation due to rising
+agricultural productivity began at a time when transport costs were still relatively high, so urban 
+agglomerations were localized in agricultural regions. When transport costs fell, these local 
+agglomerations
+persisted.                                                                                          
+        In late developing countries, transport costs fell well before structural transformation. 
+To exploit urban scale economies, manufacturing agglomerated in relatively few, often coastal, 
+locations. With
+structural transformation, these initial coastal locations grew, without formation of more cities 
+in the agricultural interiora€!
+
+LINK: <https ://www .nber.org/system/files/working papers/w22145/w22145 .pdf>
+
+Boris Johnson has set his credibility on fire, and has no potential allies anywhere in the world 
+for whatever he wants to do on international diplomacy or economic policy. But thata€™ s probably 
+fine with him, since he does not want to
+accomplish anything other than become Prime Minister:
+
+Philip Stephens: Squandering Trust Is No Route to a a€~Global Britaina€™: a€™ By seeking to renege 
+on his Brexit commitments, Boris Johnson has made the UK an unreliable allya€!. Middle-ranking and
+smaller states seeka€! sheltering behind alliances, coalitions of the like-minded and multilateral 
+rules. A long-promised foreign, diplomatic and intelligence strategy soon to be unveiled by Boris 
+Johnsona€™ s
+government must start from this simple premisea€!. International networks rest on mutual trust. 
+Nations, like individuals, abide by the rules to the extent that others also act in good faith. 
+Unreliable partners do
+not get to act as conveners. Which renders all the more inexplicable Johnsona€™ s efforts to renege 
+on the Brexit agreement he signed with the EU. The governments™ s move to delay implementation of
+agreed new checks on trade between Britain and Northern Ireland recalls a threat last year to 
+repudiate the customs arrangements designed to avoid a border between Northern Ireland and the 
+Republic of
+IrelandS5. Such things are noticed. Witness the remarks of Brendan Boyle, a congressional ally of 
+US president Joe Biden. This was the second time, Boyle told BBC televisions™ s Newsnight, Soethat 
+this
+UK government has signed up to an international agreement and then immediately decided to go back 
+on what it agreed toSD. The move carried Soeall sorts of ramificationsSD. One of which could be a
+serious falling out with Washington. Biden has signalled he expects Johnson fully to uphold the 
+Irish protocols!
+
+LINK: <https://www.ft.com/content/10ec8895-c84f-479e-9fc7-9dde0706dca3>
+
+One of the major pedagogical and intellectual-presentational revolutions of our time:
+
+Matt Asay: Jupyter Has Revolutionized Data Science, & It Started with a Chance Meeting Between Two 
+Students: S~If you want to do data science, youS™re going to have to become familiar with JupyterS!
+best known for Jupyter Notebooks, a web application that allows data scientists to create and share 
+documents that contain live code, equations, visualizations and narrative text. This proves to be a 
+great way to
+extract data with code and collaborates!. It started with a friendship. Fernando PA©rez and Brian 
+Granger met the first day they started graduate school at University of Colorado Boulder. Years 
+later in 2004,
+they discussed the idea of creating a web-based notebook interface for IPython, which PA©rez had 
+started in 2001. This became Jupyter, but even then, they had no idea how much of an impact it 
+would have
+within academia and beyondS!
+
+LINK: 
+<https://www.techrepublic.com/article/jupyter-has-revolutionized-data-science-and-it-started-with-a-
+chance-meeting-between-two-students/>
+
+Duncan Black is making me remember days of horror and disappointment from 2009-2012. If the 
+right-wing of the Republican caucus had been focused on achieving policies rather than simply 
+dissing Obama by refusing to endorse any
+deal he proposeda€”they could have repealed a large chunk of the New Deal, given Obamaa€™ s 
+desperate, desperate jonesing for a a€oegrand bargaina€D on entitlements:
+
+Duncan Black: Somebody Reads This Blog: a€~Back in the day, Obamaa€™ s people would respond to 
+criticism about the size of the stimulus by arguing that there was a problem finding a€oeshovel 
+readya€D
+infrastructure nroiects. Peonle like stunid me kent nointinp out that this was ridiculous as von 
+could iust start renlacinp the water/sewer svstems in most of the countrv. Kevnesa€™ s a€cenav 
+neonle to dip holes in
+
+
+ireianaafei. Mien tnings are noticed, witness me remarks ot Brendan Boyle, a congressional any ot 
+U5 president Joe Biden, inis was tne second time, Boyle told BBL televisional s isewsnignt, 
+afeoetnat tnis
+
+UK government has signed up to an international agreement and then immediately decided to go back 
+on what it agreed toa€D. The move carried a€oeall sorts of ramificationsa€D. One of which could be a
+serious falling out with Washington. Biden has signalled he expects Johnson fully to uphold the 
+Irish protocola€!
+
+LINK: <https://www.ft.com/content/10ec8895-c84f-479e-9fc7-9dde0706dca3>
+
+One of the major pedagogical and intellectual-presentational revolutions of our time:
+
+Matt Asay: Jupyter Has Revolutionized Data Science, & It Started with a Chance Meeting Between Two 
+Students'. a€~If you want to do data science, youa€™re going to have to become familiar with 
+Jupytera€!
+best known for Jupyter Notebooks, a web application that allows data scientists to create and share 
+documents that contain live code, equations, visualizations and narrative text. This proves to be a 
+great way to
+extract data with code and collaborate^!. It started with a friendship. Fernando PA©rez and Brian 
+Granger met the first day they started graduate school at University of Colorado Boulder. Years 
+later in 2004,
+they discussed the idea of creating a web-based notebook interface for IPython, which PA©rez had 
+started in 2001. This became Jupyter, but even then, they had no idea how much of an impact it 
+would have
+within academia and beyonda€!
+
+LINK: 
+<https://www.techrepublic.com/article/jupyter-has-revolutionized-data-science-and-it-started-with-a-
+chance-meeting-between-two-students/>
+
+Duncan Black is making me remember days of horror and disappointment from 2009-2012. If the 
+right-wing of the Republican caucus had been focused on achieving policies rather than simply 
+dissing Obama by refusing to endorse any
+deal he proposeda€”they could have repealed a large chunk of the New Deal, given Obamaa€™ s 
+desperate, desperate jonesing for a a€oegrand bargaina€D on entitlements:
+
+Duncan Black: Somebody Reads This Blog'. a€~Back in the day, Obamaa€™ s people would respond to 
+criticism about the size of the stimulus by arguing that there was a problem finding a€oeshovel 
+readya€D
+infrastructure projects. People like stupid me kept pointing out that this was ridiculous as you 
+could just start replacing the water/sewer systems in most of the country. Keynesa€™ s a€oepay 
+people to dig holes in
+the  ground and then fill them up,a€D but actually useful and needed!a€! The rescue bill has 
+quietly become an infrastructure bill. It devotes $350 billion to supporting state and local 
+governments. These funds,
+initially proposed to plug COVIDa€“19-created holes in public budgets, in many cases now exceed 
+those holes. So the Senate has allowed states, cities, and counties to spend that money on 
+imteproving services
+such  as water, sewage, and broadband. Because many water systems are vulnerable to climate change 
+and must be adapted, this is de facto climate funding. The bill also contains $31 billion for 
+tribal governments
+and Indigenous communities, including line items for new infrastructure, housing, and language 
+preservation. Progressa€!
+
+LINK: <https://www.eschatonblog.com/2021/03/somebody-reads-this-blog.html>
+
+Hoisted from the Archives:
+
+1997: The Corporation as a Command Economy 
+<https://braddelong.substack.eom/p/the-corporation-as-a-command-economv>: we were all told, back 
+when the Soviet Union collapsed, that hierarchical organizations simply did not work
+as modes of organizing economic lifea€”that you needed a market in order to achieve anything better 
+than low-productivity, bureaucracy-ridden economic stagnation. What, then, are all these large 
+corporationsa€”ATT and IBM, General
+Motors and Toyota, Microsoft and USXa€”doing? What methods of corporate control have saved them 
+from turning into smaller versions of the unproductive Soviet economy That our economy is populated 
+by large corporations shapes
+how we live. Our social being cannot but be shaped by the one-third of our waking lives spent at 
+work. Our politics would be very different without corporations both as sources of pressure an 
+influence on politicians and as intermediaries
+serving the purposes of politiciansa€!
+
+Leave a comment
+

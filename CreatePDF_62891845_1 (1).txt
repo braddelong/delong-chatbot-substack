@@ -1,0 +1,625 @@
+I greatly enjoy and am, in fact, driven to write Grasping Reality. I am incredibly grateful that 
+(the great bulk of) it goes out for free to what is now well over ten-thousand subscribers around 
+the world. And if you find this useful or interesting, please subscribe:
+
+Subscribe now
+
+FIRST: In What Sense Was the Pre-Industrial Economy a€oeMalthusiana€d?
+
+Consider smart young thirty-something whippersnapper Rafael Guthman:
+
+Rafaela€™s Commentary
+
+Thoughts in economics, society, politics, and history
+By Rafael R. Guthmann
+
+Type your emaila€|       Subscribe
+
+He has been taking aimed sniper shots at the idea that the pre-industrial economy was in any sense 
+a€oeMalthusiana€D. He makes lots of good points:
+
+Rafael R. Guthmann: Beware the GDP\ a€~The 1937 German worker could rent 181% as many rooms as an 
+American worker today, buy 99% as many potatoes, 42% as much bread, 47% as much a€cenaturala€D 
+cheese, and 26% as much beef. Compare these figures to the 13.5% per capita GDP a€oemeasureda€D in 
+the Maddison dataset. Note also that the relative prices between rent and beef are different by a 
+factor of eight. This
+is so thanks to technological change: US real estate became expensive over time as other goods 
+became relatively cheaper, which means that estimated variation in GDP changes a lot depending on 
+the method used to estimate it.
+
+We measure nutritional standards using height data. In the US today, the average adult male height 
+is 175.3 cm, in India average adult male heights are 10 cm shorter, at 165 cm. However, Indian men 
+from the upper classes are 174.4 cm tall, and less than 1 cm shorter than Americans, which suggests 
+the difference is not genetic but nutritional. For comparison, German 17a€“18 year old schoolkids 
+were reaching 175 cm just before
+WW2a€!. The Maddison dataset claims the GDP per capita of Greece two thousand years ago was about 
+1,300 dollars, which is about 1/5 of the level of GDP per capita of India and about 1/4 of Pakistan 
+or Nigeria today. However, skeletons from Hellenistic Greece suggest an average height of 172 cm, 
+which is much closer to current American heights than to heights in India (165 cm) or Pakistan 
+(165.8 cm) today.
+
+Also, the Maddison dataset claims incomes in Ancient Greece two thousand years ago were only 30% 
+higher than in Iron Age Belgium (around the same time). Houses in Iron Age Belgiuma€! houses in 
+Greecea€! these houses do not appear very consistent with a [mere] 30% difference in per capita 
+GDPa€!. The people living in Greco-Roman city-states had the perception that they were 
+sophisticated civilized folk and their neighboring
+tribal populations were uneducated and ferocious barbarians. Perhaps, this perception was not only 
+due to delusional ethnocentric beliefs but instead a consequence of the very concrete difference in 
+the material sophistication of their societies?
+
+a€oeEconomic growth began recently and everybody in the pasta€”even Europeans less than a century 
+agoa€’’consisted of peasants living under minimum subsistencea€Da€”or is it just that the lack of 
+evidence combined with the spurious application of platonic theoretical constructs such as GDP that 
+make us think that way?a€!
+LINK:
+
+Rafaela€™ s Commentary
+Beware the GDP
+
+If you log on to the a€oeEconomic Growtha€D page of a€oeOur World in Dataa€D it is easy to access 
+estimates of GDP for over a hundred countries for the last two thousand years. These estimates are 
+presented as fact. For example, right at the beginning of the first section titled a€oeThe history 
+of economic growtha€D it says in the third paragrapha€!
+Read more
+
+7 months ago A- 3 likes A- Rafael R. Guthmann
+But I cannot buy the full package.
+
+So let me try to explain in what sense I think that pre-1500 Agrarian-Age (and 1500-1770 
+Imperial-Commercial Age, and 1770-1970 Industrial-Revolution Age, in fact all pre-demographic 
+transition economies) were Malthusian.
+The problem is that I want to start from a basecamp: the Solow-Malthus economic-growth model. So I 
+send you off to read my background theory lecture notes on the Solow-Malthus economic-growth model:
+
+2022 07 08 Solow Malthus Model
+
+3.25MB a™ PDF File
+Download
+
+Download
+
+Back? Angry that I made you march through 14 pages of algebra? Contemptuous and we economistsa€™ 
+inclination to use math serves as an entry barrier meaning that we only have to talk to ourselves, 
+and not to people trained in other disciplines who are unable or unwilling to follow what happens 
+when you start taking the derivative of a logarithm?
+Sorry: then I really cannot help you.
+
+But if you are merely annoyed because you refused to be marched through 14 pages of algebra? If you 
+are willing to take what I have to say about Solow-Malthus economic-growth theory provisionally on 
+faith if only I give you a quick precis to get you to the bottom line?
+Then I can help you. Here we go:
+
+Malthusian Models
+
+
+The ratio of
+
+The salience of
+capital in determining
+productivity
+
+The extent to
+which population
+depresses
+
+productivity                               Sensitivity of
+
+
+knowledge to
+subsistence
+
+Malthisian
+equilibrium
+income      level
+
+True zpg
+subsistence
+
+productivity to
+populatio
+
+Rate of
+useful ideas
+
+
+Taste for
+
+Responsiveness of
+
+
+equilibrium
+population
+
+savings to        the taste for
+depreciation luxury
+
+luxuries population growth
+
+to prosperity
+
+If we are willing to assume that:
+
+1. A societya€™ s productivity depends primarily on (a) its willingness to save and invest, and (b) 
+the efficiency of its workers, which is in turn a function of (c) its level of technology a€’’its 
+useful ideas about manipulating nature and organizing humansa€”and (d) its natural resources per 
+worker.
+
+2. A societya€™ s population growth rate depends on (a) its level of consumption of necessities 
+that make you biologically fit to reproduce relative to (b) its sociologically-determined familial 
+and other institutions that potentially curb the rate of reproduction.
+
+3. Societies differ in the proportion of their productive resources they allocate to necessities 
+vis-A -vis luxuries.
+
+4. Technological progress before the Industrial-Revolution Age proceeded at a slow average 
+proportional growth rate h measured in hundredths of a percent per year.
+Then we get:
+
+• The right-hand side of the slide above: the societya€™ s level of productivity per worker will 
+head for and then tend to oscillate around a Malthusian level equal to (a) the societya€™ s taste 
+for non-necessities (which include such things as having a rapacious and greedy upper class, and 
+liking to live in cities), times (b) its sociologically-determined subsistence level of necessities 
+consumption (which can be raised by things like a late age of first
+female marriage, large-scale female infanticide, or frequent chevauchA©es), times quantitatively 
+unimportant nuisance terms.
+
+•  The left-hand side of the slide above: the societya€™ s population density will head for and 
+then tend to oscillate around a Malthusian level equal to (a) the quality and abundance of natural 
+resources per acre, times (b) the ratio of the technology level to the a€cesubsistencea€D level of 
+necessities consumption at which the population barely replaces itself, times (c) the propensity to 
+save and invest in everything that makes humanity more
+productive (from tools to liming the soil to building commercial networks), (d) a chief boost to 
+which its the provision of a pax imperia, times (e) the inverse of the taste for non-necessities, 
+all (e) raised to the power that is the extent that higher population induces resource scarcity and 
+thus lower productivity, times quantitatively unimportant nuisance terms.
+
+As the centuries and millennia pass, the Malthusian equilibrium level of population density will 
+slowly rise as technology improves.
+
+And as the centuries and millennia pass, the Malthusian level of typical human living standards 
+will slowly rise even as necessities-valued production per worker does not to the extent that there 
+is faster technological progress in making middle-class conveniences than in making true 
+bioreproductive necessities.
+But even though a society tends to go back to its Malthusian equilibrium, it does not have to be 
+there: all kinds of shocks can knock it away.
+
+Moreover, and more important, the Malthusian equilibrium can and does shift. There are BigTime 
+changes across societies and over time as polity and sociology shift in:
+
+• the subsistence level of necessities consumption
+
+• the taste for luxuries
+
+• the incentives to save and invest
+
+These drive big differences in how societies look and are, and big differences in how societiesa€™ 
+economies grow and shrink: truly dire Dark Ages like post-Roman Britain or the early-Iron Age 
+Afgean; truly magnificent (if often cruel and astonishingly unequal) civilizational 
+a€ceefflorescencesa€D as Jack Goldstone has taught us to call them. Establish a pax imperia, with 
+associated protection of commerce and industry from freelance expropriation by
+thugs with spears through a government that controls its own functionaries and so generate lots of 
+savings, investment, and an increased division of labor; acquire a taste for luxuries, especially 
+living in cities and upper-class and even middle-class display of comfort; and generate 
+sociological institutions that curb and control female fertility and female-child survival, and 
+watch what happens. On the other side, have barbarians within the gate so that as much
+wealth as possible is immediately turned into silver and buried, establish a sociology of very 
+early female first marriage, and have little taste for or indeed specialization in producing 
+non-necessitiesa€”and your Malthusian equilibrium can shift to something of interest to 
+archAiologists, but not of interest to artists or indeed to connoisseurs of material culture.
+
+Moreover, remember this alwavs: the gulf between the standard of living of the upper and even the 
+middle class (who leave the major archAiological footprint) on the one hand and the 
+peasant-craftsman-servant working class on the other, whose reproduction generates the resource 
+scarcitv that anchors the Malthusian equilibrium^’’that can and does varv widelv and wildlv as 
+well.
+
+
+Share Brad DeLong's Grasping Reality
+
+One Image, Again:
+
+Life expectancy, 1995 to 2019       Our World
+
+in Data
+
+LINEAR    LOG Q Add country
+
+
+84 years
+
+82 years
+
+80 years
+
+Japan
+
+Italy
+
+France
+Canada
+
+Germany
+United
+Kingdom
+
+Chile
+
+United States
+Poland
+
+
+
+Very Briefly Noted:
+
+• Shoshana Zuboff (2015): Big Other: Surveillance Capitalism & the Prospects of an Information 
+CzwZzzim‘oH<https://na.eventscloud.com/file 
+uploads/ddd02aa5285f2e887012880914650f28_ZuboffBigOther.pdf>
+
+•  William D. Cohan: The Bull Case for Netflix'. a€~Yes, the stock is down 70 percent and there are 
+legitimate frets about an emerging ad-tier, churn, and increased competition. But the company is 
+only trading at about 4x EBITDA while Tesla is trading at, um, 55x. This is not investment advice, 
+but something weird is going on herea€l <https ://puck .news/the-bull-case-for-netflix/>
+
+•  Serguey Braguinsky & al. (2015): Acquisitions, Productivity, & Profitability: Evidence from the 
+Japanese Cotton Spinning Industry. a€~ After acquisitions, less profitable acquired plants saw 
+drops in inventories and gains in capacity utilization that raised both their productivity and 
+profitabilita€! <https://na.eventscloud.com/file_uploads/5c0f2ac943bea68410b ld9f69c8ecdae aer.2O 
+140150.pdf>
+
+• Eric J. Hobsbawm: The Age of Empire, 1875a€ “1914 <https: //archive 
+.org/details/ageofempire18751OOOOhobs/page/n 10/mode/1 up ? view=theater>
+
+• David A. Wells: Recent Economic Changes & Their Effect on the Production & Distribution of Wealth 
+& the Well-Being of Socfetychttps ://archive .org/details/recenteconomicc00wellgoog/page/n4/mode/1 
+up?view=theater>
+
+• Joe Weisenthal & al.: Podcast: How to Spot a Fraud When EveryoneaC™ s Against You: a€~The 
+journalists who brought down Wirecard explain just how crazy things gota€! 
+<https://www.bloomberg.com/news/articles/2022-07-0l/how-to-spot-a-fraud-when-everyone-s-against-you?
+cmpid=BBD070122 oddlots#xj4y7vzkg>
+
+•  Duncan Black: Right Wing aCoePopulismaCd a€~They seema€! unable to do it even though it is the 
+easiest thinga€! moderately charismatic figure, enough bread and circus, a little bit of 
+competence. Evil, racist, and corrupt but also just a€cenicea€D enough to 65% of the populationa€!. 
+Why they are unable to be a€cenicea€D to a decent majority of the population while sa€”ting on the 
+resta€! <https://ww w.eschatonblog.com/2022/07/right-
+wing-populism .html>
+
+•  Jonathan M. Gitlin: Volkswagen Starts Building the First of Six Battery Gigafactories: 
+a€~Investing $20.4 billion between now and 2030 for a capacity of 240 GWh/yeara€! 
+<https://arstechnica.com/cars/2022/07/volkswagen-staits-building-the-first-of-six-battery-gigafactor
+ies/>
+
+• David Autor, Anna Salomons, & Bryan Seegmiller: New Frontiers: The Origins & Content of New Work, 
+1940a€“2018 <http://economics .mit.edu/files/21810>
+
+• Zeynep Tufekci: How Social Media Took Us from Tahrir Square to Donald Trump 
+<https://www.technologvreview.eom/2018/08/14/240325/how-social-media-took-us-from-tahrir-square-to-d
+onald-trump/>
+
+• Lucan Way: Volatile Compounds: a€~A developing fear among Republicans that they wona€™ t be able 
+to win a presidential election democraticallya€l 
+<https://www.thesgnl.com/2022/07/american-democracy-crisis-lucan-way/>
+
+Twitter & a€~Stack:
+
+•  Claudia Sahm: Boom, not a recession. Payroll employment rises by 372,000 in June; unemployment 
+rate remains at 3.6% <http://go.usa.gov/vrK> Jobs Report BLS dataa€!
+
+Claudia Sahm ©Claudia Sahm
+boom, not a recession.
+
+BLS-Labor Statistics @BLS gov
+
+Payroll employment rises by 372,000 in June; unemployment rate remains at 3.6% 
+https://t.co/lY9cSWKsy9 #JobsReport #BLSdata
+12:31 PMFM Jul 8,2022
+
+13 3Likes45Re tweets
+
+• Branko Milanovic: Chateaubriand & Inequality: Two Centuries Later <
+
+Global Inequality and More 3.0
+
+Chateaubriand and inequality: two centuries later
+
+I decided that my Summer readinga€!would be Chateaubrianda€™ s memoirs (MA©moires da€™ outre-tombe 
+or in English Memoirs Beyond the Grave). I wanted to read them ever since I bought the books in the 
+mid-1970. In the edition I have, the memoirs are published in three volumes (they are enormous). I 
+read parts of volumes 1 or 2, but never touched volume 3. But nowa€!
+Read more
+
+7 months ago A- 6 likes A- 4 comments A- Branko Milanovic
+
+• Razib Khan: Eternal as the Nile
+
+
+^^^ERVISED
+
+EST. 1984
+
+Razib Khan's Unsupervised Learning
+
+Eternal as the Nile
+
+Egypt may technically be the worlda€™ s second-oldest literate civilization after Sumer, but in our 
+imaginations, it lives on with a vivid grandeur Mesopotamia cana€™ t touch. This owes to the 
+incalculable influence Egypt exerted upon both Greeks and Hebrews, who deferred to the civilization 
+of the Nile as more ancient and wiser than their own. Athenian democracya€™ s architect, the 
+lawgiver Solon, reputedly traveled to Egypt to
+learn at the feet of its wise men. Plato ina€l
+
+Read more
+
+7 months ago A- 52 likes A- 20 comments A- Razib Khan
+Leave a comment
+
+Give a gift subscription
+Donate Subscriptions
+
+I greatly enjoy and am, in fact, driven to write Grasping Realitya€”but its long-term quality (if 
+not viability) do depend on voluntary subscriptions from paying supporters. I am incredibly 
+grateful that (the bulk of) it goes out for free to what is now well over ten-thousand subscribers 
+around the world. But if you are enjoying the newsletter enough to wish to join the group of paying 
+supporters, please press the button below and sign up for a paid subscription:
+
+Subscribe now
+
+Directora€™s Cut PAID SUBSCRIBER ONLY Content Below:
+
+Paragraphs:
+
+A very nice way of putting the tech-driven hollowing out of the middle:
+
+David Autor, Anna Salomons, & Bryan Seegmiller: New Frontiers: The Origins & Content of New Work, 
+1940a€“2018: a€~We estimate that the majority of contemporary employment is found in new job tasks 
+added since 1940 but that the locus of new task creation has shifteda€”from middle-paid production 
+and clerical occupations in the first four post-WWII decades, to high-paid professional and, 
+secondarily, low-paid services
+since 1980a€!.. Leveraging proxies for output-augmenting and task-automating innovations built from 
+a century of patent data and harnessing occupational demand shifts stemming from trade and 
+demographic shocks, we show that new occupational tasks emerge in response to both positive demand 
+shifts and augmenting innovations, but not in response to negative demand shifts or automation 
+innovationsa€!. These two faces of
+innovation have strongly countervailing relationships with occupational labor demanda€!
+
+LINK: <http://economics .mit.edu/files/21810>
+
+OK, Zeynep. You have put your finger on it. But what do we do next? Writing a a€~Stack is me 
+playing my position. But what else?
+
+Zeynep Tufekci: How Social Media Took Us from Tahrir Square to Donald Trump: a€~In 2012a€! I talked 
+about the role of social media in breaking down what social scientists call a€oepluralistic 
+ignorancea€Da€”the belief that one is alone in onea€™ s views when in reality everyone has been 
+collectively silenced. That, I said, was why social media had fomented so much rebelliona€!. Power 
+always learns, and powerful tools always
+fall into its hands. This is a hard lesson of history but a solid onea€L In seven years, digital 
+technologies have gone from being hailed as tools of freedom and change to being blamed fora€! 
+increased polarization, rising authoritarianism, and meddling in national elections by Russia and 
+othersa€!. The handful of giant US social-media platforma€! [were] left to deal as they saw fita€!. 
+Unsurprisingly, they prioritized their stock prices and
+profitabilitya€!. YouTubea€™ s recommendation algorithm tended to drive viewers toward extremist 
+content by suggesting edgier versions of whatever they were watchinga€! lucrative for YouTube but 
+also a boon for conspiracy theoristsa€!. Twitter played an outsize rolea€!. Twittera€™ s pithy, 
+rapid-fire format also suits anyone with a professional or instinctual understanding of attention, 
+the crucial resource of the digital economy.
+Say,   someone like a reality TV star. Someone with an uncanny ability to come up with belittling, 
+viral nicknames for his opponents, and to make boastful promises that resonated with a realignment 
+in American politicsa€”a realignment mostly missed by both Republican and Democratic power 
+brokersa€!
+
+LINK: 
+<https://www.technologvreview.com/2018/08/14/240325/how-social-media-took-us-from-tahrir-square-to-d
+onald-trump/>
+
+The idea that you had to reward the a€oejob creatorsa€D with fortunes or they would sit on their 
+hands and the economy would tank is, in many ways, the religion of the neoliberal era:
+
+Branko Milanovic: Chateaubriand & Inequality: Two Centuries Later. a€~Chateaubrianda€™ sa€! Memoirs 
+Beyond the Graved.}. While Chateaubriand was in favor of the Bourbons, he was quite aware that the 
+revolution and afterwards Napoleon broke the back of hereditary monarchy and destroyed that 
+mythical link between people and its monarch. Republic was henceforth inevitablea€!. Issues that 
+concern us todaya€! threea€!.
+
+[1] The role of true believers in politicsa€!. Chateaubriand was infatuated with the idea of 
+a€oelegitimate monarchya€Da€I [so] contemporary people, including kings and would-be kings, 
+invariably fell short of that high, imagined, standarda€!. Those whom he was supportinga€! [thus] 
+found Chateaubriand troublesomea€! perhaps even insufferable, silently criticala€!. [2] What are 
+the circumstances, giving right to higher income, that
+we find acceptable?a€! Chateaubrianda€! believed that the heir to the throne, in virtue of his 
+birth, had special and unique rightsa€!. We are not different today in our rather arbitrary 
+inclusion or exclusion of circumstancesa€!. Why does equality of opportunity so blatantly stop?a€! 
+Why does the desire for equality of opportunity stop at national borders?a€! [3] Religion and 
+economic inequalitya€!. Chateaubrianda€! has of the use of
+religion the same opinion as Marxa€!. So long as either (1) large disproportions in income and 
+wealth are not seen, or (2) religion is there to a€ceexplaina€D them away, the very unequal order 
+to things can continuea€!
+
+LINK:
+
+Global Inequality and More 3.0
+
+Chateaubriand and inequality: two centuries later
+
+I decided that my Summer readinga€!would be Chateaubrianda€™ s memoirs (MA©moires da€™ outre-tombe 
+or in English Memoirs Beyond the Grave). I wanted to read them ever since I bought the books in the 
+mid-1970. In the edition I have, the memoirs are published in three volumes (they are enormous). I 
+read parts of volumes 1 or 2, but never touched volume 3. But nowa€!
+Read more
+
+7 months ago A- 6 likes A- 4 comments A- Branko Milanovic
+
+Increasingly, the evidence is mounting up that cultures and technologies move easily, but that 
+large-scale demographic replacement of populations by immigrants is extremely rare in human 
+history. In other words, throughout Eurasia, Africa, and Latin America, most claims of ancestral 
+kinship that assert that a€oewea€D, whoever we are living in one place, came from elsewhere are 
+fictitious:
+
+Razib Khan: Eternal as the Nile: a€~Science, archaeology and history are converging on a clear 
+conclusion: the ancient Egyptians are still with us, their direct descendants navigating Cairoa€™ s 
+bustling streeta€! while others till the Nile Valleya€™ s eternally rich soil as their forebears 
+havea€!. Ancient Romea€! might have changed the world, but lefta€! little imprint on modern Italian 
+geneticsa€!
+LINK:
+
+
+OK, Zeynep. You have put your finger on it. But what do we do next? Writing a a€~Stack is me 
+playing my position. But what else?
+
+Zeynep Tufekci: How Social Media Took Us from Tahrir Square to Donald Trump'. a€~In 2012a€! I 
+talked about the role of social media in breaking down what social scientists call a€oepluralistic 
+ignorancea€da€”the belief that one is alone in onea€™ s views when in reality everyone has been 
+collectively silenced. That, I said, was why social media had fomented so much rebelliona€!. Power 
+always learns, and powerful tools always
+fall into its hands. This is a hard lesson of history but a solid onea€L In seven years, digital 
+technologies have gone from being hailed as tools of freedom and change to being blamed fora€! 
+increased polarization, rising authoritarianism, and meddling in national elections by Russia and 
+othersa€!. The handful of giant US social-media platforma€! [were] left to deal as they saw fita€!. 
+Unsurprisingly, they prioritized their stock prices and
+profitabilitya€!. YouTubea€™ s recommendation algorithm tended to drive viewers toward extremist 
+content by suggesting edgier versions of whatever they were watchinga€! lucrative for YouTube but 
+also a boon for conspiracy theoristsa€!. Twitter played an outsize rolea€!. Twittera€™ s pithy, 
+rapid-fire format also suits anyone with a professional or instinctual understanding of attention, 
+the crucial resource of the digital economy.
+Say,   someone like a reality TV star. Someone with an uncanny ability to come up with belittling, 
+viral nicknames for his opponents, and to make boastful promises that resonated with a realignment 
+in American politicsa€”a realignment mostly missed by both Republican and Democratic power 
+brokersa€!
+
+LINK: 
+<https://www.technologyreview.com/2018/08/14/240325/how-social-media-took-us-from-tahrir-square-to-d
+onald-trump/>
+
+The idea that you had to reward the a€oejob creatorsa€D with fortunes or they would sit on their 
+hands and the economy would tank is, in many ways, the religion of the neoliberal era:
+
+Branko Milanovic: Chateaubriand & Inequality: Two Centuries Later. a€~Chateaubrianda€™ sa€! Memoirs 
+Beyond the Graved.}. While Chateaubriand was in favor of the Bourbons, he was quite aware that the 
+revolution and afterwards Napoleon broke the back of hereditary monarchy and destroyed that 
+mythical link between people and its monarch. Republic was henceforth inevitablea€!. Issues that 
+concern us todaya€! threea€!.
+
+[1] The role of true believers in pohticsa€!. Chateaubriand was infatuated with the idea of 
+a€oelegitimate monarchy a€Da€ I [so] contemporary people, including kings and would-be kings, 
+invariably fell short of that high, imagined, standarda€!. Those whom he was supportinga€! [thus] 
+found Chateaubriand troublesomea€! perhaps even insufferable, silently criticala€!. [2] What are 
+the circumstances, giving right to higher income, that
+we find acceptable?a€! Chateaubrianda€! believed that the heir to the throne, in virtue of his 
+birth, had special and unique rightsa€!. We are not different today in our rather arbitrary 
+inclusion or exclusion of circumstancesa€!. Why does equality of opportunity so blatantly stop?a€! 
+Why does the desire for equality of opportunity stop at national borders?a€! [3] Religion and 
+economic inequalitya€!. Chateaubrianda€! has of the use of
+religion the same opinion as Marxa€!. So long as either (1) large disproportions in income and 
+wealth are not seen, or (2) religion is there to a€ceexplaina€D them away, the very unequal order 
+to things can continuea€!
+
+LINK:
+
+Global Inequality and More 3.0
+
+Chateaubriand and inequality: two centuries later
+
+I decided that my Summer readinga€!would be Chateaubrianda€™ s memoirs (MA©moires da€™ outre-tombe 
+or in English Memoirs Beyond the Grave). I wanted to read them ever since I bought the books in the 
+mid-1970. In the edition I have, the memoirs are published in three volumes (they are enormous). I 
+read parts of volumes 1 or 2, but never touched volume 3. But nowa€!
+Read more
+
+7 months ago A- 6 likes A- 4 comments A- Branko Milanovic
+
+Increasingly, the evidence is mounting up that cultures and technologies move easily, but that 
+large-scale demographic replacement of populations by immigrants is extremely rare in human 
+history. In other words, throughout Eurasia, Africa, and Latin America, most claims of ancestral 
+kinship that assert that a€oewea€D, whoever we are living in one place, came from elsewhere are 
+fictitious:
+
+Razib Khan: Eternal as the Nile'. a€~Science, archaeology and history are converging on a clear 
+conclusion: the ancient Egyptians are still with us, their direct descendants navigating Cairoa€™ s 
+bustling streeta€! while others till the Nile Valleya€™ s eternally rich soil as their forebears 
+havea€!. Ancient Romea€! might have changed the world, but lefta€I little imprint on modern Italian 
+geneticsa€!
+LINK:
+
+
+V^WVISED
+
+EST. 1984
+
+Razib Khan's Unsupervised Learning
+
+Eternal as the Nile
+
+Egypt may technically be the worlda€™ s second-oldest literate civilization after Sumer, but in our 
+imaginations, it lives on with a vivid grandeur Mesopotamia cana€™ t touch. This owes to the 
+incalculable influence Egypt exerted upon both Greeks and Hebrews, who deferred to the civilization 
+of the Nile as more ancient and wiser than their own. Athenian democracya€™ s architect, the 
+lawgiver Solon, reputedly traveled to Egypt to
+learn at the feet of its wise men. Plato ina€!
+
+Read more
+
+7 months ago A- 52 likes A- 20 comments A- Razib Khan
+
+I do not think we have powerful resilience in the system. In the 1990s I used to hear from 
+Republicans that Clinton was not a legitimate president first because he had only won 43% of the 
+vote (as Ross Perot split the real and rightful Republican majority), and second that the 
+democratic party had forfeited its right to have a place at the table when they decided to back him 
+during the Monica Lewinsky scandal. Then in the early 2010s I heard not from
+Republicans I talked to, but in whispers, that a Black man could not legitimately govern a white 
+nation. Now again I hear the whispers that Biden is too old to be a legitimate president. Democracy 
+requires a loyal opposition, or it breaks down. And there is no loyal opposition on the Republican 
+side anymorea€’’there is only the Trumpist Party, and the whimpering Never Trump remnant:
+
+Lucan Way: Volatile Compounds'. a€~A developing fear among Republicans that they wona€™ t be able 
+to win a presidential election democratically^!. Theya€! nowa€! feel this growing threat to their 
+survival as a partya€! [unless they] move into authoritarian territorya€!. Trumpa€! pushed them 
+over the linea€!. Theya€™ ve made a commitment to thisa€! electorate that feels a demographic 
+threat from immigration. This
+commitment turns everything in politics into an existential threata€!. U.S. democracy is declining, 
+yes, buta€! the resilience in the system is ultimately very powerfula€!
+
+LINK: <https://www.thesgnl.com/2022/07/american-democracy-crisis-lucan-way/>
+Subscribe now
+
+
+
+?^WVISED
+
+EST. 1984
+
+Razib Khan's Unsupervised Learning
+
+Eternal as the Nile
+
+Egypt may technically be the worlda€™ s second-oldest literate civilization after Sumer, but in our 
+imaginations, it lives on with a vivid grandeur Mesopotamia cana€™ t touch. This owes to the 
+incalculable influence Egypt exerted upon both Greeks and Hebrews, who deferred to the civilization 
+of the Nile as more ancient and wiser than their own. Athenian democracya€™ s architect, the 
+lawgiver Solon, reputedly traveled to Egypt to
+learn at the feet of its wise men. Plato ina€!
+
+Read more
+
+7 months ago A- 52 likes A- 20 comments A- Razib Khan
+
+I do not think we have powerful resilience in the system. In the 1990s I used to hear from 
+Republicans that Clinton was not a legitimate president first because he had only won 43% of the 
+vote (as Ross Perot split the real and rightful Republican majority), and second that the 
+democratic party had forfeited its right to have a place at the table when they decided to back him 
+during the Monica Lewinsky scandal. Then in the early 2010s I heard not from
+Republicans I talked to, but in whispers, that a Black man could not legitimately govern a white 
+nation. Now again I hear the whispers that Biden is too old to be a legitimate president. Democracy 
+requires a loyal opposition, or it breaks down. And there is no loyal opposition on the Republican 
+side anymorea€’’there is only the Trumpist Party, and the whimpering Never Trump remnant:
+
+Lucan Way: Volatile Compounds'. a€~A developing fear among Republicans that they wona€™ t be able 
+to win a presidential election democratically^!. Theya€! nowa€! feel this growing threat to their 
+survival as a partya€! [unless they] move into authoritarian territorya€!. Trumpa€! pushed them 
+over the linea€!. Theya€™ ve made a commitment to thisa€! electorate that feels a demographic 
+threat from immigration. This
+commitment turns everything in politics into an existential threata€!. U.S. democracy is declining, 
+yes, buta€! the resilience in the system is ultimately very powerfula€!
+
+LINK: <https://www.thesgnl.com/2022/07/american-democracy-crisis-lucan-way/>
+Subscribe now
+

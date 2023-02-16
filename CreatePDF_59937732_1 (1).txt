@@ -1,0 +1,320 @@
+24:10
+
+<https ://ooo .mmhmm .app/zqFy pOnW QmnxzEG WVj 5C7
+
+<https://www.icloud.com/keynote/0884cf80irPPW24iwYQHoqYKw
+
+<https://www.icloud.com/iclouddrive/01cECe9P7 
+3plRkRd3-QZkdNQ#2022-06-17-slouching-first-talk-(davis-script).pptx>
+
+2022 06 17 Slouching First Talk (davis Script)
+
+27.1MB a"™ PDF File
+Download
+
+Download
+Share
+
+Share Brad DeLong's Grasping Reality
+Leave a comment
+
+Subscribe now
+
+Davis Script:
+
+2022-06-17 Fr Davis Script Slouching Talk
+I am Brad DeLong
+
+I am here to talk about my forthcoming book, Slouching Towards Utopia: An Economic History of the 
+Long 20th Century, forthcoming on September 6 from Basic/Hachette. I oscillate between thinking it 
+is the best work I
+have ever done, truly not a careerist or ticket-punching piece for the moment but rather a treasure 
+for all time; and thinking that it is wholly inadequate to the subjecta€”which is to tell the main 
+thread of the story as to how
+we got here, with an eye toward understanding where we are.
+
+Leta€™ s start with the metaphor of the a€oeeconomic piea€D. If you want to create a utopia, first 
+you have to bake a big-enough pie; then you have to slice it equitably, so that everyone has 
+enough; then people have to taste
+ita€”enjoy ita€”use their wealth, their power to manipulate nature and to command the attention and 
+assistance of others (for that is what wealth is) to live lives in which they are healthy, safe, 
+secure, and happy.
+
+Before 1870 we humans simply could not bake a big-enough pie. By 2010 we could. That solving of the 
+problem of baking ought, according to the thinking of those living in earlier ages, to have solved 
+the big problem in
+building utopia.
+
+Most of the non-utopian features of previous human societies had, after all, been a consequence of 
+there not being enough for everyone; to have enough for yourself, therefore, meant figuring out a 
+way to dominate others and
+
+
+appropriate their work. That would be so, said Aristotlea€”and hence the chief field of economics 
+had to be how to boss your slavesa€’’because we did not have a€oethe [robot] statues of Daedalus, 
+or the [self-propelled
+catering-cart] tripods of Hephaestus... the shuttlea€! weav[ing] and the plectrum touch[ing] the 
+lyre without a hand to guide them."
+
+Well, now we do.
+
+With the coming of a big-enough pie, all of that ought to vanish.
+
+Yet it turned out that slicing and tasting were problems that were intractable: they were not easy 
+or straightforward to solve.
+
+Thus from one perspective my Slouching Towards Utopia: An Economic History of the 20th Century is 
+about how we solved the problem of baking the piea€”and how we fumbled the solution to the problems 
+of slicing and
+tasting. That is one reading of its big narrative sweep, admittedly with lots of subthreads, 
+digressions, and anecdotes along the way.
+
+Why start in 1870, rather than in 1917,1914,1780,1712,1688,1649,1492,1346,1122, 800, or, indeed, 
+Octaviana€™ s Second Settlement of -23? Three reasons:
+
+The first reason is that my cliometric heritage requires me to have a time series. I assert that 
+the level of a€cetechnologya€Da€”the value of the stock of useful human ideas about how to 
+manipulate nature and productively
+organize ourselvesa€”is proportional to the average level of real income per capita times the 
+square-root of population. And I assert that we have to hand good enough guesses of world 
+population, and of average world real
+income per capita. What does this time series tell us? It tells us that in the Industrial 
+Revolution century 1770-1870 the proportional rate of growth of a€oetechnologya€n deployed and 
+diffused into the world economy was
+0.45%/year, worldwide. That is slow enough that a population growth rate of 0.9%/year would 
+neutralize any impact of better technology on average incomes. And a poor world population could 
+easily grow at 0.9%/yeara€:
+doubling every three generationsa€”at a stagnant level, and thus never get rich enough to trigger 
+the fertility decline and the demographic transition.
+
+The second reason is that the 0.45%/year rate of growth of technology in the Industrial Revolution 
+century was not necessarily stable. You can only concentrate the manufacturing of the world in the 
+most efficient industrial
+districts once. You can only mine the really-cheap surface coal where the last round of glaciers 
+had scraped all the post-Permian rock off once. It is possible to envision a 
+counterfactuala€’’William Stanley Jevons in his 1865
+The Coal Question certainly dida€”in which post-1870 technological progress slows because its 
+continuation along previous lines requires a favorable coal abundance and cheapness that is no 
+longer there. A slowdown of,
+say, 1/3 in technological progress post-1870 compared to pre-1870 would have given us in 2010 the 
+technology level we actually reached in 1890, but with a much bigger population than the world had 
+in 1890. Such a
+persistent-steampunk world is imaginable, but it is not ours.
+
+The third reason is a quote I ran across from the final post-1870 edition of John Stuart Milla€™ s 
+Principles of Political Economy:
+
+> Hitherto it is questionable if all the mechanical inventions yet made have lightened the day's 
+toil of any human being. They have enabled a greater population to live the same life of drudgery 
+and imprisonment, and an
+increased number of manufacturers and others to make fortunesa€! [and] increased the comforts of 
+the middle classesa€!
+
+John Stuart Mill did not think that the problem of enougha€”of baking a big-enough piea€”was on the 
+way to being solved in 1870, not with the economic and social institutions and patterns of that 
+day.
+
+But we did get a big shift, a crossing of a watershed boundary, around 1870: the coming of the 
+industrial research lab, the modern corporation, and full globalization with the global build-out 
+of the railroad and the telegraph
+network, and the iron-hulled screw-propellered ocean-going steamship. In terms of our time series, 
+the average rate of growth of technology deployed and diffused worldwide rapidly jumped up from 
+0.45%/year to 2.1%/year,
+where it stayed at least until 2010. From a doubling time of 160 years to a doubling time of 34. 
+Malthusian population growth could not keep up, and the world became rich enough for the 
+demographic transition to take hold,
+and take hold it did relatively rapidly as such things go.
+
+After 1870 the problem of baking a big-enough pie was on track to being solved. And its solution 
+was straightforward: Just let the market economy rip. Let the industrial research labs and the 
+corporations do their thing in the
+context of the world market economy produced by full globalization. Industrial research labs, 
+modern corporations, globalization, and the market economy a€’’which, as that genius Friedrich von 
+Hayek most keen-sightedly
+observed, is tremendously effective at crowdsourcing solutionsa€’’proved keys to the lock that had 
+kept humanity in its desperately poor iron cage, with the only comfortable ones being the thugs 
+with spears who took from
+the near-subsistence farmers, and those with whom they shared their extractions.
+
+Previously unimaginable economic growth revolutionized human life over and over, generation by 
+generation, in not just one episode of Schumpeterian creative destruction but in repeated, 
+never-ceasing episodes: five, if not
+more.
+
+And so humanity should have been able to turn to deal with the problems of slicing, and tasting. 
+Certainly it had resources to deal with these problems on a scale that was previously unthinkable.
+
+How should we answer our predecessors? They would look at the extraordinary and amazing 
+technological power of our civilization, in which each of us is arguably richer than Nathan Meyer 
+Rothschild along the dimension
+that counts, for even though he was the richest man in the world in the first half of the 1800s, he 
+died of an infected abscess in his butt because he was not rich enough to afford penicillin.
+
+They would say: why have you not created a utopia, since you have solved the problem of enough and 
+thus also removed all of the additional causes of strife that arise because people fight when there 
+isna€™ t enough? They
+would be very surprised to see that the problems of slicing and tasting have flummoxed us.
+
+What happened? This, I think, my book has nailed. Letting the market economy rip to solve the 
+problem of making enough had consequences. The repeated, sequential, Schumpeterian 
+creative-destruction economic
+revolutions meant that all was solid melted into aira€”all established patterns and orders were 
+steamed awaya€”and while men (and women) were not compelled to face with sober senses their real 
+conditions of life and
+relations with one another, they did have to try to build new institutions to manage the problems 
+and opportunities of production, distribution, and utilization that the onrushing technological 
+cornucopia brought.
+
+That idiot Friedrich von Hayek thought the unleashed market would do the whole job, The market 
+would produce enough. True, it could not produce a€oesocial justicea€U, but we should not ask for 
+social justice. Why not?
+Because attempting to achieve it would undermine the market economya€™ s ability to do what it 
+could do, and put us on, well, The Road to Serfdom. a€oeThe market giveth, the market taketh away: 
+blessed be the name of
+the marketa€D had to be our only gospel.
+
+But, as that genius Karl Polanyi put it in his book The Great Transformation, the a€oestark 
+utopiaa€D of von Hayek's catallaxy was unsustainable. People will not stand for being told that 
+there are no rights but property
+rights. They instead insist that a€oethe market was made for man, not man for the marketa€D. The 
+marketa€™ s treating those whom society saw as equals unequally, or unequals equally, brought 
+social explosion after
+explosion, blocking the road to utopia. People saw themselves as deserving communities, incomes, 
+and stability. They needed their Polanyian rightsa€”to economic security, to an income level 
+proportional to what they
+deserved, that other people should have income levels proportional to what they deserved too, in a 
+connected society that gave them respect and placea€”plus that you should have some power in 
+society even if you had no
+wealth. Trying to bring about the stark utopia of market society would thus face explosions, and be 
+overwhelmed by social-political movements that sought social justicea€”which might be a very 
+inegalitarian kind of social
+justice, because it would give people not equal shares but rather what those making the rules 
+deserved.
+
+Thus the book wound up with a Polanyi-Left Neoliberal grand narrative.
+
+Since 1870 humansa€’’Theodore Roosevelt, John Maynard Keynes, Benito Mussolini, Franklin Delano 
+Roosevelt, Vladimir Lenin, Margaret Thatcher, Deng Xiaoping, and othersa€” tried to think up 
+solutions. They
+dissented from a€oethe market givetha€la€D constructively and destructively. They demanded that the 
+market do less, or different, and other institutions do more. Keynes whimpered that if only 
+governments allowed his
+
+
+That idiot Friedrich von Hayek thought the unleashed market would do the whole job, The market 
+would produce enough. True, it could not produce a€oesocial justicea€U, but we should not ask for 
+social justice. Why not?
+Because attempting to achieve it would undermine the market economya€™ s ability to do what it 
+could do, and put us on, well, The Road to Serfdom. a€oeThe market giveth, the market taketh away: 
+blessed be the name of
+the marketa€D had to be our only gospel.
+
+But, as that genius Karl Polanyi put it in his book The Great Transformation, the a€oestark 
+utopiaa€D of von Hayek's catallaxy was unsustainable. People will not stand for being told that 
+there are no rights but property
+rights. They instead insist that a€cethe market was made for man, not man for the marketa€D. The 
+marketaC™ s treating those whom society saw as equals unequally, or unequals equally, brought 
+social explosion after
+explosion, blocking the road to utopia. People saw themselves as deserving communities, incomes, 
+and stability. They needed their Polanyian rightsa€”to economic security, to an income level 
+proportional to what they
+deserved, that other people should have income levels proportional to what they deserved too, in a 
+connected society that gave them respect and placea€”plus that you should have some power in 
+society even if you had no
+wealth. Trying to bring about the stark utopia of market society would thus face explosions, and be 
+overwhelmed by social-political movements that sought social justicea€”which might be a very 
+inegalitarian kind of social
+justice, because it would give people not equal shares but rather what those making the rules 
+deserved.
+
+Thus the book wound up with a Polanyi-Left Neoliberal grand narrative.
+
+Since 1870 humansa€’’Theodore Roosevelt, John Maynard Keynes, Benito Mussolini, Franklin Delano 
+Roosevelt, Vladimir Lenin, Margaret Thatcher, Deng Xiaoping, and othersa€” tried to think up 
+solutions. They
+dissented from aCcethe market givetha€la€D constructively and destructively. They demanded that the 
+market do less, or different, and other institutions do more. Keynes whimpered that if only 
+governments allowed his
+technocratic students to conduct a sensible monetary policy along with a "somewhat comprehensive" 
+socialization of investment, that everyone would have a job and technology plus compound interest 
+would wreak marvels
+and rock-bottom interest rates would "euthanize" the rentiersa€”so that they could use their money 
+social power only at the cost of spending down their capital, and so relinquishing it. Thus in the 
+not-very-long-run,
+Keynesian technocrats could solve the problems of production and distribution, leaving humanity to 
+grapple with its real problem: that of utilization of our wealth to create a truly human world.
+
+Perhaps humanity, did indeed come close to an institutional-societal setup to tackle the problems 
+of slicing and tasting. Post-WWII "social democracy" in the rich countries was a good try. 
+Keynesian focus on full employment
+(and low interest rates to make amortizing the WWII-era debt easy), Beveridgian 
+equality-through-redistribution (and public provision), plus a little Pigovian 
+externality-compensation produced the Thirty Glorious Years.
+
+But somehow social democracy failed its sustainability test, and was replaced by neoliberalism, 
+which stubbornly persists in spite of its failure to fulfill any of its promises except that it 
+would make the rich much richer with
+much more social power. Society may not know what "social justice" is, but it knows that it 
+manifestly does not consist of giving benefits to and making life easy for those it assesses as 
+"undeserving".
+
+And so the wheel turned. Here we are. Why are not the good people of the global north happier and 
+more satisfied with the techno-utopian marvels that have been delivered to them? Why has great 
+wealth in historical
+perspective produced not reduced but increased economic anxiety? And how does that economic anxiety 
+get transformed into ethno-nationalist fear and rage? And how is it that the neoliberal ordering of 
+society still survives,
+given that it has fulfilled exactly none of the promises made by its original salesmen, save for 
+making the rich richer and society more economically unequal? Our current situation: in the rich 
+countries there is enough by any
+reasonable standard, and yet we are all unhappy, all earnestly seeking to discover who the enemies 
+are who have somehow stolen our rich birthright and fed us unappetizing lentil stew instead.
+
+What do we do next? This my book punts. That is for a younger generation than my failed one to 
+decide. Global warming. Ethno-national terrorism on all scales from the individual AR-15 to the 
+Combined Arms Army.
+Revived fascism. Technokleptocracy. I do quail.
+
+As John Maynard Keynes wrote back in 1924:
+
+> [That] assumes... a plan exists.... [But] we lack more than usual a coherent scheme of progress, 
+a tangible ideal. All the political parties alike have their origins in past ideas and not in new 
+ideas.  No one has a gospel. The
+
+next move is with the head...
+
+Now I could have written a very different book.
+
+After all, only one of the many threads that were the warp of the ideal book I first wrote in my 
+minda€™ s eye survives as the booka€™ s Grand Narrative.
+
+In the beginning, the book was going to have a number of important threads. It was to be a 
+science-and-technology booka€”a Michael Polanyi book. It was going to be an 
+engineers-and-entrepreneurs booka€”a David
+Landes. It was going to be a Schumpeterian creative-destruction-and-finance-and-industry book. It 
+was going to be a Keynesian macro-and-moral-philosophy book. And it was going to be a 
+reacting-to-a€oeRed-Viennaa€D
+booka€”a Karl Polanyi-and-friends book. Of all of these Grand Narratives that I had originally 
+hoped to thread throughout the book, only the last of thesea€”the Karl Polanyi Grand 
+Narrativea€’’survived the writing and
+editing process.
+
+That means that my aspirations for the book have shrunk: my hope now is that my book will do for 
+Karl Polanyi something like what Charlie Kindlebergera€™ s Manias, Panics, and Crashes did for 
+Hyman Minskya€”that is,
+make him comprehensible, arresting, immediate, and important, by providing lots of narrative 
+examples for which the underlying theory can serve as a thematic lens.
+
+And I do confess that right now I am most interested in what people can convince me that I have 
+gotten very wrong here. The book does havre an overly-simplistic stripped-down pseudo-Polanyiesque 
+Grand Narrative at its
+heart. And while that may have been (but probably was not) adequate for a 1940s-era understanding 
+of the dynamic of fascism, really-existing socialism, and classical (or, rather, semi-classical 
+pseudo-) liberalism then
+midway through the Long 20th Century; it is wholly inadequate for grasping the political-economy 
+dilemmas of the world today!
+
+Thank you very much for listening. Please read the book: I really do think you will find it 
+rewarding.
+Subscribe now
+

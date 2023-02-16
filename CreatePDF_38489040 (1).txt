@@ -1,0 +1,533 @@
+Subscribe now
+
+First:
+
+Thisa€”Gregory Clark: The Secret History of the Industrial Revolutiond€”is an extremely interesting 
+but ultimately, I think, not fully sustainable paper.
+
+In it, Greg Clark does the Greg-thing: taking an unsustainable position, turning all his 
+intelligence and industry to sustaining it, and getting remarkably far. His unsustainable position 
+is that the British Industrial Revolution was not the start of modern economic growtha€”the 2%/year 
+economy-wide improvements in lab or productivity broadly distributed over sectors that we have seen 
+since 1870a€”but rather the last two of the post-Medieval discrete
+localized and sector-specific industrial advances. Steam and textile machinery are therefore 
+classified as things like the caravel, printing.
+
+It was only, Clark claims, a€oeaccidents of demand, demography, trade, and geographya€D that make 
+this spurt appear different, but it was really, like its predecessors, a discontinuous stroke of 
+genius that was eventually self-limiting. In the absence of the coming of the technologies of the 
+Second Industrial Revolution fueled by the industrial research lab to discover and develop and the 
+coming of the modern corporation to develop and deploy, we might well
+still, today, be in a very impoverished steampunk world.
+
+That last part of the argument may, I think, well be correct. Semi-permanent steampunk world was 
+definitely a possibility as late as 1870, and may have been a probability as of 1800.
+
+Just as the caravel made spices essential freea€”but the demand for spices was small and quickly 
+satiated, so the impact was limiteda€”and just as the printing press made books essentially 
+freea€”but the demand for books was small and quickly satiated, so the impact was limiteda€”so the 
+steam engine made coal-for-heating essentially free and textile machinery made spinning and weaving 
+essentially free. And if Britain had been an autarchic economy with
+a stable population, capable of being satiated with coal-for-heating and with spinning-and-weaving 
+limited by wool from sheep, full stop.
+
+So it is nevertheless the case that the price-elasticity of demand for spinning and weaving were, 
+over a substantial range, worldwide, significantly greater than one did make a huge difference, one 
+large enough to make the BIR experience different in kind and not just the last post-medieval 
+efflorescence with nothing to do with modern economic growth. Steam and machinery mattered much 
+more than did the caravel or the printing press. And they mattered
+because differences in a€oedemand, demography, trade, and geographya€D made the British Industrial 
+Revolution decisively different than anything that had come before.
+
+The way Clark puts the argument is: in historical 1860 Britaina€™ s TFP was 100, compared to 65 in 
+1780. But remove Britaina€™ s ability to export cotton textiles and require that it move labor 
+counterfactually out of export industry into the production of goods that were historically 
+acquired via importing, and counterfactual 1860 TFP drops to 85. And remove cottona€”the only fiber 
+the machines could work ona€”and counter actual 1860 TFP drops
+down to 75.
+
+Thus we have a non-cotton economy TFP growing from 65 to 75a€”15%a€”from 1780 to 1860; a 
+static-exports but cotton-using economy growing to 85a€”another 15%a€”from 1780 to 1860, and the 
+historical export economy growing to 100a€”another 23%. And throughout those 80 years the 
+population was growing from 8 to 20 million, creating enormous food-resource scarcity at home that 
+requires an export machine of previously unprecedented size.
+I agree: this is not modern economic growth. But it is also not (merely) Dutch-style intensive 
+agriculture and commerce, the caravel (although note that the caravela€™ s effects ex-Europe were 
+momentous, even genocidal, it was just its effects within Europe that were 
+substantial-but-not-overwhelming), or printing (although Jeremiah Dittmar notes that printing does 
+not just make books cheap, but makes the knowledge engine-of-growth get in gear),
+
+Gregory Clark: The Secret History of the Industrial Revolution'. a€~Other places in Europe in the 
+years 1200 to 1760 saw similar episodes of productivity growth that were as substantial as those in 
+England from 1760 to 1860a€! between 1550 and 1650 the Netherlands saw significant productivity 
+advance. The appearance that the Industrial Revolution in England represented a decisive break from 
+the past is largely a product of the
+unusual demographic experience of England in the Industrial Revolution yearsa€! driving up land 
+rentals and creating urbanization, spurreda€! changesa€! the enclosure of common lands, 
+improvements in transportation, the expansion of coal mining, and perhaps also the fall in interest 
+ratesa€!
+
+LINK: <http://faculty.econ.ucdavis .edu/facultv/gclark/papers/secret2001 .pdf>
+
+Figure 12: Overall TFP in England, 1610-1860
+
+120
+
+FP - no
+
+cotton exports                   Actual TFP
+
+100
+
+
+I
+
+TFP without cotton
+
+Table 13: Agricultural Consumption per Person in England, 1700s to 1860s.
+
+1700-9     1860-9
+
+Population (millions)                                           5.16       19.97
+
+
+English Fann net output (£ m)                                    63.1      111.7
+
+Net Food Imports (£ m.)                                          2.2       75.2
+
+Net Raw Material Imports (£ m.)                                  -1.3       62.7
+
+Domestic Coal Consumption (£ m.)                                 1.7      50.3
+
+Total Food, Energy and Raw Material Consumption (£ m.)              65.7     309.9
+
+Consumption per Person (£)                                      12.7       15.5
+
+Predicted Consumption (£)                                       12.7       15.8
+
+Notes: Cotton, wool, flax, and silk retained for home consumption are estimated by subtracting
+the raw material content of textile exports estimated using figures given in Deane and Cole
+(1962).
+
+Sources: Coal production: Flynn (1984, p. 26) and Church (1986, pp. 19, 53, 85-97). Imports
+
+1860-9: Mitchell (1988). Imports 1700-9: Schumpeter (1960, tables XV, XVII). Exports 1700-
+
+9: Schumpeter (1960, tables VII, IX, X, XII, XIII), Mitchell (1988), pp. 221-2).
+
+Share
+
+
+Share Brad DeLong's Grasping Reality
+
+Very Briefly Noted:
+
+•  Anton Howes: Is Innovation in Human Nature?'. a€~The more I study the lives of British 
+innovators, the more convinced I am that innovation is not in human naturea€!. As the agricultural 
+innovator Arthur Young put it, the natural state is not innovation, but a€oethat dronish, sleepy, 
+and stupid indifference, that lazy negligence, which enchains mena€! 
+<https://medium.com/@antonhowes/is-innovation-in-human-nature-
+48c2578e27ba#.v54zq0ogx>
+
+• Friedrich A. Von Hayek: The Use of Knowledge in Society <https://www.jst0r.0rg/stable/l 
+809376?seq=l#metadata info tab contents>
+
+•  Noah Smith: Bidenomics Takes on Government Investment: a€~The numbers are disappointingly small 
+so far, but our mindset has begun to changea€! 
+<https://noahpinion.substack.eom/p/bidenomics-takes-on-government-investment>
+
+•  Larry Summers: On China: a€~Demographic changesa€! declining labor forcea€! rural-to-urban 
+migrationa€!. How China has nurtured a cutting-edge set of venture-type companies despite being a 
+relatively poor countrya€! transition of powera€! possibilities of wrenching changea€!. I dona€™t 
+have a good feeling fora€! likely discontinuitya€! the Weltanschauung of Chinese citizens towards 
+the rest of the worlda€!
+
+<https://chinatalk.substack.eom/p/larrv-summers-on-china7utm campaign=post&utm medium=web&utm 
+source=twitter>
+
+•  Mingxing Liu, Victor Shih, & Dong Zhang: The Fall of the Old Guards: Explaining Decentralization 
+in C/nna<https://gps.ucsd.edu/ files/faculty/shih/Shih Explaining%20Credible%20Decentralization 
+with names ,pdf>
+
+• Wikipedia: Diligent Work-Frugal Study Movement: a€~(g*™ ze3*a<>3a-¥a„%oaizeoef; simplified 
+Chinese: 9*™ zeM^aYa^aia^s; pinyin: LiA° FQZ qAngAdng jiQZnxuA© huA-<; French: Mouvement 
+Travail-A%otudes) was a series of work-study programs which brought Chinese students to France and 
+Belgiuma€! between 1912 and 1927a€!. A group of Chinese anarchists who had come to Paris and wanted 
+to introduce French science and soci
+idealism to ChinaaCI <https://en.wikipedia.org/wiki/Diligent Work-Frugal Study Movement#cite 
+note-sacu.org-12>
+
+• Henry David Thoreau: Walden <https://ww w.gutenberg.org/files/205/205-h/205-h.htm>
+
+• Jennie Spencer-Churchill: The Reminiscences of Lady Randolph Churchill <https: //books .google 
+.com/books ?id=8162RvphymOC>
+
+•  Jeet Heer: Of Patriots & Back-Stabbers: a€~In turning Babbitt into a martyr, Trump and his 
+followers are creating their own-stabbed-in-the-back myth of the events January 6a€!. Babbitt is 
+being mythologized as a figure like Horst Wessel, the young stormtrooper killed by communists in 
+1930 whose death served as a rallying cry for Nazisa€! 
+<https://ieetheer.substack.eom/p/of-patriots-and-back-stabbers>
+
+•  Elsa B. Kania: A United States Undermined by Racist Authoritarian Violence Cana€™ t Be a Great 
+Power: a€~The future of American democracy appears disturbingly precarious, and the damage of the 
+past four years may take decades to repair. Not since the Civil War has white supremacy so 
+threatened the American republica€! 
+<https://foreignpolicy.com/2021/01/07/united-states-great-power-china-domestic-threats-capitol-mob/>
+
+
+•  Jason Gale: Covid Origins Mirror SARS Introduction From Animals: a€~The epidemiological history 
+of SARS-CoVa€“2 is comparable to previous animal market-associated outbreaks of coronaviruses and 
+offers a simple route for human exposurea€! 
+<https://www.bloomberg.com/news/articles/2021-07-07/covid-origins-mirrors-sars-introduction-from-ani
+mals-study-says>
+
+•  Jarrett Carter Sr.: Howard Professor Ta-Nehisi Coates: a€~Coates shares his reflections on 
+returning to his alma mater as a professor in the HU College of Fine Arts, the idea of Black 
+luminaries seeking opportunities to align with HBCUs, and the weight of serving as an example of 
+excellence for Black Americaa€! <https://www.hbcudigest.eom/p/howard-professor-ta-nehisi-coates>
+
+Paragraphs:
+
+It would be easy to get a job. But would it be easy to get a good joba€”your best possible 
+joba€”right now? That is not so clear to me. So labor demand in the sense that it matters may not 
+be all that high right now.
+Nick Bunker muses on JOLTS:
+
+
+•  Jeet Heer: Of Patriots & Back-Stabbers: P~In turning Babbitt into a martyr, Trump and his 
+followers are creating their own-stabbed-in-the-back myth of the events January 6P!. Babbitt is 
+being mythologized as a figure like Horst Wessel, the young stormtrooper killed by communists in 
+1930 whose death served as a rallying cry for NazisP! 
+<https://jeetheer.substack.eom/p/of-patriots-and-back-stabbers>
+
+•  Elsa B. Kania: A United States Undermined by Racist Authoritarian Violence Cana€™ t Be a Great 
+Power: P~The future of American democracy appears disturbingly precarious, and the damage of the 
+past four years may take decades to repair. Not since the Civil War has white supremacy so 
+threatened the American republicP! 
+<https://foreignpolicy.eom/2021/01/07/united-states-great-power-china-domestic-threats-capitol-mob/>
+
+
+•  Jason Gale: Covid Origins Mirror SARS Introduction From Animals: P'The epidemiological history 
+of SARS-CoVP“2 is comparable to previous animal market-associated outbreaks of coronaviruses and 
+offers a simple route for human exposureP! 
+<https://www.bloomberg.eom/news/articles/2021-07-07/covid-origins-mirrors-sars-introduction-from-ani
+mals-study-says>
+
+•  Jarrett Carter Sr.: Howard Professor Ta-Nehisi Coates: a€~Coates shares his reflections on 
+returning to his alma mater as a professor in the HU College of Fine Arts, the idea of Black 
+luminaries seeking opportunities to align with HBCUs, and the weight of serving as an example of 
+excellence for Black AmericaP! <https://www.hbcudigest.eom/p/howard-professor-ta-nehisi-coates>
+
+Paragraphs:
+
+It would be easy to get a job. But would it be easy to get a good jobP”your best possible 
+jobP”right now? That is not so clear to me. So labor demand in the sense that it matters may not be 
+all that high right now.
+Nick Bunker muses on JOLTS:
+
+Nick Bunker: May 2021 JOLTS Report: Demand for Workers Remains Strong: P~Not quite the barn burner 
+of last month, butP! job openings are still near historic highs, the rate of quitting is still 
+above pre-pandemic levels and employers are laying off workers at record lows. The outlook for 
+hiring remains brightP!. The ratio of unemployed workers to job openingsP! still above pre-pandemic 
+levelsP! the labor market can still
+get tighter. Employers not only want to hire a large number of new employees, but they also want to 
+hold onto the ones they have. The layoffs and discharge rate declined to a new all-time low in May 
+at 0.9%P!. ThereP™ s a lot to like hereP!
+
+LINK: <https ://www.hiringlab .org/2021/07/07/may-2021- jolts-report/>
+
+I think I highlighted this when it came out. To what extent are these American Gentry the real 
+funding base of the Republican Party, and to what extent do they see Trump as one of them, telling 
+it like it is?:
+
+Patrick Wyman: American Gentry: P'YakimaP!. Commercial agriculture is a lucrative industry, at 
+least for those who own the orchards, cold storage units, processing facilities, and the large 
+businesses that cater to them. They have a trusted and reasonably well-paid cadre of managers and 
+specialistsP! but the vast majority of their employees are lower-wage laborersP!. Ownership of the 
+real, core assets is where the regionP™ s
+wealth comes from, and it doesnP™ t extend down the social hierarchy. Yet this bounty is enough to 
+produce hilltop mansions, a few high-end restaurants, and a staggering array of expensive vacation 
+homes in Hawaii, Palm Springs, and the San Juan IslandsP!. This kind of eliteP™ s wealth derives 
+not from their salaryP! but from their ownership of assetsP! a bunch of McDonaldP™ s franchises in 
+Jackson, Mississippi, a beef­
+processing plant in Lubbock, Texas, a construction company in Billings, Montana, commercial 
+properties in Portland, Maine, or a car dealership in western North CarolinaP!. Their wealth and 
+connections make them influential forcesP!. Because their wealth is rooted in the ownership of 
+physical assets, they tend to be more rooted in their places of originP!. Gentry are, by 
+definition, local elites. The extent to which they wield
+power in their localities, and how they do so, is dependent on the structure of their regimeP!. 
+There are an enormous number of organizations and institutions dedicated to advancing the interests 
+of this gentry classP!. Some people work their way into this property-holding gentry class by 
+virtue of their blood, sweat, and sheer gumption. ThatP™ s one variant on the American Dream: the 
+belief that hard work and talent, and maybe a
+bit of luck, can take a person into the ranks of the elite. But far more of the gentry class are 
+born into it. They inheritP!. Managers run their companies, lawyers look over their contracts, 
+accountants manage their finances, but theyP™re the ownersP!
+
+LINK: <https://patrickwvman.substack.eom/p/american-gentrv>
+
+And another take on the same set of issues:
+
+Eric Levitz: Tucker Carlsona€™ s Populism Is for the Small-Time Rich: P~What makes his defense of 
+single-family zoning so instructive is that itP™ s both anti-free-market and anti-working-classP!. 
+For the downtrodden Preforgotten men and womenPD whom right-wing populists claim to champion, 
+single-family zoning is actually a scourge. It prevents homeowners in economically depressed 
+regions from affordably
+relocating to thriving metros. And it forces renters to forfeit an ever-higher share of their 
+income to landlordsP!. Viewed from the perspective of society as a whole, single-family zoning is 
+ruinousP!. One minute, Carlson casts Blackrock as the cause of the affordable-housing crisis; the 
+next, he explains that the firma€™ s nefarious mission is to make housing cheap. He is speaking to 
+genuine economic anxieties, but they are the
+anxieties of precariously wealthy homeowners who jealously guard their financial, geographic, and 
+psychic distance from the lower orders. Carlsonism is a politics of downward-looking class 
+resentment disguised as its oppositeP!. This eraa€™ s self-styled populist conservatives have 
+consistently demonstrated their fealty to small-time capitalistsa€”and contempt for the median 
+laborera€”in just about every major policy fight of
+Bidena€™ s tenure. Carlsona€™ s call for higher housing costs isna€™t an exceptional betrayal of 
+the populist righta€™ s putative class allegiance, only an exceptionally naked onea€!
+
+LINK: 
+<https://nvmag.com/intelligencer/2021/07/tucker-carlson-populism-jd-vance-abolish-suburbs.html>
+
+I am not sure this has been rightly interpreted. I took Lyotard to say that we needed to focus on 
+a€oepetit receitsa€D in order to understand that the Grand Narratives were all false. But I thought 
+he still recognized that we need Grand Narratives in order to think at all:
+
+Wikipedia: Metanarrative: a€~In The Postmodern Condition: A Report on Knowledge (1979), Lyotard 
+highlights the increasing skepticism of the postmodern condition toward the totalizing nature of 
+metanarratives and their reliance on some form of a€oetranscendent and universal trutha€Da€l. 
+Attempts to construct grand theories tend to unduly dismiss the naturally existing chaos and 
+disorder of the universe, the power of the
+individual eventa€!. Postmodernists attempt to replace metanarratives by focusing on specific local 
+contexts as well as on the diversity of human experience. They argue for the existence of a 
+a€oemultiplicity of theoretical standpointsa€D rather than for grand, all-encompassing theoriesa€!
+
+LINK: <https://en.wikipedia.org/wiki/Metanarrative#cite_note-5>
+
+This is highly cool: no, the Pilgrims were not Israel, New England was not the Promised Land, the 
+voyage of the Mayflower was not Exodus, and Britain was not Egypt. Instead, America was Egypt, the 
+African-Americans were Israel, and their historic task was to take the Declaration and the 
+Constitution seriously and so turn America into the Promised Land:
+
+John Ganz: The 1619 Project Revisited: a€~Samuel Goldman describes three types of American 
+nationalism^!. The Covenanta€! chosen peoplea€!. The Cruciblea€! a melting pot where a new people 
+is being forged out of diverse sourcesa€!. The Creeda€! bound by its adherence toa€! liberty and 
+equality embodied in the Constitution and the Declaration of Independence^!. The Hannah-Jones 
+essaya€! was so upsetting to
+manya€! [by] itsa€! reversal of this Covenant traditiona€!. 1619a€! displace[s] the Mayflowera€!. 
+Jonesa€™ s narrative begins with the Israelites ina€! Egyptian captivitya€!. Hannah-Jones replaces 
+the Puritan WASPs as the original Americans, keeping the Covenant when others did nota€!. The 
+Covenant is the faith shown by black Americans in the nationa€!. Trole of the guardians or 
+custodians of American democracy was
+
+traditionally given to the WASP elitea€!. a€oeAs much democracy as this nation has todaya€! has 
+been borne on the backs of black resistance. Our founding fathers may not have actually believed in 
+the ideals they espoused, but black people dida€!. I wish, now, that I could go back to the younger 
+me and tell her that her peoplea€™ s ancestry started here, on these lands, and to boldly, proudly, 
+draw the stars and those stripes of the
+American flag. We were told once, by virtue of our bondage, that we could never be American. But it 
+was by virtue of our bondage that we became the most American of alla€!a€D. It cleaves so closely 
+the sources of American political imagination but just inverts thema€!. The crucible is here not 
+the melting-pot, but the struggle against slavery and racisma€!. I find neither narrative of 
+American historya€”that of WASPs or blacks to
+be a€oeoriginal Americansa€D or a€oemost Americana€na€”to be that offensive or even particularly 
+incompatible: Ia€™ m happy to grant New England Puritans a formative role as well as the black 
+freedom struggle. As a the descendant of immigrants, I am willing to be tolerant of a little ethnic 
+pride or even a touch of chauvinism from time to timea€!
+
+LINK: <https://johnganz .substack.com/p/the-1619-project-revisited>
+
+Two guys who assume that Beijinga€™ s consensus weltanshuung is wrong. That is not in evidence:
+
+Jude Blanchette & Seth G. Jones: How Beijinga€™s Narrative ofU.S. Decline Is Leading to Strategic 
+Overconfidence: a€~Since the Global Financial Crisis in 2007a€“2008, Beijing has assessed that the 
+United States is experiencing a slow but steady deterioration of its national power and 
+international influence. Events of the past 12 months have consolidated this consensusa€!. Since 
+the founding of the Peoplea€™ s Republic of
+China in 1949, Chinaa€™ s leaders have looked at the United States with a complex and shifting 
+mixture of fear, admiration, and hostilitya€!. The Global Financial Crisis in 2007a€“2008 was an 
+inflection point, with a pronounced consolidation of the Precapitalist instabilitya€D narrative in 
+policymaking and intellectual circles. At the same time, it gave rise to the view that ChinaaC™ s 
+own domestic institutional and political
+system possessed significant advantages relative to Western democracya€!. Beijinga€™ s American 
+Narrative. The United StatesP™ democracy and its political system have stopped functioning. The 
+United StatesP™ conception of Preuniversal valuesPD only maintained global appeal because they were 
+backed by U.S. power. As U.S. strength wanes, so too will the values it promotes. The world is no 
+longer looking to the
+United States for global leadership; the world is moving toward multipolarity; and the East is 
+rising, the West is decliningP!
+
+LINK: <https://opensource.csis .org/features/beijing-narrative-us-decline/>
+
+700,000 total COVID-19 deaths so far in America suggests between 70 and 140 million total cases:
+
+NIH: C0VIDa€“19 Prevalence far Exceeded Early [Confirmed] Pandemic Cases: P'Researchers estimate 
+nearly 17 million undiagnosed cases in the U.S. by mid-July 2020P!. During spring and summer of 
+2020P! for every diagnosed COVIDP“19 caseP! there were 4.8 undiagnosed cases, representing an 
+additional 16.8 million cases by July aloneP!. Article: Undiagnosed SARS-CoVP“2 Seropositivity in 
+the United States
+During the First Six Months of the Pandemic). 2021. Science Translational Medicine. DOI: 
+10.1126/scitranslmed.abh3826P!
+
+LINK: 
+<https://www.nih.gov/news-events/news-releases/nih-studv-suggests-covid-19-prevalence-far-exceeded-e
+arly-pandemic-cases>
+
+It would be good if this worked, but it is not looking good for it, in which case it would be very 
+bad if it crowds out effective treatments, like vaccination:
+
+Yuani M Roman & al.: Ivermectin for the Treatment of COVIDd€“19: A Systematic Review & 
+Meta-Analysis of Randomized Controlled Trials: P'Published and preprint randomized controlled 
+trials (RCTs) assessing IVM effects on C0VIDP“19 adult patients were searched until March 22,2021 
+in five engines. Primary outcomes were all-cause mortality, length of stay (LOS), and adverse 
+events (AE)P!. Risk of bias (RoB) was
+evaluated using Cochrane RoB 2A-0 toolP!. Controls were standard of care [SOC] in five RCTs and 
+placebo in five RCTsP!. In comparison to SOC or placebo, IVM did not reduce all-cause mortality, 
+length of stay or viral clearance in RCTs in COVIDP“19 patients with mostly mild disease. IVM did 
+not have an effect on AEs or severe AEs. IVM is not a viable option to treat COVIDP“19 patientsP!
+
+LINK: <https://academic .oup.com/cid/advance-article/doi/10.1093/cid/ciab591/6310839>
+
+Leave a comment
+
+(Remember: You can subscribe to thisP! weblog-like newsletterP! here:
+
+Subscribe now
+
+ThereP™ s a free email list. ThereP™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+
+
+LINK: <https://patrickwyman.substack.eom/p/american-gentry>
+
+And another take on the same set of issues:
+
+Eric Levitz: Tucker Carlsona€™ s Populism Is for the Small-Time Rich'. P~What makes his defense of 
+single-family zoning so instructive is that itP™ s both anti-free-market and anti-working-classP!. 
+For the downtrodden Preforgotten men and womenPD whom right-wing populists claim to champion, 
+single-family zoning is actually a scourge. It prevents homeowners in economically depressed 
+regions from affordably
+relocating to thriving metros. And it forces renters to forfeit an ever-higher share of their 
+income to landlordsP!. Viewed from the perspective of society as a whole, single-family zoning is 
+ruinousP!. One minute, Carlson casts Blackrock as the cause of the affordable-housing crisis; the 
+next, he explains that the firma€™ s nefarious mission is to make housing cheap. He is speaking to 
+genuine economic anxieties, but they are the
+anxieties of precariously wealthy homeowners who jealously guard their financial, geographic, and 
+psychic distance from the lower orders. Carlsonism is a politics of downward-looking class 
+resentment disguised as its oppositeP!. This eraP™ s self-styled populist conservatives have 
+consistently demonstrated their fealty to small-time capitalistsP”and contempt for the median 
+laborerP”in just about every major policy fight of
+BidenP™ s tenure. CarlsonP™ s call for higher housing costs isnP™t an exceptional betrayal of the 
+populist rightP™ s putative class allegiance, only an exceptionally naked oneP!
+
+LINK: 
+<https://nymag.com/intelligencer/2021/07/tucker-carlson-populism-jd-vance-abolish-suburbs.html>
+
+I am not sure this has been rightly interpreted. I took Lyotard to say that we needed to focus on 
+Prepetit receitsPD in order to understand that the Grand Narratives were all false. But I thought 
+he still recognized that we need Grand Narratives in order to think at all:
+
+Wikipedia: Metanarrative'. P~In The Postmodern Condition: A Report on Knowledge (1979), Lyotard 
+highlights the increasing skepticism of the postmodern condition toward the totalizing nature of 
+metanarratives and their reliance on some form of Pretranscendent and universal truthPDPI. Attempts 
+to construct grand theories tend to unduly dismiss the naturally existing chaos and disorder of the 
+universe, the power of the
+individual eventP!. Postmodernists attempt to replace metanarratives by focusing on specific local 
+contexts as well as on the diversity of human experience. They argue for the existence of a 
+Premultiplicity of theoretical standpointsPD rather than for grand, all-encompassing theoriesP!
+
+LINK: <https://en.wikipedia.Org/wiki/Metanarrative#cite note-5>
+
+This is highly cool: no, the Pilgrims were not Israel, New England was not the Promised Land, the 
+voyage of the Mayflower was not Exodus, and Britain was not Egypt. Instead, America was Egypt, the 
+African-Americans were Israel, and their historic task was to take the Declaration and the 
+Constitution seriously and so turn America into the Promised Land:
+
+John Ganz: The 1619 Project Revisited'. P~Samuel Goldman describes three types of American 
+nationalismP!. The CovenantP! chosen peopleP!. The CrucibleP! a melting pot where a new people is 
+being forged out of diverse sourcesP!. The CreedP! bound by its adherence toP! liberty and equality 
+embodied in the Constitution and the Declaration of IndependenceP!. The Hannah-Jones essayP! was so 
+upsetting to
+manyP! [by] itsP! reversal of this Covenant traditionP!. 1619P! displace[s] the MayflowerP!. 
+JonesP™ s narrative begins with the Israelites inP! Egyptian captivityP!. Hannah-Jones replaces the 
+Puritan WASPs as the original Americans, keeping the Covenant when others did notP!. The Covenant 
+is the faith shown by black Americans in the nationP!. Trole of the guardians or custodians of 
+American democracy was
+
+traditionally given to the WASP eliteP!. Pre As much democracy as this nation has todayP! has been 
+borne on the backs of black resistance. Our founding fathers may not have actually believed in the 
+ideals they espoused, but black people didP!. I wish, now, that I could go back to the younger me 
+and tell her that her peopleP™ s ancestry started here, on these lands, and to boldly, proudly, 
+draw the stars and those stripes of the
+American flag. We were told once, by virtue of our bondage, that we could never be American. But it 
+was by virtue of our bondage that we became the most American of allPiPD. It cleaves so closely the 
+sources of American political imagination but just inverts themP!. The crucible is here not the 
+melting-pot, but the struggle against slavery and racismP!. I find neither narrative of American 
+historyP”that of WASPs or blacks to
+be Preoriginal AmericansPD or Premost AmericanPnP”to be that offensive or even particularly 
+incompatible: IP™ m happy to grant New England Puritans a formative role as well as the black 
+freedom struggle. As a the descendant of immigrants, I am willing to be tolerant of a little ethnic 
+pride or even a touch of chauvinism from time to timeP!
+
+LINK: <https ://johnganz .substack.com/p/the-1619-project-revisited>
+
+Two guys who assume that BeijingP™ s consensus weltanshuung is wrong. That is not in evidence:
+
+Jude Blanchette & Seth G. Jones: How Beijinga€™s Narrative ofU.S. Decline Is Leading to Strategic 
+Overconfidence'. a€~Since the Global Financial Crisis in 2007a€“2008, Beijing has assessed that the 
+United States is experiencing a slow but steady deterioration of its national power and 
+international influence. Events of the past 12 months have consolidated this consensusa€!. Since 
+the founding of the Peoplea€™ s Republic of
+China in 1949, Chinaa€™ s leaders have looked at the United States with a complex and shifting 
+mixture of fear, admiration, and hostilitya€!. The Global Financial Crisis in 2007a€“2008 was an 
+inflection point, with a pronounced consolidation of the Precapitalist instabilitya€D narrative in 
+policymaking and intellectual circles. At the same time, it gave rise to the view that Chinaa€™ s 
+own domestic institutional and political
+system possessed significant advantages relative to Western democracya€!. Beijinga€™ s American 
+Narrative. The United StatesP™ democracy and its political system have stopped functioning. The 
+United StatesP™ conception of Preuniversal valuesPD only maintained global appeal because they were 
+backed by U.S. power. As U.S. strength wanes, so too will the values it promotes. The world is no 
+longer looking to the
+United States for global leadership; the world is moving toward multipolarity; and the East is 
+rising, the West is decliningP!
+
+LINK: <https://opensource.csis.org/features/beijing-narrative-us-decline/>
+
+700,000 total COVID-19 deaths so far in America suggests between 70 and 140 million total cases:
+
+NIH: COVIDd€“19 Prevalence far Exceeded Early [Confirmed] Pandemic Cases: P'Researchers estimate 
+nearly 17 million undiagnosed cases in the U.S. by mid-July 2020P!. During spring and summer of 
+2020P! for every diagnosed COVIDP“19 caseP! there were 4.8 undiagnosed cases, representing an 
+additional 16.8 million cases by July aloneP!. Article: Undiagnosed SARS-CoVP“2 Seropositivity in 
+the United States
+During the First Six Months of the Pandemic). 2021. Science Translational Medicine. DOI: 
+10.1126/scitranslmed.abh3826P!
+
+LINK: 
+<https://www.nih.gov/news-events/news-releases/nih-study-suggests-covid-19-prevalence-far-exceeded-e
+arly-pandemic-cases>
+
+It would be good if this worked, but it is not looking good for it, in which case it would be very 
+bad if it crowds out effective treatments, like vaccination:
+
+Yuani M Roman & al.: Ivermectin for the Treatment of COVIDd€“19: A Systematic Review & 
+Meta-Analysis of Randomized Controlled Trials: P'Published and preprint randomized controlled 
+trials (RCTs) assessing IVM effects on C0VIDP“19 adult patients were searched until March 22,2021 
+in five engines. Primary outcomes were all-cause mortality, length of stay (LOS), and adverse 
+events (AE)P!. Risk of bias (RoB) was
+evaluated using Cochrane RoB 2A-0 toolP!. Controls were standard of care [SOC] in five RCTs and 
+placebo in five RCTsP!. In comparison to SOC or placebo, IVM did not reduce all-cause mortality, 
+length of stay or viral clearance in RCTs in COVIDP“19 patients with mostly mild disease. IVM did 
+not have an effect on AEs or severe AEs. IVM is not a viable option to treat COVIDP“19 patientsP!
+
+LINK: <https://academic.oup.eom/cid/advance-article/doi/10.1093/cid/ciab591/6310839>
+
+Leave a comment
+
+(Remember: You can subscribe to thisP! weblog-like newsletterP! here:
+
+Subscribe now
+
+ThereP™ s a free email list. ThereP™ s a paid-subscription list with (at the moment, only a few) 
+extras too.)
+

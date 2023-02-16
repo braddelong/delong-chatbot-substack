@@ -1,0 +1,135 @@
+Required Readings Note:
+
+The required readings for Module 11 are rather longa€”but not nearly as long as for Modules 9 & 5, 
+where I wound up taking two weeks per module.
+
+There is Skidelsky chapter 6 
+https://github.com/braddelong/public-files/blob/master/readings/chapter-skidelsky-keynes-6.pdf. The 
+chapters of Skidelsky before this one I've been all about how Keynes was smart and right. This
+chapter is, from Skidelskya€™ s view as of 1995, as an enthusiastic advocate of the neoliberal 
+turn, how Keynesa€™ s disciples were dumb and wrong. It is a very good analysis, on the level of 
+events and ideas, of why people
+decided to take the neoliberal turn.
+
+11.1. The Neoliberal Turn, & Hyperglobalization: Readings
+
+https://www.icloud.com/keynote/0wiN44cBruFAXnvvQweXzgCNw
+
+https://github .com/braddelong/public-files/blob/master/econ-115-module-11.1 
+-neoliberal-turn-readings .pptx
+https ://www.bradford-delong .com/2020/11/111-the-neoliberal-turn-hyperglobalization-readings .html
+
+https://www.typepad.eom/site/blogs/6a00e551f08003883400e551f080068834/post/6a00e551f080038834026bdea
+77620200c/edit Frame your reading of it around these three quotes:
+
+Anyone who wants to keep the spirit of Keynes alive has to face the failures of Keynesianism 
+honestly, without always trying to shield the Master from the mistakes of the disciples. In 
+essence, the
+Keynesian revolution was ruined by over- ambition a€“ hubris might be a better word -driven by 
+impatience and backed by unwarranted claims to both theoretical and practical knowledge. The 
+monetarist
+counter-revolution was a plea for more modesty, and greater trust in the spontaneous forces of the 
+marketa€!
+
+Keynesian policies come to us today wrapped up in a history of rising inflation, unsound public 
+finance, expanding statism, collapsing corporatism, and general ungovernability, all of which have 
+seemed
+inseparable from the Keynesian cure for the afflictions of industrial societya€!. By the 1980s, 
+Keynesa€! had joined Marx as the God that faileda€!
+
+Keynesa€™ s star was fadinga€!. The Keynesian age had collapsed in theoretical disarray and policy 
+disorder, victim of simultaneous inflation and unemployment which Keynesian economists could not
+explain and Keynesian policy-makers could not control. It was in this situation that classical 
+economicsa€! [that] Keynes had apparently overthrowna€! made a big comeback, and governments 
+reverted to
+a modified pre-Keynesian policy stance. Markets were deemed to be optimally self-regulating; the 
+macroeconomic task of government was restricted to to maintaining a€~sound moneya€™;
+governments™ s task in the micro-economy was to free up markets in order to lower the a€~natural 
+rate of unemployments™ . The revival of classical economics and its theory of economic policyS!
+
+Eichengreen: Globalizing Capital 5-7 
+https://github.com/braddelong/public-files/blob/master/readings/chapters-eichengreen-globalizing-5-6
+-7.pdf tells the same story as Skidelsky ch 6 at much greater length, and with much more
+focus on the international side. It, too, broadly approves of the neoliberal turna€”or at least 
+regards it as inevitable. In EichengreenS™ s view, countries could not simultaneously (a) reap the 
+benefits of market allocation of
+investment capital and incentivization of savings, (b) stabilize their domestic economies, and (c) 
+stabilize exchange rates so that they would not be massively vulnerable to international currency 
+and financial markets. They could
+not control, but had to submit to the market: the question was how best to do so.
+
+Eichengreen when writing this version of GC (there is a later one) saw European countries as giving 
+up their individual abilities to stabilize their economies (betting that recessions would be small, 
+short, and infrequent) and other
+countries as giving up exchange rate stability (in large part because half a century had taught 
+that countries could not keep their promises to forever peg their currency to the dollar.)
+
+I thought of making this Eichengreen reading optionala€’’indeed, I would recommend you skip it now, 
+and read it during R&R week as review as an alternative to rereading Skidelsky ch 6.
+
+In fact, let me make that recommendation stronger. The other outside reading is Eichengreen: 
+Populist ch 8 https 
+://github.com/braddelong/public-files/blob/master/readings/chapter-eichengreen-populist-8.pdf. It, 
+too, goes over the
+same grounds’’things falling apart, although BarryS™ s chapter title only echoes and does not copy 
+Achebe https://github.com/braddelong/public-files/blob/master/readings/book-achebe-things.pdf and 
+Yeats
+https://github.com/braddelong/public-files/blob/master/readings/poem-veats-1919-second-coming.pdf 
+https://en.wikipedia.org/wiki/The Second Coming, (poem). One thing worth noting is where Barry 
+quotes economist Sidney
+Weintraub on the Carter years 1977-1981 that Carter had Soesucceeded S! where all DemocratsS”and 
+RepublicansS”have failedS” namely, in making his own name a synonym for economic mismanagement and 
+expunging
+memories of Herbert Hoover dawdling at the onset of the Great DepressionSD. The extraordinary thing 
+is that growth was faster in the Carter years than it was to be laterS”the only thing wrong was 
+moderate inflation. And yet:
+See AS BAD AS OR WROSE THAN HERBERT HOOVER! !a€D was the then-public reaction. The Trente 
+Glorieuses had really raised the bar. (But then, somehow, the bar was immediately lowered 
+againS”for the new
+neoliberal order persisted.) This chapter is worth reading closely, as Barry gives a masterful 
+summary of how, in the global north, neoliberal policies failed to deliver any notably good 
+results, and few results at all except for an
+enormous rise in income and wealth inequality, the creation of plutocracy, and the illusion of 
+stability and low riskS”an illusion that was going to be brutally shattered in 2008.
+
+And then there are the three DeLong chapters. Usually you would be well-advised to pay close 
+attention to what I have written. Perhaps not here. I am less confident that I have the right 
+interpretation of these historical processes
+than of the rest of this history. And I am less satisfied with the arrangement I have made of 
+things. Chapter 19 https://github.com/braddelong/public-files/blob/master/slouching-19-neoliberal- 
+%23tceh.pdf is worth studying.
+
+Chapter 21 is worth skimmingS ”1 am far from sure I have gotten the argument right here 
+https://github.com/braddelong/public-files/blob/master/slouching-21-cold-war-end-%23tceh.pdf. And 
+chapter 22
+https://github.com/braddelong/public-files/blob/master/slouching-22-hvperglobalization-%23tceh.pdf 
+is both repetitious and unfinishedS’T had hoped to have another draft for you by now, but I do not. 
+I regret this.
+
+Required Readings:
+
+Skidelsky: Keynes ch 6 
+https://github.com/braddelong/public-files/blob/master/readings/chapter-skidelskv-kevnes-6.pdf 
+Barry Eichengreen: The Populist Temptation ch 8 https://github.com/braddelong/public-
+files/blob/master/readings/chapter-eichengreen-populist-8.pdf
+
+Barry Eichengreen: Globalizing chs 5-7 
+https://github.com/braddelong/public-files/blob/master/readings/chapters-eichengreen-globalizing-5-6
+-7.pdf
+
+DeLong chs 19,21, & 22 
+https://github.eom/braddelong/public-files/blob/master/slouching-19-neoliberal-%23tceh.pdfhttps://gi
+thub.com/braddelong/public-files/blob/master/slouching-21-cold-war-end-%23tceh.pdf
+https://github.com/braddelong/public-files/blob/master/slouching-22-hvperglobalization-%23tceh.pdf
+
+Optional Reading: Richard Baldwin: The Great Convergence 
+https://github.com/braddelong/public-files/blob/master/readings/book-baldwin-great-convergence.pdf
+
+.#berkeley #economicgrowth #globalization #highighted #neoliberalism #neoliberalturn 
+#politicaleconomy #tceh #teaching #slouchingtowardsutopia #2020-11-23
+
+https: //w ww.bradford-delong .com/2020/11/111-the-neoliberal-turn-hyperglobalization-readings .html
+https://www.tvpepad.com/site/blogs/6a00e551f08003883400e551f086068834/post/6a00e551f080038834026bdea
+7762020Qc/edit
+
+

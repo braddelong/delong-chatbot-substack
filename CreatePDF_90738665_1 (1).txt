@@ -1,0 +1,262 @@
+Subscribe now
+
+FOCUS: In Which Long-Time Netizen & Programmer-at-Arms Dave Winer Records a Podcast for Me, 
+Personally:
+
+a€oeThe Fall of the Blogospherea€D, by Stable Diffusion, via NightCafe
+
+But since I have a Gutenberg-Galaxy brain, I feed it to text-recognition software 
+<http://otter.ai>, and then edit the transcript.
+
+
+But let me first link to a subsequent piece in which Dave muses about what he would like to see:
+
+Dave Winer: Textcasting: a€~Like podcasting, for text. Podcasting is great: We can do the same for 
+text. Let's do it!: In textcasting, the equivalent of an MP3 is a documenta€!. Optional titles, 
+Markdown support, Links, Simple styling, Enclosures (podcasting), Unlimited length, Editable. To 
+support it you don't have to support every feature. But you shouldn't make it impossible to peer
+with a service that supports the full speca€!. We're at a good moment where there is no dominant 
+feed reader or microblogging site. Ita€™ sa€! fluida€L Ita€™ s a good time to get in at the 
+beginning of something that could be even bigger than podcasting, for text. I am Dave Winer, I 
+created blogging, feeds and podcasting. I did it once, I'd like to do it again, only better this 
+timea€!
+
+The way I thought of this ten years ago, during the decline and fall, was that it all should work 
+in the way that network communication worked in Vernor Vingea€™ s amazing mindbending 
+science-fiction space-opera novel A Fire Upon the Degpa€’’HEXAPODIA IS THE KEY 
+INSIGHT!a€”sorry-not-sorrv
+
+
+.The full message is pumped out from the source to the receiver, and the receiver displaysa€! as 
+much of the full message as bandwidth, hardware, event, and contingency allow. I would write a blog 
+post. My software would turn some of it into a header tweet, a (short) tweet thread, and a link 
+back to the full version. My software would turn a paragraph or two into a Facebook-friendly 
+version. And all other social
+media sites would receive whatever was the maximal component of it that they could grok, with a 
+link back.
+
+Of course, this was all a non-starter: the point of a social media company is to create a walled 
+garden, and the point of a walled garden is to trap you in it and glue your eyeballs to the screen 
+so that you can be sold the fake diabetes cures, and crypto grifts.
+
+Allowing anybody other than badly desired super-creators to automate distribution of what the make 
+to the social media site, and especially to easily create a path through which readers could bypass 
+the social media site in the future, ws 100% opposed to the venture-capital advertising-supported 
+money-making purpose of Web2.
+
+So Google kills itsa€”very imperfecta€’’Reader because it wants to trap readers into its walled 
+garden calleda€! you know, I actually forget! Google+. Total flop. Facebook and Twitter benefit 
+enormously. Google doesna€™t. But, still, it never brings it back, because the idea is figuring out 
+how to trap the eyeballs and then glue them to the screen.
+
+This is why I still hope-against-hope that Web3 is not merely a mindless, pointless set of 
+grifters. And this is why I very much want to back Manton Reese <http:/micro,blog> and Dave Winer 
+chttp://scripting,com/> and Chris Best and Hamish McKenzie chttp://substack.org>, and backed Ev 
+Williams <https://ev.medium.com/>, as people with at least a theory about how to make Web3 work, 
+somehow, someday.
+And then we might have a good system of an information utility network, and a well functioning 
+public sphere for a modern democracy
+
+Here is the Dave Winer <http://scripting .com/> transcript:
+
+Dave Winer: a€~I have a lot of thoughtsa€!. While Twitter was camped out on top of what remained of 
+the blogospherea€”and to some extent [it] still [is]a€!a€”the problem was is that if you were 
+writing for a web audiencea€”as I was continuously: never stoppeda€”then you were coming up against 
+the limits of the distribution systemsa€! Twitter, Facebook, Medium, RSS still,
+anda€! blogsa€!. Those for me were the main ones. I wanted my writing to flow through all of 
+thosea€!.
+
+Google Readera€!. RSS and Google Reader [were] two different things. Because Google Reader only 
+supported a subseta€! and became a very important part of the problema€! that there was no common 
+denominator^ I ofa€! [a] documenta€! that they would all understand^! titles, links, simple 
+styling, unlimited or length restrictions, the ability to edit, and enclosures for podcastsa€!. I
+became immersed in these things, because I couldn't figure out why I couldn't get alla€! to work 
+togethera€!. In 2017,1 gave up, and I just saida€! I'm just going to make the blogging work the way 
+I wanted it to worka€!. Very quickly [I] put together the content management system that I had in 
+1997a€”no, way better than what I had 97, let's be clear about that. But fundamentally, the
+same basic ideaa€!.
+
+I could decide whether or not an item was short or long, or [if] it was short and [could] become 
+long. I had an editor that could accommodate all thosea€! and allow me to reorder what was on the 
+homepagea€!. I could edit it through the day. And then, at the end of the day, it would go out by 
+email. Those were the basic featuresa€! unlimited lengtha€! titles or nota€! edit[able]a€!
+enclosures for podcasts, style links, basic stuffa€!.
+
+Twitter saida€! initially,that posts could only be 140 charactersa€! [and] could not have 
+titlesa€!. Google Readera€! said posts must have titles right there. You've now had an empty set 
+createda€!. This is the explanation for why Twitter could not have RSS feedsa€!.
+
+The problem was that Google Reader called [Twittera€™ s] RSS feeds errors because they didn't have 
+titles. So what they did was theya€! repeated the text of the tweeta€! in the title and in the 
+bodya€!. Google Reader just dumbly displayed both. And then the users complaineda€!. Twittera€! if 
+I were them, I totally would have given upa€!. Google was being Google, the big company,
+and it didn't give a sa€”-a€!. That was their positioning statement.a€! Whenever I tried to talk to 
+the people at Google Reader all I got was a lecture about how busy they were and how they didn't 
+have any time to do anythinga€!. The undertone was: We hate our jobs. We got assigned thisa€!. Here 
+I was the guy who created the medium that they were usinga€!. Those problems have been
+replicateda€!. The installed base of feed readersa€! all basically took their lead from Google 
+Readera€!. Ita€™ s now nine years in and we're still dealing with ita€!.
+
+Mastodon has RSS feeds. And their feeds do not have titlesa€!. Manton Reesea€™ s micro.dota€! 
+wonderful worka€!. He talked them into doing it the right way. And, you know, I was stand up and 
+cheera€!.
+
+It wasn't just Google Reader and Twittera€!. It was also Facebooka€!. Facebook had no titlesa€! 
+couldn't do linksa€! no styling, no enclosures. Just plain old texta€!. When I was cross posting to 
+Facebooka€! [from] my blog, I was reluctant to use links, because I knew people reading it on 
+Facebook wouldn't see the linksa€I. All these limits and trade offs and bullsa€”a€! become
+additive to the point wherea€! the writing becomes disgustingly bullsa€”. Writing should flowa€l. I 
+get into a zone when I'm writinga€!. And [if] you add a bunch of extra bullsa€”- to ita€!. I'm not 
+thinking about the thing that I'm writing about. I'm thinking about how do I coax out of this 
+complex, crazy situation of people not listening to each other, anda€! never listening to writers. 
+It
+[is] just being stupid or ignoranta€!. Ignoring what is is what ignorant means, right?a€!.
+
+Now Medium comes alonga€!. Pundits and politicians start treating Medium like it's the place of 
+recorda€!. Unfortunately, it's aa€! money-losing startupa€! the worst possible choice for 
+on-the-record writinga€!. It looked great, Medium, beautiful editor. It's a breakthrough in a lot 
+of ways. The one thing you can't do is revisea€!. I post something to Medium and that's it. If I 
+want to make
+changes to it, I have to go over there and make the changes by hand.
+
+We maya€! [be] liberateda€! but only if we can get some kind of agreementa€! as to what a document 
+isa€!. Just support the thingsa€!. The question is, what can we learn from the mistakes we made?a€! 
+There's no dialogue between developers and users. Users don't put any energy into trying to help 
+developers that want to make software that's for thema€I. I went to several journalism
+conferences and said: Look, all I want to do is make software for you. Would you work with me on 
+that?a€! In the 80s. And 90sa€!. Things moved so quickly thena€! because users and developers were 
+in constant contacta€!. We knew who we were making products for. And we knew what they wanteda€!.
+
+There's a great story, Guy Kawasakia€! Apple evangelista€!comes to a reception that my company 
+hada€! hands me a piece of papera€! froma€! the new vice president of products at Applea€!. The 
+list was the features that every one of my users wanted and [they] werea€! in the next version of 
+the product, because we were so in tune with thema€!.
+
+[There] was it was a wonderful time, very brief period that Apple and developers really did do some 
+stuff together, because there were users running the company, and seriously interested in making 
+the software bettera€!. We just need enough users to take an interest in what we're doing and use 
+the product and respond to the new features that we add. And ask for more features. It's really
+all that we need. It's the food that makes our stuff grow. And then what we can do is we can pass 
+back to you guysa€!.
+
+We can give you an order of magnitude more functionality. And it worksa€!.
+
+The subtext here: Please don't ever let Google take control of a market againa€!. It's vulnerable 
+right nowa€!. They all have tried to dominate podcastinga€!. None of them can do ita€!. Podcasting 
+is going to stay open. But right nowa€! were dealing with a post-war blogging platform. Wea€™ ve 
+been through World War IIIa€!.. Don't ever let them take control againa€!. When it starts to
+happen, make sure that you don't go with them. You go with independent developers that are working 
+in your interesta€!.
+
+I just simply can't believe that I see Google getting ready to come back into RSS land, and I also 
+see users begging them to do it. Anda€! I am shaking my heada€! that we're going down that road 
+again. No way.
+
+
+Anyway, I've been talking for 15 minutes and that's long enough. Thanks for listeninga€!
+
+Here is the backstory he is reacting to:
+
+•  John Scalzi: How to Weave the Artisan Web: a€~l. Create/reactivate your own sitea€!. 2. Write or 
+otherwise present work on your site at least once a weeka€!. 3. Regularly visit the sites of 
+other[s]a€!. 4. Promote/link the work of others, on your own site and also on your other social 
+media channelsa€!. Now, why should we bring back that artisan, hand-crafted Web? Oh, I dona€™ t 
+know.
+Wouldna€™t it be nice to have a site thata€™ s not run by an amoral billionaire chaos engine, or 
+algorithmically designed to keep you doomscrolling in a state of fear and anger, or is essentially 
+spyware for governments and/or corporations?a€!
+
+•  Matthew Yglesias: What I learned co-founding Vox: a€~There was and is an audience fora€! 
+explanatory journalisma€!. [But] there werena€™ t customersa€!. Voxa€™ s readers werena€™ t 
+customers; Vox was an ad sales businessa€!. To serve the needs of advertisers, you needed to serve 
+the needs of the platformsa€!. Everyone complains about having to read through a few hundred words 
+before
+getting to the recipea€!. That was because Google gave priority to recipe pages that were 
+structured like real articlesa€!. Platform dependence made product innovation essentially 
+impossible. It was also editorially constraininga€!. Most of the media trendsa€! deplore[d] are 
+direct consequences of Facebooka€™ s influence over journalism in the mid-2010sa€!. Hard-core 
+identity politics and
+simplistic socialism performed incredibly well on Facebooka€!. You ended up with this whole cohort 
+of discourse structured around a€oels Bernie Sanders perfect in every way or is it problematic to 
+vote for a white man?a€D as the only possible lens for examining American politics and societya€!
+
+•  Brad DeLong: Aze Forlorn Hope Azt Was Vox.com: a€~When Jackie Calmes moved from the Wall Street 
+Journal to the New York Times she rapidly went from one of my must-reads to a rarely-reada€!. Dan 
+Froomkin interviewed her, and she explained whya€! a€oebeat reportinga€! the pressures youa€™re 
+under to maintain sourcesa€!a€D and a€oel felt more pressure ofa€! bothsidesisma€! [at]
+the New York Timesa€\ [which] bends over backwardsa€!. If youa€™re saying Republicans do something 
+wrong you have to indicate that Democrats bear some blame tooa€!a€D. It seems to me that it would 
+be much more fun to write explainers than clickbait or beat sweeteners, and find yourself working 
+for your sources first, your bosses second, the advertisers third, and the reader not at all. And
+yet I have no reason to disbelieve Matta€™ s observation that vox.com could not hold onto reporters 
+by promising them a better-suited if worse-paid place to be their best selvesa€!
+
+•  Brad DeLong: Old-Style Blogging Should Be New Again!: a€~Calls to virtuous collective action 
+need to be carefully crafted to not ask more of the audience than it will be willing to delivera€!. 
+We need to have an accurate theory of what caused the Fall of the Blogosphere in the first place. 
+Why did the audiencea€”and, yes, the creators tooa€”succumb to the Siren song, and wind up 
+doomscrolling
+through clickbait so that their glued-to-the-screen eyeballs could be sold to advertisers 
+convincing them that the worse is actually the better product as they sell their fake diabetes 
+cures and crypto grifts?a€! Peoplea€! shrug and say "attention economya€D and a€oehuman rapid, 
+response, dopamine loopsa€D. Some of thema€! hopea€! Apple's advertising tracking transparency a€! 
+put[s]a€! enough
+sand in the gears of the advertising-attention machine that we humans can then escapea€!
+
+•  Dan Drezner: Back to Old School Blogging?: a€~The incentive structure might be shifting back to 
+blogging!a€! Three things killed the old blogospherea€! moneya€! Twittera€! the smartphonea€! 
+[which] further encouraged tweet-length ideas over anything longera€!. Each of these trends has now 
+been partially reverseda€!. The Washington Postal focus[ing] on news and investigations at the
+expense of analysis or commentarya€!. Substacka€! has enabled some to earn an incomea€!. As for 
+Twitter, wella€!. Finally, Substacka€™ s subscription-based distribution has also conquered the 
+phone problem. Folks read blogs as newsletter emails straight to their phonea€!. Maybe incentives 
+are shifting backa€!. And yeta€!. it is not in fact, 2002, but 2022a€!. The money hasna€™t shifted 
+all that
+much.                                                                                               
+                                                                                        I have my 
+doubts about the sustainability of the newsletter economya€!. Blogospherea€! superstarsa€! [may not 
+be] possible in such a polarized political climate. Considera€! Mickey Kaus, Andrew Sullivan, and 
+Josh Marshall. Ita€™ s hard to imagine any of them having a civil conversation these daysa€!
+
+•  Brad DeLong: Aze Washington Post Decides Azt It No Longer Has to Fear A34e Blogosphere. Do 
+Hijinks Ensue? a€~I disagree that Twitter was a far superior focal point for "finding quick links, 
+reactions, and responsesa€O. RSS was the One True Protocol. Admittedly, RSS had a problem 
+amalgamating in presenting a combination of micro, blocking and longer form. But it always seemed 
+to me that
+hashtags and feed-filtering could easily take care of that: #Microblog, #BlogPost, #Longforma€!. 
+But then Google killed Google reader, and Twitter was there, and became the clown car that stumbled 
+into a gold mine. So perhaps, now we have another chance? Do remember that the original aspiration 
+for <http://vox.com> was to take the energy of the blogosphere and expand it out into an
+organization   that would make money and transform the public spherea€!. [But] you cana€™ t do 
+explainer journalism and still be a money-making subcontractor for Google and FaceBook ads unless 
+you already have Ezraa€™ s audience and reputationa€!. We are very confident that getting into the 
+advertising-supported game makes it all about impossible to continue doing your best work. And
+distributing   it all for freea€”well, it is a nonstarter to hope that you can gain a reputation 
+which will then open other doors one of which will be remunerativea€!
+
+Share
+
+Share Brad DeLong's Grasping Reality
+Leave a comment
+
+Give a gift subscription
+
+Get 50% off a group subscription
+Donate Subscriptions
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Subscribe now
+
+
+Read Brad DeLong's Grasping Reality in the Substack app
+Available for iOS and Android
+
+Get the app
+
+Subscribe now
+

@@ -1,0 +1,266 @@
+Subscribe now
+
+Review of DeLong's "Slouching Towards Utopia"
+
+Posted by Dietrich Vollrath on October 11,2022 A- 21 mins read
+
+Brad Delong recently published his long-gestating economic history of the long 20th century, 
+Slouching Towards Utopia. If you are reading this blog, you are almost certainly
+aware of that, and I would guess the probability that youa€™ ve read it (or are reading it) are 
+around 50/50. It has garnered well-deserved high praise from a variety of people. To
+avoid just repeating what everyone else is saying, let me simply say that it is a necessary book to 
+read if you are at all interested in the subject of economic growth. It is informative
+and thought-provoking. If you are one of those 50% who have not read it, go do so now.
+
+One of the things DeLong has been asking online is what he got a€oebig time wronga€D. While I 
+dona€™ t think there is anything that is big time wrong, I do think there is a
+feature of the 1870-2010 period that does not get sufficient attention. I doubt it is because 
+DeLong doesna€™ t appreciate the relevance, but at some point in a 500-odd page book,
+choices must be made. Somewhere in the multiverse is a reality where DeLong has bludgeoned his 
+editor to death and produced a 1500 page tome that includes a few chapters on
+what Ia€™ 11 expand on below. One way to consider this post is something a supplement for the STU 
+volume that manifested itself in this particular strand of the multiverse.
+
+DeLong makes clear that it wasna€™ t until around 1870 that productivity growth finally grew large 
+enough to outpace the increased population growth that had always previously
+occurred in response to higher living standards. Productivity growth outpacing the population 
+growth response made possible historically unprecendented growth in living standards
+after 1870. DeLong attributes that increased pace of productivity growth to some combination of the 
+research lab, the corporation, and globalization.
+
+Ia€™ m sure we can quibble about the precise natures of timing or the importance of those three 
+factors in productivity growth. But what Ia€™ m more interested in is that very
+relevant and ultimately very necessary change in how population growth responded to living 
+standards that occurred around the same time.
+
+What happened around 1870 was not just that productivity growth was able to outpace population 
+growth, but that population growth started to fall in response to increase in
+productivity. This was a fundamental flip in the typical Malthusian relationship that had held up 
+until (roughly) that point in time. Prior to this inflection point, productivity growth
+had increased before, but every time had induced a response of higher population growth rates, 
+eroding any gains in per-person living standards. After this inflection point, when
+productivity growth increased it induced lower population growth rates, accelerating the gains in 
+per-person living standards. Without this flip in the population response, the
+productivity growth associated with the research lab, corporations, and globalization would not 
+have generated the sustained growth in living standards that form a core part of
+STU.
+
+Ita€™ s not that DeLong ignores the population response. Throughout the book he points to the 
+demonstrable decline in fertility rates, using the vivid description that prior to 1870
+the typical woman might spend 20 years of her adult life either pregnant or breastfeeding, while by 
+the mid-20th century it might be only four years. What Ia€™ m nitpicking here
+is that this decline in fertility deserves equal billing with the research lab, corporation, and 
+globalization. Without the flip to an a€ceanti-Malthusiana€D negative relationship of
+fertility and productivity, you dona€™ t even slouch towards utopia, you stagnate.
+
+Consider that with material needs taken care of, human populations are capable of a shocking rate 
+of growth. A common example to trot out here is the Hutterites. Between 1880
+and 1950 - so exactly during the period when productivity growth had accelerated demonstrably - 
+their population increased at a rate of over 4 percent per year. Each woman had
+approximately 10 children, and given that they did not marry until their early 20s, its is 
+conceivable that they could reach a growth rate of 4.5 percent or more, with each woman
+having                                                                             12 to 14 kids.
+
+The point here is not that this is an ideal to aspire to. The point is that it was entirely 
+possible for human populations to respond to the productivity growth inherent in the research
+lab, corporations, and globalization by doing what they had done throughout history. It was 
+plausible to respond to increased abundance by having more kids - a lot more kids.
+
+DeLonga€™ s rough index of productivity growth is that it grew by about 2.1 percent per year from 
+1870 to 2010. One does not need to imagine that everyone was a Hutterite to
+think that human populations could sustain 2.1 percent growth or more over long periods of time, 
+thus offsetting the productivity growth in a most Malthusian way.
+
+It was not enough that productivity growth accelerated around 1870. It was an acceleration in 
+productivity combined with a decline in population growth that put us on a slow
+trudge towards utopia. The decline in population growth was entirely a-historical at that point. 
+Without this anti-Malthusian response the research lab, corporation, and globalization
+cannot provide sustained growth. But it is also the case that without the research lab, 
+corporation, and globalization the anti-Malthusian response would not have occurred. My case
+is  not that the demographic response is primary or more important, but that it is a necessary 
+complement to those productivity boosters.
+
+Making kids cost more
+
+My preferred structure to think about the population response to productivity is that it follows 
+the following rough formula
+Pop growth=ParameterA—IncomePrice per child
+
+This is really an expression for fertility, and I could add something explicit accounting for 
+mortality rates, but this ultimately gets the right intuition. The price per child is a measure
+of the material costs to parents of getting a child a€oeup to speeda€D with life. Basic food, 
+clothing, and shelter, yes. Along with enough cultural and technical knowledge to care
+for themselves (and often for the parent in old age). In other words, the price of a child is the 
+price of getting them to be a functioning adult.
+
+In a Malthusian setting, in general what we get is that productivity growth increased income, but 
+did not have a significant effect on the price per child. Hence an increase in income
+increased population growth, and ultimately any productivity growth was eaten away (literally, to 
+some extent) by congestion and crowding and diminishing returns to resources. At
+that point ncomes fell back to the point that population growth was just keeping pace with 
+productivity growth. When productivity growth is positive then this allows population
+growth to be net positive (births just outpacing deaths), implying that income is stagnant but 
+above some biological subsistence level, and that the size of the population goes up
+every year.
+
+Holding the price per child constant, the faster is productivity growth in this Malthusian setting, 
+the higher is that stagnant income level. This gives a way of understanding how
+living standards could creep up over time even as everyone remained tied down by the Malthusian 
+logic. Before 1870, J.S. Mill and others were all underwhelmed by the living
+standards that rapid (relative to history at that point) technological change had wrought. Each was 
+convinced that the Malthusian logic held and perhaps doomed the common man
+to stagnant living standards even as science and technology remade the world.
+
+After 1870, though, we get something new. Productivity growth did increase in speed, raising 
+incomes even faster than before. This, by itself, would not change the overall logic. It
+would have allowed a somewhat higher - but ultimately still stagnant - level of income per person. 
+Humans could have procreated fast enough to make this happen.
+
+The key change is that productivity growth, starting around 1870, reached down and profoundly 
+raised the price of bringing a child to adulthood. I have in mind a few forces here.
+
+1. Technological change led to demand for education. To riff on DeLonga€™ s characterization, 
+around 1870 we had innovated away from using our human backs (with
+new energy sources) and fingers (with machines) to do things, and were innovating ways to replace 
+some of our cognitive skills. Working with those new technologies
+required more abstract skills, which in turn led to more demand for education. More education per 
+child raises the price child. Alternatively, you could argue (as we in
+higher education often do) that education enables you to deal more easily with rapid technological 
+changes. The acceleration of productivity growth in 1870 would have
+raised the return to education in that sense, raising the cost of a child.
+
+2. Urbanization. People had been moving to cities for centuries, of course, but corporations, 
+globalization, and research labs accelerated that move. Urban areas are often
+argued to have higher child-rearing costs. That may be direct costs (relative price of food or 
+shelter/space may be high compared to rural areas) or indirect costs (they
+may not have as much use as household workers compared to rural areas). Either way, by changing the 
+location of economic activity it raised the cost of children.
+
+3. Health and nutrition improved. Child mortality changed in a fundamental way, and for any given 
+number of desired adult children, you could have fewer pregnancies,
+good                                                                          for moms. But beyond 
+that, it meant that investments in those children - education, skills, migration - were likely to 
+pay off. That raised the desired investment per
+child, raising the price of each child.
+
+4. Beckerian time costs. Kids take time. As incomes levels increased due to productivity growth, 
+this increases the opportunity cost of time for parents, perhaps limiting
+their willingness to have kids. More practically, it probably works to increase marriage age as 
+people acquire more resources/skills/experience prior to starting a family.
+
+
+1 nere snouia oe like IUUU citations attacnea to tnese points, out tafem trying to nmsn mis on 
+today so my apologies to an me people wnose work 1 uianafe11,11 explicitly cite
+
+(except, I guess, Gary Becker).
+
+Regardless, I think a crucial aspect of the story from 1870 forward is not just the acceleration of 
+productivity growth, but the fundamental effect of this productivity growth on the
+price of kids. This generated the anti-Malthusian response which was necessary to the sustained 
+increase in living standards behind STU.
+
+Leta€™s really have some fun
+
+In the book, DeLong sets up Hayek and Polanyi (at some point forced into an awkward reconciliation 
+by Keynes) as the intellectual poles of the story. Hayek and Polanyi, and to a
+great extent Keynes, were writing and thinking about economic growth well after this flip to an 
+anti-Malthusian population response has occurred. While they all would certainly
+recognize Malthusa€™ argument and understand the logic, what I think is notable is that they all 
+generally took the anti-Malthusian population response of their contemporary
+period as a given.
+
+Moreover, I think that their positions are in some sense dependent on the anti-Malthusian 
+population response. Take Hayek: the market giveth, the market taketh away, blessed be
+the market. This became a viable theory only when the market had in fact delivered a series of 
+demonstrably good outcomes. Hayek could look backwards and point at definitive
+improvements in living standards and attribute them (often, but not always, correctly) to markets. 
+With the anti-Malthusian response, the productivity gains after 1870 does not just
+allow                                                                               for higher 
+living standards, but noticeably higher living standards.
+
+There were markets in existence well before 1870, and well before the Industrial Revolution. There 
+is a whole other post I have some intention of writing about the a-historical
+nature of claims that people existed in some kind of pre-market or non-market economy prior to like 
+1800 (Ia€™ m looking at you, Karl Polanyi). Regardless, prior to about 1870 it
+would be hard to make the Hayekian claim about markets because they were not delivering the massive 
+growth in the pie that let you elide distributional questions associated with
+pie-slicing. Markets at that point were just another way of slicing a pie that appeared to be 
+somewhat constant in size.
+
+Hayek could even make the case (Beware, completely untested hypothesis follows) that the market was 
+the reason for the flip to anti-Malthusian population responses. Once markets
+put a more explicit price on children (education costs, etc..) that was when people flipped their 
+behavior, ridded themselves of the Malthusian response, and delivered the boost to
+growth in living standards observed after 1870. Filtering family decisions through the market was 
+exactly how we were able to slouch much closer to utopia. Without making the
+costs                                                                                 of children 
+explicit through markets, wea€™ d be stuck with continued Malthusian stagnation.
+
+Okay, thata€™ s Hayek. What about Polanyi?
+
+I read Polanyi as being about identity. We are very protective of our identities, and those 
+identities often coalesce around occupations (farmer, doctor, weaver, etc.) and place (the
+family farm, a block or neighborhood, a region). In many cases the pieces of those identities 
+overlap; they didna€™ t call them the Pittsburgh Steelers by accident.
+
+The danger that markets pose is that they want to treat people and places as interchangable and 
+substitutable. The a€oelabor marketa€D wants to treat each individual as an
+identity-less lump of labor effort. The a€oeland marketa€D wants to treat each place as an 
+identity-less location. The market will find the most efficient allocation of that identity­
+less  labor across a bunch of identity-less places.
+
+Those people and locations will, according to Polanyi, refuse at some point to be treated in such a 
+manner and will protect those identities. Steelworkers in Pittsburgh defined
+themselves to a great degree by those two characteristics, and their families and children defined 
+themselves by those characteristics even if they were not (a) steelworkers or (b)
+living   in Pittsburgh. It is important to people that those identities are maintained even if the 
+market is demanding that steel work be done in Mumbai. Those steelworkers will act in
+ways - organizing politically to put up trade barriers, for example - to save those identities.
+
+What does population growth have to do with this? (Beware, completely untested hypothesis follows) 
+When population growth remains high it is (more) plausible to maintain
+identities in the face of market changes. I dona€™ t need all my children to farm our ancestral 
+land so long as some of my children farm the ancestral land. I dona€™ t need all my
+children to become steelworkers so long as some of my children carry on the family trade. When 
+productivity goes up, the Malthusian response generates more kids, allowing some
+to remain in place and in roles that theya€™ d traditionally be expected to occupy. It also allows 
+some set of kids to move off to new locations and try new jobs. With the
+Malthusian population response it is plausible to generate a slow transition of occupations and 
+locations. Places decline and occupations disappear, but they decline and disappear
+over generations, not years. Steelworkers get to retire as steelworkersin the homes they raised 
+their families in in Pittsburgh. With a generational transition, old identities can be
+retained while new identities are built in new jobs and new places.
+
+When we flip over to the anti-Malthusian response, however, the disruptions caused to identities by 
+productivity growth translate into smaller families. Both my kids move off the
+farm, or both are unable to get jobs as steelworkers. Even worse, the steelworker may have move to 
+Atlanta (seriously, the Falcons?) to find a new job as a€!. very much not a
+steelworker. The anti-Malthusian response causes living standards to rise rapidly, but also causes 
+the disruptions of that to happen in years, not generations.
+
+As Polanyi speculated, threatened identities will try to defend themselves. This might be through 
+unions or tariffs or some other attempt to slow down and moderate the effects of
+the pure market; all gumming up the market. In the worst cases that defense ends up turning into 
+things like anti-immigrant attitudes, racism, or as Polanyi suggests, fascism. These
+are all things dominated by the concept of maintaining some kind of identity. Those ugly versions 
+of identity defense often explicitly deal with questions of fertility and population
+growth, by the way. They get hung up on things like race replacement or racial purity and almost 
+invariably promote large families as some kind of ideal. Population growth is the
+visible confirmation your identity is thriving.
+
+Both poles of the ideological spectrum that STU uses to interpret the long 20th century are, in 
+this framing, ideologies that exist because of the anti-Malthusian population resposne.
+Or maybe exist is a strong word. Some sort of Hayek and some sort of Polanyi were probably bound to 
+occur. But without the anti-Malthusian population response, there would
+have been less for them to argue about. The flip to family size declining with prosperity generated 
+conditions where their ideas were more salient, to the point that DeLong could
+usefully and capably view much of the long 20th century through their eyes.
+
+Take this whole section for what it is, pure speculation. You should go read Slouching Toward 
+Utopia and learn something about how the economy evolved since 1870. While you
+are doing that, keep in the back of your head the population responses required to generate the 
+economic growth observed.
+
+Subscribe now
+Leave a comment
+
